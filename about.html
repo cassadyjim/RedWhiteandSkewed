@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Mission | Red, White, and Skewed</title>
+    <meta name="description" content="Learn about Red, White, and Skewed's mission to expose media bias and promote critical thinking about news coverage.">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DKYV79XGTK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DKYV79XGTK');
+    </script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'display': ['Playfair Display', 'Georgia', 'serif'],
+                        'body': ['Source Sans 3', 'system-ui', 'sans-serif'],
+                        'mono': ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        'ink': '#0d0d0d',
+                        'paper': '#faf9f7',
+                        'paper-dark': '#f0efe9',
+                        'warm-gray': '#6b6560',
+                        'red-deep': '#b91c1c',
+                        'blue-deep': '#1e40af',
+                        'gold': '#d97706',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        html { scroll-behavior: smooth; }
+        .gradient-line {
+            background: linear-gradient(90deg, transparent, #6b6560, transparent);
+        }
+        .masthead-texture {
+            background-image: repeating-linear-gradient(
+                90deg,
+                transparent,
+                transparent 1px,
+                rgba(255,255,255,0.02) 1px,
+                rgba(255,255,255,0.02) 2px
+            );
+        }
+    </style>
+</head>
+<body class="bg-paper font-body text-ink">
+    <!-- MASTHEAD -->
+    <header class="bg-ink text-paper relative overflow-hidden masthead-texture">
+        <div class="flex justify-between items-center px-6 py-2 border-b border-white/10 text-xs uppercase tracking-widest font-medium">
+            <span class="text-warm-gray">A Project in Media Literacy</span>
+            <a href="mailto:info@redwhiteandskewed.com" class="text-warm-gray hover:text-paper transition-colors">Contact</a>
+        </div>
+
+        <div class="text-center py-8 px-4">
+            <div class="flex items-center justify-center gap-4 mb-2">
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+                <a href="index.html" class="font-display text-4xl md:text-5xl lg:text-6xl font-black tracking-tight hover:opacity-80 transition-opacity">
+                    <span class="text-red-500">Red,</span>
+                    <span class="text-paper">White,</span>
+                    <span class="text-blue-500">& Skewed</span>
+                </a>
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+            </div>
+            <p class="font-display italic text-lg text-gray-400 tracking-wide">
+                The Same Story. Two Views. Zero Agreement.
+            </p>
+        </div>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav class="bg-paper border-b-4 border-double border-ink sticky top-0 z-50 backdrop-blur-sm bg-paper/95">
+        <div class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-4">
+                <a href="index.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+                    </svg>
+                    Latest Story
+                </a>
+                <span class="text-warm-gray">|</span>
+                <a href="archive.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+                    </svg>
+                    Archive
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- MAIN CONTENT -->
+    <main class="max-w-4xl mx-auto px-4 py-12">
+        <!-- Page Title -->
+        <div class="text-center mb-12">
+            <h1 class="font-display text-4xl md:text-5xl font-black text-ink mb-4">Our Mission</h1>
+            <div class="w-24 h-1 mx-auto" style="background: linear-gradient(90deg, #b91c1c, #faf9f7 50%, #1e40af);"></div>
+        </div>
+
+        <!-- Mission Statement -->
+        <div class="bg-white border border-gray-200 p-8 md:p-12 shadow-lg mb-12">
+            <div class="absolute top-0 left-0 right-0 h-1" style="background: linear-gradient(90deg, #b91c1c, #faf9f7 50%, #1e40af);"></div>
+
+            <h2 class="font-display text-2xl font-bold mb-6 text-center text-ink">Why We Exist</h2>
+
+            <div class="prose prose-lg max-w-none text-gray-700 space-y-6">
+                <p class="text-xl leading-relaxed">
+                    <strong class="text-ink">Red, White, and Skewed</strong> was born from a simple observation: Americans are living in completely different information realities. A story that outrages one half of the country is celebrated by the other. Facts that seem indisputable to some are dismissed as propaganda by others.
+                </p>
+
+                <p>
+                    Our media ecosystem has fractured into partisan echo chambers that reinforce existing beliefs while demonizing opposing viewpoints. Most people never see how "the other side" covers the news.
+                </p>
+
+                <p>
+                    <strong class="text-ink">Our solution is radical transparency.</strong> Every day, we take one of the most divisive news stories and show you exactly how it's being spun by partisan media on both sides. We present the most aggressive conservative framing alongside the most aggressive liberal framing—not to endorse either view, but to expose how the same facts can be weaponized into completely different narratives.
+                </p>
+
+                <p>
+                    Then we do something neither side wants: we fact-check both of them. We call out the spin, verify the claims, and provide the context that partisan outlets conveniently omit.
+                </p>
+            </div>
+        </div>
+
+        <!-- What We Believe -->
+        <div class="bg-gradient-to-r from-amber-50 to-yellow-50 border-l-4 border-gold p-8 md:p-10 mb-12">
+            <h2 class="font-display text-2xl font-bold mb-6 flex items-center gap-3">
+                <span class="text-3xl">💡</span> What We Believe
+            </h2>
+
+            <div class="space-y-4 text-gray-700">
+                <div class="flex gap-3">
+                    <span class="text-gold font-bold">1.</span>
+                    <p><strong class="text-ink">Media bias is real—on both sides.</strong> Conservative outlets spin stories to favor conservative narratives. Liberal outlets spin stories to favor liberal narratives. Pretending otherwise is naive.</p>
+                </div>
+
+                <div class="flex gap-3">
+                    <span class="text-gold font-bold">2.</span>
+                    <p><strong class="text-ink">You can handle the truth.</strong> We trust our readers to see both perspectives and think for themselves. We don't need to protect you from opposing viewpoints.</p>
+                </div>
+
+                <div class="flex gap-3">
+                    <span class="text-gold font-bold">3.</span>
+                    <p><strong class="text-ink">Transparency beats objectivity.</strong> No source is truly objective. The best we can do is be transparent about our methods, sources, and reasoning—and let you decide.</p>
+                </div>
+
+                <div class="flex gap-3">
+                    <span class="text-gold font-bold">4.</span>
+                    <p><strong class="text-ink">Democracy requires informed citizens.</strong> You can't participate meaningfully in democracy if you only understand one side's arguments. Even if you disagree with the other side, you should know what they actually believe—not a strawman version.</p>
+                </div>
+
+                <div class="flex gap-3">
+                    <span class="text-gold font-bold">5.</span>
+                    <p><strong class="text-ink">Critical thinking is a skill.</strong> By exposing how media manipulation works, we hope to help readers become better at spotting bias in all their news consumption—including ours.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- What We Are NOT -->
+        <div class="bg-white border-2 border-red-200 p-8 md:p-10 mb-12">
+            <h2 class="font-display text-2xl font-bold mb-6 flex items-center gap-3 text-red-deep">
+                <span class="text-3xl">⚠️</span> What We Are NOT
+            </h2>
+
+            <div class="space-y-4 text-gray-700">
+                <p>
+                    <strong class="text-ink">We are not "neutral" or "centrist."</strong> We have our own biases (everyone does). We try to be fair, but we don't pretend to be robots. When the facts clearly favor one side, we say so.
+                </p>
+
+                <p>
+                    <strong class="text-ink">We are not "both sides are the same."</strong> Sometimes one side is more wrong than the other. Our fact-check section doesn't artificially balance criticism—it goes where the evidence leads.
+                </p>
+
+                <p>
+                    <strong class="text-ink">We are not affiliated with any political party, campaign, or organization.</strong> We don't take money from political groups. We don't endorse candidates. We exist solely to expose how media works.
+                </p>
+
+                <p>
+                    <strong class="text-ink">We are not the final word.</strong> We encourage you to read our sources, check our work, and form your own conclusions. If we get something wrong, tell us.
+                </p>
+            </div>
+        </div>
+
+        <!-- The Team -->
+        <div class="bg-ink text-paper p-8 md:p-10 mb-12">
+            <h2 class="font-display text-2xl font-bold mb-6 text-center">The Team</h2>
+
+            <p class="text-gray-300 text-center max-w-2xl mx-auto">
+                Red, White, and Skewed is an independent project created by just a guy who wants to see healthy debate return to American discourse. I got tired of only hearing one side's version of events and wanted a simple way to understand how the same story looks through different lenses. This site is my attempt to bridge that gap—not by telling you what to think, but by showing you what both sides are actually saying.
+            </p>
+
+            <p class="text-gray-400 text-center mt-6 text-sm">
+                Want to contribute? Have a tip? <a href="mailto:info@redwhiteandskewed.com" class="text-gold hover:underline">Get in touch</a>.
+            </p>
+        </div>
+
+        <!-- CTA -->
+        <div class="text-center">
+            <a href="index.html" class="inline-flex items-center gap-2 bg-ink text-paper px-8 py-4 font-display font-bold hover:bg-gray-800 transition-colors">
+                <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M19 12H5m7-7l-7 7 7 7"/>
+                </svg>
+                Read Today's Story
+            </a>
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-ink text-paper py-12 mt-16">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <h4 class="font-display text-xl font-bold mb-2">Red, White, & Skewed</h4>
+                    <p class="text-warm-gray text-sm italic">The same story. Two views. Zero agreement.</p>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">About</h5>
+                    <a href="about.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">Our Mission</a>
+                    <a href="faq.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">FAQ</a>
+                    <a href="how-we-fact-check.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">How We Fact-Check</a>
+                    <a href="mailto:info@redwhiteandskewed.com" class="block text-warm-gray hover:text-paper text-sm transition-colors">Contact Us</a>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">Legal</h5>
+                    <a href="privacy.html" class="block text-warm-gray hover:text-paper text-sm transition-colors">Privacy Policy</a>
+                </div>
+            </div>
+            <div class="border-t border-white/10 pt-8 text-center text-xs text-warm-gray">
+                <p>© 2025 Red, White, and Skewed | A project in media literacy and critical thinking</p>
+                <p class="mt-1">Not affiliated with any political party or news organization | Educational Use Only</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

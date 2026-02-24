@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ | Red, White, and Skewed</title>
+    <meta name="description" content="Frequently asked questions about Red, White, and Skewed - how we work, our methods, and our mission.">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DKYV79XGTK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DKYV79XGTK');
+    </script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'display': ['Playfair Display', 'Georgia', 'serif'],
+                        'body': ['Source Sans 3', 'system-ui', 'sans-serif'],
+                        'mono': ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        'ink': '#0d0d0d',
+                        'paper': '#faf9f7',
+                        'paper-dark': '#f0efe9',
+                        'warm-gray': '#6b6560',
+                        'red-deep': '#b91c1c',
+                        'blue-deep': '#1e40af',
+                        'gold': '#d97706',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        html { scroll-behavior: smooth; }
+        .gradient-line {
+            background: linear-gradient(90deg, transparent, #6b6560, transparent);
+        }
+        .masthead-texture {
+            background-image: repeating-linear-gradient(
+                90deg,
+                transparent,
+                transparent 1px,
+                rgba(255,255,255,0.02) 1px,
+                rgba(255,255,255,0.02) 2px
+            );
+        }
+        .faq-item {
+            border-bottom: 1px solid #e5e5e5;
+        }
+        .faq-item:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+<body class="bg-paper font-body text-ink">
+    <!-- MASTHEAD -->
+    <header class="bg-ink text-paper relative overflow-hidden masthead-texture">
+        <div class="flex justify-between items-center px-6 py-2 border-b border-white/10 text-xs uppercase tracking-widest font-medium">
+            <span class="text-warm-gray">A Project in Media Literacy</span>
+            <a href="mailto:info@redwhiteandskewed.com" class="text-warm-gray hover:text-paper transition-colors">Contact</a>
+        </div>
+
+        <div class="text-center py-8 px-4">
+            <div class="flex items-center justify-center gap-4 mb-2">
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+                <a href="index.html" class="font-display text-4xl md:text-5xl lg:text-6xl font-black tracking-tight hover:opacity-80 transition-opacity">
+                    <span class="text-red-500">Red,</span>
+                    <span class="text-paper">White,</span>
+                    <span class="text-blue-500">& Skewed</span>
+                </a>
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+            </div>
+            <p class="font-display italic text-lg text-gray-400 tracking-wide">
+                The Same Story. Two Views. Zero Agreement.
+            </p>
+        </div>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav class="bg-paper border-b-4 border-double border-ink sticky top-0 z-50 backdrop-blur-sm bg-paper/95">
+        <div class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-4">
+                <a href="index.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+                    </svg>
+                    Latest Story
+                </a>
+                <span class="text-warm-gray">|</span>
+                <a href="archive.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+                    </svg>
+                    Archive
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- MAIN CONTENT -->
+    <main class="max-w-4xl mx-auto px-4 py-12">
+        <!-- Page Title -->
+        <div class="text-center mb-12">
+            <h1 class="font-display text-4xl md:text-5xl font-black text-ink mb-4">Frequently Asked Questions</h1>
+            <div class="w-24 h-1 mx-auto" style="background: linear-gradient(90deg, #b91c1c, #faf9f7 50%, #1e40af);"></div>
+        </div>
+
+        <!-- FAQ List -->
+        <div class="bg-white border border-gray-200 shadow-lg divide-y divide-gray-200">
+
+            <!-- FAQ Item 1 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">What is Red, White, and Skewed?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    We're a daily media literacy project that takes polarizing news stories and shows how they're being covered by partisan media on both sides. Each story features a conservative take, a liberal take, and a fact-check that calls out spin from both perspectives. Our goal is to expose how the same facts can be twisted into completely different narratives.
+                </p>
+            </div>
+
+            <!-- FAQ Item 2 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">Are the "Conservative Take" and "Liberal Take" real articles?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    They're composite representations of how partisan media is actually covering each story. We don't editorialize or create our own content—we simply report what's being reported, positioning contrasting views on the same story side by side. All quotes and claims are sourced from real outlets and commentators, and we link to every source so you can verify for yourself. The perspectives are presented to reflect how each side is actually framing the news.
+                </p>
+            </div>
+
+            <!-- FAQ Item 3 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">Do you use AI to create the content?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    Yes, and we're transparent about it. The research, collation, and formatting of each story is largely assisted by AI. This actually makes us well-suited for our mission: we're not injecting our own opinions or editorializing—we're simply gathering and presenting what partisan media is already reporting. AI is ideal for this because it can quickly survey coverage across the political spectrum without inherent bias. That said, AI can make errors, which is exactly why we source and link every claim. If something looks wrong, check the source and let us know.
+                </p>
+            </div>
+
+            <!-- FAQ Item 4 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">How do you choose which stories to cover?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    We look for stories that are generating significant partisan division—where conservative and liberal media are telling dramatically different versions of the same events. We prioritize national news with clear "spin potential" and avoid stories where there's broad consensus (those aren't as educational for our purposes).
+                </p>
+            </div>
+
+            <!-- FAQ Item 6 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">Why do you show extreme versions of each side?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    Because that's what many Americans are actually consuming. The most popular partisan media isn't moderate—it's inflammatory. By showing the most aggressive framing from each side, we make the manipulation techniques obvious. If we showed watered-down versions, readers might not recognize the same techniques in their own news consumption.
+                </p>
+            </div>
+
+            <!-- FAQ Item 7 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">How do you fact-check your fact-checks?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    We link to our sources so you can verify our claims. We prioritize primary sources (official documents, direct quotes, raw data) over secondary reporting. When we make a judgment call, we explain our reasoning. If we get something wrong, we correct it. See our <a href="how-we-fact-check.html" class="text-blue-deep hover:underline">How We Fact-Check</a> page for our full methodology.
+                </p>
+            </div>
+
+            <!-- FAQ Item 8 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">What does the poll measure?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    The poll asks which perspective resonates with you after reading both sides. It's not a scientific survey—it's a way to see how our readers are responding to the story and to encourage engagement. We display aggregate results after you vote so you can see where other readers stand.
+                </p>
+            </div>
+
+            <!-- FAQ Item 9 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">Can I suggest a story?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    Yes! Email us at <a href="mailto:info@redwhiteandskewed.com" class="text-blue-deep hover:underline">info@redwhiteandskewed.com</a> with story suggestions. We especially appreciate tips on stories where you've noticed dramatically different coverage between outlets.
+                </p>
+            </div>
+
+            <!-- FAQ Item 10 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">How can I support this project?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    The best way to support us is to share our stories with people across the political spectrum. Challenge your friends to read both perspectives. Use our content to start conversations about media bias. If you're an educator, consider using our stories as teaching tools for media literacy.
+                </p>
+            </div>
+
+            <!-- FAQ Item 11 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">Do you have a newsletter?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    Not yet, but we're working on it. Check back soon or follow us on social media for updates.
+                </p>
+            </div>
+
+            <!-- FAQ Item 12 -->
+            <div class="faq-item p-6 md:p-8">
+                <h3 class="font-display text-xl font-bold text-ink mb-3">I found an error. How do I report it?</h3>
+                <p class="text-gray-700 leading-relaxed">
+                    Please email <a href="mailto:info@redwhiteandskewed.com" class="text-blue-deep hover:underline">info@redwhiteandskewed.com</a> with the story title, the error you found, and your source for the correction. We take accuracy seriously and will update stories when we get it wrong.
+                </p>
+            </div>
+
+        </div>
+
+        <!-- CTA -->
+        <div class="text-center mt-12">
+            <p class="text-gray-600 mb-6">Still have questions?</p>
+            <a href="mailto:info@redwhiteandskewed.com" class="inline-flex items-center gap-2 bg-ink text-paper px-8 py-4 font-display font-bold hover:bg-gray-800 transition-colors">
+                <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+                </svg>
+                Contact Us
+            </a>
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-ink text-paper py-12 mt-16">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <h4 class="font-display text-xl font-bold mb-2">Red, White, & Skewed</h4>
+                    <p class="text-warm-gray text-sm italic">The same story. Two views. Zero agreement.</p>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">About</h5>
+                    <a href="about.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">Our Mission</a>
+                    <a href="faq.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">FAQ</a>
+                    <a href="how-we-fact-check.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">How We Fact-Check</a>
+                    <a href="mailto:info@redwhiteandskewed.com" class="block text-warm-gray hover:text-paper text-sm transition-colors">Contact Us</a>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">Legal</h5>
+                    <a href="privacy.html" class="block text-warm-gray hover:text-paper text-sm transition-colors">Privacy Policy</a>
+                </div>
+            </div>
+            <div class="border-t border-white/10 pt-8 text-center text-xs text-warm-gray">
+                <p>© 2025 Red, White, and Skewed | A project in media literacy and critical thinking</p>
+                <p class="mt-1">Not affiliated with any political party or news organization | Educational Use Only</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

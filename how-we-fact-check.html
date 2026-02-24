@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How We Fact-Check | Red, White, and Skewed</title>
+    <meta name="description" content="Our methodology for fact-checking partisan claims and exposing media spin from both conservative and liberal sources.">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DKYV79XGTK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DKYV79XGTK');
+    </script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'display': ['Playfair Display', 'Georgia', 'serif'],
+                        'body': ['Source Sans 3', 'system-ui', 'sans-serif'],
+                        'mono': ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        'ink': '#0d0d0d',
+                        'paper': '#faf9f7',
+                        'paper-dark': '#f0efe9',
+                        'warm-gray': '#6b6560',
+                        'red-deep': '#b91c1c',
+                        'blue-deep': '#1e40af',
+                        'gold': '#d97706',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        html { scroll-behavior: smooth; }
+        .gradient-line {
+            background: linear-gradient(90deg, transparent, #6b6560, transparent);
+        }
+        .masthead-texture {
+            background-image: repeating-linear-gradient(
+                90deg,
+                transparent,
+                transparent 1px,
+                rgba(255,255,255,0.02) 1px,
+                rgba(255,255,255,0.02) 2px
+            );
+        }
+    </style>
+</head>
+<body class="bg-paper font-body text-ink">
+    <!-- MASTHEAD -->
+    <header class="bg-ink text-paper relative overflow-hidden masthead-texture">
+        <div class="flex justify-between items-center px-6 py-2 border-b border-white/10 text-xs uppercase tracking-widest font-medium">
+            <span class="text-warm-gray">A Project in Media Literacy</span>
+            <a href="mailto:info@redwhiteandskewed.com" class="text-warm-gray hover:text-paper transition-colors">Contact</a>
+        </div>
+
+        <div class="text-center py-8 px-4">
+            <div class="flex items-center justify-center gap-4 mb-2">
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+                <a href="index.html" class="font-display text-4xl md:text-5xl lg:text-6xl font-black tracking-tight hover:opacity-80 transition-opacity">
+                    <span class="text-red-500">Red,</span>
+                    <span class="text-paper">White,</span>
+                    <span class="text-blue-500">& Skewed</span>
+                </a>
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+            </div>
+            <p class="font-display italic text-lg text-gray-400 tracking-wide">
+                The Same Story. Two Views. Zero Agreement.
+            </p>
+        </div>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav class="bg-paper border-b-4 border-double border-ink sticky top-0 z-50 backdrop-blur-sm bg-paper/95">
+        <div class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-4">
+                <a href="index.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+                    </svg>
+                    Latest Story
+                </a>
+                <span class="text-warm-gray">|</span>
+                <a href="archive.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+                    </svg>
+                    Archive
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- MAIN CONTENT -->
+    <main class="max-w-4xl mx-auto px-4 py-12">
+        <!-- Page Title -->
+        <div class="text-center mb-12">
+            <h1 class="font-display text-4xl md:text-5xl font-black text-ink mb-4">How We Fact-Check</h1>
+            <p class="text-xl text-gray-600 max-w-2xl mx-auto">Our methodology for separating fact from spin</p>
+            <div class="w-24 h-1 mx-auto mt-6" style="background: linear-gradient(90deg, #b91c1c, #faf9f7 50%, #1e40af);"></div>
+        </div>
+
+        <!-- Overview -->
+        <div class="bg-white border border-gray-200 p-8 md:p-12 shadow-lg mb-12">
+            <h2 class="font-display text-2xl font-bold mb-6 text-ink">Our Approach</h2>
+
+            <div class="prose prose-lg max-w-none text-gray-700 space-y-4">
+                <p>
+                    We examine how conservative and liberal media outlets cover the same story. We pull direct quotes from their reporting so you can see how each side frames the news.
+                </p>
+                <p>
+                    When claims are made, we verify them against available evidence and note where outlets may be omitting context or spinning facts.
+                </p>
+                <p>
+                    Our goal isn't to declare a "winner"—it's to help you see the difference between what happened and how it's being reported.
+                </p>
+                <p>
+                    We use AI tools to help research and compile coverage from multiple sources. All content is reviewed for accuracy before publishing.
+                </p>
+            </div>
+        </div>
+
+        <!-- What We Look For -->
+        <div class="bg-white border border-gray-200 p-8 md:p-12 shadow-lg mb-12">
+            <h2 class="font-display text-2xl font-bold mb-6 text-ink">Common Spin Techniques We Flag</h2>
+
+            <div class="grid md:grid-cols-2 gap-6">
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ Cherry-Picked Statistics</h4>
+                    <p class="text-gray-600 text-sm">Choosing one data point that supports your narrative while ignoring contradicting data.</p>
+                </div>
+
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ Out-of-Context Quotes</h4>
+                    <p class="text-gray-600 text-sm">Clipping quotes to change their meaning or omitting crucial qualifying statements.</p>
+                </div>
+
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ False Equivalence</h4>
+                    <p class="text-gray-600 text-sm">Treating unequal things as equal to create a misleading "both sides" narrative.</p>
+                </div>
+
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ Strawman Arguments</h4>
+                    <p class="text-gray-600 text-sm">Misrepresenting the opposing view to make it easier to attack.</p>
+                </div>
+
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ Loaded Language</h4>
+                    <p class="text-gray-600 text-sm">Using emotionally charged words to influence perception rather than inform.</p>
+                </div>
+
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ Missing Context</h4>
+                    <p class="text-gray-600 text-sm">Omitting crucial background information that would change interpretation.</p>
+                </div>
+
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ Unverified Claims</h4>
+                    <p class="text-gray-600 text-sm">Stating assertions as fact without providing sources or evidence.</p>
+                </div>
+
+                <div class="bg-gray-50 p-4 rounded">
+                    <h4 class="font-bold text-ink mb-2">⚠️ Correlation vs. Causation</h4>
+                    <p class="text-gray-600 text-sm">Implying one thing caused another when they're merely correlated.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Fair Points -->
+        <div class="bg-gradient-to-r from-green-50 to-emerald-50 border-l-4 border-green-600 p-8 md:p-10 mb-12">
+            <h2 class="font-display text-2xl font-bold mb-6 flex items-center gap-3">
+                <span class="text-3xl">✓</span> We Also Highlight Fair Points
+            </h2>
+
+            <p class="text-gray-700 leading-relaxed mb-4">
+                Fact-checking isn't just about calling out falsehoods. When either side makes a valid point, cites accurate data, or raises a legitimate concern, we acknowledge it. Our goal is accuracy, not artificial balance or partisan attacks.
+            </p>
+
+            <p class="text-gray-700 leading-relaxed">
+                You'll see <strong class="text-green-700">"Fair Point"</strong> callouts in our fact-checks when a partisan perspective gets something right—even when we're critical of their overall framing.
+            </p>
+        </div>
+
+        <!-- Our Limitations -->
+        <div class="bg-ink text-paper p-8 md:p-10 mb-12">
+            <h2 class="font-display text-2xl font-bold mb-6 text-center">Our Limitations</h2>
+
+            <div class="space-y-4 text-gray-300 max-w-2xl mx-auto">
+                <p>
+                    <strong class="text-paper">We're not omniscient.</strong> We do our best, but we can make mistakes. We have our own blind spots. If you find an error, please tell us.
+                </p>
+
+                <p>
+                    <strong class="text-paper">We can't check everything.</strong> Some stories involve classified information, developing situations, or claims that are genuinely impossible to verify. We're honest when we hit these limits.
+                </p>
+
+                <p>
+                    <strong class="text-paper">We're not the final word.</strong> Our fact-checks are meant to be a starting point for your own research, not a replacement for it. We link to our sources so you can dig deeper.
+                </p>
+            </div>
+        </div>
+
+        <!-- CTA -->
+        <div class="text-center">
+            <p class="text-gray-600 mb-6">See our methodology in action</p>
+            <a href="index.html" class="inline-flex items-center gap-2 bg-ink text-paper px-8 py-4 font-display font-bold hover:bg-gray-800 transition-colors">
+                <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M19 12H5m7-7l-7 7 7 7"/>
+                </svg>
+                Read Today's Story
+            </a>
+        </div>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="bg-ink text-paper py-12 mt-16">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <h4 class="font-display text-xl font-bold mb-2">Red, White, & Skewed</h4>
+                    <p class="text-warm-gray text-sm italic">The same story. Two views. Zero agreement.</p>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">About</h5>
+                    <a href="about.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">Our Mission</a>
+                    <a href="faq.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">FAQ</a>
+                    <a href="how-we-fact-check.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">How We Fact-Check</a>
+                    <a href="mailto:info@redwhiteandskewed.com" class="block text-warm-gray hover:text-paper text-sm transition-colors">Contact Us</a>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">Legal</h5>
+                    <a href="privacy.html" class="block text-warm-gray hover:text-paper text-sm transition-colors">Privacy Policy</a>
+                </div>
+            </div>
+            <div class="border-t border-white/10 pt-8 text-center text-xs text-warm-gray">
+                <p>© 2025 Red, White, and Skewed | A project in media literacy and critical thinking</p>
+                <p class="mt-1">Not affiliated with any political party or news organization | Educational Use Only</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,126 @@
+{
+  "date": "February 1, 2026",
+  "title": "Fraud Fighters or Data Thieves? DOGE Accused of Misusing Social Security Records",
+  "subtitle": "Justice Department admits Musk's efficiency team improperly shared Americans' personal data through unauthorized servers and contacted partisan group seeking to overturn elections",
+  "poll": {
+    "question": "What do you think about DOGE's access to Social Security data?",
+    "options": [
+      {
+        "label": "Fraud Fighters",
+        "description": "Exposing waste and illegal voting with legitimate oversight"
+      },
+      {
+        "label": "Data Thieves",
+        "description": "Stealing private records to push conspiracy theories"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "Finally Exposing the Truth: DOGE Uncovers Billions in Social Security Fraud and Illegal Voting",
+    "byline": "As seen on Fox News, Daily Caller, RealClearPolitics",
+    "paragraphs": [
+      "<strong>Elon Musk's Department of Government Efficiency is doing what the federal government should have done years ago—rooting out massive fraud in Social Security and exposing noncitizens on voter rolls.</strong>",
+      "DOGE officials discovered that <a href=\"https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"5-plus million noncitizens who came to the country as illegals\" received Social Security numbers \"through an automatic system\"</a> and got access to government benefit programs, according to DOGE official Antonio Gracias. Even more alarming: <a href=\"https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"thousands of them on the voter rolls and that many of them had voted,\"</a> Gracias revealed on Fox and Friends.",
+      "White House Press Secretary Karoline Leavitt defended DOGE's critical work, emphasizing that <a href=\"https://abcnews.go.com/Politics/doge-searching-social-security-payments-fraud/story?id=119564143\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"The sole mission of DOGE is to identify waste, fraud, and abuse only.\"</a> Any American receiving legitimate Social Security benefits will continue to receive them—DOGE is only targeting fraud.",
+      "When NBC reporter Peter Alexander tried to downplay the fraud, Leavitt shut him down: <a href=\"https://www.mediaite.com/media/news/nbc-journo-calls-out-trump-spox-in-wh-driveway-brawl-not-based-in-fact-karoline/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"So are you defending $71 billion in fraud, Peter? That's a lot of money.\"</a> She added: \"Why is the media so against cutting waste, fraud and abuse from the government?\"",
+      "Leavitt urged Americans to see through the media's fearmongering: <a href=\"https://www.foxnews.com/media/karoline-leavitt-trump-elon-musks-doge-team-doing-what-democrats-promised-for-decades\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"Do not buy into the lies from the legacy fake news media\"</a> who are trying to scare people about DOGE's legitimate oversight work.",
+      "<strong>Democrats are outraged because DOGE is exposing the truth: billions in fraudulent payments and noncitizens voting in American elections. This is exactly the government efficiency Americans voted for.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "NPR - How DOGE may have improperly used Social Security data",
+        "url": "https://www.npr.org/2025/04/11/nx-s1-5352470/doge-musk-social-security-voting"
+      },
+      {
+        "text": "ABC News - DOGE searching through Social Security payments",
+        "url": "https://abcnews.go.com/Politics/doge-searching-social-security-payments-fraud/story?id=119564143"
+      },
+      {
+        "text": "Mediaite - Leavitt and Peter Alexander debate fraud",
+        "url": "https://www.mediaite.com/media/news/nbc-journo-calls-out-trump-spox-in-wh-driveway-brawl-not-based-in-fact-karoline/"
+      },
+      {
+        "text": "Fox News - Karoline Leavitt on DOGE team",
+        "url": "https://www.foxnews.com/media/karoline-leavitt-trump-elon-musks-doge-team-doing-what-democrats-promised-for-decades"
+      }
+    ]
+  },
+  "liberal": {
+    "headline": "Criminal Data Theft: Musk's DOGE Stole Americans' Private Records to Push Election Lies",
+    "byline": "As seen on NPR, Washington Post, Senator Warren",
+    "paragraphs": [
+      "<strong>The Justice Department has admitted that Elon Musk's so-called \"Department of Government Efficiency\" improperly accessed and shared the personal Social Security data of millions of Americans—and then tried to use it to overturn election results.</strong>",
+      "<a href=\"https://www.cnn.com/2026/01/20/politics/doge-social-security-data-unauthorized-server\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">Court filings revealed</a> that DOGE employees shared sensitive data through Cloudflare, an unauthorized third-party server not approved for storing Social Security data. Worse: <a href=\"https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">after a federal judge blocked DOGE's access in March, a DOGE team member was contacted by \"an unnamed political advocacy group\" seeking to \"find evidence of voter fraud and to overturn election results in certain States.\"</a> One DOGE employee actually signed a \"Voter Data Agreement\" with this partisan group—four days after the court restraining order.",
+      "Rep. John Larson of Connecticut, ranking Democrat on the House Social Security subcommittee, didn't mince words: <a href=\"https://larson.house.gov/media-center/in-the-news/criminal-investigation-demanded-doge-theft-social-security-data\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"This is a crime. This needs the fullest investigation across all committee jurisdictions.\"</a> He added: \"We are going to demand subpoenas and demand accountability.\"",
+      "In a joint statement with Rep. Richard Neal, Larson said DOGE \"signed an agreement to share Social Security data with an organization trying to undermine state election results\" and that <a href=\"https://larson.house.gov/media-center/press-releases/larson-neal-demand-full-criminal-investigation-doge-leak-private-0\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"The 'DOGE' appointees engaged in this scheme must be prosecuted to the fullest extent of the law\"</a> for these \"abhorrent violations of the public trust.\"",
+      "Senator Elizabeth Warren released data showing that <a href=\"https://www.warren.senate.gov/newsroom/press-releases/new-social-security-data-reveals-musk-doge-lied-in-claims-of-social-security-fraud\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"Musk and DOGE lied in their claims of Social Security fraud.\"</a> The actual rate of improper Social Security payments? Just 0.3%—and only a tiny fraction of that is fraud. DOGE manufactured a crisis to justify stealing Americans' private data.",
+      "<a href=\"https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">The Social Security Administration also referred two DOGE employees to federal watchdogs for potential violations of the Hatch Act</a>—a law that prohibits federal workers from engaging in political activity using government resources. That's exactly what happened when DOGE tried to share data with a partisan group seeking to overturn elections.",
+      "<strong>This isn't government efficiency—it's a criminal conspiracy. Elon Musk's unelected operatives stole millions of Americans' private records and tried to hand them over to partisan activists to undermine democracy itself.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "Congressman John Larson - Criminal Investigation Demanded for DOGE Theft",
+        "url": "https://larson.house.gov/media-center/in-the-news/criminal-investigation-demanded-doge-theft-social-security-data"
+      },
+      {
+        "text": "Congressman John Larson - Larson, Neal Demand Full Criminal Investigation",
+        "url": "https://larson.house.gov/media-center/press-releases/larson-neal-demand-full-criminal-investigation-doge-leak-private-0"
+      },
+      {
+        "text": "Senator Elizabeth Warren - New Social Security Data Reveals Musk, DOGE Lied",
+        "url": "https://www.warren.senate.gov/newsroom/press-releases/new-social-security-data-reveals-musk-doge-lied-in-claims-of-social-security-fraud"
+      },
+      {
+        "text": "CNN - DOGE shared Social Security data to unauthorized server",
+        "url": "https://www.cnn.com/2026/01/20/politics/doge-social-security-data-unauthorized-server"
+      },
+      {
+        "text": "NPR - How DOGE improperly accessed and shared Social Security data",
+        "url": "https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy"
+      }
+    ]
+  },
+  "factcheck": {
+    "headline": "What DOGE Actually Did With Social Security Data—And What the Law Says",
+    "paragraphs": [
+      "<strong>Both sides are spinning the facts about DOGE's access to Social Security data. Here's what actually happened and what experts say about it.</strong>",
+      "<p class=\"text-xl font-bold text-purple-900\">THE UNDISPUTED FACTS:</p>",
+      "✓ <strong>DOGE employees did improperly share data:</strong> The Justice Department confirmed in court filings that DOGE team members at the Social Security Administration shared data through Cloudflare, a third-party server not approved for storing SSA data, between March 7-17, 2025.",
+      "✓ <strong>A partisan group contacted DOGE seeking election data:</strong> Court records show an unnamed political advocacy group contacted DOGE employees requesting help to \"find evidence of voter fraud and to overturn election results in certain States.\" One DOGE employee signed a \"Voter Data Agreement\" with this group on March 24—four days after a federal judge issued a restraining order blocking DOGE's access.",
+      "✓ <strong>Two DOGE employees were referred for Hatch Act violations:</strong> The Social Security Administration referred two DOGE team members to the Office of Special Counsel for potential violations of federal law prohibiting political activity by government employees.",
+      "✓ <strong>The Social Security Administration cannot determine what data was shared:</strong> According to Justice Department filings, SSA is \"still unable to determine what information was shared through the server or whether that data still exists.\"",
+      "✓ <strong>This is the first time the Trump administration acknowledged the data mishandling:</strong> The admission came in January 2026 Justice Department court filings, months after the incidents occurred.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">CONSERVATIVE SPIN VS. REALITY:</p>",
+      "⚠️ <strong>Claim: \"5 million illegal immigrants got Social Security numbers and voted\"</strong> — DOGE official Antonio Gracias made this claim on Fox and Friends, but experts say he's mischaracterizing the SSA's enumeration-beyond-entry (EBE) program, which gives Social Security cards to certain categories of eligible immigrants—not illegal immigrants. Voter registration experts doubt his claims about noncitizens voting. Importantly, Gracias made these claims using access to data that court records suggest DOGE wasn't supposed to have.",
+      "⚠️ <strong>Claim: \"$71 billion in Social Security fraud\"</strong> — White House Press Secretary Leavitt cited this figure, but it's misleading. This comes from a 2023 Inspector General report about a filing error—not fraud DOGE discovered. The report found that 98% of Social Security number holders aged 100+ were NOT receiving benefits. Actual fraud at SSA is minuscule: only 0.3% of payments are \"improper\" (which includes honest mistakes), and only a tiny fraction of that 0.3% is fraud.",
+      "✓ <strong>Fair Point:</strong> The federal government does need oversight, and identifying waste and fraud is a legitimate function. Inspector General reports have identified areas where SSA processes could be improved.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">LIBERAL SPIN VS. REALITY:</p>",
+      "⚠️ <strong>Claim: \"Criminal conspiracy to steal data\"</strong> — While DOGE's data handling was improper and possibly illegal, calling it a \"criminal conspiracy\" before any charges are filed is premature. The Justice Department acknowledged misconduct but hasn't announced criminal charges. Whether this rises to criminal prosecution depends on factors like intent, which hasn't been established publicly.",
+      "✓ <strong>Fair Point:</strong> DOGE employees did violate data security protocols by using an unauthorized server. They did sign an agreement with a partisan group seeking to overturn elections. And this happened after a court order blocked their access. These are serious violations that warrant investigation.",
+      "✓ <strong>Fair Point:</strong> The Hatch Act referrals are legitimate. Federal employees aren't supposed to use government data for partisan political purposes. Signing agreements with groups trying to \"overturn election results\" while employed at SSA appears to cross that line.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">THE BIGGER PICTURE:</p>",
+      "This case highlights fundamental tensions between government efficiency efforts and privacy protections. DOGE argues it needs access to data to identify fraud. Privacy advocates say giving unelected operatives access to millions of Americans' personal records invites abuse—which is exactly what appears to have happened here.",
+      "The sequencing matters: (1) DOGE gets access to SSA data, (2) makes unverified claims about illegal voting, (3) shares data through unauthorized servers, (4) gets blocked by court order, (5) signs agreement with partisan group seeking to overturn elections anyway. This pattern suggests DOGE wasn't just looking for fraud—they were looking for data to support a predetermined narrative about election fraud.",
+      "On the other hand: If there really are millions in fraudulent Social Security payments, shouldn't someone investigate? The question is whether DOGE—an unofficial advisory body with no congressional oversight—is the right entity to do it, or whether this should be handled by Inspectors General and career law enforcement with proper legal authority and privacy safeguards.",
+      "<strong>The Bottom Line:</strong> DOGE violated data security protocols—that's admitted by the Justice Department. Whether those violations constitute crimes depends on proving intent and other legal elements. DOGE's claims about massive fraud and illegal voting are either dramatically exaggerated or based on misunderstanding the data. But legitimate oversight to reduce waste is a reasonable government function—it just needs to be done legally, by people with proper authority, following privacy laws."
+    ],
+    "sources": [
+      {
+        "text": "NPR - How DOGE improperly accessed and shared Social Security data",
+        "url": "https://www.npr.org/2026/01/23/nx-s1-5684185/doge-data-social-security-privacy"
+      },
+      {
+        "text": "Washington Post - Trump administration admits DOGE accessed personal Social Security data",
+        "url": "https://www.washingtonpost.com/politics/2026/01/20/doge-social-security-data-privacy-act/"
+      },
+      {
+        "text": "NBC News - DOGE may have misused Social Security data",
+        "url": "https://www.nbcnews.com/politics/trump-administration/doge-may-have-misused-social-security-data-justice-department-says-rcna255047"
+      },
+      {
+        "text": "PBS NewsHour - Whistleblower responds after DOJ confirms DOGE mishandled data",
+        "url": "https://www.pbs.org/newshour/show/whistleblower-responds-after-doj-confirms-doge-mishandled-social-security-data"
+      }
+    ]
+  }
+}

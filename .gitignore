@@ -1,0 +1,21 @@
+# Credentials — never commit
+.env
+
+# Backup files
+*.bak
+latest.json.bak
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp / editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/

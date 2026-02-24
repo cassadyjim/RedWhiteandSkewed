@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red, White, and Skewed - The Same Story. Two Views. Zero Agreement.</title>
+    <meta name="description" content="See how the same news story gets spun by conservative and liberal media, then get the fact-checked truth.">
+    
+    <meta name="google-adsense-account" content="ca-pub-8366110078658936">
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DKYV79XGTK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DKYV79XGTK');
+    </script>
+
+    <!-- Google Adsense Script -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8366110078658936" crossorigin="anonymous"></script>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'display': ['Playfair Display', 'Georgia', 'serif'],
+                        'body': ['Source Sans 3', 'system-ui', 'sans-serif'],
+                        'mono': ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        'ink': '#0d0d0d',
+                        'paper': '#faf9f7',
+                        'paper-dark': '#f0efe9',
+                        'warm-gray': '#6b6560',
+                        'red-deep': '#b91c1c',
+                        'blue-deep': '#1e40af',
+                        'gold': '#d97706',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        html { scroll-behavior: smooth; }
+        
+        /* Loader animation */
+        .loader {
+            width: 40px;
+            height: 40px;
+            position: relative;
+        }
+        .loader::before, .loader::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border: 3px solid transparent;
+            border-radius: 50%;
+        }
+        .loader::before {
+            border-top-color: #b91c1c;
+            animation: spin 1s linear infinite;
+        }
+        .loader::after {
+            border-bottom-color: #1e40af;
+            animation: spin 1s linear infinite reverse;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        
+        /* VS badge */
+        .vs-badge {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 10;
+        }
+        
+        @media (max-width: 768px) {
+            .vs-badge {
+                position: relative;
+                top: auto;
+                left: auto;
+                transform: none;
+                margin: -1.5rem auto;
+            }
+        }
+        
+        /* Masthead texture */
+        .masthead-texture {
+            background-image: repeating-linear-gradient(
+                90deg,
+                transparent,
+                transparent 1px,
+                rgba(255,255,255,0.02) 1px,
+                rgba(255,255,255,0.02) 2px
+            );
+        }
+        
+        /* Gradient line */
+        .gradient-line {
+            background: linear-gradient(90deg, transparent, #6b6560, transparent);
+        }
+        
+        /* Story cards hover effect */
+        .story-card {
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .story-card:hover {
+            transform: translateY(-2px);
+        }
+        
+        /* ============================================
+           VOTING SECTION STYLES
+           ============================================ */
+        .voting-section {
+            margin: 2rem 0;
+            padding: 1.25rem 1.5rem;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            border-radius: 12px;
+            text-align: center;
+        }
+        .voting-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.2rem;
+            color: #fff;
+            margin-bottom: 1rem;
+        }
+        .voting-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+        }
+        .vote-btn {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.25rem;
+            border: 2px solid transparent;
+            border-radius: 10px;
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-width: 240px;
+            justify-content: center;
+        }
+        .vote-btn:disabled { cursor: not-allowed; opacity: 0.6; }
+        .vote-conservative {
+            background: rgba(220, 53, 69, 0.15);
+            border-color: #dc3545;
+            color: #ff6b7a;
+        }
+        .vote-conservative:hover:not(:disabled) {
+            background: rgba(220, 53, 69, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(220, 53, 69, 0.3);
+        }
+        .vote-conservative.selected {
+            background: #dc3545;
+            color: #fff;
+            box-shadow: 0 4px 20px rgba(220, 53, 69, 0.5);
+        }
+        .vote-liberal {
+            background: rgba(0, 123, 255, 0.15);
+            border-color: #007bff;
+            color: #5fadff;
+        }
+        .vote-liberal:hover:not(:disabled) {
+            background: rgba(0, 123, 255, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
+        }
+        .vote-liberal.selected {
+            background: #007bff;
+            color: #fff;
+            box-shadow: 0 4px 20px rgba(0, 123, 255, 0.5);
+        }
+        .vote-btn.unselected { opacity: 0.5; }
+        .vote-btn.loading { pointer-events: none; opacity: 0.7; }
+        .vote-btn.loading::after {
+            content: '';
+            width: 16px;
+            height: 16px;
+            border: 2px solid transparent;
+            border-top-color: currentColor;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-left: 0.5rem;
+        }
+        .vote-btn.archived {
+            background: rgba(128, 128, 128, 0.2);
+            border-color: #666;
+            color: #888;
+        }
+        
+        /* Vote Results */
+        .vote-results { display: none; margin-top: 1.5rem; }
+        .vote-results.visible { display: block; animation: fadeIn 0.5s ease; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .results-bar {
+            display: flex;
+            height: 40px;
+            border-radius: 20px;
+            overflow: hidden;
+            margin-bottom: 1rem;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        .results-conservative {
+            background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-weight: 700;
+            font-size: 1.1rem;
+            min-width: 50px;
+            transition: width 0.5s ease;
+        }
+        .results-liberal {
+            background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #fff;
+            font-weight: 700;
+            font-size: 1.1rem;
+            min-width: 50px;
+            transition: width 0.5s ease;
+        }
+        .results-counts {
+            display: flex;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin-bottom: 0.5rem;
+        }
+        .count-conservative { color: #ff6b7a; font-size: 0.9rem; }
+        .count-liberal { color: #5fadff; font-size: 0.9rem; }
+        .total-votes { color: #888; font-size: 0.85rem; margin-top: 0.5rem; }
+        .archived-notice {
+            margin-top: 1rem;
+            padding: 0.75rem 1rem;
+            background: rgba(255, 193, 7, 0.15);
+            border: 1px solid #ffc107;
+            border-radius: 8px;
+            color: #ffc107;
+            font-size: 0.9rem;
+        }
+        
+        /* Social Sharing */
+        .share-section {
+            margin: 3rem 0;
+            padding: 2rem;
+            background: linear-gradient(135deg, #2d2d44 0%, #1a1a2e 100%);
+            border-radius: 16px;
+            text-align: center;
+        }
+        .share-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            color: #fff;
+            margin-bottom: 0.5rem;
+        }
+        .share-cta { color: #aaa; font-size: 1rem; margin-bottom: 1.5rem; }
+        .share-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .share-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.25rem;
+            border: none;
+            border-radius: 8px;
+            font-family: 'Source Sans 3', sans-serif;
+            font-size: 0.95rem;
+            font-weight: 600;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+        .share-btn:hover { transform: translateY(-2px); }
+        .share-btn svg { flex-shrink: 0; }
+        .share-twitter { background: #1da1f2; color: #fff; }
+        .share-twitter:hover { background: #0d8ddb; box-shadow: 0 4px 15px rgba(29, 161, 242, 0.4); }
+        .share-facebook { background: #1877f2; color: #fff; }
+        .share-facebook:hover { background: #0d6edb; box-shadow: 0 4px 15px rgba(24, 119, 242, 0.4); }
+        .share-linkedin { background: #0a66c2; color: #fff; }
+        .share-linkedin:hover { background: #0958a8; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.4); }
+        .share-email { background: #6c757d; color: #fff; }
+        .share-email:hover { background: #5a6268; box-shadow: 0 4px 15px rgba(108, 117, 125, 0.4); }
+        .share-copy { background: #343a40; color: #fff; border: 1px solid #495057; }
+        .share-copy:hover { background: #495057; box-shadow: 0 4px 15px rgba(52, 58, 64, 0.4); }
+        .share-copy.copied { background: #28a745; border-color: #28a745; }
+        
+        @media (max-width: 768px) {
+            .voting-buttons { flex-direction: column; align-items: center; }
+            .vote-btn { min-width: 100%; max-width: 300px; }
+            .results-counts { flex-direction: column; text-align: center; }
+            .share-buttons { flex-direction: column; align-items: center; }
+            .share-btn { min-width: 200px; justify-content: center; }
+            .poll-share-section { flex-direction: column; gap: 0.5rem; }
+        }
+        
+        /* Poll Share Section - Inline */
+        .poll-share-section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+        }
+        .poll-share-cta {
+            color: #999;
+            font-size: 0.85rem;
+        }
+        .share-buttons-inline {
+            display: flex;
+            gap: 0.5rem;
+        }
+        .share-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 32px;
+            height: 32px;
+            border-radius: 6px;
+            background: rgba(255,255,255,0.1);
+            color: #aaa;
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-decoration: none;
+        }
+        .share-icon:hover {
+            background: rgba(255,255,255,0.2);
+            color: #fff;
+            transform: translateY(-1px);
+        }
+    </style>
+</head>
+<body class="bg-paper font-body text-ink">
+    <!-- MASTHEAD -->
+    <header class="bg-ink text-paper relative overflow-hidden masthead-texture">
+        <!-- Top bar -->
+        <div class="flex justify-between items-center px-6 py-2 border-b border-white/10 text-xs uppercase tracking-widest font-medium">
+            <span class="text-warm-gray">A Project in Media Literacy</span>
+            <a href="/cdn-cgi/l/email-protection#553c3b333a15273031223d3c2130343b31263e302230317b363a38" class="text-warm-gray hover:text-paper transition-colors">Contact</a>
+        </div>
+        
+        <!-- Main masthead -->
+        <div class="text-center py-8 px-4">
+            <div class="flex items-center justify-center gap-4 mb-2">
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+                <h1 class="font-display text-4xl md:text-5xl lg:text-6xl font-black tracking-tight">
+                    <span class="text-red-500">Red,</span>
+                    <span class="text-paper">White,</span>
+                    <span class="text-blue-500">& Skewed</span>
+                </h1>
+                <span class="w-16 md:w-20 h-px gradient-line"></span>
+            </div>
+            <p class="font-display italic text-lg text-gray-400 tracking-wide">
+                The Same Story. Two Views. Zero Agreement.
+            </p>
+            
+            <!-- Divider -->
+            <div class="flex items-center justify-center gap-3 mt-6 pt-6 border-t border-white/10">
+                <span class="w-1.5 h-1.5 bg-gold rotate-45"></span>
+                <span class="text-xs uppercase tracking-[0.2em] text-warm-gray">Exposing Media Spin Since 2025</span>
+                <span class="w-1.5 h-1.5 bg-gold rotate-45"></span>
+            </div>
+        </div>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav class="bg-paper border-b-4 border-double border-ink sticky top-0 z-50 backdrop-blur-sm bg-paper/95">
+        <div class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-4">
+                <a href="index.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+                    </svg>
+                    Latest Story
+                </a>
+                <span class="text-warm-gray">|</span>
+                <a href="/archive.html" class="font-display font-bold text-sm text-ink hover:text-red-deep transition-colors flex items-center gap-2">
+                    <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+                    </svg>
+                    Archive
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- LOADING STATE -->
+    <div id="loading-state" class="min-h-[60vh] flex flex-col items-center justify-center gap-4">
+        <div class="loader"></div>
+        <p class="font-mono text-xs uppercase tracking-[0.2em] text-warm-gray">Loading today's story...</p>
+    </div>
+
+    <!-- STORY CONTENT - Populated by app.js -->
+    <div id="story-content" class="hidden">
+        <!-- Story content injected here -->
+    </div>
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="max-w-4xl mx-auto px-4 my-16">
+        <div class="bg-white border border-gray-200 p-8 md:p-12 relative">
+            <!-- Top gradient bar -->
+            <div class="absolute top-0 left-0 right-0 h-1" style="background: linear-gradient(90deg, #b91c1c, #faf9f7 50%, #1e40af);"></div>
+            
+            <h3 class="font-display text-2xl md:text-3xl font-bold mb-6 text-center">About Red, White, & Skewed</h3>
+            
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p>
+                    Welcome to <strong class="text-ink">Red, White, and Skewed</strong>—where we take the day's most polarizing news story and show you how it's being spun by both sides of the political spectrum.
+                </p>
+                <p>
+                    Our mission is simple: <em>demonstrate how the same facts can be twisted into completely different narratives</em> depending on your media diet. We present the most extreme conservative take, the most extreme liberal take, and then cut through the BS with a fact-checked analysis.
+                </p>
+                <p>
+                    <strong class="text-ink">Why we do this:</strong> Because most Americans never see how "the other side" covers the news. We're living in separate information ecosystems, and that's dangerous for democracy. By putting these narratives side-by-side, we hope to:
+                </p>
+                <ul class="list-disc list-inside space-y-1 ml-4">
+                    <li>Expose media manipulation techniques used across the political spectrum</li>
+                    <li>Help readers identify bias in their own news sources</li>
+                    <li>Encourage critical thinking about how stories are framed</li>
+                    <li>Provide actual facts when both sides are playing fast and loose with reality</li>
+                </ul>
+                <p>
+                    <strong class="text-ink">Important:</strong> The "Conservative Take" and "Liberal Take" articles are deliberately written to reflect the most extreme, partisan versions of each story—the kind you'd encounter in highly biased echo chambers. They are not endorsements of these views, but rather illustrations of how partisan media operates.
+                </p>
+                <p>
+                    The Fact-Check section is where we do our actual journalism—calling out spin, verifying claims, and providing context that both sides conveniently omit.
+                </p>
+                <p class="text-center font-display font-semibold text-ink pt-6 border-t border-gray-200 mt-6">
+                    Think critically. Read widely. Trust no one completely—including us. 🇺🇸
+                </p>
+            </div>
+        </div>
+
+        <!-- Media Literacy Alert -->
+        <div class="bg-amber-50 border-l-4 border-gold p-6 mt-8">
+            <h4 class="font-display text-xl font-bold mb-3 flex items-center gap-2">
+                <span>⚠️</span> Media Literacy Alert
+            </h4>
+            <p class="text-gray-700 mb-4">
+                This page is designed to be an educational tool. The partisan articles above use real rhetoric and framing techniques from actual media sources, but are intentionally exaggerated to make the bias obvious.
+            </p>
+            <p class="font-semibold text-gray-800 mb-3">Red flags to watch for in ANY news source:</p>
+            <div class="grid md:grid-cols-2 gap-2 mb-4">
+                <div class="flex items-start gap-2 text-sm bg-white/50 p-2 rounded"><span>⚡</span> Emotional language designed to trigger anger or fear</div>
+                <div class="flex items-start gap-2 text-sm bg-white/50 p-2 rounded"><span>⚡</span> Selective use of facts that support only one narrative</div>
+                <div class="flex items-start gap-2 text-sm bg-white/50 p-2 rounded"><span>⚡</span> Demonization of the "other side" as evil rather than mistaken</div>
+                <div class="flex items-start gap-2 text-sm bg-white/50 p-2 rounded"><span>⚡</span> Absence of counterarguments or competing perspectives</div>
+                <div class="flex items-start gap-2 text-sm bg-white/50 p-2 rounded"><span>⚡</span> Anonymous sources making explosive claims</div>
+                <div class="flex items-start gap-2 text-sm bg-white/50 p-2 rounded"><span>⚡</span> Headlines that don't match the actual content</div>
+                <div class="flex items-start gap-2 text-sm bg-white/50 p-2 rounded"><span>⚡</span> Treating speculation or opinion as established fact</div>
+            </div>
+            <p class="font-semibold text-gray-900 bg-white/70 p-3 border-l-3 border-red-deep">
+                If your news source never criticizes "your side" and always portrays the opposition as villains, you're not getting news—you're getting propaganda.
+            </p>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="bg-ink text-paper py-12 mt-16">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-3 gap-8 mb-8">
+                <div>
+                    <h4 class="font-display text-xl font-bold mb-2">Red, White, & Skewed</h4>
+                    <p class="text-warm-gray text-sm italic">The same story. Two views. Zero agreement.</p>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">About</h5>
+                    <a href="about.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">Our Mission</a>
+                    <a href="faq.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">FAQ</a>
+                    <a href="how-we-fact-check.html" class="block text-warm-gray hover:text-paper text-sm mb-2 transition-colors">How We Fact-Check</a>
+                    <a href="mailto:info@redwhiteandskewed.com" class="block text-warm-gray hover:text-paper text-sm transition-colors">Contact Us</a>
+                </div>
+                <div>
+                    <h5 class="font-mono text-xs uppercase tracking-wider text-gray-400 mb-3">Legal</h5>
+                    <a href="/privacy.html" class="block text-warm-gray hover:text-paper text-sm transition-colors">Privacy Policy</a>
+                </div>
+            </div>
+            <div class="border-t border-white/10 pt-8 text-center text-xs text-warm-gray">
+                <p>© 2025 Red, White, and Skewed | A project in media literacy and critical thinking</p>
+                <p class="mt-1">Not affiliated with any political party or news organization | Educational Use Only</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Load app.js -->
+    <script src="app.js"></script>
+</body>
+</html>
+   

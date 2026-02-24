@@ -1,0 +1,396 @@
+/**
+ * Red White & Skewed - Voting & Social Sharing Styles
+ * Add these styles to your existing stylesheet
+ */
+
+/* ============================================
+   VOTING SECTION
+   ============================================ */
+
+.voting-section {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border-radius: 16px;
+    text-align: center;
+}
+
+.voting-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 1.5rem;
+}
+
+.voting-buttons {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 1.5rem;
+}
+
+.vote-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 1.5rem;
+    border: 2px solid transparent;
+    border-radius: 12px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 280px;
+    justify-content: center;
+}
+
+.vote-btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.vote-conservative {
+    background: rgba(220, 53, 69, 0.15);
+    border-color: #dc3545;
+    color: #ff6b7a;
+}
+
+.vote-conservative:hover:not(:disabled) {
+    background: rgba(220, 53, 69, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(220, 53, 69, 0.3);
+}
+
+.vote-conservative.selected {
+    background: #dc3545;
+    color: #fff;
+    box-shadow: 0 4px 20px rgba(220, 53, 69, 0.5);
+}
+
+.vote-liberal {
+    background: rgba(0, 123, 255, 0.15);
+    border-color: #007bff;
+    color: #5fadff;
+}
+
+.vote-liberal:hover:not(:disabled) {
+    background: rgba(0, 123, 255, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
+}
+
+.vote-liberal.selected {
+    background: #007bff;
+    color: #fff;
+    box-shadow: 0 4px 20px rgba(0, 123, 255, 0.5);
+}
+
+.vote-btn.unselected {
+    opacity: 0.5;
+}
+
+.vote-btn.loading {
+    pointer-events: none;
+    opacity: 0.7;
+}
+
+.vote-btn.loading::after {
+    content: '';
+    width: 16px;
+    height: 16px;
+    border: 2px solid transparent;
+    border-top-color: currentColor;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin-left: 0.5rem;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.vote-icon {
+    font-size: 1.25rem;
+}
+
+.vote-btn.archived {
+    background: rgba(128, 128, 128, 0.2);
+    border-color: #666;
+    color: #888;
+}
+
+/* ============================================
+   VOTE RESULTS
+   ============================================ */
+
+.vote-results {
+    display: none;
+    margin-top: 1.5rem;
+    animation: fadeIn 0.5s ease;
+}
+
+.vote-results.visible {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.results-bar {
+    display: flex;
+    height: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 1rem;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.results-conservative {
+    background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.1rem;
+    min-width: 50px;
+    transition: width 0.5s ease;
+}
+
+.results-liberal {
+    background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.1rem;
+    min-width: 50px;
+    transition: width 0.5s ease;
+}
+
+.results-counts {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+}
+
+.count-conservative {
+    color: #ff6b7a;
+    font-size: 0.9rem;
+}
+
+.count-liberal {
+    color: #5fadff;
+    font-size: 0.9rem;
+}
+
+.total-votes {
+    color: #888;
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+}
+
+.archived-notice {
+    margin-top: 1rem;
+    padding: 0.75rem 1rem;
+    background: rgba(255, 193, 7, 0.15);
+    border: 1px solid #ffc107;
+    border-radius: 8px;
+    color: #ffc107;
+    font-size: 0.9rem;
+}
+
+/* ============================================
+   SOCIAL SHARING
+   ============================================ */
+
+.share-section {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: linear-gradient(135deg, #2d2d44 0%, #1a1a2e 100%);
+    border-radius: 16px;
+    text-align: center;
+}
+
+.share-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.share-cta {
+    color: #aaa;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.share-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    border: none;
+    border-radius: 8px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.share-btn:hover {
+    transform: translateY(-2px);
+}
+
+.share-btn svg {
+    flex-shrink: 0;
+}
+
+.share-twitter {
+    background: #1da1f2;
+    color: #fff;
+}
+
+.share-twitter:hover {
+    background: #0d8ddb;
+    box-shadow: 0 4px 15px rgba(29, 161, 242, 0.4);
+}
+
+.share-facebook {
+    background: #1877f2;
+    color: #fff;
+}
+
+.share-facebook:hover {
+    background: #0d6edb;
+    box-shadow: 0 4px 15px rgba(24, 119, 242, 0.4);
+}
+
+.share-linkedin {
+    background: #0a66c2;
+    color: #fff;
+}
+
+.share-linkedin:hover {
+    background: #0958a8;
+    box-shadow: 0 4px 15px rgba(10, 102, 194, 0.4);
+}
+
+.share-email {
+    background: #6c757d;
+    color: #fff;
+}
+
+.share-email:hover {
+    background: #5a6268;
+    box-shadow: 0 4px 15px rgba(108, 117, 125, 0.4);
+}
+
+.share-copy {
+    background: #343a40;
+    color: #fff;
+    border: 1px solid #495057;
+}
+
+.share-copy:hover {
+    background: #495057;
+    box-shadow: 0 4px 15px rgba(52, 58, 64, 0.4);
+}
+
+.share-copy.copied {
+    background: #28a745;
+    border-color: #28a745;
+}
+
+/* ============================================
+   RESPONSIVE ADJUSTMENTS
+   ============================================ */
+
+@media (max-width: 768px) {
+    .voting-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .vote-btn {
+        min-width: 100%;
+        max-width: 320px;
+    }
+    
+    .results-counts {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .share-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .share-btn {
+        min-width: 200px;
+        justify-content: center;
+    }
+}
+
+/* ============================================
+   LOADING & ERROR STATES
+   ============================================ */
+
+.loading-state,
+.error-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+    text-align: center;
+    color: #888;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 3px solid #333;
+    border-top-color: #007bff;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+}
+
+.error-state h2 {
+    color: #dc3545;
+    margin-bottom: 0.5rem;
+}
+
+.error-state button {
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.error-state button:hover {
+    background: #0056b3;
+}
