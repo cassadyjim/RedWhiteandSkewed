@@ -1,12 +1,30 @@
 [
   {
+    "filename": "2026-03-01-us-israel-strikes-iran.json",
+    "date": "March 1, 2026",
+    "title": "Heroes or War Criminals? U.S. and Israel Kill Iran's Supreme Leader — and 148 Schoolgirls",
+    "subtitle": "Trump and Netanyahu launched 'Operation Epic Fury' on February 28, killing 86-year-old Supreme Leader Khamenei and at least 201 civilians — including 148 people at a girls' elementary school — with no congressional authorization and Iran already striking back at U.S. bases across the Middle East",
+    "type": "json",
+    "path": "/stories/",
+    "archived": false
+  },
+  {
+    "filename": "2026-02-25-scotus-strikes-down-trump-tariffs.json",
+    "date": "February 25, 2026",
+    "title": "Disgrace or Democracy? Trump Attacks His Own Justices as SCOTUS Strikes Down His Tariffs",
+    "subtitle": "In a 6-3 ruling, the Supreme Court found that Trump's sweeping IEEPA tariffs exceeded presidential authority — prompting Trump to attack his own appointees Gorsuch and Barrett as 'an embarrassment to their families' and Vice President Vance to call the decision 'lawlessness from the Court, plain and simple'",
+    "type": "json",
+    "path": "/stories/",
+    "archived": true
+  },
+  {
     "filename": "2026-02-17-save-america-act-voter-id.json",
     "date": "February 17, 2026",
     "title": "Election Integrity or Voter Suppression? The SAVE America Act Tears Washington Apart",
     "subtitle": "House passes sweeping voter ID and proof-of-citizenship bill 218-213 as Trump threatens executive order, Democrats vow to kill it in Senate, and Fetterman breaks ranks on 'Jim Crow 2.0' rhetoric",
     "type": "json",
     "path": "/stories/",
-    "archived": false
+    "archived": true
   },
   {
     "filename": "2026-02-13-epa-endangerment-finding.json",

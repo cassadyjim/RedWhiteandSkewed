@@ -465,8 +465,30 @@ Look for stories that have been national news headlines as of today's date. The 
 Do one more check that all facts and quotes are referenced and linked to a source. To avoid mistakes that you made before, search result summaries that said "Daily Caller reported X" and verify the quotes throughout the content actually appeared at that URL.
 
 ---
-### 10. Provide Publish Command ###
-After the new story is created in the proper JSON format, Provide me the terminal command to run in the format of "./rws_publish.sh yyyy-mm-dd-story-name.json".
+### 10. Pre-Publish Verification (MANDATORY — do this BEFORE providing publish commands) ###
+
+After the story JSON is complete, STOP and ask the user to verify before publishing. Present:
+
+**A. Image preview link**
+Provide the direct image URL as a clickable link so the user can open it in their browser and confirm it's the right photo:
+> 🖼️ **Preview image:** [filename or description](IMAGE_URL)
+
+**B. Story summary for approval**
+Show a compact summary:
+> 📰 **Title:** [title]
+> 📅 **Date:** [date]
+> 🔴 **Conservative headline:** [headline]
+> 🔵 **Liberal headline:** [headline]
+> ✅ **Poll:** "[question]" — [option 1] vs [option 2]
+
+Then ask:
+> "Does the image and story look good? Reply **yes** to publish, or tell me what to change."
+
+Do NOT provide the publish commands until the user confirms. Only after receiving approval, provide:
+```
+./rws_publish.sh yyyy-mm-dd-story-name.json
+python3 rws_to_wix.py yyyy-mm-dd-story-name.json
+```
 
 ---
 ### 11. Story Image (MANDATORY) ###
@@ -521,7 +543,9 @@ The number at the end is the photo ID.
 ```
 https://images.pexels.com/photos/{ID}/pexels-photo-{ID}.jpeg?auto=compress&cs=tinysrgb&w=1200
 ```
-Example: Photo ID 66872 → `https://images.pexels.com/photos/66872/pexels-photo-66872.jpeg?auto=compress&cs=tinysrgb&w=1200`
+Example: Photo ID 7517886 → `https://images.pexels.com/photos/7517886/pexels-photo-7517886.jpeg?auto=compress&cs=tinysrgb&w=1200`
+
+**⚠️ Photo ID must be above 500,000.** Very old Pixabay-migrated photos (low IDs like 66872, 72593) use a different CDN path and will NOT hotlink reliably. Always pick a recent, native Pexels photo with a high ID number from the search results.
 
 **Step 4 — Fill in the image JSON:**
 ```json
@@ -535,14 +559,32 @@ Example: Photo ID 66872 → `https://images.pexels.com/photos/66872/pexels-photo
 }
 ```
 
-**Image JSON Format for Wikimedia (fallback only):**
+**WIKIMEDIA COMMONS — Use when Pexels has no suitable image (e.g. missile intercepts, specific political institutions):**
+
+Step 1 — Find the exact filename via WebSearch:
+```
+WebSearch: "commons.wikimedia.org/wiki/Category:" [topic]
+```
+Read the category description carefully — it lists exact filenames with dimensions.
+
+Step 2 — Compute the MD5-based URL entirely offline using bash (no network needed):
+```bash
+python3 -c "
+import hashlib
+fn = 'Exact_Filename_With_Underscores.jpg'
+h = hashlib.md5(fn.encode('utf-8')).hexdigest()
+print(f'https://upload.wikimedia.org/wikipedia/commons/thumb/{h[0]}/{h[0:2]}/{fn}/1200px-{fn}')
+"
+```
+
+Step 3 — Fill in the image JSON:
 ```json
 "image": {
-  "url": "https://upload.wikimedia.org/wikipedia/commons/...",
-  "credit": "Photo: Photographer Name / Wikimedia Commons",
-  "alt": "Descriptive alt text for the image",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/[a]/[ab]/Filename.jpg/1200px-Filename.jpg",
+  "credit": "Photo: Photographer / Wikimedia Commons",
+  "alt": "Descriptive alt text",
   "source": "Wikimedia Commons",
-  "page": "https://commons.wikimedia.org/wiki/File:...",
+  "page": "https://commons.wikimedia.org/wiki/File:Filename.jpg",
   "license": "CC BY-SA 2.0"
 }
 ```

@@ -1,168 +1,111 @@
 {
-  "date": "February 5, 2026",
-  "image": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Voting_booths_2004.jpg/1200px-Voting_booths_2004.jpg",
-    "credit": "Photo: David Shankbone / Wikimedia Commons",
-    "alt": "Voting booths at a U.S. polling place",
-    "source": "Wikimedia Commons",
-    "page": "https://commons.wikimedia.org/wiki/File:Voting_booths_2004.jpg",
-    "license": "CC BY-SA 3.0"
-  },
-  "title": "Protecting Elections or Rigging Them? Trump Calls for Federal Takeover of Voting in 15 States",
-  "subtitle": "President tells conservative podcast Republicans should 'take over' and 'nationalize the voting,' sparking backlash from Democrats and some GOP leaders who cite Constitution's assignment of election authority to states",
-  "poll": {
-    "question": "What do you think about Trump's call to nationalize elections?",
-    "options": [
-      {
-        "label": "Protecting",
-        "description": "Necessary federal oversight to stop fraud in corrupt states"
-      },
-      {
-        "label": "Rigging",
-        "description": "Unconstitutional power grab to control election outcomes"
-      }
-    ]
-  },
+  "date": "January 16, 2026",
+  "title": "Iran in Flames: Should America Intervene Militarily to Save the Protesters?",
+  "subtitle": "As death toll passes 12,000 and US troops evacuate Qatar bases, Trump weighs military options while critics warn of 'another forever war'",
   "conservative": {
-    "headline": "Finally Taking Action: Trump Demands Federal Standards to Stop Blue State Election Fraud",
-    "byline": "As seen on Fox News, NBC News, ABC News",
+    "headline": "Freedom Fighters Are Dying: Trump Must Act Now to Topple Iran's Murderous Regime",
+    "byline": "As seen on Fox News, Washington Times, National Review",
     "paragraphs": [
-      "<strong>President Trump is doing what no other president has had the courage to do: demanding that the federal government establish uniform standards to stop Democrat-run states from undermining election integrity.</strong>",
-      "On Monday, Trump told conservative host Dan Bongino that Republicans need to take decisive action: <a href=\"https://www.nbcnews.com/politics/elections/trump-republicans-nationalize-elections-rcna257098\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"We should take over the voting in at least \u2014 many, 15 places. The Republicans ought to nationalize the voting.\"</a> When asked about his proposal, Trump told reporters: <a href=\"https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"I want to see elections be honest, and if a state can't run an election, I think the people behind me should do something about it.\"</a>",
-      "The White House clarified that the president isn't calling for a federal takeover\u2014he's demanding Congress pass legislation to establish minimum national standards. Specifically, Trump is backing <a href=\"https://roy.house.gov/media/press-releases/rep-roy-senator-lee-launch-save-america-act-renewed-push-election-integrity\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">the SAVE America Act, introduced by Senator Mike Lee and Rep. Chip Roy</a>, which would require voters to present proof of citizenship when registering and photo ID when voting.",
-      "<a href=\"https://www.foxnews.com/politics/house-republicans-push-election-overhaul-voter-id-mail-in-ballot-changes-ahead-midterms\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">House Republicans have also introduced the Make Elections Great Again (MEGA) Act</a>, which would set a national photo ID requirement, limit mail-in voting, and end ranked-choice voting. These are common-sense reforms that most Americans support\u2014yet Democrats refuse to even consider them.",
-      "After years of watching blue states refuse to clean up their voter rolls, resist basic security measures like voter ID, and fight efforts to verify citizenship, Trump is finally demanding accountability. <a href=\"https://bipartisanpolicy.org/article/five-things-to-know-about-the-save-act/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">The legislation he supports would require REAL ID-compliant documents or passports for voter registration</a> and mandate that states remove non-citizens from voter rolls.",
-      "<a href=\"https://abcnews.go.com/Politics/fbi-conducting-court-ordered-activity-georgia-election-site/story?id=129644345\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Last week's FBI raid on Fulton County, Georgia's election center\u2014where agents seized more than 650 boxes of 2020 ballots</a>\u2014shows Trump is serious about investigating election irregularities. <a href=\"https://abcnews.go.com/US/fulton-county-official-slams-trump-administration-fbis-seizure/story?id=129670285\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">FBI Director Kash Patel confirmed that a federal judge found probable cause</a> to execute the search warrant. If states like Georgia can't be trusted to maintain election integrity, federal law enforcement has a responsibility to investigate.",
-      "<a href=\"https://www.pbs.org/newshour/politics/watch-white-house-says-trump-was-referring-to-save-act-when-he-advocated-nationalizing-elections\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">The White House clarified that Trump isn't proposing that Washington bureaucrats run local polling places</a>\u2014he's demanding that Congress exercise its constitutional authority to set minimum standards for federal elections. <a href=\"https://constitution.congress.gov/browse/article-1/section-4/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Article I, Section 4 explicitly gives Congress the power to regulate the \"times, places and manner\" of federal elections.</a>",
-      "<strong>Democrats are terrified because Trump is exposing their corrupt election machines. After decades of lax security and resistance to voter ID laws in blue cities, the president is finally demanding the honesty and transparency American voters deserve. The SAVE Act and MEGA Act would bring election integrity back to America\u2014which is exactly why Democrats will do everything to stop them.</strong>"
+      "<strong>The Iranian people are being slaughtered in the streets, and President Trump is the only leader in the world with the courage to do something about it.</strong>",
+      "Over 12,000 brave Iranians have been massacred by the regime's security forces in just two weeks of protests, according to <a href=\"https://www.iranintl.com/en/liveblog/202601148856\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Iran International, citing official sources and medical data</a>. The mullahs have imposed a complete internet blackout, deployed military-grade jamming equipment against Starlink, and are now threatening to execute detained protesters.",
+      "Trump's response has been exactly right. \"Help is on the way,\" he told the protesters, and he means it. <a href=\"https://www.nbcnews.com/world/iran/trump-iran-protest-execution-death-toll-crackdown-us-military-rcna253952\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">US military assets are being moved to the Middle East</a> as the Pentagon prepares options. The USS carrier strike group is repositioning. This is what American leadership looks like.",
+      "Senator Lindsey Graham said what needs to be said: <a href=\"https://www.cnn.com/politics/live-news/trump-presidency-administration-greenland-venezuela-01-14-26\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"I believe that President Trump is serious when he says help is on the way. An attack on the regime is the only help that really matters.\"</a> He's pushing for strikes \"sooner rather than later.\"",
+      "Even Democrat John Fetterman gets it. When asked if he supports military action, <a href=\"https://www.spotlightpa.org/news/2026/01/iran-protests-senate-fetterman-intervention-federal-government/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Fetterman said: \"Sure, absolutely. You have that poisonous regime now in spiral. So why wouldn't we want to support that and those brave protesters?\"</a>",
+      "The Iranian regime is weaker than it's ever been. After the June 2025 strikes destroyed their nuclear facilities, their regional proxies have been decimated, and their economy is in freefall. The currency has lost half its value. This is the moment to finish the job.",
+      "Critics will say we can't afford another war. But this isn't Iraq or Afghanistan—this is a regime that has murdered Americans, funded terrorists worldwide, and is now butchering its own people on live television. The protesters are literally chanting \"Death to the Dictator\" and waving pre-revolution flags. They want freedom. They're begging for our help.",
+      "Treasury Secretary has already sanctioned <a href=\"https://www.npr.org/2026/01/15/nx-s1-5678539/iran-protests-trump\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Iran's security chief Ali Larijani and other architects of the brutal crackdown</a>. But sanctions alone won't stop bullets. The regime understands only one language: force.",
+      "<strong>America didn't stand by when Maduro massacred Venezuelans, and we shouldn't stand by now. The Iranian people are dying for freedom. President Trump has the moral authority and the military capability to end this nightmare. History will judge us if we do nothing.</strong>"
     ],
     "sources": [
       {
-        "text": "NBC News - Trump says Republicans should nationalize elections",
-        "url": "https://www.nbcnews.com/politics/elections/trump-republicans-nationalize-elections-rcna257098"
+        "text": "Iran International - Live updates on US military movements",
+        "url": "https://www.iranintl.com/en/liveblog/202601148856"
       },
       {
-        "text": "ABC News - Trump doubles down on federal involvement",
-        "url": "https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521"
+        "text": "NBC News - US evacuates troops from Qatar as Trump weighs options",
+        "url": "https://www.nbcnews.com/world/iran/trump-iran-protest-execution-death-toll-crackdown-us-military-rcna253952"
       },
       {
-        "text": "Fox News - Trump doubles down on calls to nationalize voting",
-        "url": "https://www.foxnews.com/politics/trump-doubles-down-calls-gop-nationalize-voting-congressional-leaders-balk"
+        "text": "CNN - Graham pushes for attack on Iranian regime",
+        "url": "https://www.cnn.com/politics/live-news/trump-presidency-administration-greenland-venezuela-01-14-26"
       },
       {
-        "text": "Rep. Chip Roy - SAVE America Act launched",
-        "url": "https://roy.house.gov/media/press-releases/rep-roy-senator-lee-launch-save-america-act-renewed-push-election-integrity"
-      },
-      {
-        "text": "Fox News - House Republicans push election overhaul with voter ID",
-        "url": "https://www.foxnews.com/politics/house-republicans-push-election-overhaul-voter-id-mail-in-ballot-changes-ahead-midterms"
-      },
-      {
-        "text": "ABC News - FBI seizes 2020 ballots in Georgia",
-        "url": "https://abcnews.go.com/Politics/fbi-conducting-court-ordered-activity-georgia-election-site/story?id=129644345"
-      },
-      {
-        "text": "ABC News - FBI Director Kash Patel on probable cause",
-        "url": "https://abcnews.go.com/US/fulton-county-official-slams-trump-administration-fbis-seizure/story?id=129670285"
-      },
-      {
-        "text": "Bipartisan Policy - Five Things to Know About the SAVE Act",
-        "url": "https://bipartisanpolicy.org/article/five-things-to-know-about-the-save-act/"
-      },
-      {
-        "text": "PBS NewsHour - White House clarifies Trump referring to SAVE Act",
-        "url": "https://www.pbs.org/newshour/politics/watch-white-house-says-trump-was-referring-to-save-act-when-he-advocated-nationalizing-elections"
-      },
-      {
-        "text": "Congress.gov - Article I, Section 4 of the Constitution",
-        "url": "https://constitution.congress.gov/browse/article-1/section-4/"
+        "text": "Spotlight PA - Fetterman supports military action",
+        "url": "https://www.spotlightpa.org/news/2026/01/iran-protests-senate-fetterman-intervention-federal-government/"
       }
     ]
   },
   "liberal": {
-    "headline": "Coup 2.0: Trump Openly Declares Plan to Seize Control of Elections from States",
-    "byline": "As seen on NBC News, The Hill, ABC News",
+    "headline": "Here We Go Again: Trump's Iran War Threats Echo the Lies That Led Us Into Iraq",
+    "byline": "As seen on MSNBC, The Guardian, Democracy Now",
     "paragraphs": [
-      "<strong>President Trump just said the quiet part out loud: he wants Republicans to take over state election systems so they can rig the 2026 midterms and beyond.</strong>",
-      "In a stunning admission on a conservative podcast, Trump called for Republicans to <a href=\"https://www.nbcnews.com/politics/elections/trump-republicans-nationalize-elections-rcna257098\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"take over the voting in at least \u2014 many, 15 places\" and to \"nationalize the voting.\"</a> He later doubled down, telling reporters that <a href=\"https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">if \"a state can't run an election, I think the people behind me should do something about it.\"</a>",
-      "This is the same president who <a href=\"https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">was impeached for inciting the January 6 insurrection at the Capitol</a>, <a href=\"https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">pressured Georgia's Secretary of State to \"find 11,780 votes\"</a> to overturn the 2020 election, and spent months trying to prevent Biden's victory from being certified. Now he's openly plotting to seize control of election administration from states\u2014a power explicitly granted to states by the Constitution.",
-      "Sen. Adam Schiff didn't mince words: <a href=\"https://thehill.com/homenews/administration/5721428-trump-nationalize-election-backlash/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"In his first term, Donald Trump pressured and threatened and coerced and incited \u2014 all in attempt to rig an election and overturn its result to cling to power. We cannot miss the signs that he is going to try again.\"</a>",
-      "Sen. Mark Warner connected the dots between last week's FBI raid on Georgia's election center and Trump's new proposal: <a href=\"https://thehill.com/homenews/administration/5721428-trump-nationalize-election-backlash/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"This is frankly about what comes next. It is deeply alarming that just yesterday, the president called for Republicans to take over and nationalize voting in multiple states.\"</a>",
-      "Even some Republicans are alarmed. Senate Majority Leader John Thune rejected Trump's proposal, saying: <a href=\"https://www.nbcnews.com/politics/congress/senate-gop-leader-john-thune-says-disagrees-trump-congress-nationalize-rcna257260\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"I'm a big believer in decentralized and distributing power, and I think it's harder to hack 50 election systems than it is to hack one.\"</a> Rep. Don Bacon, a Nebraska Republican, was even more direct: <a href=\"https://www.foxnews.com/politics/trump-doubles-down-calls-gop-nationalize-voting-congressional-leaders-balk\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"I opposed nationalizing elections when Speaker Pelosi wanted major changes to elections in all 50 states. I'll oppose this now as well.\"</a>",
-      "<strong>This is authoritarianism in plain sight. Trump is telling us exactly what he plans to do: seize control of elections so Republicans can't lose. If we don't stop him now, the 2026 midterms may be the last real election America ever has.</strong>"
+      "<strong>Twenty years after \"weapons of mass destruction\" lies dragged us into Iraq, the war drums are beating again—and Americans should be terrified.</strong>",
+      "A new Quinnipiac poll shows <a href=\"https://thehill.com/policy/international/5689007-american-opposition-iran-military/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">70% of Americans oppose military action against Iran</a>. That includes 53% of Republicans. The American people learned their lesson from Iraq and Afghanistan. Why hasn't Donald Trump?",
+      "The same president who promised to end \"forever wars\" is now threatening to start the biggest one yet. Iran is not Venezuela—it's a nation of 88 million people with a battle-hardened military that has already promised to <a href=\"https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">target US forces across the entire Middle East</a> if attacked.",
+      "Senate Minority Leader Chuck Schumer is demanding answers: <a href=\"https://thehill.com/homenews/senate/5687651-trump-iran-regime-strikes-senate-democrats/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"It has to be debated by Congress. Trump hasn't made any effort to reach out to Democrats to build bipartisan support.\"</a> Senator Tim Kaine warned that military intervention would \"call up this horrible history that has made it very, very challenging between the US and Iran for the last 75 years.\"",
+      "Let's talk about that history. In 1953, the CIA overthrew Iran's democratically elected prime minister to install the Shah. That intervention created the conditions for the 1979 revolution. American meddling in Iran has backfired for seven decades. Why would this time be different?",
+      "Arab allies are desperately trying to prevent a catastrophe. <a href=\"https://edition.cnn.com/world/live-news/iran-protests-trump-01-14-26\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">Saudi Arabia, Qatar, and Oman have warned the Trump administration</a> that military action \"could have the opposite effect\" and \"unite Iranians on both sides behind the regime.\" Even Senator Rand Paul, a Republican, is cautioning against strikes.",
+      "The protesters themselves don't want American bombs. Iranian activist Shiva Bouroumand spoke for many when she said: <a href=\"https://www.democracynow.org/2026/1/14/headlines\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"We don't need any foreigner country to give us any support, except be our voice. Don't support our governor, that is totally enough.\"</a>",
+      "The UN Security Council met Thursday with officials <a href=\"https://www.cnn.com/world/live-news/iran-protests-trump-01-15-26\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">urging restraint and de-escalation</a>. Secretary-General Guterres said concerns about Iran \"are best addressed through diplomacy and dialogue.\" But Trump doesn't do diplomacy—he does spectacle.",
+      "<strong>The Iranian people are fighting for their freedom. They don't need American missiles that will kill civilians and give the regime exactly the external enemy it needs to rally support. They need sanctions, international pressure, and solidarity—not another catastrophic American war.</strong>"
     ],
     "sources": [
       {
-        "text": "NBC News - Trump says Republicans should nationalize elections",
-        "url": "https://www.nbcnews.com/politics/elections/trump-republicans-nationalize-elections-rcna257098"
+        "text": "The Hill - 70% oppose military action in Iran",
+        "url": "https://thehill.com/policy/international/5689007-american-opposition-iran-military/"
       },
       {
-        "text": "ABC News - Trump doubles down on federal involvement",
-        "url": "https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521"
+        "text": "The Hill - Democrats warn Trump over Iran strikes",
+        "url": "https://thehill.com/homenews/senate/5687651-trump-iran-regime-strikes-senate-democrats/"
       },
       {
-        "text": "The Hill - Trump call for nationalizing elections sparks backlash",
-        "url": "https://thehill.com/homenews/administration/5721428-trump-nationalize-election-backlash/"
+        "text": "Al Jazeera - Iran warns of retaliation",
+        "url": "https://www.aljazeera.com/news/2026/1/14/trump-says-he-has-been-told-killing-of-protesters-in-iran-has-stopped"
       },
       {
-        "text": "NBC News - Senate GOP Leader Thune disagrees with Trump",
-        "url": "https://www.nbcnews.com/politics/congress/senate-gop-leader-john-thune-says-disagrees-trump-congress-nationalize-rcna257260"
-      },
-      {
-        "text": "Fox News - Trump doubles down as congressional leaders balk",
-        "url": "https://www.foxnews.com/politics/trump-doubles-down-calls-gop-nationalize-voting-congressional-leaders-balk"
-      },
-      {
-        "text": "ABC News - Trump impeached for incitement of insurrection",
-        "url": "https://abcnews.go.com/Politics/draft-article-impeachment-charges-trump-incitement-insurrection-capitol/story?id=75132750"
-      },
-      {
-        "text": "Washington Post - Trump pressured Raffensperger to find votes",
-        "url": "https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html"
+        "text": "Democracy Now - Iranian activist warns against intervention",
+        "url": "https://www.democracynow.org/2026/1/14/headlines"
       }
     ]
   },
   "factcheck": {
-    "headline": "What Trump Actually Proposed\u2014And What the Constitution Says",
+    "headline": "Separating Fact from Spin on Iran",
     "paragraphs": [
-      "<strong>Trump's call to \"nationalize\" elections has sparked fierce debate about federal power, states' rights, and election integrity. Here's what actually happened and what the law allows.</strong>",
+      "<strong>Both sides are cherry-picking facts to support predetermined conclusions. Here's what we actually know.</strong>",
       "<p class=\"text-xl font-bold text-purple-900\">THE UNDISPUTED FACTS:</p>",
-      "\u2713 <strong>Trump did call for \"nationalizing\" elections:</strong> On Monday, February 3, Trump told conservative podcaster Dan Bongino that Republicans should \"take over the voting in at least \u2014 many, 15 places\" and that \"Republicans ought to nationalize the voting.\"",
-      "\u2713 <strong>Trump doubled down when pressed:</strong> After the White House tried to clarify his comments by saying he meant the SAVE Act, Trump was asked again and told reporters he still wanted \"the federal government\" to \"get involved\" if states \"can't run an election.\"",
-      "\u2713 <strong>The Constitution gives states primary authority:</strong> Article I, Section 4 of the Constitution states: \"The times, places and manner of holding elections for Senators and Representatives, shall be prescribed in each state by the legislature thereof; but the Congress may at any time by law make or alter such regulations.\" States administer elections, but Congress has some authority to regulate them.",
-      "\u2713 <strong>Even Republican leaders balked:</strong> Senate Majority Leader John Thune, House Speaker Mike Johnson, and Rep. Don Bacon all publicly disagreed with Trump's proposal, citing states' rights and the current system's strengths.",
-      "\u2713 <strong>This follows the FBI's Georgia raid:</strong> Last week, federal agents seized 700 boxes of 2020 ballots from Fulton County's election center, which Trump and allies have long accused of irregularities.",
+      "✓ <strong>Death toll is catastrophic but disputed:</strong> US-based Human Rights Activists News Agency (HRANA) has verified at least 2,400 deaths. <a href=\"https://www.iranintl.com/en/liveblog/202601148856\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">Iran International reports 12,000+ killed on January 8-9 alone</a>, citing official sources. CBS reports 12,000-20,000. The internet blackout makes verification impossible.",
+      "✓ <strong>US is actively preparing military options:</strong> Troops have been evacuated from Al-Udeid Air Base in Qatar. A carrier strike group is moving to the region. Trump has been briefed on kinetic and non-kinetic options.",
+      "✓ <strong>70% of Americans oppose military intervention</strong>, including 53% of Republicans, according to Quinnipiac. 70% say Congress should approve any military action.",
+      "✓ <strong>Iran has threatened retaliation:</strong> IRGC commander said US forces across the region would be \"legitimate targets.\" Iran's parliament speaker warned of strikes on \"all American centers and forces.\"",
       "<p class=\"text-xl font-bold text-purple-900 mt-6\">CONSERVATIVE SPIN VS. REALITY:</p>",
-      "\u26a0\ufe0f <strong>Claim: \"Blue states are letting illegal immigrants vote\"</strong> \u2014 There's no evidence of widespread noncitizen voting. Multiple studies, including one by the conservative Heritage Foundation, found illegal voting is exceedingly rare\u2014measured in dozens of cases out of hundreds of millions of votes cast. States already have systems to verify citizenship.",
-      "\u26a0\ufe0f <strong>Claim: \"Federal takeover would stop fraud\"</strong> \u2014 Election security experts across the spectrum say decentralization is actually a security advantage. As Sen. Thune noted, \"it's harder to hack 50 election systems than it is to hack one.\" Centralizing elections would create a single point of failure.",
-      "\u2713 <strong>Fair Point:</strong> There are legitimate debates about election administration improvements, including voter ID requirements, mail-in voting policies, and voter roll maintenance. These are policy questions Congress can address through legislation within constitutional bounds.",
+      "⚠️ <strong>Claim: \"This isn't Iraq or Afghanistan\"</strong> — Actually, Iran is larger and more militarily capable than either. A Congressional Research Service report notes it's \"unclear whether or how US military intervention could constrain the repressive capabilities\" of Iran's security forces.",
+      "✓ <strong>Fair Point:</strong> The regime IS at its weakest point in decades after June 2025 strikes and the collapse of its regional proxy network.",
+      "⚠️ <strong>Claim: Protesters want American military help</strong> — Many activists inside Iran have explicitly warned against foreign military intervention, fearing it would unite the country behind the regime.",
       "<p class=\"text-xl font-bold text-purple-900 mt-6\">LIBERAL SPIN VS. REALITY:</p>",
-      "\u26a0\ufe0f <strong>Claim: \"Trump can just seize control of elections\"</strong> \u2014 No, he can't. Congress would need to pass legislation, and even then it must comply with constitutional limits. Federal courts would review any such laws. The president can't unilaterally take over state election systems.",
-      "\u26a0\ufe0f <strong>Claim: \"This is exactly like the 2020 coup attempt\"</strong> \u2014 While Trump's rhetoric is concerning, calling for legislation (even bad legislation) is different from trying to overturn election results through pressure on state officials and violence. The situations aren't identical, even if there are concerning parallels.",
-      "\u2713 <strong>Fair Point:</strong> Trump does have a documented pattern of trying to overturn election results, pressuring state officials, making false fraud claims, and now calling for unprecedented federal control. His track record makes it reasonable to view this proposal with deep skepticism about motives.",
+      "⚠️ <strong>Claim: Trump is ignoring diplomacy</strong> — Actually, Iran's foreign minister confirmed he reached out to Trump's envoy. Trump said \"a meeting is being set up.\" Both sides are keeping communication channels open.",
+      "✓ <strong>Fair Point:</strong> US intervention in Iran has historically backfired, and regional allies ARE warning against military action.",
+      "⚠️ <strong>Claim: This is just like Iraq WMD lies</strong> — The situations are different. No one disputes Iran is killing protesters; the question is whether military intervention would help or hurt.",
       "<p class=\"text-xl font-bold text-purple-900 mt-6\">THE BIGGER PICTURE:</p>",
-      "This debate exposes a fundamental tension: Trump is a Republican president calling for federal power over elections\u2014traditionally a Democratic position\u2014while facing opposition from Republicans citing states' rights\u2014traditionally a conservative principle. The politics have flipped based on who controls what.",
-      "Under current law, Congress does have some authority to regulate federal elections. The Voting Rights Act, the National Voter Registration Act, and the Help America Vote Act all imposed federal requirements on states. So federal election legislation isn't unprecedented. The question is: how far can it go?",
-      "Constitutional scholars note that while Congress has broad authority under the Elections Clause, there are limits. States must retain meaningful control over election administration. A complete federal takeover would likely face constitutional challenges.",
-      "The practical reality: Even if Trump got his way, implementation would be a nightmare. The federal government doesn't have the infrastructure to run elections in 15 states. It would require creating a massive new federal bureaucracy, training thousands of workers, and coordinating with local jurisdictions\u2014all while maintaining election security and public trust.",
-      "<strong>The Bottom Line:</strong> Trump proposed something that's constitutionally questionable, practically difficult, and politically divisive\u2014so much so that even leaders of his own party rejected it. Whether you see this as a legitimate attempt to improve election integrity or a dangerous power grab largely depends on whether you trust Trump's motives. His track record on respecting election results when he loses is... not reassuring."
+      "This isn't a simple good-vs-evil story. The Iranian regime IS brutally massacring protesters. American military intervention COULD make things worse. Both of these things can be true simultaneously.",
+      "The honest answer is that no one knows what would happen if the US strikes Iran. Hawks point to Venezuela as a success; critics note Iran is exponentially more dangerous. Arab allies are terrified of regional war. The protesters themselves are divided on whether they want American help.",
+      "<strong>The Bottom Line:</strong> Anyone who tells you the answer is obvious—whether \"bomb them now\" or \"stay out completely\"—is selling you ideology, not analysis. This is genuinely one of the most consequential foreign policy decisions in decades, and it deserves serious debate, not partisan grandstanding."
     ],
     "sources": [
       {
-        "text": "NPR - Trump says he wants Republicans to nationalize elections",
-        "url": "https://www.npr.org/2026/02/03/nx-s1-5698095/trump-says-he-wants-republicans-to-nationalize-elections"
+        "text": "Congressional Research Service - Iran Protests Analysis",
+        "url": "https://www.everycrsreport.com/reports/IF13153.html"
       },
       {
-        "text": "CNN - Can Trump nationalize elections? The Constitution says...",
-        "url": "https://www.cnn.com/2026/02/03/politics/trump-nationalize-elections-constitution-clause"
+        "text": "Quinnipiac Poll - 70% oppose military action",
+        "url": "https://thehill.com/policy/international/5689007-american-opposition-iran-military/"
       },
       {
-        "text": "TIME - Trump's Push to Nationalize Elections, Explained",
-        "url": "https://time.com/7366147/trump-nationalize-voting-federalize-elections-fraud-republicans/"
+        "text": "CNN - Arab allies warn against strikes",
+        "url": "https://edition.cnn.com/world/live-news/iran-protests-trump-01-14-26"
       },
       {
-        "text": "PBS NewsHour - Thune throws cold water on Trump's call",
-        "url": "https://www.pbs.org/newshour/politics/thune-throws-cold-water-on-trumps-call-to-nationalize-u-s-elections"
+        "text": "Council on Foreign Relations - Iran analysis",
+        "url": "https://www.cfr.org/expert-brief/unpacking-irans-protests-and-trumps-threats"
       }
     ]
   }
