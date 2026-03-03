@@ -29,7 +29,10 @@ SCRIPT_DIR = pathlib.Path(__file__).parent
 HISTORY_FILE = SCRIPT_DIR / "story_history.json"
 LOG_FILE = pathlib.Path("/tmp/rws_daily_auto.log")
 LOCK_FILE = pathlib.Path("/tmp/rws_daily.lock")
-STATE_FILE = pathlib.Path("/tmp/rws_pending_story.json")
+STATE_FILE = SCRIPT_DIR / "state" / "pending_story.json"
+
+# In GitHub Actions, lock file is always fresh (ephemeral /tmp), so no issue
+GITHUB_ACTIONS = os.environ.get("GITHUB_ACTIONS") == "true"
 
 ENV = {}
 
@@ -47,13 +50,32 @@ def log_message(message):
 
 
 def load_env():
-    """Load .env file and populate ENV dict."""
+    """Load credentials from os.environ (GitHub Actions) and/or .env file."""
     global ENV
+
+    # Load from os.environ first — used when running in GitHub Actions
+    env_keys = [
+        "ANTHROPIC_API_KEY", "PEXELS_API_KEY",
+        "SMTP_HOST", "SMTP_PORT", "SMTP_FROM", "SMTP_PASSWORD",
+        "IMAP_HOST", "IMAP_PORT", "IMAP_USER", "IMAP_PASSWORD",
+        "RWS_SFTP_HOST", "RWS_SFTP_USERNAME", "RWS_SFTP_PASSWORD",
+        "WIX_API_KEY", "WIX_SITE_ID", "WIX_COLLECTION_ID",
+        "GITHUB_TOKEN", "GITHUB_REPO",
+    ]
+    for key in env_keys:
+        val = os.environ.get(key)
+        if val:
+            ENV[key] = val
+
+    # Then load from .env file — overrides os.environ if both present (local dev)
     env_path = SCRIPT_DIR / ".env"
     if not env_path.exists():
-        log_message("Warning: .env file not found")
+        if ENV:
+            log_message(f"No .env file found; using {len(ENV)} env vars from environment")
+        else:
+            log_message("Warning: .env file not found and no env vars set")
         return
-    
+
     try:
         with open(env_path, "r") as f:
             for line in f:
@@ -396,18 +418,19 @@ def send_story_email(story_data):
 
 
 def save_state(story_data, image_data):
-    """Save pending story state to temp file for reply_monitor."""
+    """Save pending story state to state/pending_story.json for reply_monitor."""
     today = datetime.date.today().isoformat()
     email_sent_at = datetime.datetime.now().isoformat()
-    
+
     state = {
         "date": today,
         "email_sent_at": email_sent_at,
         "story": story_data,
         "image": image_data
     }
-    
+
     try:
+        STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(STATE_FILE, "w") as f:
             json.dump(state, f, indent=2)
         log_message(f"State saved to {STATE_FILE}")

@@ -1,0 +1,57 @@
+name: RWS Daily Story Selector
+
+# Runs at 10 PM Eastern Time (3:00 AM UTC, accounting for EST = UTC-5)
+# Change to '0 2 * * *' in summer when Eastern = UTC-4
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write  # Needed to commit state file back to repo
+
+jobs:
+  select-story:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests paramiko
+
+      - name: Run daily story selector
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          SMTP_HOST: send.one.com
+          SMTP_PORT: "465"
+          SMTP_FROM: info@redwhiteandskewed.com
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          IMAP_HOST: imap.one.com
+          IMAP_PORT: "993"
+          IMAP_USER: jim@redwhiteandskewed.com
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          RWS_SFTP_HOST: ${{ secrets.RWS_SFTP_HOST }}
+          RWS_SFTP_USERNAME: ${{ secrets.RWS_SFTP_USERNAME }}
+          RWS_SFTP_PASSWORD: ${{ secrets.RWS_SFTP_PASSWORD }}
+          WIX_API_KEY: ${{ secrets.WIX_API_KEY }}
+          WIX_SITE_ID: ${{ secrets.WIX_SITE_ID }}
+          WIX_COLLECTION_ID: ${{ secrets.WIX_COLLECTION_ID }}
+        run: python3 rws_daily_auto.py
+
+      - name: Commit state file to repo
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "RWS Bot"
+          git add state/pending_story.json story_history.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: daily story pick $(date +%Y-%m-%d)"
+          git push

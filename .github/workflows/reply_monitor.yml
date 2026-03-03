@@ -1,0 +1,59 @@
+name: RWS Reply Monitor
+
+# Checks for your email reply every 30 minutes, all day
+# Exits instantly if no pending story exists (very low resource usage)
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write  # Needed to commit updated state/story files back to repo
+
+jobs:
+  check-reply:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests paramiko
+
+      - name: Check for email reply
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          SMTP_HOST: send.one.com
+          SMTP_PORT: "465"
+          SMTP_FROM: info@redwhiteandskewed.com
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          IMAP_HOST: imap.one.com
+          IMAP_PORT: "993"
+          IMAP_USER: jim@redwhiteandskewed.com
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
+          RWS_SFTP_HOST: ${{ secrets.RWS_SFTP_HOST }}
+          RWS_SFTP_USERNAME: ${{ secrets.RWS_SFTP_USERNAME }}
+          RWS_SFTP_PASSWORD: ${{ secrets.RWS_SFTP_PASSWORD }}
+          WIX_API_KEY: ${{ secrets.WIX_API_KEY }}
+          WIX_SITE_ID: ${{ secrets.WIX_SITE_ID }}
+          WIX_COLLECTION_ID: ${{ secrets.WIX_COLLECTION_ID }}
+        run: python3 rws_reply_monitor.py
+
+      - name: Commit any changes back to repo
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "RWS Bot"
+          # Stage all story JSONs, history, state, index
+          git add state/ story_history.json index.json latest.json 2>/dev/null || true
+          git add 2026-*.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: reply processed $(date +%Y-%m-%dT%H:%M)"
+          git push
