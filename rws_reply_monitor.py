@@ -752,14 +752,26 @@ def publish_story(story_filename):
 def handle_option_1(state):
     """OPTION 1: Publish story."""
     log_message("User chose option 1: PUBLISH")
-    
+
+    # Handle both state formats:
+    # - rws_daily_auto.py saves: {"story": {...}, "image": {...}}
+    # - rws_reply_monitor.py saves: {"story_data": {...}, "story_filename": "...", "image": {...}}
+    story_data = state.get("story_data") or state.get("story")
     story_filename = state.get("story_filename")
-    story_data = state.get("story_data")
-    
-    if not story_filename or not story_data:
+    image_data = state.get("image", {})
+
+    if not story_data:
         log_message("Error: Missing story data for publish")
         return False
-    
+
+    # If no pre-saved story file, generate one now from the state data
+    if not story_filename:
+        log_message("No story_filename in state — generating story JSON from story data...")
+        story_filename = save_story_json(story_data, image_data)
+        if not story_filename:
+            log_message("Error: Failed to save story JSON")
+            return False
+
     if not publish_story(story_filename):
         log_message("Error: Failed to publish story")
         return False
@@ -788,8 +800,8 @@ def handle_option_1(state):
 def handle_option_2(state):
     """OPTION 2: Select new story."""
     log_message("User chose option 2: NEW STORY")
-    
-    story_data = state.get("story_data")
+
+    story_data = state.get("story_data") or state.get("story")
     recent_topics = get_recent_topics(days=7)
     
     if story_data:
@@ -824,9 +836,9 @@ def handle_option_2(state):
 def handle_option_3(state):
     """OPTION 3: New image only."""
     log_message("User chose option 3: NEW IMAGE")
-    
+
+    story_data = state.get("story_data") or state.get("story")
     story_filename = state.get("story_filename")
-    story_data = state.get("story_data")
     current_image = state.get("image", {})
     
     if not story_filename or not story_data:
