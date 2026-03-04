@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-04",
+  "email_sent_at": "2026-03-04T04:41:56.219487",
+  "story": {
+    "title": "Medicare Privatization or Modernization? Republicans Push Major Overhaul of Senior Healthcare",
+    "slug": "medicare-privatization-modernization-republican-overhaul",
+    "topic_keywords": [
+      "Medicare",
+      "healthcare reform",
+      "privatization",
+      "Medicare Advantage",
+      "senior citizens",
+      "entitlement programs",
+      "GOP healthcare plan"
+    ],
+    "conservative_headline": "Republicans Unveil Plan to Save Medicare Through Private Competition and Patient Choice",
+    "liberal_headline": "GOP Threatens Medicare With Privatization Scheme That Would Gut Senior Healthcare Protections",
+    "poll_question": "Should Medicare transition to a private market model?",
+    "poll_option1_label": "Market Competition",
+    "poll_option1_desc": "Private options create efficiency, lower costs, and give seniors more healthcare choices",
+    "poll_option2_label": "Protect Medicare",
+    "poll_option2_desc": "Traditional Medicare guarantees coverage; privatization means profit over patients and denied care",
+    "pexels_search_terms": "elderly healthcare doctor",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image fetch failed"
+  },
+  "image": {
+    "url": "",
+    "page": "",
+    "credit": "Image fetch failed"
+  }
+}
