@@ -241,6 +241,11 @@ def select_story(recent_topics):
 
 def find_pexels_image(search_terms):
     """Find image on Pexels API."""
+    # Normalize search_terms: Claude sometimes returns a list instead of a string
+    if isinstance(search_terms, list):
+        search_terms = " ".join(search_terms)
+    search_terms = str(search_terms).strip()
+
     pexels_key = ENV.get("PEXELS_API_KEY")
     if not pexels_key:
         log_message("Warning: PEXELS_API_KEY not set, returning fallback image dict")
@@ -251,7 +256,9 @@ def find_pexels_image(search_terms):
         }
     
     try:
-        url = f"https://api.pexels.com/v1/search?query={search_terms}&per_page=5&orientation=landscape"
+        from urllib.parse import urlencode
+        params = urlencode({"query": search_terms, "per_page": 5, "orientation": "landscape"})
+        url = f"https://api.pexels.com/v1/search?{params}"
         headers = {"Authorization": pexels_key}
         request = Request(url, headers=headers)
         
