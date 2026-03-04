@@ -38,7 +38,7 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           IMAP_HOST: imap.one.com
           IMAP_PORT: "993"
-          IMAP_USER: jim@redwhiteandskewed.com
+          IMAP_USER: info@redwhiteandskewed.com
           IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
           RWS_SFTP_HOST: ${{ secrets.RWS_SFTP_HOST }}
           RWS_SFTP_USERNAME: ${{ secrets.RWS_SFTP_USERNAME }}
