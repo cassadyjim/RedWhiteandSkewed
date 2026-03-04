@@ -1,30 +1,26 @@
 {
   "date": "2026-03-04",
-  "email_sent_at": "2026-03-04T01:06:12.158254",
+  "email_sent_at": "2026-03-04T02:38:20.226823",
   "story": {
-    "title": "Border Crisis or Humanitarian Victory? Texas National Guard Standoff Escalates as Federal Courts Intervene",
-    "slug": "texas-national-guard-border-standoff-federal-intervention",
+    "title": "Border Security or Government Overreach? DHS Expands Surveillance of Migrant Families",
+    "slug": "dhs-expands-migrant-family-surveillance-2026",
     "topic_keywords": [
-      "Texas border",
-      "National Guard",
       "immigration enforcement",
-      "federal authority",
-      "state sovereignty",
       "border security",
-      "constitutional crisis"
+      "DHS surveillance",
+      "migrant families",
+      "civil liberties",
+      "GPS monitoring",
+      "asylum seekers"
     ],
-    "conservative_headline": "Texas Defends American Sovereignty as Biden Administration Enables Invasion at Southern Border",
-    "liberal_headline": "Texas Governor Defies Federal Law, Blocks Border Patrol Access in Dangerous Constitutional Crisis",
-    "poll_question": "Should Texas control its own border security?",
-    "poll_option1_label": "State Sovereignty",
-    "poll_option1_desc": "Texas has constitutional right to protect its citizens from illegal immigration crisis",
-    "poll_option2_label": "Federal Authority",
-    "poll_option2_desc": "Immigration enforcement is federal responsibility; states cannot override constitutional law",
-    "pexels_search_terms": [
-      "border fence",
-      "Texas",
-      "National Guard"
-    ],
+    "conservative_headline": "DHS Cracks Down on Illegal Immigration with Enhanced Monitoring to Ensure Court Appearances",
+    "liberal_headline": "Biden Administration Escalates Invasive Surveillance of Vulnerable Asylum-Seeking Families",
+    "poll_question": "Should DHS expand surveillance of migrant families awaiting immigration hearings?",
+    "poll_option1_label": "Necessary Enforcement",
+    "poll_option1_desc": "Ensures compliance with immigration laws and prevents people from disappearing into the country",
+    "poll_option2_label": "Privacy Violation",
+    "poll_option2_desc": "Treats vulnerable families like criminals and violates their basic civil liberties",
+    "pexels_search_terms": "border security surveillance technology",
     "image_url": "",
     "image_page": "",
     "image_credit": "Image fetch failed"
