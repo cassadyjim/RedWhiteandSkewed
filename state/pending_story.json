@@ -1,26 +1,30 @@
 {
-  "story_filename": "2026-03-04-trump-family-detention-policy-restart-2026.json",
-  "story_data": {
-    "title": "Border Security or Family Separation? Trump Admin Restarts Controversial Detention Policy",
-    "slug": "trump-family-detention-policy-restart-2026",
+  "date": "2026-03-04",
+  "email_sent_at": "2026-03-04T00:59:17.075817",
+  "story": {
+    "title": "Economic Patriotism or Protectionist Disaster? Biden-Era Trade Restrictions Remain Under New Administration",
+    "slug": "economic-patriotism-or-protectionist-disaster-trade-restrictions-remain",
     "topic_keywords": [
-      "immigration",
-      "border security",
-      "family detention",
-      "ICE policy",
-      "Trump administration",
-      "deportation",
-      "migrant families",
-      "detention centers"
+      "trade policy",
+      "tariffs",
+      "economic nationalism",
+      "free trade",
+      "manufacturing",
+      "protectionism",
+      "global commerce"
     ],
-    "conservative_headline": "Trump Restores Order at Border: Family Units Will Be Detained Together During Processing",
-    "liberal_headline": "Trump Revives Cruel Family Detention Policy, Advocates Warn of Humanitarian Crisis",
-    "poll_question": "Should families be detained together during immigration proceedings?",
-    "poll_option1_label": "Secure Processing",
-    "poll_option1_desc": "Keeps families together while preventing catch-and-release that encourages illegal immigration",
-    "poll_option2_label": "Humanitarian Alternative",
-    "poll_option2_desc": "Detention harms children; families should use ankle monitors and community supervision",
-    "pexels_search_terms": "border fence immigration detention",
+    "conservative_headline": "America First Trade Policies Deliver Jobs and Economic Security Despite Globalist Criticism",
+    "liberal_headline": "Protectionist Trade Wars Continue to Hurt Consumers and Threaten Economic Growth",
+    "poll_question": "Should the US maintain strict trade restrictions to protect domestic industries?",
+    "poll_option1_label": "Protect American Jobs",
+    "poll_option1_desc": "Trade restrictions safeguard workers and rebuild domestic manufacturing strength",
+    "poll_option2_label": "Support Free Trade",
+    "poll_option2_desc": "Protectionism raises consumer prices and damages international economic relationships",
+    "pexels_search_terms": [
+      "shipping containers",
+      "factory workers",
+      "global trade"
+    ],
     "image_url": "",
     "image_page": "",
     "image_credit": "Image fetch failed"
@@ -29,8 +33,5 @@
     "url": "",
     "page": "",
     "credit": "Image fetch failed"
-  },
-  "email_sent_at": "2026-03-04T00:53:51.722155",
-  "date": "2026-03-04",
-  "action_taken": false
+  }
 }
