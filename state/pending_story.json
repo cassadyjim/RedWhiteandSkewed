@@ -1,29 +1,29 @@
 {
   "date": "2026-03-04",
-  "email_sent_at": "2026-03-04T00:05:48.967810",
+  "email_sent_at": "2026-03-04T00:16:34.978394",
   "story": {
-    "title": "Border Security Victory or Humanitarian Crisis? Texas Governor Deploys Additional National Guard Troops",
-    "slug": "texas-national-guard-border-deployment-2026",
+    "title": "Border Security or Political Theater? House Passes 'Remain in Mexico' Enforcement Bill",
+    "slug": "house-remain-in-mexico-enforcement-bill-2026",
     "topic_keywords": [
-      "Texas border",
-      "National Guard deployment",
-      "immigration enforcement",
-      "Greg Abbott",
+      "immigration",
+      "remain in mexico",
       "border security",
-      "migrant crisis",
-      "state federal conflict"
+      "asylum policy",
+      "house legislation",
+      "migrant protection protocols",
+      "congressional divide"
     ],
-    "conservative_headline": "Texas Takes Charge: Governor Abbott Deploys 5,000 More Troops to Secure Border as Biden Administration Fails",
-    "liberal_headline": "Abbott Escalates Dangerous Militarization of Border, Deploying Thousands in Political Stunt",
-    "poll_question": "Should Texas deploy additional National Guard troops to the border?",
+    "conservative_headline": "House Republicans Restore Order: Remain in Mexico Bill Passes to Stop Biden's Border Crisis",
+    "liberal_headline": "GOP House Revives Cruel Trump-Era Policy That Endangered Thousands of Asylum Seekers",
+    "poll_question": "Should asylum seekers wait in Mexico while cases are processed?",
     "poll_option1_label": "Secure Border",
-    "poll_option1_desc": "States must protect citizens when federal government refuses to enforce immigration law",
-    "poll_option2_label": "Dangerous Overreach",
-    "poll_option2_desc": "Political theater that militarizes the border and threatens vulnerable asylum seekers",
+    "poll_option1_desc": "Prevents illegal entry and abuse of asylum system while cases processed",
+    "poll_option2_label": "Protect Refugees",
+    "poll_option2_desc": "Ensures asylum seekers have safety and due process on US soil",
     "pexels_search_terms": [
-      "national guard",
       "border fence",
-      "military troops"
+      "immigration",
+      "mexico border"
     ],
     "image_url": "",
     "image_page": "",
