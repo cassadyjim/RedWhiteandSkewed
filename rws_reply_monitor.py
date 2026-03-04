@@ -646,7 +646,14 @@ def check_imap_for_reply():
 
 
 def generate_full_story(story_data):
-    """Call Claude API to write complete RWS-style story with HTML paragraphs and sourced quotes."""
+    """Call Claude API with live web search to write a complete RWS-style story.
+
+    Uses the web_search_20250305 tool so Claude can find real partisan coverage
+    from Fox News, MSNBC, etc. and quote actual statements before writing the story.
+    Runs an agentic loop: each time Claude searches the web, the API returns
+    stop_reason='pause_turn'; we add the response to messages and continue until
+    stop_reason='end_turn'.
+    """
     try:
         import anthropic
     except ImportError:
@@ -661,144 +668,184 @@ def generate_full_story(story_data):
     title = story_data.get("title", "")
     conservative_headline = story_data.get("conservative_headline", "")
     liberal_headline = story_data.get("liberal_headline", "")
-    poll_question = story_data.get("poll_question", "")
-    poll_option1_label = story_data.get("poll_option1_label", "")
-    poll_option1_desc = story_data.get("poll_option1_desc", "")
-    poll_option2_label = story_data.get("poll_option2_label", "")
-    poll_option2_desc = story_data.get("poll_option2_desc", "")
     topic_keywords = story_data.get("topic_keywords", [])
     if isinstance(topic_keywords, list):
         topic_str = ", ".join(topic_keywords)
     else:
         topic_str = str(topic_keywords)
 
-    # Read the RWS style prompt from repo for style context
-    style_context = ""
+    # Read the full RWS style prompt from repo
+    style_guide = ""
     prompt_path = SCRIPT_DIR / "rws_story_prompt.md"
     if prompt_path.exists():
         try:
             with open(prompt_path, "r") as f:
-                style_context = f.read()
-            log_message("Loaded rws_story_prompt.md for style context")
+                style_guide = f.read()
+            log_message(f"Loaded rws_story_prompt.md ({len(style_guide)} chars)")
         except Exception as e:
             log_message(f"Warning: Could not read rws_story_prompt.md: {e}")
 
-    system_prompt = f"""You are a writer for Red White & Skewed (RWS), a political news site that presents the same story from three distinct partisan perspectives: Conservative, Liberal, and Fact Check. The goal is to show how each side's media ecosystem actually frames the same event for their audience.
+    system_prompt = f"""You are the automated story writer for Red White & Skewed (RWS).
 
-AUTOMATION MODE: You are running as a scheduled story generator without live web search. Use your training knowledge to write high-quality, realistic partisan content. Cite real outlets and named political figures with positions they are known to hold. For URLs use outlet homepages or real section URLs — never fabricate specific article paths.
+RWS presents each political story from three perspectives: Conservative, Liberal, and Fact Check — showing how each side's media ecosystem frames the same event for their audience.
+
+TODAY'S DATE: {today}
+
+YOUR TASK:
+1. Use the web_search tool to find how conservative and liberal media are ACTUALLY covering this story RIGHT NOW.
+   - Search "[topic] Fox News", "[topic] MSNBC", "[topic] Hannity", "[topic] Maddow", etc.
+   - Find real quotes from named commentators, politicians, or pundits.
+   - Find the actual URLs of the articles so you can link to them inline.
+2. After searching, write the full story JSON following the RWS style guide below.
 
 RWS STYLE GUIDE:
-{style_context[:3000] if style_context else "Write passionate, partisan content that authentically captures each side's media framing."}
+{style_guide if style_guide else "Write passionate, partisan content that authentically captures each side's media framing."}
 
-OUTPUT: Return ONLY a single valid JSON object. No markdown fences, no explanation, no preamble."""
+OUTPUT RULES:
+- Return ONLY a single valid JSON object. No markdown fences, no explanation, no preamble.
+- Do not make up quotes. Only use quotes you found via web search.
+- For any quote or fact, link to the actual article URL you found — not just the outlet homepage.
+- If you cannot find a real quote via search, paraphrase the framing without attribution or use a known public statement."""
 
-    user_prompt = f"""Write a complete RWS story. Today is {today}.
+    user_prompt = f"""Write a complete RWS story for today ({today}).
 
 TITLE: {title}
 CONSERVATIVE HEADLINE: {conservative_headline}
 LIBERAL HEADLINE: {liberal_headline}
 TOPIC KEYWORDS: {topic_str}
 
-CRITICAL FORMAT REQUIREMENTS:
+STEP 1 — SEARCH: Use web_search to find real coverage. Suggested searches:
+- "{topic_str} Fox News"
+- "{topic_str} MSNBC"
+- "{topic_str} conservative reaction"
+- "{topic_str} liberal reaction"
+- "{topic_str} Hannity" or "{topic_str} Maddow" (if relevant)
+Find real quotes, real article URLs, real named voices from each side.
 
-1. Paragraphs are HTML strings — embed <strong> and <a href> tags directly inside them.
-2. Conservative links: class="text-red-700 underline hover:text-red-900"
-3. Liberal links: class="text-blue-700 underline hover:text-blue-900"
-4. Factcheck links: class="text-purple-700 underline hover:text-purple-900"
-5. All links: target="_blank" rel="noopener noreferrer"
-6. Sources format: {{"text": "Outlet Name — Description", "url": "https://outlet.com/"}}
-7. Conservative byline: "As seen on Fox News, [outlet], [outlet]"
-8. Liberal byline: "As seen on MSNBC, [outlet], [outlet]"
-9. NO byline field in factcheck section.
-10. 6-9 paragraphs per section. First and last paragraph in <strong>.
-11. Factcheck uses ✓ for confirmed facts, ⚠️ for disputed claims/spin.
-12. Factcheck section headers: <p class="text-xl font-bold text-purple-900">HEADER TEXT:</p> and <p class="text-xl font-bold text-purple-900 mt-6">HEADER TEXT:</p>
+STEP 2 — WRITE THE JSON using this exact structure:
 
-Return this exact JSON structure with real content filled in:
 {{
-  "subtitle": "One neutral sentence summarizing the story",
+  "subtitle": "One neutral sentence summarizing what happened",
   "conservative": {{
     "headline": "{conservative_headline}",
-    "byline": "As seen on Fox News, Washington Examiner, Daily Wire",
+    "byline": "As seen on Fox News, [Outlet2], [Outlet3]",
     "paragraphs": [
-      "<strong>Bold opening that grabs attention from a conservative framing.</strong>",
-      "Second paragraph citing a named conservative voice with an <a href=\\"https://www.foxnews.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">embedded linked quote</a> in the text.",
-      "Third paragraph making a key conservative argument.",
-      "Fourth paragraph citing another voice or statistic.",
-      "Fifth paragraph addressing counter-arguments from the conservative frame.",
-      "Sixth paragraph escalating the stakes.",
-      "<strong>Bold closing that calls to action or makes the conservative case emphatically.</strong>"
+      "<strong>Bold opening paragraph in conservative voice.</strong>",
+      "Paragraph with real quote: <a href=\\"https://actual-article-url.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">linked anchor text</a> in the flow of the sentence.",
+      "Additional paragraphs making the conservative case...",
+      "<strong>Bold closing paragraph.</strong>"
     ],
     "sources": [
-      {{"text": "Fox News — Coverage of {topic_str}", "url": "https://www.foxnews.com/"}},
-      {{"text": "Washington Examiner — Analysis", "url": "https://www.washingtonexaminer.com/"}},
-      {{"text": "Daily Wire — Commentary", "url": "https://www.dailywire.com/"}}
+      {{"text": "Fox News — Exact article title or description", "url": "https://actual-fox-article-url/"}},
+      {{"text": "Washington Examiner — Description", "url": "https://actual-examiner-url/"}}
     ]
   }},
   "liberal": {{
     "headline": "{liberal_headline}",
-    "byline": "As seen on MSNBC, The Guardian, Salon",
+    "byline": "As seen on MSNBC, [Outlet2], [Outlet3]",
     "paragraphs": [
-      "<strong>Bold opening from a progressive framing that challenges the status quo.</strong>",
-      "Second paragraph with <a href=\\"https://www.msnbc.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-blue-700 underline hover:text-blue-900\\">embedded linked quote or stat</a> from a progressive voice.",
-      "Third paragraph making the liberal case.",
-      "Fourth paragraph citing named progressive voices.",
-      "Fifth paragraph on systemic issues or historical context.",
-      "Sixth paragraph on human impact.",
-      "<strong>Bold closing that makes the progressive case emphatically.</strong>"
+      "<strong>Bold opening paragraph in progressive voice.</strong>",
+      "Paragraph with real quote: <a href=\\"https://actual-article-url.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-blue-700 underline hover:text-blue-900\\">linked anchor text</a> in the flow of the sentence.",
+      "Additional paragraphs making the liberal case...",
+      "<strong>Bold closing paragraph.</strong>"
     ],
     "sources": [
-      {{"text": "MSNBC — Coverage", "url": "https://www.msnbc.com/"}},
-      {{"text": "The Guardian — Analysis", "url": "https://www.theguardian.com/us-news"}},
-      {{"text": "Salon — Commentary", "url": "https://www.salon.com/"}}
+      {{"text": "MSNBC — Description", "url": "https://actual-msnbc-url/"}},
+      {{"text": "The Guardian — Description", "url": "https://actual-guardian-url/"}}
     ]
   }},
   "factcheck": {{
     "headline": "Separating Fact from Spin",
     "paragraphs": [
-      "<strong>Both sides are presenting selective versions of events. Here's what we actually know.</strong>",
+      "<strong>Both sides are presenting selective versions of events. Here is what we actually know.</strong>",
       "<p class=\\"text-xl font-bold text-purple-900\\">THE UNDISPUTED FACTS:</p>",
-      "✓ <strong>Key verified fact:</strong> Description with <a href=\\"https://apnews.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">AP sourcing</a>.",
-      "✓ <strong>Second verified fact:</strong> Description.",
-      "✓ <strong>Third verified fact:</strong> Description.",
+      "✓ <strong>Verified fact:</strong> Description with <a href=\\"https://actual-source-url/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">linked source</a>.",
       "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">CONSERVATIVE SPIN VS. REALITY:</p>",
-      "⚠️ <strong>Claim: [specific conservative claim]</strong> — Reality check with nuance.",
-      "✓ <strong>Fair Point:</strong> What conservatives get right on this.",
+      "⚠️ <strong>Claim:</strong> Specific conservative claim — reality check.",
+      "✓ <strong>Fair Point:</strong> What conservatives get right.",
       "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">LIBERAL SPIN VS. REALITY:</p>",
-      "⚠️ <strong>Claim: [specific liberal claim]</strong> — Reality check with nuance.",
-      "✓ <strong>Fair Point:</strong> What liberals get right on this.",
+      "⚠️ <strong>Claim:</strong> Specific liberal claim — reality check.",
+      "✓ <strong>Fair Point:</strong> What liberals get right.",
       "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">THE BIGGER PICTURE:</p>",
-      "Nuanced paragraph about what both sides are missing or oversimplifying.",
-      "<strong>The Bottom Line: Honest assessment of what we know, what we don't, and why this matters — without partisan spin.</strong>"
+      "What both sides are missing or oversimplifying.",
+      "<strong>The Bottom Line: Honest assessment without partisan spin.</strong>"
     ],
     "sources": [
-      {{"text": "Associated Press — News reporting", "url": "https://apnews.com/"}},
-      {{"text": "Reuters — International coverage", "url": "https://www.reuters.com/"}},
-      {{"text": "PolitiFact — Fact checking", "url": "https://www.politifact.com/"}}
+      {{"text": "Associated Press — Description", "url": "https://actual-ap-url/"}},
+      {{"text": "Reuters — Description", "url": "https://actual-reuters-url/"}}
     ]
   }}
 }}
 
-Now write the actual full content following this structure. Make the conservative section sound authentically like Fox News editorial. Make the liberal section sound authentically like MSNBC opinion. Make the factcheck balanced and rigorous. Use real named political figures, real outlets, and positions they are known to hold."""
+FORMAT RULES (CRITICAL):
+- 6-9 paragraphs per section. First AND last paragraph wrapped in <strong>.
+- Links must use actual article URLs from your searches — not just outlet homepages.
+- Conservative link class: text-red-700 underline hover:text-red-900
+- Liberal link class: text-blue-700 underline hover:text-blue-900
+- Factcheck link class: text-purple-700 underline hover:text-purple-900
+- All links: target="_blank" rel="noopener noreferrer"
+- NO byline field in factcheck section.
+- Sources use {{"text": "Outlet — description", "url": "..."}} format.
+
+Now search for real coverage, then write the story JSON."""
 
     try:
         client = anthropic.Anthropic(api_key=ENV["ANTHROPIC_API_KEY"])
-        response = client.messages.create(
-            model="claude-sonnet-4-5-20250929",
-            max_tokens=8192,
-            system=system_prompt,
-            messages=[{"role": "user", "content": user_prompt}]
-        )
-        response_text = response.content[0].text
-        log_message(f"Full story API response: {len(response_text)} characters")
+
+        tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 15}]
+        messages = [{"role": "user", "content": user_prompt}]
+        response_text = ""
+        max_iterations = 25
+
+        for iteration in range(max_iterations):
+            response = client.messages.create(
+                model="claude-sonnet-4-5-20250929",
+                max_tokens=8192,
+                system=system_prompt,
+                tools=tools,
+                messages=messages,
+            )
+            log_message(f"API iteration {iteration + 1}: stop_reason={response.stop_reason}, blocks={len(response.content)}")
+
+            if response.stop_reason == "end_turn":
+                # Extract final text from the last response
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        response_text += block.text
+                log_message(f"Story generation complete after {iteration + 1} iterations, {len(response_text)} chars")
+                break
+
+            elif response.stop_reason == "pause_turn":
+                # Web search was performed server-side — add assistant response and continue
+                messages.append({"role": "assistant", "content": response.content})
+                log_message(f"Web search used in iteration {iteration + 1}, continuing...")
+
+            else:
+                # Unexpected stop reason — grab whatever text is available
+                log_message(f"Unexpected stop_reason: {response.stop_reason}")
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        response_text += block.text
+                break
+        else:
+            log_message(f"Warning: hit max iterations ({max_iterations}) without end_turn")
+            # Try to use whatever text we have
+            for block in response.content:
+                if hasattr(block, "text"):
+                    response_text += block.text
+
+        if not response_text:
+            log_message("Error: No text response from story generation")
+            return None
 
         json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
         if not json_match:
             log_message("Error: No JSON found in full story response")
+            log_message(f"Response preview: {response_text[:500]}")
             return None
 
         content = json.loads(json_match.group())
-        log_message("Full story content generated successfully")
+        log_message("Full story content generated successfully with web search")
         return content
 
     except json.JSONDecodeError as e:
