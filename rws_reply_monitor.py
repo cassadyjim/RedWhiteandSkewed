@@ -646,7 +646,7 @@ def check_imap_for_reply():
 
 
 def generate_full_story(story_data):
-    """Call Claude API to write complete conservative/liberal/factcheck article content."""
+    """Call Claude API to write complete RWS-style story with HTML paragraphs and sourced quotes."""
     try:
         import anthropic
     except ImportError:
@@ -661,81 +661,133 @@ def generate_full_story(story_data):
     title = story_data.get("title", "")
     conservative_headline = story_data.get("conservative_headline", "")
     liberal_headline = story_data.get("liberal_headline", "")
+    poll_question = story_data.get("poll_question", "")
+    poll_option1_label = story_data.get("poll_option1_label", "")
+    poll_option1_desc = story_data.get("poll_option1_desc", "")
+    poll_option2_label = story_data.get("poll_option2_label", "")
+    poll_option2_desc = story_data.get("poll_option2_desc", "")
     topic_keywords = story_data.get("topic_keywords", [])
     if isinstance(topic_keywords, list):
         topic_str = ", ".join(topic_keywords)
     else:
         topic_str = str(topic_keywords)
 
-    prompt = f"""You are a writer for Red White & Skewed, a political news site that presents every story from three distinct perspectives: Conservative, Liberal, and Fact Check.
+    # Read the RWS style prompt from repo for style context
+    style_context = ""
+    prompt_path = SCRIPT_DIR / "rws_story_prompt.md"
+    if prompt_path.exists():
+        try:
+            with open(prompt_path, "r") as f:
+                style_context = f.read()
+            log_message("Loaded rws_story_prompt.md for style context")
+        except Exception as e:
+            log_message(f"Warning: Could not read rws_story_prompt.md: {e}")
 
-Today is {today}. Write a complete story for this topic.
+    system_prompt = f"""You are a writer for Red White & Skewed (RWS), a political news site that presents the same story from three distinct partisan perspectives: Conservative, Liberal, and Fact Check. The goal is to show how each side's media ecosystem actually frames the same event for their audience.
+
+AUTOMATION MODE: You are running as a scheduled story generator without live web search. Use your training knowledge to write high-quality, realistic partisan content. Cite real outlets and named political figures with positions they are known to hold. For URLs use outlet homepages or real section URLs — never fabricate specific article paths.
+
+RWS STYLE GUIDE:
+{style_context[:3000] if style_context else "Write passionate, partisan content that authentically captures each side's media framing."}
+
+OUTPUT: Return ONLY a single valid JSON object. No markdown fences, no explanation, no preamble."""
+
+    user_prompt = f"""Write a complete RWS story. Today is {today}.
 
 TITLE: {title}
 CONSERVATIVE HEADLINE: {conservative_headline}
 LIBERAL HEADLINE: {liberal_headline}
 TOPIC KEYWORDS: {topic_str}
 
-Return ONLY a valid JSON object with this exact structure (no markdown, no explanation):
+CRITICAL FORMAT REQUIREMENTS:
+
+1. Paragraphs are HTML strings — embed <strong> and <a href> tags directly inside them.
+2. Conservative links: class="text-red-700 underline hover:text-red-900"
+3. Liberal links: class="text-blue-700 underline hover:text-blue-900"
+4. Factcheck links: class="text-purple-700 underline hover:text-purple-900"
+5. All links: target="_blank" rel="noopener noreferrer"
+6. Sources format: {{"text": "Outlet Name — Description", "url": "https://outlet.com/"}}
+7. Conservative byline: "As seen on Fox News, [outlet], [outlet]"
+8. Liberal byline: "As seen on MSNBC, [outlet], [outlet]"
+9. NO byline field in factcheck section.
+10. 6-9 paragraphs per section. First and last paragraph in <strong>.
+11. Factcheck uses ✓ for confirmed facts, ⚠️ for disputed claims/spin.
+12. Factcheck section headers: <p class="text-xl font-bold text-purple-900">HEADER TEXT:</p> and <p class="text-xl font-bold text-purple-900 mt-6">HEADER TEXT:</p>
+
+Return this exact JSON structure with real content filled in:
 {{
-  "subtitle": "One neutral sentence describing what happened",
+  "subtitle": "One neutral sentence summarizing the story",
   "conservative": {{
     "headline": "{conservative_headline}",
-    "byline": "From the Right",
+    "byline": "As seen on Fox News, Washington Examiner, Daily Wire",
     "paragraphs": [
-      "Paragraph 1 (2-4 sentences, Fox News conservative framing)",
-      "Paragraph 2",
-      "Paragraph 3",
-      "Paragraph 4"
+      "<strong>Bold opening that grabs attention from a conservative framing.</strong>",
+      "Second paragraph citing a named conservative voice with an <a href=\\"https://www.foxnews.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">embedded linked quote</a> in the text.",
+      "Third paragraph making a key conservative argument.",
+      "Fourth paragraph citing another voice or statistic.",
+      "Fifth paragraph addressing counter-arguments from the conservative frame.",
+      "Sixth paragraph escalating the stakes.",
+      "<strong>Bold closing that calls to action or makes the conservative case emphatically.</strong>"
     ],
     "sources": [
-      {{"label": "Fox News", "url": "https://www.foxnews.com/"}},
-      {{"label": "Daily Caller", "url": "https://dailycaller.com/"}}
+      {{"text": "Fox News — Coverage of {topic_str}", "url": "https://www.foxnews.com/"}},
+      {{"text": "Washington Examiner — Analysis", "url": "https://www.washingtonexaminer.com/"}},
+      {{"text": "Daily Wire — Commentary", "url": "https://www.dailywire.com/"}}
     ]
   }},
   "liberal": {{
     "headline": "{liberal_headline}",
-    "byline": "From the Left",
+    "byline": "As seen on MSNBC, The Guardian, Salon",
     "paragraphs": [
-      "Paragraph 1 (2-4 sentences, MSNBC/progressive framing)",
-      "Paragraph 2",
-      "Paragraph 3",
-      "Paragraph 4"
+      "<strong>Bold opening from a progressive framing that challenges the status quo.</strong>",
+      "Second paragraph with <a href=\\"https://www.msnbc.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-blue-700 underline hover:text-blue-900\\">embedded linked quote or stat</a> from a progressive voice.",
+      "Third paragraph making the liberal case.",
+      "Fourth paragraph citing named progressive voices.",
+      "Fifth paragraph on systemic issues or historical context.",
+      "Sixth paragraph on human impact.",
+      "<strong>Bold closing that makes the progressive case emphatically.</strong>"
     ],
     "sources": [
-      {{"label": "NPR", "url": "https://www.npr.org/"}},
-      {{"label": "The Guardian", "url": "https://www.theguardian.com/"}}
+      {{"text": "MSNBC — Coverage", "url": "https://www.msnbc.com/"}},
+      {{"text": "The Guardian — Analysis", "url": "https://www.theguardian.com/us-news"}},
+      {{"text": "Salon — Commentary", "url": "https://www.salon.com/"}}
     ]
   }},
   "factcheck": {{
-    "headline": "Just the Facts",
-    "byline": "Fact Check Desk",
+    "headline": "Separating Fact from Spin",
     "paragraphs": [
-      "Paragraph 1 (2-4 sentences, verified neutral facts only)",
-      "Paragraph 2",
-      "Paragraph 3",
-      "Paragraph 4"
+      "<strong>Both sides are presenting selective versions of events. Here's what we actually know.</strong>",
+      "<p class=\\"text-xl font-bold text-purple-900\\">THE UNDISPUTED FACTS:</p>",
+      "✓ <strong>Key verified fact:</strong> Description with <a href=\\"https://apnews.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">AP sourcing</a>.",
+      "✓ <strong>Second verified fact:</strong> Description.",
+      "✓ <strong>Third verified fact:</strong> Description.",
+      "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">CONSERVATIVE SPIN VS. REALITY:</p>",
+      "⚠️ <strong>Claim: [specific conservative claim]</strong> — Reality check with nuance.",
+      "✓ <strong>Fair Point:</strong> What conservatives get right on this.",
+      "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">LIBERAL SPIN VS. REALITY:</p>",
+      "⚠️ <strong>Claim: [specific liberal claim]</strong> — Reality check with nuance.",
+      "✓ <strong>Fair Point:</strong> What liberals get right on this.",
+      "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">THE BIGGER PICTURE:</p>",
+      "Nuanced paragraph about what both sides are missing or oversimplifying.",
+      "<strong>The Bottom Line: Honest assessment of what we know, what we don't, and why this matters — without partisan spin.</strong>"
     ],
     "sources": [
-      {{"label": "Associated Press", "url": "https://apnews.com/"}},
-      {{"label": "Reuters", "url": "https://www.reuters.com/"}}
+      {{"text": "Associated Press — News reporting", "url": "https://apnews.com/"}},
+      {{"text": "Reuters — International coverage", "url": "https://www.reuters.com/"}},
+      {{"text": "PolitiFact — Fact checking", "url": "https://www.politifact.com/"}}
     ]
   }}
 }}
 
-Style guide:
-- Conservative: Emphasize security, rule of law, patriotism, economic freedom, personal responsibility. Sound like Fox News or WSJ editorial.
-- Liberal: Emphasize civil rights, human impact, systemic issues, government accountability. Sound like MSNBC or The Atlantic.
-- Fact Check: Only verified facts. No spin. State what happened, key figures involved, timeline, official statements.
-- Each section must have exactly 4 paragraphs of 2-4 sentences each.
-- Return ONLY the JSON object. No markdown fences, no preamble."""
+Now write the actual full content following this structure. Make the conservative section sound authentically like Fox News editorial. Make the liberal section sound authentically like MSNBC opinion. Make the factcheck balanced and rigorous. Use real named political figures, real outlets, and positions they are known to hold."""
 
     try:
         client = anthropic.Anthropic(api_key=ENV["ANTHROPIC_API_KEY"])
         response = client.messages.create(
             model="claude-sonnet-4-5-20250929",
-            max_tokens=4096,
-            messages=[{"role": "user", "content": prompt}]
+            max_tokens=8192,
+            system=system_prompt,
+            messages=[{"role": "user", "content": user_prompt}]
         )
         response_text = response.content[0].text
         log_message(f"Full story API response: {len(response_text)} characters")
