@@ -1,13 +1,20 @@
 {
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
-    {"date": "2026-03-01", "slug": "us-israel-strikes-iran", "topic": "US Israel military strikes Iran Khamenei war"},
-    {"date": "2026-02-25", "slug": "scotus-strikes-down-trump-tariffs", "topic": "Supreme Court IEEPA tariffs ruling"},
-    {"date": "2026-02-05", "slug": "trump-nationalize-elections", "topic": "Trump nationalize elections voting"},
-    {"date": "2026-02-17", "slug": "save-america-act-voter-id", "topic": "SAVE Act voter ID elections"},
-    {"date": "2026-02-14", "slug": "epa-endangerment-finding", "topic": "EPA climate environment regulations"},
-    {"date": "2026-02-04", "slug": "bad-bunny-super-bowl", "topic": "Super Bowl halftime Bad Bunny"},
-    {"date": "2026-02-01", "slug": "noem-impeachment", "topic": "Noem impeachment"},
-    {"date": "2026-02-01", "slug": "doge-social-security-data", "topic": "DOGE social security data"}
+    {
+      "date": "2026-03-01",
+      "slug": "us-israel-strikes-iran",
+      "topic": "US Israel military strikes Iran Khamenei war"
+    },
+    {
+      "date": "2026-02-25",
+      "slug": "scotus-strikes-down-trump-tariffs",
+      "topic": "Supreme Court IEEPA tariffs ruling"
+    },
+    {
+      "date": "2026-03-04",
+      "slug": "trump-federal-reserve-pressure-campaign-2026",
+      "topic": "Federal Reserve Trump interest rates Jerome Powell central bank independence monetary policy inflation"
+    }
   ]
 }
