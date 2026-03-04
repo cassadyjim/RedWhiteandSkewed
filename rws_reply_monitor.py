@@ -691,67 +691,79 @@ RWS presents each political story from three perspectives: Conservative, Liberal
 
 TODAY'S DATE: {today}
 
-YOUR TASK:
-1. Use the web_search tool to find how conservative and liberal media are ACTUALLY covering this story RIGHT NOW.
-   - Search "[topic] Fox News", "[topic] MSNBC", "[topic] Hannity", "[topic] Maddow", etc.
-   - Find real quotes from named commentators, politicians, or pundits.
-   - Find the actual URLs of the articles so you can link to them inline.
-2. After searching, write the full story JSON following the RWS style guide below.
-
 RWS STYLE GUIDE:
-{style_guide if style_guide else "Write passionate, partisan content that authentically captures each side's media framing."}
+{style_guide if style_guide else "Write passionate, partisan content that authentically captures each side's media framing."}"""
 
-OUTPUT RULES:
-- Return ONLY a single valid JSON object. No markdown fences, no explanation, no preamble.
-- Do not make up quotes. Only use quotes you found via web search.
-- For any quote or fact, link to the actual article URL you found — not just the outlet homepage.
-- If you cannot find a real quote via search, paraphrase the framing without attribution or use a known public statement."""
+    # PHASE 1: Force a dedicated research turn with web search
+    research_prompt = f"""I need you to research this political story for our RWS publication. TODAY IS {today}.
 
-    user_prompt = f"""Write a complete RWS story for today ({today}).
-
-TITLE: {title}
+STORY TITLE: {title}
 CONSERVATIVE HEADLINE: {conservative_headline}
 LIBERAL HEADLINE: {liberal_headline}
 TOPIC KEYWORDS: {topic_str}
 
-STEP 1 — SEARCH: Use web_search to find real coverage. Suggested searches:
+YOUR JOB RIGHT NOW IS RESEARCH ONLY — no writing yet.
+
+Use web_search to find:
+1. How Fox News, Washington Examiner, Daily Wire, or other conservative outlets are covering this story
+2. How MSNBC, The Guardian, Salon, or other liberal outlets are covering this story
+3. Real quotes from named conservative commentators, politicians, or pundits about this topic
+4. Real quotes from named liberal commentators, politicians, or pundits about this topic
+5. Neutral facts from AP, Reuters, or similar outlets
+
+Run at least 4-6 searches before summarizing. Suggested searches:
 - "{topic_str} Fox News"
 - "{topic_str} MSNBC"
-- "{topic_str} conservative reaction"
-- "{topic_str} liberal reaction"
-- "{topic_str} Hannity" or "{topic_str} Maddow" (if relevant)
-Find real quotes, real article URLs, real named voices from each side.
+- "{topic_str} Washington Examiner"
+- "{topic_str} site:foxnews.com OR site:dailywire.com"
+- "{topic_str} site:msnbc.com OR site:theguardian.com"
+- "{topic_str} AP OR Reuters"
 
-STEP 2 — WRITE THE JSON using this exact structure:
+After searching, summarize what you found: list the key quotes, the framing each side is using, and the actual article URLs you found. Do NOT write the story JSON yet — just report your research findings."""
 
+    write_prompt = f"""Great. Now use what you just found to write the full RWS story JSON.
+
+CRITICAL FORMAT RULES:
+- Output ONLY a valid JSON object. No markdown fences (no ```json), no explanation before or after.
+- Use double quotes throughout — this must be valid JSON, not a Python dict.
+- 6-9 paragraphs per section. First AND last paragraph wrapped in <strong>.
+- Embed inline links using actual article URLs from your research — not just outlet homepages.
+- Conservative link class: text-red-700 underline hover:text-red-900
+- Liberal link class: text-blue-700 underline hover:text-blue-900
+- Factcheck link class: text-purple-700 underline hover:text-purple-900
+- All links: target="_blank" rel="noopener noreferrer"
+- NO byline field in factcheck section.
+- Sources: {{"text": "Outlet — article description", "url": "https://actual-article-url/"}}
+
+Required JSON structure:
 {{
   "subtitle": "One neutral sentence summarizing what happened",
   "conservative": {{
     "headline": "{conservative_headline}",
     "byline": "As seen on Fox News, [Outlet2], [Outlet3]",
     "paragraphs": [
-      "<strong>Bold opening paragraph in conservative voice.</strong>",
-      "Paragraph with real quote: <a href=\\"https://actual-article-url.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">linked anchor text</a> in the flow of the sentence.",
-      "Additional paragraphs making the conservative case...",
+      "<strong>Bold opening in conservative voice.</strong>",
+      "Paragraph with real quote inline: As <a href=\\"https://actual-url/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">Fox News reported</a>, [actual quote or finding].",
+      "... 4-7 more paragraphs making the conservative case with linked sources ...",
       "<strong>Bold closing paragraph.</strong>"
     ],
     "sources": [
-      {{"text": "Fox News — Exact article title or description", "url": "https://actual-fox-article-url/"}},
-      {{"text": "Washington Examiner — Description", "url": "https://actual-examiner-url/"}}
+      {{"text": "Fox News — Article title", "url": "https://foxnews.com/actual-article"}},
+      {{"text": "Washington Examiner — Article title", "url": "https://washingtonexaminer.com/actual-article"}}
     ]
   }},
   "liberal": {{
     "headline": "{liberal_headline}",
     "byline": "As seen on MSNBC, [Outlet2], [Outlet3]",
     "paragraphs": [
-      "<strong>Bold opening paragraph in progressive voice.</strong>",
-      "Paragraph with real quote: <a href=\\"https://actual-article-url.com/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-blue-700 underline hover:text-blue-900\\">linked anchor text</a> in the flow of the sentence.",
-      "Additional paragraphs making the liberal case...",
+      "<strong>Bold opening in progressive voice.</strong>",
+      "Paragraph with real quote inline: <a href=\\"https://actual-url/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-blue-700 underline hover:text-blue-900\\">MSNBC</a> noted that [actual quote or finding].",
+      "... 4-7 more paragraphs making the liberal case with linked sources ...",
       "<strong>Bold closing paragraph.</strong>"
     ],
     "sources": [
-      {{"text": "MSNBC — Description", "url": "https://actual-msnbc-url/"}},
-      {{"text": "The Guardian — Description", "url": "https://actual-guardian-url/"}}
+      {{"text": "MSNBC — Article title", "url": "https://msnbc.com/actual-article"}},
+      {{"text": "The Guardian — Article title", "url": "https://theguardian.com/actual-article"}}
     ]
   }},
   "factcheck": {{
@@ -759,7 +771,8 @@ STEP 2 — WRITE THE JSON using this exact structure:
     "paragraphs": [
       "<strong>Both sides are presenting selective versions of events. Here is what we actually know.</strong>",
       "<p class=\\"text-xl font-bold text-purple-900\\">THE UNDISPUTED FACTS:</p>",
-      "✓ <strong>Verified fact:</strong> Description with <a href=\\"https://actual-source-url/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">linked source</a>.",
+      "✓ <strong>Verified fact:</strong> Description with <a href=\\"https://actual-url/\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">sourced link</a>.",
+      "✓ <strong>Second verified fact:</strong> Description with sourced link.",
       "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">CONSERVATIVE SPIN VS. REALITY:</p>",
       "⚠️ <strong>Claim:</strong> Specific conservative claim — reality check.",
       "✓ <strong>Fair Point:</strong> What conservatives get right.",
@@ -771,86 +784,132 @@ STEP 2 — WRITE THE JSON using this exact structure:
       "<strong>The Bottom Line: Honest assessment without partisan spin.</strong>"
     ],
     "sources": [
-      {{"text": "Associated Press — Description", "url": "https://actual-ap-url/"}},
-      {{"text": "Reuters — Description", "url": "https://actual-reuters-url/"}}
+      {{"text": "Associated Press — Article title", "url": "https://apnews.com/actual-article"}},
+      {{"text": "Reuters — Article title", "url": "https://reuters.com/actual-article"}}
     ]
   }}
 }}
 
-FORMAT RULES (CRITICAL):
-- 6-9 paragraphs per section. First AND last paragraph wrapped in <strong>.
-- Links must use actual article URLs from your searches — not just outlet homepages.
-- Conservative link class: text-red-700 underline hover:text-red-900
-- Liberal link class: text-blue-700 underline hover:text-blue-900
-- Factcheck link class: text-purple-700 underline hover:text-purple-900
-- All links: target="_blank" rel="noopener noreferrer"
-- NO byline field in factcheck section.
-- Sources use {{"text": "Outlet — description", "url": "..."}} format.
+Output the JSON now. Remember: valid JSON only, double quotes, no markdown fences."""
 
-Now search for real coverage, then write the story JSON."""
+    def extract_json(text):
+        """Robustly extract and parse JSON from a response string."""
+        # Strip markdown fences
+        text = re.sub(r'^```(?:json)?\s*', '', text.strip(), flags=re.MULTILINE)
+        text = re.sub(r'\s*```$', '', text.strip(), flags=re.MULTILINE)
+
+        # Try direct parse first
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError:
+            pass
+
+        # Try to find the outermost {...} block
+        json_match = re.search(r'\{.*\}', text, re.DOTALL)
+        if json_match:
+            candidate = json_match.group()
+            try:
+                return json.loads(candidate)
+            except json.JSONDecodeError:
+                pass
+            # Last resort: Python literal eval for single-quoted dicts
+            try:
+                import ast
+                result = ast.literal_eval(candidate)
+                if isinstance(result, dict):
+                    return result
+            except Exception:
+                pass
+
+        log_message(f"JSON extraction failed. Response preview: {text[:400]}")
+        return None
 
     try:
         client = anthropic.Anthropic(api_key=ENV["ANTHROPIC_API_KEY"])
-
         tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 15}]
-        messages = [{"role": "user", "content": user_prompt}]
-        response_text = ""
-        max_iterations = 25
+
+        # --- PHASE 1: Research turn (forces web search) ---
+        log_message("Phase 1: Starting web research...")
+        messages = [{"role": "user", "content": research_prompt}]
+        research_text = ""
+        max_iterations = 20
 
         for iteration in range(max_iterations):
+            response = client.messages.create(
+                model="claude-sonnet-4-5-20250929",
+                max_tokens=4096,
+                system=system_prompt,
+                tools=tools,
+                messages=messages,
+            )
+            log_message(f"Research iteration {iteration + 1}: stop_reason={response.stop_reason}, blocks={len(response.content)}")
+
+            if response.stop_reason == "end_turn":
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        research_text += block.text
+                log_message(f"Research complete: {len(research_text)} chars of findings")
+                break
+            elif response.stop_reason == "pause_turn":
+                messages.append({"role": "assistant", "content": response.content})
+                log_message(f"Web search in progress (iteration {iteration + 1})...")
+            else:
+                log_message(f"Unexpected stop_reason in research: {response.stop_reason}")
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        research_text += block.text
+                break
+
+        if not research_text:
+            log_message("Warning: No research findings — proceeding with write phase anyway")
+
+        # --- PHASE 2: Write turn (uses research findings, produces JSON) ---
+        log_message("Phase 2: Writing story JSON from research...")
+        write_messages = [
+            {"role": "user", "content": research_prompt},
+            {"role": "assistant", "content": research_text or "I searched but could not find specific recent coverage. I will write based on general knowledge of how each side frames this topic."},
+            {"role": "user", "content": write_prompt},
+        ]
+
+        response_text = ""
+        for iteration in range(5):  # Write phase rarely needs more than 1-2 turns
             response = client.messages.create(
                 model="claude-sonnet-4-5-20250929",
                 max_tokens=8192,
                 system=system_prompt,
                 tools=tools,
-                messages=messages,
+                messages=write_messages,
             )
-            log_message(f"API iteration {iteration + 1}: stop_reason={response.stop_reason}, blocks={len(response.content)}")
+            log_message(f"Write iteration {iteration + 1}: stop_reason={response.stop_reason}, blocks={len(response.content)}")
 
             if response.stop_reason == "end_turn":
-                # Extract final text from the last response
                 for block in response.content:
                     if hasattr(block, "text"):
                         response_text += block.text
-                log_message(f"Story generation complete after {iteration + 1} iterations, {len(response_text)} chars")
+                log_message(f"Write phase complete: {len(response_text)} chars")
                 break
-
             elif response.stop_reason == "pause_turn":
-                # Web search was performed server-side — add assistant response and continue
-                messages.append({"role": "assistant", "content": response.content})
-                log_message(f"Web search used in iteration {iteration + 1}, continuing...")
-
+                write_messages.append({"role": "assistant", "content": response.content})
+                log_message(f"Additional search in write phase (iteration {iteration + 1})...")
             else:
-                # Unexpected stop reason — grab whatever text is available
-                log_message(f"Unexpected stop_reason: {response.stop_reason}")
+                log_message(f"Unexpected stop_reason in write phase: {response.stop_reason}")
                 for block in response.content:
                     if hasattr(block, "text"):
                         response_text += block.text
                 break
-        else:
-            log_message(f"Warning: hit max iterations ({max_iterations}) without end_turn")
-            # Try to use whatever text we have
-            for block in response.content:
-                if hasattr(block, "text"):
-                    response_text += block.text
 
         if not response_text:
-            log_message("Error: No text response from story generation")
+            log_message("Error: No text response from write phase")
             return None
 
-        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
-        if not json_match:
-            log_message("Error: No JSON found in full story response")
-            log_message(f"Response preview: {response_text[:500]}")
+        content = extract_json(response_text)
+        if content is None:
+            log_message("Error: Could not extract valid JSON from story response")
             return None
 
-        content = json.loads(json_match.group())
-        log_message("Full story content generated successfully with web search")
+        log_message("Full story content generated successfully with live web search")
         return content
 
-    except json.JSONDecodeError as e:
-        log_message(f"Error parsing full story JSON: {e}")
-        return None
     except Exception as e:
         log_message(f"Error generating full story: {e}")
         return None
