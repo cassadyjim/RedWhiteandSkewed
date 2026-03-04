@@ -1,29 +1,28 @@
 {
-  "date": "2026-03-04",
-  "email_sent_at": "2026-03-04T00:35:33.374594",
-  "story": {
-    "title": "Fiscal Responsibility or Heartless Cuts? House Republicans Unveil Social Safety Net Overhaul",
-    "slug": "house-republicans-social-safety-net-overhaul-2026",
+  "story_filename": "2026-03-04-texas-razor-wire-border-security-federal-opposition.json",
+  "story_data": {
+    "title": "Border Security or Government Overreach? Texas National Guard Expands Razor Wire Deployment Despite Federal Opposition",
+    "slug": "texas-razor-wire-border-security-federal-opposition",
     "topic_keywords": [
-      "social safety net",
-      "entitlement reform",
-      "House Republicans",
-      "Medicaid cuts",
-      "SNAP benefits",
-      "budget deficit",
-      "welfare reform"
+      "border security",
+      "Texas National Guard",
+      "razor wire",
+      "immigration enforcement",
+      "state federal conflict",
+      "Governor Abbott",
+      "border crisis"
     ],
-    "conservative_headline": "House GOP Introduces Bold Plan to Save Entitlement Programs from Bankruptcy, Restore Fiscal Sanity",
-    "liberal_headline": "Republicans Target Vulnerable Americans with Devastating Cuts to Healthcare and Food Assistance",
-    "poll_question": "Should Congress reform social safety net programs?",
-    "poll_option1_label": "Reform Now",
-    "poll_option1_desc": "Programs are unsustainable and need work requirements to prevent fraud and bankruptcy",
-    "poll_option2_label": "Protect Benefits",
-    "poll_option2_desc": "Cuts will harm millions of struggling families who depend on vital assistance",
+    "conservative_headline": "Texas Stands Strong: National Guard Deploys More Razor Wire as Biden Admin Refuses to Secure Border",
+    "liberal_headline": "Texas Defies Federal Authority with Dangerous Razor Wire Expansion Threatening Migrant Safety",
+    "poll_question": "Should Texas expand razor wire at the border despite federal objections?",
+    "poll_option1_label": "Protect Our Border",
+    "poll_option1_desc": "States must act when federal government fails its constitutional duty to secure borders",
+    "poll_option2_label": "Follow Federal Law",
+    "poll_option2_desc": "Immigration enforcement is federal jurisdiction; states cannot override constitutional authority",
     "pexels_search_terms": [
-      "capitol building",
-      "congress",
-      "government"
+      "border fence",
+      "barbed wire",
+      "security barrier"
     ],
     "image_url": "",
     "image_page": "",
@@ -33,5 +32,8 @@
     "url": "",
     "page": "",
     "credit": "Error fetching image"
-  }
+  },
+  "email_sent_at": "2026-03-04T00:45:00.668675",
+  "date": "2026-03-04",
+  "action_taken": false
 }
