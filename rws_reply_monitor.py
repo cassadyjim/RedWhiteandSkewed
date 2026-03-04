@@ -702,50 +702,47 @@ def save_story_json(story_data, image_data):
 
 
 def publish_story(story_filename):
-    """Publish story using rws_publish.sh and rws_to_wix.py."""
+    """Publish story to one.com (SFTP) and Wix. Bypasses rws_publish.sh which requires .env."""
     try:
         story_path = SCRIPT_DIR / story_filename
         if not story_path.exists():
             log_message(f"Error: Story file not found: {story_path}")
             return False
-        
-        publish_script = SCRIPT_DIR / "rws_publish.sh"
-        if not publish_script.exists():
-            log_message(f"Error: rws_publish.sh not found")
-            return False
-        
-        log_message(f"Running rws_publish.sh {story_filename}...")
+
+        # Step 1: Upload to one.com via rws_upload.py (reads SFTP creds from env vars)
+        log_message(f"Uploading to one.com: {story_filename}...")
         result = subprocess.run(
-            ["bash", "rws_publish.sh", story_filename],
+            ["python3", "rws_upload.py", "--story", str(story_path)],
             cwd=str(SCRIPT_DIR),
             capture_output=True,
-            timeout=30
+            timeout=60,
+            env={**os.environ}  # Pass all env vars (includes SFTP creds from GitHub Actions)
         )
-        
+        log_message(f"rws_upload.py stdout: {result.stdout.decode().strip()}")
         if result.returncode != 0:
-            log_message(f"rws_publish.sh failed: {result.stderr.decode()}")
+            log_message(f"rws_upload.py failed: {result.stderr.decode().strip()}")
             return False
-        
-        log_message(f"rws_publish.sh completed successfully")
-        
-        log_message(f"Running rws_to_wix.py {story_filename}...")
+        log_message("one.com upload completed successfully")
+
+        # Step 2: Publish to Wix via rws_to_wix.py (reads Wix creds from env vars)
+        log_message(f"Publishing to Wix: {story_filename}...")
         result = subprocess.run(
-            ["python3", "rws_to_wix.py", story_filename],
+            ["python3", "rws_to_wix.py", str(story_path)],
             cwd=str(SCRIPT_DIR),
             capture_output=True,
-            timeout=30
+            timeout=60,
+            env={**os.environ}
         )
-        
+        log_message(f"rws_to_wix.py stdout: {result.stdout.decode().strip()}")
         if result.returncode != 0:
-            log_message(f"rws_to_wix.py failed: {result.stderr.decode()}")
+            log_message(f"rws_to_wix.py failed: {result.stderr.decode().strip()}")
             return False
-        
-        log_message(f"rws_to_wix.py completed successfully")
-        
+        log_message("Wix publish completed successfully")
+
         return True
-        
+
     except subprocess.TimeoutExpired:
-        log_message("Error: Publishing scripts timed out")
+        log_message("Error: Publishing scripts timed out after 60s")
         return False
     except Exception as e:
         log_message(f"Error publishing story: {e}")

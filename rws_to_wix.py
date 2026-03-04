@@ -41,8 +41,8 @@ except ImportError:
 def load_env():
     env_path = Path(__file__).parent / '.env'
     if not env_path.exists():
-        print("❌ .env file not found. Copy .env.example to .env and add your credentials.")
-        sys.exit(1)
+        # In GitHub Actions, credentials come from environment variables — this is fine
+        return
     with open(env_path) as f:
         for line in f:
             line = line.strip()
