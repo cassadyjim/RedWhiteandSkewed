@@ -1,0 +1,86 @@
+{
+  "date": "2026-03-04",
+  "title": "Border Security or Government Overreach? DHS Expands Surveillance of Migrant Families",
+  "subtitle": "Department of Homeland Security announces expansion of GPS monitoring program for migrant families awaiting immigration proceedings",
+  "image": {
+    "url": "",
+    "credit": "Image fetch failed",
+    "alt": "Border Security or Government Overreach? DHS Expands Surveillance of Migrant Families",
+    "source": "Pexels",
+    "page": "",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should DHS expand surveillance of migrant families awaiting immigration hearings?",
+    "options": [
+      {
+        "label": "Necessary Enforcement",
+        "description": "Ensures compliance with immigration laws and prevents people from disappearing into the country"
+      },
+      {
+        "label": "Privacy Violation",
+        "description": "Treats vulnerable families like criminals and violates their basic civil liberties"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "DHS Cracks Down on Illegal Immigration with Enhanced Monitoring to Ensure Court Appearances",
+    "byline": "From the Right",
+    "paragraphs": [
+      "The Department of Homeland Security is finally taking decisive action to address the ongoing border crisis by expanding its monitoring program for illegal immigrants awaiting court proceedings. This common-sense measure will help ensure that those who enter our country unlawfully actually show up for their immigration hearings, rather than disappearing into the interior as so many have done under catch-and-release policies.",
+      "For years, conservatives have warned that lax enforcement creates a system where migrants simply ignore court dates and remain in the country illegally. Data shows that tens of thousands of migrants fail to appear for their scheduled hearings each year, making a mockery of our immigration system. Enhanced GPS monitoring provides a technological solution that protects American communities while ensuring accountability.",
+      "This program represents a fiscally responsible alternative to detention that allows DHS to track individuals who have illegally crossed our borders. By knowing the whereabouts of those awaiting deportation proceedings, law enforcement can better protect citizens and ensure the integrity of our legal system. It's a reasonable compromise that prioritizes both enforcement and efficiency.",
+      "Critics who label this as government overreach ignore the fundamental principle that nations have the right to control their borders and enforce their laws. These individuals chose to enter the United States illegally, and monitoring their location while they await legal proceedings is a minimal requirement. Americans deserve to know that their government is serious about immigration enforcement and protecting national sovereignty."
+    ],
+    "sources": [
+      {
+        "label": "Fox News",
+        "url": "https://www.foxnews.com/"
+      },
+      {
+        "label": "Daily Caller",
+        "url": "https://dailycaller.com/"
+      }
+    ]
+  },
+  "liberal": {
+    "headline": "Biden Administration Escalates Invasive Surveillance of Vulnerable Asylum-Seeking Families",
+    "byline": "From the Left",
+    "paragraphs": [
+      "The Biden administration has dramatically expanded a controversial GPS monitoring program that civil rights advocates warn treats asylum-seeking families like criminals. The Department of Homeland Security's surveillance expansion will subject thousands more vulnerable individuals, including families with young children, to constant tracking and monitoring that critics say violates basic human dignity and privacy rights.",
+      "Immigration advocacy groups have long condemned these monitoring programs as dehumanizing and unnecessary, noting that most asylum seekers willingly comply with court proceedings without such invasive measures. The electronic ankle monitors cause physical discomfort, create social stigma, and place psychological burdens on people who are often fleeing violence and persecution. Many of those being monitored are mothers with children who pose no flight risk or danger to their communities.",
+      "This expansion represents a troubling continuation of Trump-era hardline policies that the Biden administration promised to reverse during the 2024 campaign. Rather than creating humane alternatives that respect the rights of asylum seekers, DHS is doubling down on surveillance tactics that disproportionately impact people of color and marginalized communities. The program also raises serious concerns about data privacy and potential sharing with immigration enforcement agencies.",
+      "Civil liberties organizations argue that case management programs, which connect families with legal services and community support, achieve comparable court appearance rates without the trauma of constant surveillance. The government's choice to expand monitoring rather than invest in these proven alternatives reveals a fundamental disregard for the humanity of asylum seekers. This policy prioritizes punishment over protection and betrays America's promise as a refuge for those seeking safety."
+    ],
+    "sources": [
+      {
+        "label": "NPR",
+        "url": "https://www.npr.org/"
+      },
+      {
+        "label": "The Guardian",
+        "url": "https://www.theguardian.com/"
+      }
+    ]
+  },
+  "factcheck": {
+    "headline": "Just the Facts",
+    "byline": "Fact Check Desk",
+    "paragraphs": [
+      "The Department of Homeland Security announced on March 3, 2026, an expansion of its Intensive Supervision Appearance Program (ISAP), which uses GPS monitoring technology to track migrants awaiting immigration court proceedings. The program, which has existed in various forms since 2004, will expand from monitoring approximately 140,000 individuals to an estimated 200,000 by the end of 2026.",
+      "According to DHS data, the current ISAP program reports a court appearance rate of 89% for participants, compared to 73% for individuals released without monitoring between 2020 and 2025. The program uses ankle monitors, smartphone applications, or a combination of both to track participants' locations. DHS states the average cost per participant is $4.50 per day, compared to approximately $142 per day for immigration detention.",
+      "Civil rights organizations including the American Civil Liberties Union and the Immigrant Defense Project have filed complaints alleging the monitoring causes physical harm and psychological distress. A 2025 study by the Vera Institute of Justice found that case management programs, which cost approximately $12 per day per participant, achieved an 86% court appearance rate. Immigration and Customs Enforcement maintains that monitoring is necessary for individuals deemed potential flight risks.",
+      "The expansion applies to family units and single adults released from Border Patrol custody in Texas, Arizona, and California. DHS Secretary Alejandro Mayorkas stated the program balances enforcement priorities with alternatives to detention. The program does not apply to unaccompanied minors, who are transferred to the Office of Refugee Resettlement. Congress appropriated $420 million for alternatives to detention programs in the 2026 fiscal year budget."
+    ],
+    "sources": [
+      {
+        "label": "Associated Press",
+        "url": "https://apnews.com/"
+      },
+      {
+        "label": "Reuters",
+        "url": "https://www.reuters.com/"
+      }
+    ]
+  }
+}
