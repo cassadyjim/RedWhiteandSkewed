@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-04",
+  "title": "Patriotic Duty or Thought Police? DOJ Launches Investigation into School Board Book Bans",
+  "subtitle": "",
+  "image": {
+    "url": "",
+    "credit": "Image fetch failed",
+    "alt": "Patriotic Duty or Thought Police? DOJ Launches Investigation into School Board Book Bans",
+    "source": "Pexels",
+    "page": "",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should the DOJ investigate school districts removing books from libraries?",
+    "options": [
+      {
+        "label": "Parental Rights",
+        "description": "Local parents and school boards should control library content without federal interference"
+      },
+      {
+        "label": "Protect Access",
+        "description": "Federal oversight needed to prevent unconstitutional censorship targeting LGBTQ and minority authors"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "Biden DOJ Targets Parents: Federal Overreach Threatens Local School Board Decisions on Age-Inappropriate Books",
+    "byline": "From the Right",
+    "paragraphs": [],
+    "sources": []
+  },
+  "liberal": {
+    "headline": "Justice Department Steps In as Republican Book Banning Campaign Threatens Students' Right to Read",
+    "byline": "From the Left",
+    "paragraphs": [],
+    "sources": []
+  },
+  "factcheck": {
+    "headline": "Just the Facts",
+    "byline": "Fact Check Desk",
+    "paragraphs": [],
+    "sources": []
+  }
+}
