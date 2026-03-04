@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-04",
+  "title": "Border Security or Family Separation? Trump Admin Restarts Controversial Detention Policy",
+  "subtitle": "",
+  "image": {
+    "url": "",
+    "credit": "Image fetch failed",
+    "alt": "",
+    "source": "Pexels",
+    "page": "",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should families be detained together during immigration proceedings?",
+    "options": [
+      {
+        "label": "Secure Processing",
+        "description": "Keeps families together while preventing catch-and-release that encourages illegal immigration"
+      },
+      {
+        "label": "Humanitarian Alternative",
+        "description": "Detention harms children; families should use ankle monitors and community supervision"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "Trump Restores Order at Border: Family Units Will Be Detained Together During Processing",
+    "byline": "",
+    "paragraphs": [],
+    "sources": []
+  },
+  "liberal": {
+    "headline": "Trump Revives Cruel Family Detention Policy, Advocates Warn of Humanitarian Crisis",
+    "byline": "",
+    "paragraphs": [],
+    "sources": []
+  }
+}

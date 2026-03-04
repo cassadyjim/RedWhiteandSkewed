@@ -1,29 +1,26 @@
 {
-  "date": "2026-03-04",
-  "email_sent_at": "2026-03-04T00:52:30.513485",
-  "story": {
-    "title": "Border Security or Political Theater? Texas National Guard Detention Expansion Sparks Fierce Debate",
-    "slug": "texas-national-guard-detention-expansion-debate",
+  "story_filename": "2026-03-04-trump-family-detention-policy-restart-2026.json",
+  "story_data": {
+    "title": "Border Security or Family Separation? Trump Admin Restarts Controversial Detention Policy",
+    "slug": "trump-family-detention-policy-restart-2026",
     "topic_keywords": [
-      "Texas National Guard",
+      "immigration",
       "border security",
-      "immigration detention",
-      "state versus federal",
-      "Governor Abbott",
-      "migrant facilities",
-      "constitutional authority"
+      "family detention",
+      "ICE policy",
+      "Trump administration",
+      "deportation",
+      "migrant families",
+      "detention centers"
     ],
-    "conservative_headline": "Texas Takes Bold Action: National Guard Expands Detention Capacity as Biden Admin Fails Border Communities",
-    "liberal_headline": "Abbott's Dangerous Overreach: Texas National Guard Creates Unauthorized Migrant Detention System",
-    "poll_question": "Should Texas National Guard operate immigration detention facilities?",
-    "poll_option1_label": "Necessary Protection",
-    "poll_option1_desc": "States must defend borders when federal government abandons its constitutional duty.",
-    "poll_option2_label": "Unlawful Overreach",
-    "poll_option2_desc": "Immigration enforcement is federal jurisdiction; state detention facilities violate constitutional authority.",
-    "pexels_search_terms": [
-      "Texas border fence",
-      "national guard"
-    ],
+    "conservative_headline": "Trump Restores Order at Border: Family Units Will Be Detained Together During Processing",
+    "liberal_headline": "Trump Revives Cruel Family Detention Policy, Advocates Warn of Humanitarian Crisis",
+    "poll_question": "Should families be detained together during immigration proceedings?",
+    "poll_option1_label": "Secure Processing",
+    "poll_option1_desc": "Keeps families together while preventing catch-and-release that encourages illegal immigration",
+    "poll_option2_label": "Humanitarian Alternative",
+    "poll_option2_desc": "Detention harms children; families should use ankle monitors and community supervision",
+    "pexels_search_terms": "border fence immigration detention",
     "image_url": "",
     "image_page": "",
     "image_credit": "Image fetch failed"
@@ -32,5 +29,8 @@
     "url": "",
     "page": "",
     "credit": "Image fetch failed"
-  }
+  },
+  "email_sent_at": "2026-03-04T00:53:51.722155",
+  "date": "2026-03-04",
+  "action_taken": false
 }
