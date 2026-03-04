@@ -21,6 +21,7 @@ import sys
 import argparse
 import imaplib
 import email
+from email.header import decode_header as decode_email_header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from urllib.request import urlopen, Request
@@ -286,6 +287,22 @@ def find_pexels_image(search_terms, exclude_id=None):
             "page": "",
             "credit": "Error fetching image"
         }
+
+
+def decode_mime_header(header_str):
+    """Decode MIME-encoded email headers (handles UTF-8/base64 encoded subjects with emoji)."""
+    if not header_str:
+        return ""
+    try:
+        parts = []
+        for part, encoding in decode_email_header(header_str):
+            if isinstance(part, bytes):
+                parts.append(part.decode(encoding or "utf-8", errors="ignore"))
+            else:
+                parts.append(str(part))
+        return "".join(parts)
+    except Exception:
+        return header_str  # fall back to raw string
 
 
 def strip_html(html_string):
@@ -564,16 +581,20 @@ def check_imap_for_reply():
         for email_id in reversed(email_ids):
             status, msg_data = imap.fetch(email_id, "(RFC822)")
             if status != "OK":
+                log_message(f"Warning: fetch failed for email id={email_id!r}, status={status!r}")
                 continue
-            
+
             try:
                 msg = email.message_from_bytes(msg_data[0][1])
-                subject = msg.get("Subject", "")
+                subject_raw = msg.get("Subject", "")
+                subject = decode_mime_header(subject_raw)
                 from_addr = msg.get("From", "")
-                
-                if "Re: 🗞️ RWS Daily Story Pick" not in subject:
+
+                log_message(f"Checking email — subject: {subject!r} | from: {from_addr}")
+
+                if "rws daily story pick" not in subject.lower():
                     continue
-                
+
                 log_message(f"Found reply from {from_addr}: {subject}")
                 
                 body = ""
