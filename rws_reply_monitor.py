@@ -645,21 +645,138 @@ def check_imap_for_reply():
         return None
 
 
-def save_story_json(story_data, image_data):
+def generate_full_story(story_data):
+    """Call Claude API to write complete conservative/liberal/factcheck article content."""
+    try:
+        import anthropic
+    except ImportError:
+        log_message("Error: anthropic library not installed")
+        return None
+
+    if not ENV.get("ANTHROPIC_API_KEY"):
+        log_message("Error: ANTHROPIC_API_KEY not set")
+        return None
+
+    today = datetime.date.today().isoformat()
+    title = story_data.get("title", "")
+    conservative_headline = story_data.get("conservative_headline", "")
+    liberal_headline = story_data.get("liberal_headline", "")
+    topic_keywords = story_data.get("topic_keywords", [])
+    if isinstance(topic_keywords, list):
+        topic_str = ", ".join(topic_keywords)
+    else:
+        topic_str = str(topic_keywords)
+
+    prompt = f"""You are a writer for Red White & Skewed, a political news site that presents every story from three distinct perspectives: Conservative, Liberal, and Fact Check.
+
+Today is {today}. Write a complete story for this topic.
+
+TITLE: {title}
+CONSERVATIVE HEADLINE: {conservative_headline}
+LIBERAL HEADLINE: {liberal_headline}
+TOPIC KEYWORDS: {topic_str}
+
+Return ONLY a valid JSON object with this exact structure (no markdown, no explanation):
+{{
+  "subtitle": "One neutral sentence describing what happened",
+  "conservative": {{
+    "headline": "{conservative_headline}",
+    "byline": "From the Right",
+    "paragraphs": [
+      "Paragraph 1 (2-4 sentences, Fox News conservative framing)",
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 4"
+    ],
+    "sources": [
+      {{"label": "Fox News", "url": "https://www.foxnews.com/"}},
+      {{"label": "Daily Caller", "url": "https://dailycaller.com/"}}
+    ]
+  }},
+  "liberal": {{
+    "headline": "{liberal_headline}",
+    "byline": "From the Left",
+    "paragraphs": [
+      "Paragraph 1 (2-4 sentences, MSNBC/progressive framing)",
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 4"
+    ],
+    "sources": [
+      {{"label": "NPR", "url": "https://www.npr.org/"}},
+      {{"label": "The Guardian", "url": "https://www.theguardian.com/"}}
+    ]
+  }},
+  "factcheck": {{
+    "headline": "Just the Facts",
+    "byline": "Fact Check Desk",
+    "paragraphs": [
+      "Paragraph 1 (2-4 sentences, verified neutral facts only)",
+      "Paragraph 2",
+      "Paragraph 3",
+      "Paragraph 4"
+    ],
+    "sources": [
+      {{"label": "Associated Press", "url": "https://apnews.com/"}},
+      {{"label": "Reuters", "url": "https://www.reuters.com/"}}
+    ]
+  }}
+}}
+
+Style guide:
+- Conservative: Emphasize security, rule of law, patriotism, economic freedom, personal responsibility. Sound like Fox News or WSJ editorial.
+- Liberal: Emphasize civil rights, human impact, systemic issues, government accountability. Sound like MSNBC or The Atlantic.
+- Fact Check: Only verified facts. No spin. State what happened, key figures involved, timeline, official statements.
+- Each section must have exactly 4 paragraphs of 2-4 sentences each.
+- Return ONLY the JSON object. No markdown fences, no preamble."""
+
+    try:
+        client = anthropic.Anthropic(api_key=ENV["ANTHROPIC_API_KEY"])
+        response = client.messages.create(
+            model="claude-sonnet-4-5-20250929",
+            max_tokens=4096,
+            messages=[{"role": "user", "content": prompt}]
+        )
+        response_text = response.content[0].text
+        log_message(f"Full story API response: {len(response_text)} characters")
+
+        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
+        if not json_match:
+            log_message("Error: No JSON found in full story response")
+            return None
+
+        content = json.loads(json_match.group())
+        log_message("Full story content generated successfully")
+        return content
+
+    except json.JSONDecodeError as e:
+        log_message(f"Error parsing full story JSON: {e}")
+        return None
+    except Exception as e:
+        log_message(f"Error generating full story: {e}")
+        return None
+
+
+def save_story_json(story_data, image_data, full_content=None):
     """Save complete story JSON file and return filename."""
     today = datetime.date.today().isoformat()
     slug = story_data.get("slug", "story")
     filename = f"{today}-{slug}.json"
     filepath = SCRIPT_DIR / filename
-    
+
+    # Use full content if available, otherwise fall back to headlines only
+    conservative = full_content.get("conservative") if full_content else None
+    liberal = full_content.get("liberal") if full_content else None
+    factcheck = full_content.get("factcheck") if full_content else None
+
     story_json = {
         "date": today,
         "title": story_data.get("title", ""),
-        "subtitle": "",
+        "subtitle": full_content.get("subtitle", "") if full_content else "",
         "image": {
             "url": image_data.get("url", ""),
-            "credit": image_data.get("credit", ""),
-            "alt": "",
+            "credit": image_data.get("credit", "Photo: Pexels"),
+            "alt": story_data.get("title", ""),
             "source": "Pexels",
             "page": image_data.get("page", ""),
             "license": "Pexels License"
@@ -677,20 +794,26 @@ def save_story_json(story_data, image_data):
                 }
             ]
         },
-        "conservative": {
+        "conservative": conservative or {
             "headline": story_data.get("conservative_headline", ""),
-            "byline": "",
+            "byline": "From the Right",
             "paragraphs": [],
             "sources": []
         },
-        "liberal": {
+        "liberal": liberal or {
             "headline": story_data.get("liberal_headline", ""),
-            "byline": "",
+            "byline": "From the Left",
+            "paragraphs": [],
+            "sources": []
+        },
+        "factcheck": factcheck or {
+            "headline": "Just the Facts",
+            "byline": "Fact Check Desk",
             "paragraphs": [],
             "sources": []
         }
     }
-    
+
     try:
         with open(filepath, "w") as f:
             json.dump(story_json, f, indent=2)
@@ -764,13 +887,36 @@ def handle_option_1(state):
         log_message("Error: Missing story data for publish")
         return False
 
-    # If no pre-saved story file, generate one now from the state data
+    # Generate full article content (conservative/liberal/factcheck) via Claude API
+    log_message("Generating full article content via Claude API...")
+    full_content = generate_full_story(story_data)
+    if full_content:
+        log_message("Full article content generated successfully")
+    else:
+        log_message("Warning: Could not generate full content — publishing with headlines only")
+
+    # Save complete story JSON (with full content if available)
     if not story_filename:
-        log_message("No story_filename in state — generating story JSON from story data...")
-        story_filename = save_story_json(story_data, image_data)
+        story_filename = save_story_json(story_data, image_data, full_content)
         if not story_filename:
             log_message("Error: Failed to save story JSON")
             return False
+    else:
+        # Story file already exists — update it with the full content
+        story_path = SCRIPT_DIR / story_filename
+        try:
+            with open(story_path, "r") as f:
+                existing = json.load(f)
+            if full_content:
+                existing["subtitle"] = full_content.get("subtitle", existing.get("subtitle", ""))
+                existing["conservative"] = full_content.get("conservative", existing.get("conservative", {}))
+                existing["liberal"] = full_content.get("liberal", existing.get("liberal", {}))
+                existing["factcheck"] = full_content.get("factcheck", {})
+            with open(story_path, "w") as f:
+                json.dump(existing, f, indent=2)
+            log_message(f"Updated existing story JSON with full content")
+        except Exception as e:
+            log_message(f"Warning: Could not update existing story file: {e}")
 
     if not publish_story(story_filename):
         log_message("Error: Failed to publish story")

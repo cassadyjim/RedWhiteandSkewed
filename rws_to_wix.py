@@ -52,9 +52,9 @@ def load_env():
 
 load_env()
 
-WIX_API_KEY     = os.environ.get('WIX_API_KEY', '')
-WIX_SITE_ID     = os.environ.get('WIX_SITE_ID', '')
-WIX_COLLECTION  = os.environ.get('WIX_COLLECTION_ID', 'redwhiteandskeweddifferance')
+WIX_API_KEY     = os.environ.get('WIX_API_KEY', '').strip()
+WIX_SITE_ID     = os.environ.get('WIX_SITE_ID', '').strip()
+WIX_COLLECTION  = os.environ.get('WIX_COLLECTION_ID', 'redwhiteandskeweddifferance').strip()
 WIX_API_BASE    = 'https://www.wixapis.com/wix-data/v2/items'
 
 
