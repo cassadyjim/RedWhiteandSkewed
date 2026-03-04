@@ -1,0 +1,38 @@
+{
+  "date": "2026-03-04",
+  "title": "Border Crisis or Humanitarian Victory? Texas National Guard Standoff Escalates as Federal Courts Intervene",
+  "subtitle": "",
+  "image": {
+    "url": "",
+    "credit": "Image fetch failed",
+    "alt": "",
+    "source": "Pexels",
+    "page": "",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should Texas control its own border security?",
+    "options": [
+      {
+        "label": "State Sovereignty",
+        "description": "Texas has constitutional right to protect its citizens from illegal immigration crisis"
+      },
+      {
+        "label": "Federal Authority",
+        "description": "Immigration enforcement is federal responsibility; states cannot override constitutional law"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "Texas Defends American Sovereignty as Biden Administration Enables Invasion at Southern Border",
+    "byline": "",
+    "paragraphs": [],
+    "sources": []
+  },
+  "liberal": {
+    "headline": "Texas Governor Defies Federal Law, Blocks Border Patrol Access in Dangerous Constitutional Crisis",
+    "byline": "",
+    "paragraphs": [],
+    "sources": []
+  }
+}
