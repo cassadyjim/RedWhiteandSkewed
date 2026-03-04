@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-04",
+  "email_sent_at": "2026-03-04T03:36:42.024173",
+  "story": {
+    "title": "Border Security or Government Overreach? DHS Expands Workplace Immigration Raids",
+    "slug": "dhs-workplace-immigration-raids-expansion",
+    "topic_keywords": [
+      "immigration enforcement",
+      "workplace raids",
+      "DHS",
+      "deportation",
+      "border security",
+      "undocumented workers",
+      "ICE operations"
+    ],
+    "conservative_headline": "DHS Finally Enforces Immigration Law with Aggressive Workplace Raids Targeting Illegal Workers",
+    "liberal_headline": "Trump Administration Terrorizes Immigrant Communities with Sweeping Workplace Raids",
+    "poll_question": "Should DHS conduct large-scale workplace immigration raids?",
+    "poll_option1_label": "Enforce the Law",
+    "poll_option1_desc": "Workplace raids hold employers accountable and deter illegal immigration effectively",
+    "poll_option2_label": "Stop the Raids",
+    "poll_option2_desc": "Raids separate families and hurt businesses while failing to fix immigration system",
+    "pexels_search_terms": "warehouse workers factory",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image fetch failed"
+  },
+  "image": {
+    "url": "",
+    "page": "",
+    "credit": "Image fetch failed"
+  }
+}
