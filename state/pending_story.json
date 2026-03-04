@@ -1,39 +1,36 @@
 {
-  "story_filename": "2026-03-04-texas-razor-wire-border-security-federal-opposition.json",
-  "story_data": {
-    "title": "Border Security or Government Overreach? Texas National Guard Expands Razor Wire Deployment Despite Federal Opposition",
-    "slug": "texas-razor-wire-border-security-federal-opposition",
+  "date": "2026-03-04",
+  "email_sent_at": "2026-03-04T00:52:30.513485",
+  "story": {
+    "title": "Border Security or Political Theater? Texas National Guard Detention Expansion Sparks Fierce Debate",
+    "slug": "texas-national-guard-detention-expansion-debate",
     "topic_keywords": [
-      "border security",
       "Texas National Guard",
-      "razor wire",
-      "immigration enforcement",
-      "state federal conflict",
+      "border security",
+      "immigration detention",
+      "state versus federal",
       "Governor Abbott",
-      "border crisis"
+      "migrant facilities",
+      "constitutional authority"
     ],
-    "conservative_headline": "Texas Stands Strong: National Guard Deploys More Razor Wire as Biden Admin Refuses to Secure Border",
-    "liberal_headline": "Texas Defies Federal Authority with Dangerous Razor Wire Expansion Threatening Migrant Safety",
-    "poll_question": "Should Texas expand razor wire at the border despite federal objections?",
-    "poll_option1_label": "Protect Our Border",
-    "poll_option1_desc": "States must act when federal government fails its constitutional duty to secure borders",
-    "poll_option2_label": "Follow Federal Law",
-    "poll_option2_desc": "Immigration enforcement is federal jurisdiction; states cannot override constitutional authority",
+    "conservative_headline": "Texas Takes Bold Action: National Guard Expands Detention Capacity as Biden Admin Fails Border Communities",
+    "liberal_headline": "Abbott's Dangerous Overreach: Texas National Guard Creates Unauthorized Migrant Detention System",
+    "poll_question": "Should Texas National Guard operate immigration detention facilities?",
+    "poll_option1_label": "Necessary Protection",
+    "poll_option1_desc": "States must defend borders when federal government abandons its constitutional duty.",
+    "poll_option2_label": "Unlawful Overreach",
+    "poll_option2_desc": "Immigration enforcement is federal jurisdiction; state detention facilities violate constitutional authority.",
     "pexels_search_terms": [
-      "border fence",
-      "barbed wire",
-      "security barrier"
+      "Texas border fence",
+      "national guard"
     ],
     "image_url": "",
     "image_page": "",
-    "image_credit": "Error fetching image"
+    "image_credit": "Image fetch failed"
   },
   "image": {
     "url": "",
     "page": "",
-    "credit": "Error fetching image"
-  },
-  "email_sent_at": "2026-03-04T00:45:00.668675",
-  "date": "2026-03-04",
-  "action_taken": false
+    "credit": "Image fetch failed"
+  }
 }
