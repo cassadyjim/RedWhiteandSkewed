@@ -1,0 +1,53 @@
+name: Test Pexels API
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-pexels:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Pexels API Key
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: |
+          python3 -c "
+          import os, json
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError, URLError
+
+          key = os.environ.get('PEXELS_API_KEY', '')
+          print(f'Key present: {bool(key)}')
+          print(f'Key length: {len(key)}')
+          print(f'Key last 5 chars: {repr(key[-5:]) if key else \"N/A\"}')
+          print(f'Key has newline: {chr(10) in key or chr(13) in key}')
+          print()
+
+          if not key:
+              print('ERROR: PEXELS_API_KEY secret is not set or is empty')
+              exit(1)
+
+          req = Request(
+              'https://api.pexels.com/v1/search?query=politics&per_page=1',
+              headers={'Authorization': key}
+          )
+          try:
+              with urlopen(req, timeout=15) as r:
+                  data = json.loads(r.read())
+                  photos = data.get('photos', [])
+                  print(f'SUCCESS - Got {len(photos)} photo(s)')
+                  if photos:
+                      print(f'First photo ID: {photos[0][\"id\"]}')
+                      print(f'First photo src.large: {photos[0].get(\"src\", {}).get(\"large\", \"N/A\")}')
+          except HTTPError as e:
+              print(f'HTTP Error: {e.code} {e.reason}')
+              print('This means the API key is invalid or expired.')
+              exit(1)
+          except URLError as e:
+              print(f'Network Error: {e.reason}')
+              print('This means the GitHub runner cannot reach api.pexels.com.')
+              exit(1)
+          except Exception as e:
+              print(f'Unexpected error: {e}')
+              exit(1)
+          "
