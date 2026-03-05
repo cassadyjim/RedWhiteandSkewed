@@ -64,7 +64,7 @@ def load_env():
     for key in env_keys:
         val = os.environ.get(key)
         if val:
-            ENV[key] = val
+            ENV[key] = val.strip()  # strip newlines/spaces (GitHub Secrets can have trailing newlines)
 
     # Then load from .env file — overrides os.environ if both present (local dev)
     env_path = SCRIPT_DIR / ".env"
@@ -230,16 +230,18 @@ def find_pexels_image(search_terms, exclude_id=None):
             "credit": "Image credit not available"
         }
     
+    log_message(f"Pexels search: '{search_terms}' (key length: {len(pexels_key)}, ends with: {repr(pexels_key[-3:])})")
     try:
         from urllib.parse import urlencode
+        from urllib.error import HTTPError
         params = urlencode({"query": search_terms, "per_page": 15, "orientation": "landscape"})
         url = f"https://api.pexels.com/v1/search?{params}"
         headers = {"Authorization": pexels_key}
         request = Request(url, headers=headers)
-        
+
         with urlopen(request, timeout=10) as response:
             data = json.loads(response.read().decode())
-        
+
         photos = data.get("photos", [])
         if not photos:
             log_message(f"No Pexels images found for: {search_terms}")
@@ -248,7 +250,7 @@ def find_pexels_image(search_terms, exclude_id=None):
                 "page": "",
                 "credit": "No image found"
             }
-        
+
         selected_photo = None
         for photo in photos:
             photo_id = photo.get("id", 0)
@@ -257,20 +259,20 @@ def find_pexels_image(search_terms, exclude_id=None):
             if photo_id > 500000:
                 selected_photo = photo
                 break
-        
+
         if not selected_photo:
             for photo in photos:
                 if not exclude_id or photo.get("id") != exclude_id:
                     selected_photo = photo
                     break
-        
+
         if not selected_photo:
             selected_photo = photos[0]
-        
+
         photo_id = selected_photo.get("id")
         photographer = selected_photo.get("photographer", "Unknown")
         photo_url = selected_photo.get("url", "")
-        
+
         image_data = {
             "url": f"https://images.pexels.com/photos/{photo_id}/pexels-photo-{photo_id}.jpeg?auto=compress&cs=tinysrgb&w=1200",
             "page": photo_url,
@@ -279,21 +281,16 @@ def find_pexels_image(search_terms, exclude_id=None):
         }
         log_message(f"Image found: {photo_id} by {photographer}")
         return image_data
-        
+
+    except HTTPError as e:
+        log_message(f"Pexels API HTTP error: {e.code} {e.reason} — check PEXELS_API_KEY in GitHub Secrets")
+        return {"url": "", "page": "", "credit": "Image fetch failed"}
     except URLError as e:
-        log_message(f"Error fetching from Pexels: {e}")
-        return {
-            "url": "",
-            "page": "",
-            "credit": "Image fetch failed"
-        }
+        log_message(f"Pexels network error: {e.reason} — check network connectivity")
+        return {"url": "", "page": "", "credit": "Image fetch failed"}
     except Exception as e:
         log_message(f"Error in find_pexels_image: {e}")
-        return {
-            "url": "",
-            "page": "",
-            "credit": "Error fetching image"
-        }
+        return {"url": "", "page": "", "credit": "Error fetching image"}
 
 
 def decode_mime_header(header_str):

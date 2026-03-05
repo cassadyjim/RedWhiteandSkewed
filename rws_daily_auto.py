@@ -65,7 +65,7 @@ def load_env():
     for key in env_keys:
         val = os.environ.get(key)
         if val:
-            ENV[key] = val
+            ENV[key] = val.strip()  # strip newlines/spaces (GitHub Secrets can have trailing newlines)
 
     # Then load from .env file — overrides os.environ if both present (local dev)
     env_path = SCRIPT_DIR / ".env"
