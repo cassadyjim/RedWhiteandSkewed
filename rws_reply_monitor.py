@@ -1083,13 +1083,24 @@ def handle_option_1(state):
     
     add_to_history(today, slug, topic)
     
+    pub_image_url = image_data.get("url", "") if image_data else ""
+    pub_image_credit = image_data.get("credit", "") if image_data else ""
+    pub_image_html = ""
+    if pub_image_url:
+        pub_image_html = f"""
+        <div style="margin: 20px 0;">
+            <img src="{pub_image_url}" style="max-width: 600px; width: 100%; border-radius: 8px;" alt="{story_data.get('title', '')}">
+            <p style="font-size: 11px; color: #999; margin: 4px 0 0 0;">{pub_image_credit}</p>
+        </div>"""
+
     send_simple_email(
         "jim@redwhiteandskewed.com",
         "✅ Story Published!",
-        f"""<html><body style="font-family: Arial, sans-serif;">
-        <p>Your story has been published!</p>
-        <p><strong>Title:</strong> {story_data.get('title', '')}</p>
-        <p><a href="https://redwhiteandskewed.com" style="color: #0066cc;">View on Red White & Skewed</a></p>
+        f"""<html><body style="font-family: Arial, sans-serif; max-width: 640px; margin: 0 auto; padding: 20px;">
+        <h2 style="color: #1a1a1a;">Story Published!</h2>
+        <p><strong>{story_data.get('title', '')}</strong></p>
+        {pub_image_html}
+        <p><a href="https://redwhiteandskewed.com" style="color: #0066cc;">View on Red White &amp; Skewed →</a></p>
         </body></html>"""
     )
     
