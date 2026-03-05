@@ -1,0 +1,34 @@
+{
+  "date": "2026-03-05",
+  "email_sent_at": "2026-03-05T22:31:05.769301",
+  "story": {
+    "title": "National Security or Government Overreach? FBI Expands Domestic Surveillance Powers",
+    "slug": "fbi-domestic-surveillance-expansion-debate",
+    "topic_keywords": [
+      "FBI surveillance",
+      "domestic intelligence",
+      "civil liberties",
+      "FISA",
+      "privacy rights",
+      "national security",
+      "warrantless searches",
+      "government oversight"
+    ],
+    "conservative_headline": "FBI Gets Critical Tools to Stop Threats as Democrats Handcuff Law Enforcement",
+    "liberal_headline": "Civil Liberties Under Attack as FBI Granted Sweeping Spy Powers Without Warrants",
+    "poll_question": "Should the FBI have expanded domestic surveillance authority?",
+    "poll_option1_label": "Protect America",
+    "poll_option1_desc": "Law enforcement needs modern tools to prevent terrorism and crime",
+    "poll_option2_label": "Protect Privacy",
+    "poll_option2_desc": "Warrantless surveillance violates constitutional rights and enables government abuse",
+    "pexels_search_terms": "FBI security surveillance",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image fetch failed"
+  },
+  "image": {
+    "url": "",
+    "page": "",
+    "credit": "Image fetch failed"
+  }
+}
