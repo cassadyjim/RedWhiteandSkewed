@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-05",
+  "email_sent_at": "2026-03-05T04:46:26.548633",
+  "story": {
+    "title": "Climate Action or Economic Suicide? Biden's New Power Plant Emissions Standards Spark Firestorm",
+    "slug": "biden-power-plant-emissions-standards-debate",
+    "topic_keywords": [
+      "EPA",
+      "power plant emissions",
+      "climate change",
+      "fossil fuels",
+      "energy costs",
+      "carbon capture",
+      "electric grid"
+    ],
+    "conservative_headline": "Biden's EPA Mandates Threaten Grid Reliability and Jobs, Force Costly Green Tech on Coal Plants",
+    "liberal_headline": "EPA Finalizes Historic Climate Rules to Cut Power Plant Pollution, Protect Public Health",
+    "poll_question": "Should the EPA enforce strict emissions limits on existing power plants?",
+    "poll_option1_label": "Protect Energy",
+    "poll_option1_desc": "Regulations threaten grid stability, jobs, and affordable electricity for American families.",
+    "poll_option2_label": "Protect Climate",
+    "poll_option2_desc": "Standards are essential to combat climate change and reduce deadly air pollution.",
+    "pexels_search_terms": "coal power plant smoke",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image fetch failed"
+  },
+  "image": {
+    "url": "",
+    "page": "",
+    "credit": "Image fetch failed"
+  }
+}
