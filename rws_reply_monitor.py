@@ -315,13 +315,17 @@ def find_image_via_search(search_terms):
         messages = [{
             "role": "user",
             "content": (
-                f'Search pexels.com for a landscape photo about: "{search_terms}". '
-                f'Use web_search with query: site:pexels.com {search_terms}\n\n'
-                f'Pick ONE photo with a numeric ID greater than 500000. '
-                f'Return ONLY this JSON (no markdown, no explanation):\n'
-                f'{{"url":"https://images.pexels.com/photos/ID/pexels-photo-ID.jpeg?auto=compress&cs=tinysrgb&w=1200",'
-                f'"page":"https://www.pexels.com/photo/SLUG-ID/",'
-                f'"credit":"Photo: Photographer Name / Pexels"}}'
+                f'Search pexels.com for a landscape photo about: "{search_terms}".\n\n'
+                f'Run web_search with: site:pexels.com {search_terms}\n\n'
+                f'From the results, find a Pexels photo page URL like:\n'
+                f'  https://www.pexels.com/photo/some-title-here-1234567/\n'
+                f'The number at the end (e.g. 1234567) is the photo ID. It must be greater than 500000.\n\n'
+                f'Using the ACTUAL photo ID and ACTUAL photographer name you found, return ONLY this JSON:\n'
+                f'{{"url":"https://images.pexels.com/photos/{{PHOTO_ID}}/pexels-photo-{{PHOTO_ID}}.jpeg?auto=compress&cs=tinysrgb&w=1200",'
+                f'"page":"https://www.pexels.com/photo/{{SLUG}}-{{PHOTO_ID}}/",'
+                f'"credit":"Photo: {{PHOTOGRAPHER_NAME}} / Pexels"}}\n\n'
+                f'Replace {{PHOTO_ID}}, {{SLUG}}, and {{PHOTOGRAPHER_NAME}} with the REAL values from the search results.\n'
+                f'No markdown fences. No explanation. Just the JSON.'
             )
         }]
 
@@ -344,10 +348,21 @@ def find_image_via_search(search_terms):
         if response_text:
             match = re.search(r'\{[^{}]+\}', response_text, re.DOTALL)
             if match:
-                result = json.loads(match.group())
-                if result.get("url") and "pexels.com" in result.get("url", ""):
-                    log_message(f"Image found: {result.get('credit', '')}")
+                try:
+                    result = json.loads(match.group())
+                except json.JSONDecodeError:
+                    result = {}
+                url = result.get("url", "")
+                # Reject template/placeholder URLs that Claude didn't fill in
+                if (url and "pexels.com" in url
+                        and "NNNNNN" not in url
+                        and "/ID/" not in url
+                        and "REAL_ID" not in url
+                        and re.search(r'/photos/\d+/', url)):
+                    log_message(f"Image found: {result.get('credit', '')} | URL: {url[:80]}")
                     return result
+                elif url:
+                    log_message(f"Warning: Image URL failed validation (template/invalid): {url[:80]}")
 
         log_message("Warning: Image search returned no usable result")
         return {"url": "", "page": "", "credit": ""}
@@ -417,13 +432,16 @@ def send_story_email(story_data):
     if not ENV.get("SMTP_PASSWORD"):
         log_message("Error: SMTP_PASSWORD not set in .env")
         return False
-    
+
     subject = f"🗞️ RWS Daily Story Pick — {today} — Action Required"
-    
+
     image_url = story_data.get("image_url", "")
+    log_message(f"Selection email image URL: {image_url[:80] if image_url else 'EMPTY — no image will appear in email'}")
     image_html = ""
     if image_url:
-        image_html = f'<div style="margin: 20px 0;"><img src="{image_url}" style="max-width:600px; border-radius: 8px;"></div>'
+        image_credit = story_data.get("image_credit", "")
+        story_title = story_data.get("title", "")
+        image_html = f'<div style="margin: 20px 0;"><img src="{image_url}" style="max-width:600px; width:100%; border-radius: 8px;" alt="{story_title}"><p style="font-size:11px; color:#999; margin:4px 0 0 0;">{image_credit}</p></div>'
     
     conservative_headline = story_data.get("conservative_headline", "")
     liberal_headline = story_data.get("liberal_headline", "")
@@ -791,13 +809,22 @@ CRITICAL FORMAT RULES:
 - Output ONLY a valid JSON object. No markdown fences (no ```json), no explanation before or after.
 - Use double quotes throughout — this must be valid JSON, not a Python dict.
 - 6-9 paragraphs per section. First AND last paragraph wrapped in <strong>.
-- Embed inline links using actual article URLs from your research — not just outlet homepages.
 - Conservative link class: text-red-700 underline hover:text-red-900
 - Liberal link class: text-blue-700 underline hover:text-blue-900
 - Factcheck link class: text-purple-700 underline hover:text-purple-900
 - All links: target="_blank" rel="noopener noreferrer"
 - NO byline field in factcheck section.
 - Sources: {{"text": "Outlet — article description", "url": "https://actual-article-url/"}}
+
+🔗 MANDATORY INLINE LINK REQUIREMENT (NON-NEGOTIABLE):
+Every paragraph that mentions a source, quote, or fact MUST contain at least one inline <a href> link.
+Use the SPECIFIC article URLs you found during research — NOT outlet homepages (not just foxnews.com, msnbc.com, etc.).
+The linked text should be the outlet name or a distinctive phrase from the quote.
+At least 4 out of 6+ paragraphs in conservative and liberal sections MUST have an inline link.
+At least 3 out of the factcheck paragraphs MUST have an inline link.
+If you cannot find a specific article URL for a claim, do NOT make up the URL — instead, remove the claim or paraphrase it without quoting.
+Example of a correct linked paragraph:
+  "According to <a href=\\"https://www.foxnews.com/politics/actual-article-slug\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">Fox News</a>, Senator Smith declared that [actual quote from research]."
 
 Required JSON structure:
 {{
@@ -996,11 +1023,21 @@ def save_story_json(story_data, image_data, full_content=None):
     liberal = full_content.get("liberal") if full_content else None
     factcheck = full_content.get("factcheck") if full_content else None
 
-    # Prefer image from Claude's web-searched full_content; fall back to Pexels API image_data
+    # Prefer image from Claude's web-searched full_content; fall back to image_data
+    # Validate that URLs are real (not template placeholders like NNNNNN)
+    def _valid_pexels_url(url):
+        if not url or "pexels.com" not in url:
+            return False
+        bad = ["NNNNNN", "/ID/", "REAL_ID", "{PHOTO_ID}", "PHOTO_ID"]
+        return not any(t in url for t in bad) and bool(re.search(r'/photos/\d+/', url))
+
     ai_image = full_content.get("image", {}) if full_content else {}
-    resolved_image_url    = ai_image.get("url", "")    or image_data.get("url", "")
-    resolved_image_credit = ai_image.get("credit", "") or image_data.get("credit", "Photo: Pexels")
-    resolved_image_page   = ai_image.get("page", "")   or image_data.get("page", "")
+    ai_url = ai_image.get("url", "") if ai_image else ""
+    fallback_url = image_data.get("url", "") if image_data else ""
+
+    resolved_image_url    = (ai_url    if _valid_pexels_url(ai_url)    else "") or (fallback_url if _valid_pexels_url(fallback_url) else "")
+    resolved_image_credit = (ai_image.get("credit", "") if _valid_pexels_url(ai_url) else "") or image_data.get("credit", "Photo: Pexels")
+    resolved_image_page   = (ai_image.get("page", "")   if _valid_pexels_url(ai_url) else "") or image_data.get("page", "")
 
     story_json = {
         "date": today,
@@ -1133,13 +1170,27 @@ def handle_option_1(state):
     # Step 2: Generate full article content (conservative/liberal/factcheck) via Claude API
     log_message("Generating full article content via Claude API...")
     full_content = generate_full_story(story_data)
+    def _is_valid_pexels_url(url):
+        """Check a Pexels CDN URL is real (has a numeric photo ID, not a template placeholder)."""
+        if not url or "pexels.com" not in url:
+            return False
+        bad_tokens = ["NNNNNN", "/ID/", "REAL_ID", "{PHOTO_ID}", "PHOTO_ID"]
+        if any(t in url for t in bad_tokens):
+            return False
+        return bool(re.search(r'/photos/\d+/', url))
+
     if full_content:
         log_message("Full article content generated successfully")
-        # If generate_full_story also found an image, prefer it (more relevant)
+        # If generate_full_story also found an image, prefer it — but only if it's a real URL
         ai_image = full_content.get("image", {})
-        if ai_image.get("url"):
+        ai_url = ai_image.get("url", "")
+        if _is_valid_pexels_url(ai_url):
             image_data = ai_image
-            log_message(f"Using image from story generation: {image_data['url'][:80]}")
+            log_message(f"Using image from story generation: {ai_url[:80]}")
+        elif ai_url:
+            log_message(f"Story generation image URL failed validation (placeholder?): {ai_url[:80]}")
+        else:
+            log_message("Story generation did not return an image URL — keeping earlier image_data")
     else:
         log_message("Warning: Could not generate full content — publishing with headlines only")
 
@@ -1186,9 +1237,22 @@ def handle_option_1(state):
     
     add_to_history(today, slug, topic)
     
-    # image_data is already fully resolved above (search ran if it was empty)
-    pub_image_url    = image_data.get("url", "")    if image_data else ""
-    pub_image_credit = image_data.get("credit", "") if image_data else ""
+    # Read the image URL from the published story JSON file — this is the definitive
+    # source and guaranteed to match exactly what is displayed on the site.
+    pub_image_url = ""
+    pub_image_credit = ""
+    try:
+        story_path = SCRIPT_DIR / story_filename
+        with open(story_path, "r") as f:
+            published_story = json.load(f)
+        pub_image_url    = published_story.get("image", {}).get("url", "") or (image_data.get("url", "") if image_data else "")
+        pub_image_credit = published_story.get("image", {}).get("credit", "") or (image_data.get("credit", "") if image_data else "")
+        log_message(f"Confirmation email image URL: {pub_image_url[:80] if pub_image_url else 'EMPTY — no image in published JSON'}")
+    except Exception as e:
+        log_message(f"Warning: Could not read published story for image URL: {e}")
+        pub_image_url    = image_data.get("url", "") if image_data else ""
+        pub_image_credit = image_data.get("credit", "") if image_data else ""
+
     pub_image_html = ""
     if pub_image_url:
         pub_image_html = f"""
@@ -1196,6 +1260,8 @@ def handle_option_1(state):
             <img src="{pub_image_url}" style="max-width: 600px; width: 100%; border-radius: 8px;" alt="{story_data.get('title', '')}">
             <p style="font-size: 11px; color: #999; margin: 4px 0 0 0;">{pub_image_credit}</p>
         </div>"""
+    else:
+        log_message("Warning: No image URL available — confirmation email will not have image preview")
 
     send_simple_email(
         "jim@redwhiteandskewed.com",

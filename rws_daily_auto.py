@@ -263,13 +263,17 @@ def find_pexels_image(search_terms):
         messages = [{
             "role": "user",
             "content": (
-                f'Search pexels.com for a high-quality landscape photo related to: "{search_terms}". '
-                f'Search for: site:pexels.com {search_terms} photo\n\n'
-                f'Find ONE good landscape photo (ID > 500000). Return ONLY a JSON object with these keys:\n'
-                f'{{"url": "https://images.pexels.com/photos/NNNNNN/pexels-photo-NNNNNN.jpeg?auto=compress&cs=tinysrgb&w=1200", '
-                f'"page": "https://www.pexels.com/photo/...", '
-                f'"credit": "Photo: Photographer Name / Pexels"}}\n\n'
-                f'No explanation. No markdown fences. Just the JSON.'
+                f'Search pexels.com for a landscape photo about: "{search_terms}".\n\n'
+                f'Run web_search with: site:pexels.com {search_terms}\n\n'
+                f'From the results, find a Pexels photo page URL like:\n'
+                f'  https://www.pexels.com/photo/some-title-here-1234567/\n'
+                f'The number at the end (e.g. 1234567) is the photo ID. It must be greater than 500000.\n\n'
+                f'Using the ACTUAL photo ID and ACTUAL photographer name you found, return ONLY this JSON:\n'
+                f'{{"url":"https://images.pexels.com/photos/{{PHOTO_ID}}/pexels-photo-{{PHOTO_ID}}.jpeg?auto=compress&cs=tinysrgb&w=1200",'
+                f'"page":"https://www.pexels.com/photo/{{SLUG}}-{{PHOTO_ID}}/",'
+                f'"credit":"Photo: {{PHOTOGRAPHER_NAME}} / Pexels"}}\n\n'
+                f'Replace {{PHOTO_ID}}, {{SLUG}}, and {{PHOTOGRAPHER_NAME}} with the REAL values from the search results.\n'
+                f'No markdown fences. No explanation. Just the JSON.'
             )
         }]
 
@@ -295,10 +299,21 @@ def find_pexels_image(search_terms):
             # Extract JSON from response
             match = _re.search(r'\{[^{}]+\}', response_text, _re.DOTALL)
             if match:
-                result = json.loads(match.group())
-                if result.get("url") and "pexels.com" in result.get("url", ""):
-                    log_message(f"Image found via web search: {result.get('credit', '')}")
+                try:
+                    result = json.loads(match.group())
+                except json.JSONDecodeError:
+                    result = {}
+                url = result.get("url", "")
+                # Reject template/placeholder URLs that Claude didn't fill in
+                if (url and "pexels.com" in url
+                        and "NNNNNN" not in url
+                        and "/ID/" not in url
+                        and "REAL_ID" not in url
+                        and _re.search(r'/photos/\d+/', url)):
+                    log_message(f"Image found via web search: {result.get('credit', '')} | URL: {url[:80]}")
                     return result
+                elif url:
+                    log_message(f"Warning: Image URL failed validation (template/invalid): {url[:80]}")
 
         log_message("Warning: Could not find Pexels image via web search")
         return {"url": "", "page": "", "credit": "Image not found"}
@@ -324,9 +339,12 @@ def send_story_email(story_data):
     subject = f"🗞️ RWS Daily Story Pick — {today} — Action Required"
     
     image_url = story_data.get("image_url", "")
+    log_message(f"send_story_email: image_url={'SET (' + image_url[:60] + '...)' if image_url else 'EMPTY'}")
     image_html = ""
     if image_url:
-        image_html = f'<div style="margin: 20px 0;"><img src="{image_url}" style="max-width:600px; border-radius: 8px;"></div>'
+        image_credit = story_data.get("image_credit", "")
+        story_title = story_data.get("title", "")
+        image_html = f'<div style="margin: 20px 0;"><img src="{image_url}" style="max-width:600px; width:100%; border-radius: 8px;" alt="{story_title}"><p style="font-size:11px; color:#999; margin:4px 0 0 0;">{image_credit}</p></div>'
     
     conservative_headline = story_data.get("conservative_headline", "")
     liberal_headline = story_data.get("liberal_headline", "")
@@ -496,7 +514,10 @@ def main():
         story_data["image_url"] = image_data.get("url", "")
         story_data["image_page"] = image_data.get("page", "")
         story_data["image_credit"] = image_data.get("credit", "")
-        
+
+        image_url_preview = story_data["image_url"][:80] if story_data["image_url"] else "EMPTY — no image will appear in selection email"
+        log_message(f"Selection email image URL: {image_url_preview}")
+
         email_sent = send_story_email(story_data)
         if not email_sent:
             log_message("Error: Failed to send email, aborting")
