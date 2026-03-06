@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-06",
+  "email_sent_at": "2026-03-06T04:43:14.491635",
+  "story": {
+    "title": "Healthcare Reform or Government Takeover? Biden's Medicare Expansion Plan Divides America",
+    "slug": "medicare-expansion-healthcare-reform-or-government-takeover",
+    "topic_keywords": [
+      "Medicare expansion",
+      "healthcare reform",
+      "government healthcare",
+      "Biden administration",
+      "public option",
+      "insurance coverage",
+      "medical costs"
+    ],
+    "conservative_headline": "Biden's $2 Trillion Medicare-for-All Scheme Threatens Private Insurance, Doctor Choice",
+    "liberal_headline": "Biden Moves to Guarantee Healthcare Access as Uninsured Rate Climbs Under GOP State Policies",
+    "poll_question": "Should the government expand Medicare to cover more Americans?",
+    "poll_option1_label": "Protect Private Care",
+    "poll_option1_desc": "Keep government out of healthcare; preserve choice and competition in insurance",
+    "poll_option2_label": "Expand Coverage",
+    "poll_option2_desc": "Government should ensure affordable healthcare access for all Americans who need it",
+    "pexels_search_terms": "hospital healthcare medical",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image not found"
+  },
+  "image": {
+    "url": "",
+    "page": "",
+    "credit": "Image not found"
+  }
+}
