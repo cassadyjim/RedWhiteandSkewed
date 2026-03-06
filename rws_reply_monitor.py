@@ -293,6 +293,70 @@ def find_pexels_image(search_terms, exclude_id=None):
         return {"url": "", "page": "", "credit": "Error fetching image"}
 
 
+def find_image_via_search(search_terms):
+    """Find a Pexels image via Claude Haiku web_search. Fast, standalone, no API key needed.
+
+    Used in handle_option_1 so the image is always found regardless of whether
+    the full story generation succeeds or fails.
+    """
+    if isinstance(search_terms, list):
+        search_terms = " ".join(search_terms)
+    search_terms = str(search_terms).strip()
+
+    api_key = ENV.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        log_message("Warning: No ANTHROPIC_API_KEY for image search")
+        return {"url": "", "page": "", "credit": ""}
+
+    try:
+        import anthropic
+        client = anthropic.Anthropic(api_key=api_key)
+        tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 4}]
+        messages = [{
+            "role": "user",
+            "content": (
+                f'Search pexels.com for a landscape photo about: "{search_terms}". '
+                f'Use web_search with query: site:pexels.com {search_terms}\n\n'
+                f'Pick ONE photo with a numeric ID greater than 500000. '
+                f'Return ONLY this JSON (no markdown, no explanation):\n'
+                f'{{"url":"https://images.pexels.com/photos/ID/pexels-photo-ID.jpeg?auto=compress&cs=tinysrgb&w=1200",'
+                f'"page":"https://www.pexels.com/photo/SLUG-ID/",'
+                f'"credit":"Photo: Photographer Name / Pexels"}}'
+            )
+        }]
+
+        response_text = ""
+        for _ in range(6):
+            resp = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=300,
+                tools=tools,
+                messages=messages,
+            )
+            if resp.stop_reason == "end_turn":
+                for block in resp.content:
+                    if hasattr(block, "text"):
+                        response_text += block.text
+                break
+            elif resp.stop_reason == "pause_turn":
+                messages.append({"role": "assistant", "content": resp.content})
+
+        if response_text:
+            match = re.search(r'\{[^{}]+\}', response_text, re.DOTALL)
+            if match:
+                result = json.loads(match.group())
+                if result.get("url") and "pexels.com" in result.get("url", ""):
+                    log_message(f"Image found: {result.get('credit', '')}")
+                    return result
+
+        log_message("Warning: Image search returned no usable result")
+        return {"url": "", "page": "", "credit": ""}
+
+    except Exception as e:
+        log_message(f"Error in find_image_via_search: {e}")
+        return {"url": "", "page": "", "credit": ""}
+
+
 def decode_mime_header(header_str):
     """Decode MIME-encoded email headers (handles UTF-8/base64 encoded subjects with emoji)."""
     if not header_str:
@@ -1056,26 +1120,51 @@ def handle_option_1(state):
         log_message("Error: Missing story data for publish")
         return False
 
-    # Generate full article content (conservative/liberal/factcheck) via Claude API
+    # Step 1: Find image first (fast, independent of story generation)
+    # Use existing image from state if it has a URL; otherwise search for one now
+    if not image_data.get("url"):
+        log_message("No image in state — searching for one via web...")
+        search_terms = story_data.get("pexels_search_terms") or story_data.get("topic_keywords", "news politics")
+        image_data = find_image_via_search(search_terms)
+        log_message(f"Image search result: {image_data.get('url', 'none')[:80]}")
+    else:
+        log_message(f"Using image from state: {image_data.get('url','')[:80]}")
+
+    # Step 2: Generate full article content (conservative/liberal/factcheck) via Claude API
     log_message("Generating full article content via Claude API...")
     full_content = generate_full_story(story_data)
     if full_content:
         log_message("Full article content generated successfully")
+        # If generate_full_story also found an image, prefer it (more relevant)
+        ai_image = full_content.get("image", {})
+        if ai_image.get("url"):
+            image_data = ai_image
+            log_message(f"Using image from story generation: {image_data['url'][:80]}")
     else:
         log_message("Warning: Could not generate full content — publishing with headlines only")
 
-    # Save complete story JSON (with full content if available)
+    # Step 3: Save complete story JSON (with full content if available)
     if not story_filename:
         story_filename = save_story_json(story_data, image_data, full_content)
         if not story_filename:
             log_message("Error: Failed to save story JSON")
             return False
     else:
-        # Story file already exists — update it with the full content
+        # Story file already exists — update it with the full content and image
         story_path = SCRIPT_DIR / story_filename
         try:
             with open(story_path, "r") as f:
                 existing = json.load(f)
+            # Always update image (was empty before)
+            if image_data.get("url"):
+                existing["image"] = {
+                    "url": image_data.get("url", ""),
+                    "credit": image_data.get("credit", "Photo: Pexels"),
+                    "alt": story_data.get("title", ""),
+                    "source": "Pexels",
+                    "page": image_data.get("page", ""),
+                    "license": "Pexels License"
+                }
             if full_content:
                 existing["subtitle"] = full_content.get("subtitle", existing.get("subtitle", ""))
                 existing["conservative"] = full_content.get("conservative", existing.get("conservative", {}))
@@ -1083,7 +1172,7 @@ def handle_option_1(state):
                 existing["factcheck"] = full_content.get("factcheck", {})
             with open(story_path, "w") as f:
                 json.dump(existing, f, indent=2)
-            log_message(f"Updated existing story JSON with full content")
+            log_message(f"Updated existing story JSON with full content and image")
         except Exception as e:
             log_message(f"Warning: Could not update existing story file: {e}")
 
@@ -1097,10 +1186,9 @@ def handle_option_1(state):
     
     add_to_history(today, slug, topic)
     
-    # Use AI-found image if available, otherwise fall back to Pexels API image
-    _ai_img = full_content.get("image", {}) if full_content else {}
-    pub_image_url    = _ai_img.get("url", "")    or (image_data.get("url", "")    if image_data else "")
-    pub_image_credit = _ai_img.get("credit", "") or (image_data.get("credit", "") if image_data else "")
+    # image_data is already fully resolved above (search ran if it was empty)
+    pub_image_url    = image_data.get("url", "")    if image_data else ""
+    pub_image_credit = image_data.get("credit", "") if image_data else ""
     pub_image_html = ""
     if pub_image_url:
         pub_image_html = f"""
