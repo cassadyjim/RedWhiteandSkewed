@@ -240,75 +240,72 @@ def select_story(recent_topics):
 
 
 def find_pexels_image(search_terms):
-    """Find image on Pexels API."""
-    # Normalize search_terms: Claude sometimes returns a list instead of a string
+    """Find a Pexels image via Claude web_search (no API key required).
+
+    The Pexels REST API is blocked from GitHub Actions IPs. Instead, we ask
+    Claude to search for a relevant landscape photo on pexels.com and return
+    the direct CDN URL, photographer, and page link.
+    """
     if isinstance(search_terms, list):
         search_terms = " ".join(search_terms)
     search_terms = str(search_terms).strip()
 
-    pexels_key = ENV.get("PEXELS_API_KEY")
-    if not pexels_key:
-        log_message("Warning: PEXELS_API_KEY not set, returning fallback image dict")
-        return {
-            "url": "",
-            "page": "",
-            "credit": "Image credit not available"
-        }
-    
+    api_key = ENV.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        log_message("Warning: ANTHROPIC_API_KEY not set, cannot search for image")
+        return {"url": "", "page": "", "credit": "Image not available"}
+
     try:
-        from urllib.parse import urlencode
-        params = urlencode({"query": search_terms, "per_page": 5, "orientation": "landscape"})
-        url = f"https://api.pexels.com/v1/search?{params}"
-        headers = {"Authorization": pexels_key}
-        request = Request(url, headers=headers)
-        
-        with urlopen(request, timeout=10) as response:
-            data = json.loads(response.read().decode())
-        
-        photos = data.get("photos", [])
-        if not photos:
-            log_message(f"No Pexels images found for: {search_terms}")
-            return {
-                "url": "",
-                "page": "",
-                "credit": "No image found"
-            }
-        
-        selected_photo = None
-        for photo in photos:
-            if photo.get("id", 0) > 500000:
-                selected_photo = photo
+        import anthropic, re as _re
+
+        client = anthropic.Anthropic(api_key=api_key)
+        tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 4}]
+        messages = [{
+            "role": "user",
+            "content": (
+                f'Search pexels.com for a high-quality landscape photo related to: "{search_terms}". '
+                f'Search for: site:pexels.com {search_terms} photo\n\n'
+                f'Find ONE good landscape photo (ID > 500000). Return ONLY a JSON object with these keys:\n'
+                f'{{"url": "https://images.pexels.com/photos/NNNNNN/pexels-photo-NNNNNN.jpeg?auto=compress&cs=tinysrgb&w=1200", '
+                f'"page": "https://www.pexels.com/photo/...", '
+                f'"credit": "Photo: Photographer Name / Pexels"}}\n\n'
+                f'No explanation. No markdown fences. Just the JSON.'
+            )
+        }]
+
+        response_text = ""
+        for _ in range(6):
+            resp = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=512,
+                tools=tools,
+                messages=messages,
+            )
+            if resp.stop_reason == "end_turn":
+                for block in resp.content:
+                    if hasattr(block, "text"):
+                        response_text += block.text
                 break
-        
-        if not selected_photo:
-            selected_photo = photos[0]
-        
-        photo_id = selected_photo.get("id")
-        photographer = selected_photo.get("photographer", "Unknown")
-        photo_url = selected_photo.get("url", "")
-        
-        image_data = {
-            "url": f"https://images.pexels.com/photos/{photo_id}/pexels-photo-{photo_id}.jpeg?auto=compress&cs=tinysrgb&w=1200",
-            "page": photo_url,
-            "credit": f"Photo: {photographer} / Pexels"
-        }
-        log_message(f"Image found: {photo_id} by {photographer}")
-        return image_data
-        
-    except URLError as e:
-        log_message(f"Error fetching from Pexels: {e}")
-        return {
-            "url": "",
-            "page": "",
-            "credit": "Image fetch failed"
-        }
+            elif resp.stop_reason == "pause_turn":
+                messages.append({"role": "assistant", "content": resp.content})
+            else:
+                break
+
+        if response_text:
+            # Extract JSON from response
+            match = _re.search(r'\{[^{}]+\}', response_text, _re.DOTALL)
+            if match:
+                result = json.loads(match.group())
+                if result.get("url") and "pexels.com" in result.get("url", ""):
+                    log_message(f"Image found via web search: {result.get('credit', '')}")
+                    return result
+
+        log_message("Warning: Could not find Pexels image via web search")
+        return {"url": "", "page": "", "credit": "Image not found"}
+
     except Exception as e:
-        log_message(f"Error in find_pexels_image: {e}")
-        return {
-            "url": "",
-            "page": "",
-            "credit": "Error fetching image"
-        }
+        log_message(f"Error finding image via web search: {e}")
+        return {"url": "", "page": "", "credit": "Image search failed"}
 
 
 def send_story_email(story_data):

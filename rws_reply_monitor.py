@@ -708,15 +708,18 @@ Use web_search to find:
 4. Real quotes from named liberal commentators, politicians, or pundits about this topic
 5. Neutral facts from AP, Reuters, or similar outlets
 
-Run at least 4-6 searches before summarizing. Suggested searches:
+Run at least 5-7 searches before summarizing. Suggested searches:
 - "{topic_str} Fox News"
 - "{topic_str} MSNBC"
 - "{topic_str} Washington Examiner"
 - "{topic_str} site:foxnews.com OR site:dailywire.com"
 - "{topic_str} site:msnbc.com OR site:theguardian.com"
 - "{topic_str} AP OR Reuters"
+- "site:pexels.com {topic_str} photo" (to find a relevant landscape photo for the story)
 
-After searching, summarize what you found: list the key quotes, the framing each side is using, and the actual article URLs you found. Do NOT write the story JSON yet — just report your research findings."""
+For the Pexels image search: look for a landscape photo on pexels.com that visually represents this story topic. From the search results, find a direct Pexels photo URL in the format https://images.pexels.com/photos/NNNNNN/... and note the photo ID, photographer name, and Pexels page URL.
+
+After searching, summarize what you found: list the key quotes, the framing each side is using, the actual article URLs you found, AND the Pexels image details (photo ID, direct image URL, photographer, page URL). Do NOT write the story JSON yet — just report your research findings."""
 
     write_prompt = f"""Great. Now use what you just found to write the full RWS story JSON.
 
@@ -735,6 +738,11 @@ CRITICAL FORMAT RULES:
 Required JSON structure:
 {{
   "subtitle": "One neutral sentence summarizing what happened",
+  "image": {{
+    "url": "https://images.pexels.com/photos/NNNNNN/pexels-photo-NNNNNN.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "page": "https://www.pexels.com/photo/description-NNNNNN/",
+    "credit": "Photo: Photographer Name / Pexels"
+  }},
   "conservative": {{
     "headline": "{conservative_headline}",
     "byline": "As seen on Fox News, [Outlet2], [Outlet3]",
@@ -924,16 +932,22 @@ def save_story_json(story_data, image_data, full_content=None):
     liberal = full_content.get("liberal") if full_content else None
     factcheck = full_content.get("factcheck") if full_content else None
 
+    # Prefer image from Claude's web-searched full_content; fall back to Pexels API image_data
+    ai_image = full_content.get("image", {}) if full_content else {}
+    resolved_image_url    = ai_image.get("url", "")    or image_data.get("url", "")
+    resolved_image_credit = ai_image.get("credit", "") or image_data.get("credit", "Photo: Pexels")
+    resolved_image_page   = ai_image.get("page", "")   or image_data.get("page", "")
+
     story_json = {
         "date": today,
         "title": story_data.get("title", ""),
         "subtitle": full_content.get("subtitle", "") if full_content else "",
         "image": {
-            "url": image_data.get("url", ""),
-            "credit": image_data.get("credit", "Photo: Pexels"),
+            "url": resolved_image_url,
+            "credit": resolved_image_credit,
             "alt": story_data.get("title", ""),
             "source": "Pexels",
-            "page": image_data.get("page", ""),
+            "page": resolved_image_page,
             "license": "Pexels License"
         },
         "poll": {
@@ -1083,8 +1097,10 @@ def handle_option_1(state):
     
     add_to_history(today, slug, topic)
     
-    pub_image_url = image_data.get("url", "") if image_data else ""
-    pub_image_credit = image_data.get("credit", "") if image_data else ""
+    # Use AI-found image if available, otherwise fall back to Pexels API image
+    _ai_img = full_content.get("image", {}) if full_content else {}
+    pub_image_url    = _ai_img.get("url", "")    or (image_data.get("url", "")    if image_data else "")
+    pub_image_credit = _ai_img.get("credit", "") or (image_data.get("credit", "") if image_data else "")
     pub_image_html = ""
     if pub_image_url:
         pub_image_html = f"""
