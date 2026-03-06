@@ -1,38 +1,33 @@
 {
-  "date": "2026-03-05",
-  "email_sent_at": "2026-03-05T22:39:09.991095",
+  "date": "2026-03-06",
+  "email_sent_at": "2026-03-06T03:30:42.677917",
   "story": {
-    "title": "Patriotic Curriculum or Government Propaganda? New Federal Education Standards Spark Firestorm",
-    "slug": "federal-education-standards-patriotism-controversy",
+    "title": "Freedom or Censorship? Social Media Bill Sparks First Amendment Battle",
+    "slug": "social-media-age-verification-first-amendment-battle",
     "topic_keywords": [
-      "education standards",
-      "patriotism curriculum",
-      "American history",
-      "federal education policy",
-      "civics education",
-      "national identity",
-      "classroom instruction",
-      "Department of Education"
+      "social media regulation",
+      "age verification",
+      "First Amendment",
+      "online safety",
+      "parental control",
+      "tech regulation",
+      "child protection"
     ],
-    "conservative_headline": "Trump Administration Restores Patriotic Education, Ends Years of America-Bashing in Classrooms",
-    "liberal_headline": "White House Mandates Nationalist Indoctrination in Public Schools, Critics Warn of Authoritarian Overreach",
-    "poll_question": "Should federal government set patriotism standards for schools?",
-    "poll_option1_label": "Restore Pride",
-    "poll_option1_desc": "Students deserve to learn American exceptionalism and national pride in history",
-    "poll_option2_label": "Local Control",
-    "poll_option2_desc": "Federal mandates threaten accurate history teaching and local education authority",
-    "pexels_search_terms": [
-      "american flag classroom",
-      "students pledge allegiance",
-      "history textbook"
-    ],
+    "conservative_headline": "Parents' Rights Victory: Senate Passes Bill Protecting Children from Social Media Predators",
+    "liberal_headline": "Dangerous Censorship Law Threatens Free Speech, Forces Government Surveillance of All Users",
+    "poll_question": "Should government require age verification for social media access?",
+    "poll_option1_label": "Protect Children",
+    "poll_option1_desc": "Parents need tools to shield kids from harmful online content and predators",
+    "poll_option2_label": "Preserve Privacy",
+    "poll_option2_desc": "Age verification creates surveillance state and violates First Amendment rights",
+    "pexels_search_terms": "smartphone social media teenager",
     "image_url": "",
     "image_page": "",
-    "image_credit": "Image fetch failed"
+    "image_credit": "Image not found"
   },
   "image": {
     "url": "",
     "page": "",
-    "credit": "Image fetch failed"
+    "credit": "Image not found"
   }
 }
