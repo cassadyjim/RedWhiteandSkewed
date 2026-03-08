@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-08",
+  "email_sent_at": "2026-03-08T04:44:24.274210",
+  "story": {
+    "title": "National Security or Corporate Handout? Pentagon's $47B Tech Modernization Plan Sparks Debate",
+    "slug": "pentagon-tech-modernization-47-billion-defense-spending",
+    "topic_keywords": [
+      "defense spending",
+      "Pentagon budget",
+      "military technology",
+      "fiscal policy",
+      "national security",
+      "government contracts",
+      "defense contractors"
+    ],
+    "conservative_headline": "Pentagon Unveils Critical $47B Investment to Counter China's Military Tech Surge",
+    "liberal_headline": "Defense Industry Scores $47B Windfall as Pentagon Pushes Unnecessary Tech Spending",
+    "poll_question": "Should the Pentagon spend $47B on technology modernization?",
+    "poll_option1_label": "Protect America",
+    "poll_option1_desc": "Essential investment to maintain military superiority against rising threats from adversaries",
+    "poll_option2_label": "Wasteful Spending",
+    "poll_option2_desc": "Bloated handout to defense contractors while domestic needs go underfunded",
+    "pexels_search_terms": "military technology Pentagon defense",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image not found"
+  },
+  "image": {
+    "url": "",
+    "page": "",
+    "credit": "Image not found"
+  }
+}
