@@ -54,4 +54,5 @@ jobs:
           git config --global user.name "RWS Bot"
           git add state/pending_story.json story_history.json 2>/dev/null || true
           git diff --staged --quiet || git commit -m "chore: daily story pick $(date +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
