@@ -190,52 +190,98 @@ def add_to_history(date_str, slug, topic):
 
 
 def select_story(recent_topics):
-    """Call Anthropic API to select today's story."""
+    """Call Anthropic API with live web search to select today's breaking story.
+
+    Uses web_search_20250305 so Claude actually searches for today's news
+    rather than drawing from training data (which would produce stale 2025 stories).
+    """
     try:
         import anthropic
     except ImportError:
         log_message("Error: anthropic library not installed. Run: pip install anthropic")
         return None
-    
+
     if not ENV.get("ANTHROPIC_API_KEY"):
         log_message("Error: ANTHROPIC_API_KEY not set in .env")
         return None
-    
+
     today = datetime.date.today().isoformat()
     recent_topics_str = ", ".join(sorted(recent_topics)) if recent_topics else "None"
-    
-    system_prompt = f"""You are the story selector for Red White & Skewed, a political news site that covers stories with maximum partisan divide. Today is {today}. You must select a breaking news story and return a JSON object."""
-    
-    user_prompt = f"""Recent topics to AVOID (covered in last 7 days): {recent_topics_str}. Search for today's top US political news stories. Select the ONE story with the strongest partisan divide. Return ONLY a JSON object with these exact keys: title (the RWS-style 'X or Y? Description' headline), slug (url-safe filename), topic_keywords (5-8 keywords describing the topic), conservative_headline (how Fox News would frame it), liberal_headline (how MSNBC would frame it), poll_question (short question), poll_option1_label (conservative 1-3 word label), poll_option1_desc (under 15 words), poll_option2_label (liberal 1-3 word label), poll_option2_desc (under 15 words), pexels_search_terms (3-4 keywords to find a relevant image on pexels.com)"""
-    
+
+    system_prompt = f"""You are the story selector for Red White & Skewed, a political news site that covers stories with maximum partisan divide. TODAY IS {today}. You MUST use web_search to find today's real breaking news — do NOT use stories from your training data."""
+
+    user_prompt = f"""TODAY IS {today}. Recent topics already covered (AVOID these): {recent_topics_str}.
+
+STEP 1 — Search for today's breaking US political news. Run these searches:
+- "US political news {today}"
+- "breaking news politics today"
+- "Congress White House news today"
+- "top political story today partisan"
+
+STEP 2 — From your search results, identify the ONE story with the strongest partisan divide happening RIGHT NOW (today or yesterday at the earliest). It must be a story that conservatives and liberals are framing very differently.
+
+STEP 3 — Return ONLY a valid JSON object (no markdown, no explanation) with these exact keys:
+{{
+  "title": "RWS-style headline framed as 'X or Y? Description'",
+  "slug": "url-safe-filename-no-spaces",
+  "topic_keywords": ["keyword1", "keyword2", "keyword3", "keyword4", "keyword5"],
+  "conservative_headline": "How Fox News would frame this headline",
+  "liberal_headline": "How MSNBC would frame this headline",
+  "poll_question": "Short question about the core debate",
+  "poll_option1_label": "Conservative label (1-3 words)",
+  "poll_option1_desc": "Conservative position description (under 15 words)",
+  "poll_option2_label": "Liberal label (1-3 words)",
+  "poll_option2_desc": "Liberal position description (under 15 words)",
+  "pexels_search_terms": "3-4 keywords for finding a relevant photo"
+}}"""
+
     try:
         client = anthropic.Anthropic(api_key=ENV["ANTHROPIC_API_KEY"])
-        response = client.messages.create(
-            model="claude-sonnet-4-5-20250929",
-            max_tokens=1024,
-            system=system_prompt,
-            messages=[
-                {"role": "user", "content": user_prompt}
-            ]
-        )
-        
-        response_text = response.content[0].text
-        log_message(f"API response received: {len(response_text)} characters")
-        
+        tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 6}]
+        messages = [{"role": "user", "content": user_prompt}]
+
+        response_text = ""
+        for iteration in range(10):
+            response = client.messages.create(
+                model="claude-sonnet-4-5-20250929",
+                max_tokens=1024,
+                system=system_prompt,
+                tools=tools,
+                messages=messages,
+            )
+            log_message(f"Story selection iteration {iteration + 1}: stop_reason={response.stop_reason}")
+
+            if response.stop_reason == "end_turn":
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        response_text += block.text
+                break
+            elif response.stop_reason == "pause_turn":
+                messages.append({"role": "assistant", "content": response.content})
+            else:
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        response_text += block.text
+                break
+
+        if not response_text:
+            log_message("Error: No text response from story selection")
+            return None
+
         json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
         if not json_match:
-            log_message("Error: No JSON found in API response")
+            log_message(f"Error: No JSON found in story selection response: {response_text[:200]}")
             return None
-        
+
         story_data = json.loads(json_match.group())
-        log_message(f"Story selected: {story_data.get('slug', 'unknown')}")
+        log_message(f"Story selected: {story_data.get('slug', 'unknown')} — {story_data.get('title', '')[:60]}")
         return story_data
-        
+
     except json.JSONDecodeError as e:
-        log_message(f"Error parsing API response as JSON: {e}")
+        log_message(f"Error parsing story selection JSON: {e}")
         return None
     except Exception as e:
-        log_message(f"Error calling Anthropic API: {e}")
+        log_message(f"Error calling Anthropic API for story selection: {e}")
         return None
 
 
