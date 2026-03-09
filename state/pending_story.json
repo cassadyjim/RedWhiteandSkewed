@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-09",
+  "email_sent_at": "2026-03-09T16:04:43.429729",
+  "story": {
+    "title": "Election Security or Voter Suppression? Trump Threatens Legislative Blockade Over SAVE America Act",
+    "slug": "trump-save-america-act-voter-id-legislative-blockade",
+    "topic_keywords": [
+      "SAVE America Act",
+      "voter ID",
+      "voting rights",
+      "election security",
+      "legislative gridlock"
+    ],
+    "conservative_headline": "Trump Takes Stand for Election Integrity: Won't Sign Bills Until Voter ID Law Passes",
+    "liberal_headline": "Trump Holds Government Hostage to Pass Restrictive Voting Bill Critics Call 'Jim Crow 2.0'",
+    "poll_question": "Should voters be required to show proof of citizenship and photo ID to vote?",
+    "poll_option1_label": "Required",
+    "poll_option1_desc": "Protects election integrity by ensuring only citizens vote in federal elections",
+    "poll_option2_label": "Unnecessary",
+    "poll_option2_desc": "Creates barriers that could disenfranchise millions of eligible American voters",
+    "pexels_search_terms": "voting ballot box election",
+    "image_url": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image_page": "https://www.pexels.com/photo/person-putting-a-ballot-in-the-box-7103187/",
+    "image_credit": "Photo: Edmond Dant\u00e8s / Pexels"
+  },
+  "image": {
+    "url": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "page": "https://www.pexels.com/photo/person-putting-a-ballot-in-the-box-7103187/",
+    "credit": "Photo: Edmond Dant\u00e8s / Pexels"
+  }
+}
