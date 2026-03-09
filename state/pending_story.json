@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-09",
+  "email_sent_at": "2026-03-09T04:52:58.411304",
+  "story": {
+    "title": "National Security or Government Overreach? Pentagon Expands Domestic Surveillance Program",
+    "slug": "pentagon-domestic-surveillance-expansion-debate",
+    "topic_keywords": [
+      "Pentagon surveillance",
+      "domestic intelligence",
+      "privacy rights",
+      "national security",
+      "civil liberties",
+      "military oversight",
+      "government monitoring"
+    ],
+    "conservative_headline": "Pentagon Strengthens Homeland Defense with Enhanced Threat Detection Capabilities",
+    "liberal_headline": "Military Expands Warrantless Surveillance of Americans in Alarming Privacy Violation",
+    "poll_question": "Should the Pentagon expand domestic surveillance programs?",
+    "poll_option1_label": "Protect Americans",
+    "poll_option1_desc": "National security requires robust intelligence gathering to prevent terrorist attacks on homeland.",
+    "poll_option2_label": "Protect Privacy",
+    "poll_option2_desc": "Expanded military surveillance violates civil liberties and constitutional protections against unreasonable searches.",
+    "pexels_search_terms": "surveillance camera security Pentagon",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image not found"
+  },
+  "image": {
+    "url": "",
+    "page": "",
+    "credit": "Image not found"
+  }
+}
