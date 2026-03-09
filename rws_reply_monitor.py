@@ -920,6 +920,126 @@ Output the JSON now. Remember: valid JSON only, double quotes, no markdown fence
         log_message(f"JSON extraction failed. Response preview: {text[:400]}")
         return None
 
+    # PHASE 2: Build Quote Ledger from research findings
+    # This is the core v10 mechanism: force Claude to document every (quote, URL) pair
+    # BEFORE writing a single word of story. Without this step Claude writes clean prose
+    # with no links because it has no structured URL→quote mapping to reference.
+    ledger_prompt = """Based on your research above, build a QUOTE LEDGER before we write the story.
+
+For every quote, statement, or factual claim you plan to use, create one ledger entry in this exact format:
+
+---
+ENTRY [N]
+SPEAKER: [Full name, Role/Title]
+OUTLET: [Publication or show name]
+URL: [EXACT article URL — must be a specific article path, NOT just the outlet homepage]
+ANCHOR: [3-7 word phrase from the quote suitable for hyperlinking]
+QUOTE: [The exact quote or paraphrase you'll use]
+SIDE: [conservative / liberal / factcheck]
+---
+
+RULES:
+- Minimum 8 entries total (at least 3 conservative, 3 liberal, 2 factcheck)
+- URL must be a real article URL you found during research (e.g. https://www.foxnews.com/politics/article-slug-here)
+- Do NOT use homepage URLs (e.g. https://foxnews.com is INVALID)
+- If you don't have a real article URL for a claim, do not include that entry
+- The ANCHOR phrase will become the hyperlinked text in the story paragraph
+
+After the ledger, write: LEDGER COMPLETE — [N] entries"""
+
+    write_prompt = f"""Great. Now use your Quote Ledger above to write the full RWS story JSON.
+
+CRITICAL FORMAT RULES:
+- Output ONLY a valid JSON object. No markdown fences (no ```json), no explanation before or after.
+- Use double quotes throughout — this must be valid JSON, not a Python dict.
+- 6-9 paragraphs per section. First AND last paragraph wrapped in <strong>.
+- Conservative link class: text-red-700 underline hover:text-red-900
+- Liberal link class: text-blue-700 underline hover:text-blue-900
+- Factcheck link class: text-purple-700 underline hover:text-purple-900
+- All links: target="_blank" rel="noopener noreferrer"
+- NO byline field in factcheck section.
+- Sources: {{"text": "Outlet — article description", "url": "https://actual-article-url/"}}
+
+🔗 INLINE LINKS ARE MANDATORY — THIS IS THE ENTIRE POINT OF THE SITE:
+- Every paragraph that uses a quote or cites a source MUST contain an <a href> link.
+- Links MUST use the exact URLs from your Quote Ledger above — not outlet homepages.
+- Use the ANCHOR phrase from the ledger as the hyperlinked text.
+- At least 4 of every 6+ paragraphs in conservative and liberal sections must have a link.
+- At least 3 factcheck paragraphs must have a link.
+- If a paragraph has no ledger URL to reference, write it as a transition paragraph without claims.
+- DO NOT fabricate URLs. If it's not in your ledger, don't link it.
+
+Example of a correctly linked paragraph (conservative section):
+  "As <a href=\\"https://www.foxnews.com/politics/actual-article-slug\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">Fox News reported</a>, Senator Smith declared that [ANCHOR phrase as link text]."
+
+Required JSON structure:
+{{
+  "subtitle": "One neutral sentence summarizing what happened",
+  "image": {{
+    "url": "https://images.pexels.com/photos/NNNNNN/pexels-photo-NNNNNN.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "page": "https://www.pexels.com/photo/description-NNNNNN/",
+    "credit": "Photo: Photographer Name / Pexels"
+  }},
+  "conservative": {{
+    "headline": "{conservative_headline}",
+    "byline": "As seen on Fox News, [Outlet2], [Outlet3]",
+    "paragraphs": [
+      "<strong>Bold opening in conservative voice.</strong>",
+      "Paragraph with ledger entry link: As <a href=\\"https://foxnews.com/politics/actual-slug\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-red-700 underline hover:text-red-900\\">Fox News reported</a>, [quote from ledger].",
+      "Another paragraph with a link to a real article.",
+      "Another paragraph with a link to a real article.",
+      "Another paragraph — can be a transition without link.",
+      "Another paragraph with a link to a real article.",
+      "<strong>Bold closing paragraph.</strong>"
+    ],
+    "sources": [
+      {{"text": "Fox News — Article title", "url": "https://foxnews.com/politics/actual-article"}},
+      {{"text": "Washington Examiner — Article title", "url": "https://washingtonexaminer.com/actual-article"}}
+    ]
+  }},
+  "liberal": {{
+    "headline": "{liberal_headline}",
+    "byline": "As seen on MSNBC, [Outlet2], [Outlet3]",
+    "paragraphs": [
+      "<strong>Bold opening in progressive voice.</strong>",
+      "<a href=\\"https://msnbc.com/actual-article\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-blue-700 underline hover:text-blue-900\\">MSNBC</a> noted that [quote from ledger].",
+      "Another paragraph with a link to a real article.",
+      "Another paragraph with a link to a real article.",
+      "Another paragraph — can be a transition without link.",
+      "Another paragraph with a link to a real article.",
+      "<strong>Bold closing paragraph.</strong>"
+    ],
+    "sources": [
+      {{"text": "MSNBC — Article title", "url": "https://msnbc.com/actual-article"}},
+      {{"text": "The Guardian — Article title", "url": "https://theguardian.com/actual-article"}}
+    ]
+  }},
+  "factcheck": {{
+    "headline": "Separating Fact from Spin",
+    "paragraphs": [
+      "<strong>Both sides are presenting selective versions of events. Here is what we actually know.</strong>",
+      "<p class=\\"text-xl font-bold text-purple-900\\">THE UNDISPUTED FACTS:</p>",
+      "✓ <strong>Verified fact:</strong> Description with <a href=\\"https://apnews.com/actual-article\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">sourced link</a>.",
+      "✓ <strong>Second verified fact:</strong> Description with <a href=\\"https://reuters.com/actual-article\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">sourced link</a>.",
+      "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">CONSERVATIVE SPIN VS. REALITY:</p>",
+      "⚠️ <strong>Claim:</strong> Specific conservative claim — reality check with <a href=\\"https://actual-url\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\" class=\\"text-purple-700 underline hover:text-purple-900\\">sourced link</a>.",
+      "✓ <strong>Fair Point:</strong> What conservatives get right.",
+      "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">LIBERAL SPIN VS. REALITY:</p>",
+      "⚠️ <strong>Claim:</strong> Specific liberal claim — reality check.",
+      "✓ <strong>Fair Point:</strong> What liberals get right.",
+      "<p class=\\"text-xl font-bold text-purple-900 mt-6\\">THE BIGGER PICTURE:</p>",
+      "What both sides are missing or oversimplifying.",
+      "<strong>The Bottom Line: Honest assessment without partisan spin.</strong>"
+    ],
+    "sources": [
+      {{"text": "Associated Press — Article title", "url": "https://apnews.com/actual-article"}},
+      {{"text": "Reuters — Article title", "url": "https://reuters.com/actual-article"}}
+    ]
+  }}
+}}
+
+Output the JSON now. Every link must come from your Quote Ledger. No invented URLs."""
+
     try:
         client = anthropic.Anthropic(api_key=ENV["ANTHROPIC_API_KEY"])
         tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 15}]
@@ -957,13 +1077,51 @@ Output the JSON now. Remember: valid JSON only, double quotes, no markdown fence
                 break
 
         if not research_text:
-            log_message("Warning: No research findings — proceeding with write phase anyway")
+            log_message("Warning: No research findings — proceeding with ledger phase anyway")
 
-        # --- PHASE 2: Write turn (uses research findings, produces JSON) ---
-        log_message("Phase 2: Writing story JSON from research...")
+        # --- PHASE 2: Quote Ledger (v10 core mechanism) ---
+        # Forces Claude to document (quote, URL) pairs BEFORE writing. Without this step
+        # Claude skips to prose and never builds the URL→quote mapping needed for links.
+        log_message("Phase 2: Building Quote Ledger...")
+        ledger_messages = [
+            {"role": "user", "content": research_prompt},
+            {"role": "assistant", "content": research_text or "I searched but could not find specific recent coverage. I will note what I know."},
+            {"role": "user", "content": ledger_prompt},
+        ]
+        ledger_text = ""
+        for iteration in range(5):
+            response = client.messages.create(
+                model="claude-sonnet-4-5-20250929",
+                max_tokens=2048,
+                system=system_prompt,
+                tools=tools,
+                messages=ledger_messages,
+            )
+            log_message(f"Ledger iteration {iteration + 1}: stop_reason={response.stop_reason}")
+            if response.stop_reason == "end_turn":
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        ledger_text += block.text
+                log_message(f"Quote Ledger complete: {len(ledger_text)} chars")
+                break
+            elif response.stop_reason == "pause_turn":
+                ledger_messages.append({"role": "assistant", "content": response.content})
+            else:
+                for block in response.content:
+                    if hasattr(block, "text"):
+                        ledger_text += block.text
+                break
+
+        if not ledger_text:
+            log_message("Warning: Quote Ledger empty — write phase will have no URL→quote mapping")
+
+        # --- PHASE 3: Write turn (uses research + ledger, produces JSON) ---
+        log_message("Phase 3: Writing story JSON from research + Quote Ledger...")
         write_messages = [
             {"role": "user", "content": research_prompt},
-            {"role": "assistant", "content": research_text or "I searched but could not find specific recent coverage. I will write based on general knowledge of how each side frames this topic."},
+            {"role": "assistant", "content": research_text or "I searched but could not find specific recent coverage."},
+            {"role": "user", "content": ledger_prompt},
+            {"role": "assistant", "content": ledger_text or "No ledger entries. I will write without inline links."},
             {"role": "user", "content": write_prompt},
         ]
 
