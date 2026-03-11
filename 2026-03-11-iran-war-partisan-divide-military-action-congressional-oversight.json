@@ -1,13 +1,13 @@
 {
   "date": "2026-03-11",
   "title": "Decisive Victory or Reckless War? Trump's Iran Conflict Divides America",
-  "subtitle": "",
+  "subtitle": "President Trump launched military strikes against Iran on February 28, killing Supreme Leader Ayatollah Ali Khamenei, sparking a conflict now in its 12th day with over 1,300 Iranian civilian casualties reported and no congressional authorization.",
   "image": {
-    "url": "",
-    "credit": "Image fetch failed",
+    "url": "https://images.pexels.com/photos/5502880/pexels-photo-5502880.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Photo: Somchai Kongkamsri / Pexels",
     "alt": "Decisive Victory or Reckless War? Trump's Iran Conflict Divides America",
     "source": "Pexels",
-    "page": "",
+    "page": "https://www.pexels.com/photo/military-aircraft-flying-over-mountains-5502880/",
     "license": "Pexels License"
   },
   "poll": {
@@ -25,20 +25,106 @@
   },
   "conservative": {
     "headline": "Trump Takes Decisive Action Against Iranian Threat, Promises Swift Victory",
-    "byline": "From the Right",
-    "paragraphs": [],
-    "sources": []
+    "byline": "As seen on Fox News, Al Jazeera, Conservative Institute",
+    "paragraphs": [
+      "<strong>President Trump is delivering on his promise to neutralize the Iranian threat once and for all, with conservative leaders praising his decisive military action as Operation Epic Fury systematically dismantles Tehran's ability to wage war against America and its allies.</strong>",
+      "As <a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Fox News reported</a>, President Trump declared the U.S. has \"<a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">wiped out their Navy</a>\" with 44 ships destroyed, along with Iran's entire air force. The president made clear he's willing to ignore political polling to protect American lives, stating \"<a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">I don't care about polling</a>. I have to do the right thing.\"",
+      "White House Press Secretary Karoline Leavitt emphasized that U.S. forces are \"<a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">absolutely decimating</a>\" the Iranian regime and have ensured Iran \"can never again possess a nuclear weapon.\" This mission accomplishes what decades of failed diplomacy could not: permanently removing the Iranian nuclear threat.",
+      "Senate Republicans are rallying behind the commander-in-chief. Senator Rick Scott told <a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Fox News</a> that \"<a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Trump's doing the right thing</a>. He's saving American lives,\" while Senator Ted Budd noted that \"we have <a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">significantly degraded Iran's ability</a> to shoot back at us.\"",
+      "Senator Lindsey Graham praised Trump's unique combination of strength and diplomacy, saying he's \"<a href=\"https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">never met anybody so determined</a> to be a peacemaker, but you don't want to get on his bad side.\" This reflects Trump's doctrine: peace through overwhelming strength.",
+      "House Speaker Mike Johnson declared that \"Today, Iran is facing the <a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">severe consequences of its evil actions</a>,\" emphasizing that the operation represents defensive action rather than an offensive war. Republicans argue that after decades of Iranian aggression, proxy warfare, and nuclear development, Trump is finally holding Tehran accountable.",
+      "Conservative supporters point out that previous administrations allowed Iran to expand its nuclear program, fund terrorism across the Middle East, and threaten American forces with impunity. Trump inherited a mess created by the Obama-Biden Iran nuclear deal, which provided billions to the mullahs while failing to stop their march toward nuclear weapons.",
+      "<strong>Where Democrats see recklessness, Republicans see resolve. Where critics demand congressional approval, conservatives see a commander-in-chief executing his constitutional duty to protect America from imminent threats. President Trump is doing what no other president had the courage to do: eliminating the Iranian threat before it's too late.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "Fox News \u2014 Trump defends Iran strikes as Congress debates war powers",
+        "url": "https://www.foxnews.com/politics/trump-defends-iran-strikes-congress-returns-dc-debate-war-powers"
+      },
+      {
+        "text": "Al Jazeera \u2014 What's happening with the US war on Iran",
+        "url": "https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran"
+      },
+      {
+        "text": "Conservative Institute \u2014 Kamala Harris says Trump is dragging US into war",
+        "url": "https://conservativeinstitute.org/politics/kamala-harris-says-trump-is-dragging-the-united-states-into-a-war-the-american-people-do-not-want.htm"
+      }
+    ]
   },
   "liberal": {
     "headline": "Unconstitutional War with Iran Spirals as Civilian Deaths Mount, Trump Offers No Clear Strategy",
-    "byline": "From the Left",
-    "paragraphs": [],
-    "sources": []
+    "byline": "As seen on MSNBC, Al Jazeera, Fortune",
+    "paragraphs": [
+      "<strong>Donald Trump has launched an unconstitutional war against Iran without congressional approval, killing over 1,300 civilians including schoolchildren, while his administration's contradictory statements and lack of any coherent exit strategy suggest America is stumbling into another catastrophic Middle East quagmire.</strong>",
+      "<a href=\"https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-overlapping-contradictions-iran-reflect-incompetence-rcna192815\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">MSNBC's MaddowBlog</a> documented how the \"administration's <a href=\"https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-overlapping-contradictions-iran-reflect-incompetence-rcna192815\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">overlapping contradictions reflect incompetence</a>,\" with Trump officials unable to provide consistent answers about the mission's objectives, legal justification, or timeline. This chaos is characteristic of an administration that shoots first and thinks never.",
+      "Senate Majority Leader Chuck Schumer warned that \"<a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">fitful cycles of lashing out</a> and risking wider conflict are not a viable strategy,\" while House Minority Leader Hakeem Jeffries noted the Trump administration has \"<a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">not been able to articulate a plan</a>\" for how this conflict ends or what victory looks like.",
+      "Senator Tim Kaine emphasized there was \"<a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">no imminent threat from Iran</a> to the United States\" that would justify bypassing constitutional war powers. Representative Alexandria Ocasio-Cortez declared \"<a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">This war is unlawful</a>. It is unnecessary. And it will be catastrophic.\" The Constitution gives Congress alone the power to declare war, yet Trump has ignored this fundamental check on executive power.",
+      "Senator Chris Van Hollen accused Trump of launching an \"<a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">illegal, regime-change war</a>\" while lying to the American people about the justification. Senator Mark Kelly, a former astronaut and Navy pilot, bluntly assessed: \"They didn't have a plan. They have no timeline. And because of that, <a href=\"https://fortune.com/2026/03/10/poll-americans-trump-iran-war-mark-kelly/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">they have no exit strategy</a>.\"",
+      "Former Vice President Kamala Harris warned that \"Donald Trump is <a href=\"https://conservativeinstitute.org/politics/kamala-harris-says-trump-is-dragging-the-united-states-into-a-war-the-american-people-do-not-want.htm\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">dragging the United States into a war</a> the American people do not want.\" Multiple polls show majorities of Americans oppose this military action, yet Trump dismissed public opinion with his typical authoritarian disdain for democratic accountability.",
+      "The humanitarian catastrophe is mounting. Iranian officials report over 1,300 civilian deaths, including approximately 150 schoolchildren killed when a girls' school in Minab was struck. Trump initially blamed Iran for bombing its own children before reluctantly agreeing to an investigation. This echoes the lies and deflections that characterized America's disastrous wars in Iraq and Afghanistan.",
+      "Progressive leaders emphasize that Trump's reckless militarism serves no strategic American interest. It has united Iranians behind their government, destabilized global oil markets, endangered U.S. troops across the Middle East, and damaged America's standing with allies who were not consulted before Trump launched this war. Congress must reassert its constitutional authority and demand an immediate end to this illegal conflict.",
+      "<strong>Trump has given Americans exactly what they voted against: another endless Middle East war with no plan, no strategy, and mounting casualties. This unconstitutional military adventure must end before more lives are lost in service of Trump's ego and his need to appear tough on the world stage.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "MSNBC MaddowBlog \u2014 Trump's overlapping contradictions on Iran reflect incompetence",
+        "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-overlapping-contradictions-iran-reflect-incompetence-rcna192815"
+      },
+      {
+        "text": "Al Jazeera \u2014 What's happening with the US war on Iran",
+        "url": "https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran"
+      },
+      {
+        "text": "Fortune \u2014 Poll shows Americans oppose Trump Iran war, Mark Kelly criticizes lack of strategy",
+        "url": "https://fortune.com/2026/03/10/poll-americans-trump-iran-war-mark-kelly/"
+      },
+      {
+        "text": "Conservative Institute \u2014 Kamala Harris says Trump is dragging US into unwanted war",
+        "url": "https://conservativeinstitute.org/politics/kamala-harris-says-trump-is-dragging-the-united-states-into-a-war-the-american-people-do-not-want.htm"
+      }
+    ]
   },
   "factcheck": {
-    "headline": "Just the Facts",
-    "byline": "Fact Check Desk",
-    "paragraphs": [],
-    "sources": []
+    "headline": "Separating Fact from Spin",
+    "paragraphs": [
+      "<strong>Both sides are presenting selective versions of this conflict. Conservatives emphasize military success while downplaying civilian casualties and constitutional questions. Liberals focus on deaths and legal violations while minimizing Iran's decades of aggression. Here is what we actually know.</strong>",
+      "<p class=\"text-xl font-bold text-purple-900\">THE UNDISPUTED FACTS:</p>",
+      "\u2713 <strong>Military strikes began February 28, 2026:</strong> The U.S. and Israel launched joint strikes called Operation Epic Fury against Iranian military and nuclear facilities. U.S. Central Command reports American forces have struck more than <a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">5,000 targets</a> across Iran.",
+      "\u2713 <strong>Supreme Leader killed in initial strikes:</strong> Ayatollah Ali Khamenei was killed in the opening attack. His son, Mojtaba Khamenei, has been appointed as Iran's new supreme leader.",
+      "\u2713 <strong>Significant civilian casualties:</strong> The Iranian Red Crescent Society reports at least <a href=\"https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">1,300 civilians killed</a>, including approximately 150-175 children at a girls' school in Minab. U.S. missile fragments were reportedly found at the school site, though Defense Secretary Pete Hegseth stated the U.S. would \"<a href=\"https://www.pbs.org/newshour/show/u-s-investigates-claims-of-strike-on-iranian-girls-school-as-hundreds-reported-killed\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">never target civilian targets</a>\" and is investigating.",
+      "\u2713 <strong>U.S. casualties:</strong> Eight American service members have been killed, including six Army Reserve soldiers in a drone attack in Kuwait on March 1. Approximately 140 U.S. personnel have been wounded.",
+      "\u2713 <strong>No congressional authorization:</strong> Trump launched military action without a congressional declaration of war. Both the House and Senate have voted against requiring authorization, largely along party lines. The War Powers Resolution of 1973 requires congressional approval within 60 days of sustained military action.",
+      "\u2713 <strong>Public opinion divided along party lines:</strong> Most polls show overall American opposition (ranging from 52-59% against), but with stark partisan divides. Republicans support the action by approximately 80%, while Democrats and independents oppose it by similar margins.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">CONSERVATIVE SPIN VS. REALITY:</p>",
+      "\u26a0\ufe0f <strong>Claim: \"Iran posed an imminent threat\":</strong> <a href=\"https://www.nbcnews.com/news/world/trump-iran-strikes-girls-school-bomb-fragments-rcna192684\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">NBC's Richard Engel reported</a> Trump <a href=\"https://www.nbcnews.com/news/world/trump-iran-strikes-girls-school-bomb-fragments-rcna192684\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">justified</a> the war on \"a theoretical threat\" rather than an imminent one. Intelligence assessments suggested Iran was years away from a deliverable nuclear weapon. Multiple Democratic senators have stated no imminent threat existed that would justify bypassing Congress.",
+      "\u26a0\ufe0f <strong>Claim: \"This will be quick and decisive\":</strong> The conflict is now in its 12th day with no clear end in sight. Iran has launched retaliatory strikes across multiple countries in the region. History suggests regime-change wars rarely proceed as quickly or cleanly as initially promised, as seen in Iraq and Afghanistan.",
+      "\u2713 <strong>Fair Point:</strong> Iran has engaged in decades of hostile actions including supporting proxy forces, developing nuclear capabilities, attacking commercial shipping, and threatening regional allies. The U.S. has documented Iranian responsibility for attacks that killed American service members. These are legitimate security concerns regardless of one's view on the current military response.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">LIBERAL SPIN VS. REALITY:</p>",
+      "\u26a0\ufe0f <strong>Claim: \"Trump acted purely on impulse\":</strong> While critics highlight contradictions in administration messaging, the strikes involved coordination with Israel and targeting of thousands of sites, suggesting significant military planning preceded the operation. This was not a spur-of-the-moment decision, though questions about long-term strategy remain valid.",
+      "\u26a0\ufe0f <strong>Oversimplification: \"All civilian deaths are war crimes\":</strong> While the civilian casualty numbers are deeply concerning and must be investigated, international law distinguishes between intentional targeting of civilians (clearly illegal) and civilian casualties in strikes on legitimate military targets (tragic but not automatically criminal if precautions were taken). Independent investigations are needed to determine which category applies to specific incidents.",
+      "\u2713 <strong>Fair Point:</strong> The constitutional question is legitimate. Article I of the Constitution explicitly gives Congress the power to declare war. The War Powers Resolution was designed to prevent presidents from unilaterally committing America to sustained military conflicts. Trump's decision to launch this operation without congressional debate or authorization represents a significant expansion of executive power that should concern anyone who values constitutional checks and balances, regardless of party.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">THE BIGGER PICTURE:</p>",
+      "The debate over this conflict reflects a deeper question America has struggled with since 9/11: How should the U.S. respond to genuine security threats in an era when formal declarations of war are rare, military technology enables rapid strikes, and regional powers can inflict significant damage without directly invading U.S. territory? Presidents of both parties have expanded executive war-making authority. Congress has repeatedly declined to fully exercise its constitutional role, leaving ambiguity about when military action requires legislative approval.",
+      "Both sides are also avoiding difficult questions. Conservatives celebrating Iran's military degradation must address what happens next: Will a humiliated, unstable Iran become more or less dangerous? Who will govern Iran after regime change, and will they be more favorable to U.S. interests? Liberals condemning the war must articulate what alternative would have effectively addressed Iran's nuclear program and regional aggression after decades of sanctions and diplomacy produced mixed results.",
+      "<strong>The Bottom Line: This conflict involves legitimate security concerns about Iran, serious questions about executive overreach and constitutional process, tragic loss of civilian life requiring investigation, and competing visions of America's role in the world. Neither partisan narrative captures the full complexity. What's certain is that American service members are in harm's way, civilians are dying, and the U.S. has entered another Middle East conflict without consensus on objectives, strategy, or endgame.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "Al Jazeera \u2014 Comprehensive timeline and casualty figures for US-Iran conflict",
+        "url": "https://www.aljazeera.com/news/2026/3/10/whats-happening-with-the-us-war-on-iran"
+      },
+      {
+        "text": "PBS NewsHour \u2014 US investigates claims of strike on Iranian girls' school",
+        "url": "https://www.pbs.org/newshour/show/u-s-investigates-claims-of-strike-on-iranian-girls-school-as-hundreds-reported-killed"
+      },
+      {
+        "text": "NBC News \u2014 Investigation into girls' school bombing and Trump's justification for war",
+        "url": "https://www.nbcnews.com/news/world/trump-iran-strikes-girls-school-bomb-fragments-rcna192684"
+      },
+      {
+        "text": "Fortune \u2014 Polling data on American opposition to Iran war",
+        "url": "https://fortune.com/2026/03/10/poll-americans-trump-iran-war-mark-kelly/"
+      }
+    ]
   }
 }
