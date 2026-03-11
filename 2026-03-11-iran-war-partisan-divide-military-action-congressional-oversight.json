@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-11",
+  "title": "Decisive Victory or Reckless War? Trump's Iran Conflict Divides America",
+  "subtitle": "",
+  "image": {
+    "url": "",
+    "credit": "Image fetch failed",
+    "alt": "Decisive Victory or Reckless War? Trump's Iran Conflict Divides America",
+    "source": "Pexels",
+    "page": "",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should the US continue military operations in Iran without congressional authorization?",
+    "options": [
+      {
+        "label": "Defend America",
+        "description": "President has authority to respond to threats and defeat enemies decisively"
+      },
+      {
+        "label": "Demand Authorization",
+        "description": "Constitution requires Congress to declare war, not the president acting alone"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "Trump Takes Decisive Action Against Iranian Threat, Promises Swift Victory",
+    "byline": "From the Right",
+    "paragraphs": [],
+    "sources": []
+  },
+  "liberal": {
+    "headline": "Unconstitutional War with Iran Spirals as Civilian Deaths Mount, Trump Offers No Clear Strategy",
+    "byline": "From the Left",
+    "paragraphs": [],
+    "sources": []
+  },
+  "factcheck": {
+    "headline": "Just the Facts",
+    "byline": "Fact Check Desk",
+    "paragraphs": [],
+    "sources": []
+  }
+}
