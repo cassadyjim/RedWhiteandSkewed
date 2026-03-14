@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-14",
+  "title": "Judicial Overreach or Independence Protected? Judge Blocks Trump DOJ's Powell Investigation",
+  "subtitle": "",
+  "image": {
+    "url": "",
+    "credit": "Image fetch failed",
+    "alt": "Judicial Overreach or Independence Protected? Judge Blocks Trump DOJ's Powell Investigation",
+    "source": "Pexels",
+    "page": "",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should the DOJ be able to investigate Federal Reserve Chair Jerome Powell?",
+    "options": [
+      {
+        "label": "Investigate Powell",
+        "description": "No one is above the law; grand jury should determine if crimes occurred"
+      },
+      {
+        "label": "Protect Fed Independence",
+        "description": "Investigation was politically motivated to pressure Powell on interest rates"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "Activist Obama Judge Shields Fed Chair From Criminal Probe, DOJ Vows Appeal",
+    "byline": "From the Right",
+    "paragraphs": [],
+    "sources": []
+  },
+  "liberal": {
+    "headline": "Federal Judge Protects Fed Independence, Blocks Trump's 'Politically Motivated' Powell Probe",
+    "byline": "From the Left",
+    "paragraphs": [],
+    "sources": []
+  },
+  "factcheck": {
+    "headline": "Just the Facts",
+    "byline": "Fact Check Desk",
+    "paragraphs": [],
+    "sources": []
+  }
+}

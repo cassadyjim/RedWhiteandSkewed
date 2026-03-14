@@ -1,31 +1,33 @@
 {
-  "date": "2026-03-14",
-  "email_sent_at": "2026-03-14T04:44:33.984390",
-  "story": {
-    "title": "National Security Crisis or Immigration Reform? DHS Shutdown Reaches Day 27",
-    "slug": "dhs-shutdown-partisan-standoff-tsa-immigration",
+  "story_filename": "2026-03-14-judge-blocks-trump-doj-powell-federal-reserve-investigation.json",
+  "story_data": {
+    "title": "Judicial Overreach or Independence Protected? Judge Blocks Trump DOJ's Powell Investigation",
+    "slug": "judge-blocks-trump-doj-powell-federal-reserve-investigation",
     "topic_keywords": [
-      "DHS shutdown",
-      "immigration enforcement",
-      "TSA agents",
-      "border security",
-      "government funding"
+      "Federal Reserve",
+      "Jerome Powell",
+      "judicial independence",
+      "Trump DOJ",
+      "monetary policy"
     ],
-    "conservative_headline": "Democrats Hold DHS Hostage During Iran War, Force TSA Agents to Work Without Pay",
-    "liberal_headline": "Republicans Refuse Immigration Reforms After Fatal Shootings, Block Funding for TSA and FEMA",
-    "poll_question": "Should Congress fund DHS immediately or require immigration enforcement reforms first?",
-    "poll_option1_label": "Fund Now",
-    "poll_option1_desc": "National security demands immediate DHS funding during heightened Iran war threats",
-    "poll_option2_label": "Reforms First",
-    "poll_option2_desc": "No funding without accountability for federal agents who killed American citizens",
-    "pexels_search_terms": "TSA airport security checkpoint line",
-    "image_url": "https://images.pexels.com/photos/29152262/pexels-photo-29152262.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "image_page": "https://www.pexels.com/photo/security-checkpoint-with-luggage-inspection-29152262/",
-    "image_credit": "Photo: Sergei Starostin / Pexels"
+    "conservative_headline": "Activist Obama Judge Shields Fed Chair From Criminal Probe, DOJ Vows Appeal",
+    "liberal_headline": "Federal Judge Protects Fed Independence, Blocks Trump's 'Politically Motivated' Powell Probe",
+    "poll_question": "Should the DOJ be able to investigate Federal Reserve Chair Jerome Powell?",
+    "poll_option1_label": "Investigate Powell",
+    "poll_option1_desc": "No one is above the law; grand jury should determine if crimes occurred",
+    "poll_option2_label": "Protect Fed Independence",
+    "poll_option2_desc": "Investigation was politically motivated to pressure Powell on interest rates",
+    "pexels_search_terms": "federal reserve building gavel judge",
+    "image_url": "",
+    "image_page": "",
+    "image_credit": "Image fetch failed"
   },
   "image": {
-    "url": "https://images.pexels.com/photos/29152262/pexels-photo-29152262.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "page": "https://www.pexels.com/photo/security-checkpoint-with-luggage-inspection-29152262/",
-    "credit": "Photo: Sergei Starostin / Pexels"
-  }
+    "url": "",
+    "page": "",
+    "credit": "Image fetch failed"
+  },
+  "email_sent_at": "2026-03-14T05:07:36.924230",
+  "date": "2026-03-14",
+  "action_taken": false
 }
