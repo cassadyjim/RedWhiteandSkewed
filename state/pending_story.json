@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-15",
+  "email_sent_at": "2026-03-15T05:07:18.353667",
+  "story": {
+    "title": "National Security or Big Brother? DHS Seeks Access to Massive Child Support Database",
+    "slug": "dhs-child-support-database-immigration-enforcement-privacy",
+    "topic_keywords": [
+      "immigration enforcement",
+      "data privacy",
+      "DHS database",
+      "child support records",
+      "government surveillance"
+    ],
+    "conservative_headline": "DHS Requests Critical Database Access to Track Down Illegal Immigrants, Secure Borders",
+    "liberal_headline": "Trump's DHS Demands Invasive Access to Private Child Support Data of Millions of Americans",
+    "poll_question": "Should DHS access child support databases to find undocumented immigrants?",
+    "poll_option1_label": "Border Security",
+    "poll_option1_desc": "Law enforcement needs all available tools to locate and deport illegal immigrants",
+    "poll_option2_label": "Privacy Rights",
+    "poll_option2_desc": "Government shouldn't access private family data intended only for child support enforcement",
+    "pexels_search_terms": "database computer privacy security",
+    "image_url": "https://images.pexels.com/photos/29940222/pexels-photo-29940222.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image_page": "https://www.pexels.com/photo/secure-office-locker-with-key-in-lock-29940222/",
+    "image_credit": "Photo: Jakub Zerdzicki / Pexels"
+  },
+  "image": {
+    "url": "https://images.pexels.com/photos/29940222/pexels-photo-29940222.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "page": "https://www.pexels.com/photo/secure-office-locker-with-key-in-lock-29940222/",
+    "credit": "Photo: Jakub Zerdzicki / Pexels"
+  }
+}
