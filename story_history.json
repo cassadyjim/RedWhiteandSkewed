@@ -7,11 +7,6 @@
       "topic": "US Israel military strikes Iran Khamenei war"
     },
     {
-      "date": "2026-02-25",
-      "slug": "scotus-strikes-down-trump-tariffs",
-      "topic": "Supreme Court IEEPA tariffs ruling"
-    },
-    {
       "date": "2026-03-04",
       "slug": "trump-federal-reserve-pressure-campaign-2026",
       "topic": "Federal Reserve Trump interest rates Jerome Powell central bank independence monetary policy inflation"
@@ -55,6 +50,11 @@
       "date": "2026-03-11",
       "slug": "iran-war-partisan-divide-military-action-congressional-oversight",
       "topic": "Iran war military action war powers Trump foreign policy congressional authorization"
+    },
+    {
+      "date": "2026-03-15",
+      "slug": "dhs-child-support-database-immigration-enforcement-privacy",
+      "topic": "immigration enforcement data privacy DHS database child support records government surveillance"
     }
   ]
 }
