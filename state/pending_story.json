@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-16",
+  "email_sent_at": "2026-03-16T05:17:30.892345",
+  "story": {
+    "title": "Bipartisan Bill or Executive Action? Congress Passes Historic Housing Legislation While Trump Pushes Deregulation",
+    "slug": "housing-affordability-congress-bill-vs-trump-deregulation",
+    "topic_keywords": [
+      "housing affordability",
+      "bipartisan legislation",
+      "deregulation",
+      "environmental regulations",
+      "home construction"
+    ],
+    "conservative_headline": "Trump Cuts Red Tape to Build More Homes While Senate Passes Bloated Housing Bill Full of Washington Spending",
+    "liberal_headline": "Senate Passes Landmark Housing Bill to Ban Wall Street Investors, But Trump Dismisses It and Pushes Environmental Rollbacks",
+    "poll_question": "What's the best way to make housing more affordable?",
+    "poll_option1_label": "Cut Regulations",
+    "poll_option1_desc": "Remove environmental rules and building codes that delay construction and increase costs",
+    "poll_option2_label": "Expand Programs",
+    "poll_option2_desc": "Pass bipartisan bill with grants, investor limits, and federal support for building",
+    "pexels_search_terms": "new home construction housing development",
+    "image_url": "https://images.pexels.com/photos/30353894/pexels-photo-30353894.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image_page": "https://www.pexels.com/photo/aerial-view-of-urban-residential-complex-30353894/",
+    "image_credit": "Photo: Young Wang / Pexels"
+  },
+  "image": {
+    "url": "https://images.pexels.com/photos/30353894/pexels-photo-30353894.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "page": "https://www.pexels.com/photo/aerial-view-of-urban-residential-complex-30353894/",
+    "credit": "Photo: Young Wang / Pexels"
+  }
+}
