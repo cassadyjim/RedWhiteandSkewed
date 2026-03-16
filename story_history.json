@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-03-01",
-      "slug": "us-israel-strikes-iran",
-      "topic": "US Israel military strikes Iran Khamenei war"
-    },
-    {
       "date": "2026-03-04",
       "slug": "trump-federal-reserve-pressure-campaign-2026",
       "topic": "Federal Reserve Trump interest rates Jerome Powell central bank independence monetary policy inflation"
@@ -55,6 +50,11 @@
       "date": "2026-03-15",
       "slug": "dhs-child-support-database-immigration-enforcement-privacy",
       "topic": "immigration enforcement data privacy DHS database child support records government surveillance"
+    },
+    {
+      "date": "2026-03-16",
+      "slug": "housing-affordability-congress-bill-vs-trump-deregulation",
+      "topic": "housing affordability bipartisan legislation deregulation environmental regulations home construction"
     }
   ]
 }
