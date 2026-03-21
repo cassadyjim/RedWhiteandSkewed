@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-21",
+  "email_sent_at": "2026-03-21T04:27:51.652952",
+  "story": {
+    "title": "Innovation Catalyst or Corporate Handout? White House AI Framework Sparks Regulatory Battle",
+    "slug": "white-house-ai-framework-federal-state-regulation-debate",
+    "topic_keywords": [
+      "artificial intelligence",
+      "AI regulation",
+      "federal preemption",
+      "state laws",
+      "tech policy"
+    ],
+    "conservative_headline": "Trump Administration Champions American AI Dominance with Pro-Innovation Framework",
+    "liberal_headline": "White House Pushes Corporate-Friendly AI Rules to Override State Consumer Protections",
+    "poll_question": "Should federal law override state AI regulations?",
+    "poll_option1_label": "Federal Leadership",
+    "poll_option1_desc": "National standards prevent regulatory patchwork and protect American innovation leadership",
+    "poll_option2_label": "State Authority",
+    "poll_option2_desc": "States should retain power to protect consumers with stronger regulations",
+    "pexels_search_terms": "artificial intelligence technology computer data",
+    "image_url": "https://images.pexels.com/photos/17485609/pexels-photo-17485609.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "image_page": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-is-a-positive-imagining-of-humanities-future-with-ai-enabled-fusion-as-the-primary-energy-source-it-was-created-by-khy-17485609/",
+    "image_credit": "Photo: Google DeepMind / Pexels"
+  },
+  "image": {
+    "url": "https://images.pexels.com/photos/17485609/pexels-photo-17485609.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "page": "https://www.pexels.com/photo/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-is-a-positive-imagining-of-humanities-future-with-ai-enabled-fusion-as-the-primary-energy-source-it-was-created-by-khy-17485609/",
+    "credit": "Photo: Google DeepMind / Pexels"
+  }
+}
