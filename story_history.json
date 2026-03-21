@@ -2,31 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-03-04",
-      "slug": "trump-federal-reserve-pressure-campaign-2026",
-      "topic": "Federal Reserve Trump interest rates Jerome Powell central bank independence monetary policy inflation"
-    },
-    {
-      "date": "2026-03-04",
-      "slug": "doj-school-board-book-ban-investigation",
-      "topic": "DOJ investigation school board book bans parental rights education censorship LGBTQ content"
-    },
-    {
-      "date": "2026-03-04",
-      "slug": "dhs-workplace-immigration-raids-expansion",
-      "topic": "immigration enforcement workplace raids DHS deportation border security undocumented workers ICE operations"
-    },
-    {
-      "date": "2026-03-05",
-      "slug": "biden-power-plant-emissions-standards-debate",
-      "topic": "EPA power plant emissions climate change fossil fuels energy costs carbon capture electric grid"
-    },
-    {
-      "date": "2026-03-06",
-      "slug": "federal-education-standards-patriotic-curriculum-debate",
-      "topic": "education standards patriotic curriculum American history civics education federal mandate classroom teaching national identity historical narrative"
-    },
-    {
       "date": "2026-03-09",
       "slug": "pentagon-domestic-surveillance-expansion-debate",
       "topic": "Pentagon surveillance domestic intelligence privacy rights national security civil liberties military oversight government monitoring"
@@ -55,6 +30,11 @@
       "date": "2026-03-16",
       "slug": "housing-affordability-congress-bill-vs-trump-deregulation",
       "topic": "housing affordability bipartisan legislation deregulation environmental regulations home construction"
+    },
+    {
+      "date": "2026-03-21",
+      "slug": "white-house-ai-framework-federal-state-regulation-debate",
+      "topic": "artificial intelligence AI regulation federal preemption state laws tech policy"
     }
   ]
 }
