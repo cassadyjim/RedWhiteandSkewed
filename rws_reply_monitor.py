@@ -441,28 +441,45 @@ def strip_html(html_string):
 
 
 def extract_reply_option(email_body):
-    """Extract reply option (1, 2, 3, or 4) from email body."""
+    """Extract reply option (1–10) from email body.
+
+    The user replies with a single number corresponding to their chosen story
+    from the 10-option selection email.
+    """
     if not email_body:
         return None
-    
+
     text = strip_html(email_body)
-    
+
+    # Check the first non-empty line first (most likely location for the reply number)
     lines = text.split('\n')
     for line in lines:
         line = line.strip()
         if not line:
             continue
         words = line.split()
-        if words and words[0] in ['1', '2', '3', '4']:
+        if words:
             try:
-                return int(words[0])
+                val = int(words[0])
+                if 1 <= val <= 10:
+                    return val
             except ValueError:
                 pass
-    
-    match = re.search(r'\b([1234])\b', text)
+        # Also check if the whole line is just a number
+        try:
+            val = int(line)
+            if 1 <= val <= 10:
+                return val
+        except ValueError:
+            pass
+        break  # Only check first non-empty line for the leading-number heuristic
+
+    # Fall back: find first standalone 1–10 number anywhere in the text
+    # Use "10" before single digits so "10" isn't parsed as "1"
+    match = re.search(r'\b(10|[1-9])\b', text)
     if match:
         return int(match.group(1))
-    
+
     return None
 
 
@@ -1623,39 +1640,59 @@ def main():
     
     try:
         state = load_pending_state()
-        
+
         if not state:
             log_message("No pending story, exiting silently")
             return
-        
+
         email_sent_at = state.get("email_sent_at")
         if email_sent_at and check_story_timeout(email_sent_at):
             log_message("Story timeout: email sent >11 hours ago, skipping")
             clear_pending_state()
             return
-        
+
         reply = check_imap_for_reply()
-        
+
         if not reply:
             log_message("No reply received yet, continuing to wait")
             return
-        
+
         option = reply.get("option")
-        
+
         if option is None:
             log_message("Could not extract valid option from reply")
             return
-        
-        if option == 1:
-            handle_option_1(state)
-        elif option == 2:
-            handle_option_2(state)
-        elif option == 3:
-            handle_option_3(state)
-        elif option == 4:
-            handle_option_4(state)
+
+        # New flow: user replies with 1–10 to pick a story from the list
+        # Backward compatibility: if state has old single-story format, treat as list of 1
+        stories = state.get("stories")
+        if stories and isinstance(stories, list):
+            # New format: list of 10 story candidates
+            if 1 <= option <= len(stories):
+                selected_story = stories[option - 1]
+                log_message(f"User chose story #{option}: {selected_story.get('title', '')[:60]}")
+                # Build a state dict compatible with handle_option_1
+                story_state = {
+                    "story": selected_story,
+                    "image": {}  # image will be found during story generation
+                }
+                handle_option_1(story_state)
+            else:
+                log_message(f"Invalid story number: {option} (only {len(stories)} stories available)")
         else:
-            log_message(f"Invalid option: {option}")
+            # Old format (single story): legacy support
+            old_story = state.get("story_data") or state.get("story")
+            if old_story and option == 1:
+                log_message("Legacy single-story state: publishing story")
+                handle_option_1(state)
+            elif option == 2:
+                handle_option_2(state)
+            elif option == 3:
+                handle_option_3(state)
+            elif option == 4:
+                handle_option_4(state)
+            else:
+                log_message(f"Invalid option: {option}")
         
     except Exception as e:
         log_message(f"Unexpected error in main: {e}")

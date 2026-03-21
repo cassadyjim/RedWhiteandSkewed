@@ -190,10 +190,11 @@ def add_to_history(date_str, slug, topic):
 
 
 def select_story(recent_topics):
-    """Call Anthropic API with live web search to select today's breaking story.
+    """Call Anthropic API with live web search to select 10 story candidates for today.
 
     Uses web_search_20250305 so Claude actually searches for today's news
     rather than drawing from training data (which would produce stale 2025 stories).
+    Returns a list of 10 story dicts. The user picks one by replying 1–10.
     """
     try:
         import anthropic
@@ -217,34 +218,38 @@ STEP 1 — Search for today's breaking US political news. Run these searches:
 - "breaking news politics today"
 - "Congress White House news today"
 - "top political story today partisan"
+- "political controversy today"
 
-STEP 2 — From your search results, identify the ONE story with the strongest partisan divide happening RIGHT NOW (today or yesterday at the earliest). It must be a story that conservatives and liberals are framing very differently.
+STEP 2 — From your search results, identify the 10 best stories with strong partisan divide happening RIGHT NOW (today or yesterday at the earliest). Each must be a story that conservatives and liberals are framing very differently. Avoid topics already covered (listed above). Cover a variety of topics — don't pick 10 versions of the same story.
 
-STEP 3 — Return ONLY a valid JSON object (no markdown, no explanation) with these exact keys:
-{{
-  "title": "RWS-style headline framed as 'X or Y? Description'",
-  "slug": "url-safe-filename-no-spaces",
-  "topic_keywords": ["keyword1", "keyword2", "keyword3", "keyword4", "keyword5"],
-  "conservative_headline": "How Fox News would frame this headline",
-  "liberal_headline": "How MSNBC would frame this headline",
-  "poll_question": "Short question about the core debate",
-  "poll_option1_label": "Conservative label (1-3 words)",
-  "poll_option1_desc": "Conservative position description (under 15 words)",
-  "poll_option2_label": "Liberal label (1-3 words)",
-  "poll_option2_desc": "Liberal position description (under 15 words)",
-  "pexels_search_terms": "3-4 keywords for finding a relevant photo"
-}}"""
+STEP 3 — Return ONLY a valid JSON array of exactly 10 story objects (no markdown, no explanation) with these exact keys per story:
+[
+  {{
+    "title": "RWS-style headline framed as 'X or Y? Description'",
+    "slug": "url-safe-filename-no-spaces",
+    "topic_keywords": ["keyword1", "keyword2", "keyword3", "keyword4", "keyword5"],
+    "conservative_headline": "How Fox News would frame this headline",
+    "liberal_headline": "How MSNBC would frame this headline",
+    "poll_question": "Short question about the core debate",
+    "poll_option1_label": "Conservative label (1-3 words)",
+    "poll_option1_desc": "Conservative position description (under 15 words)",
+    "poll_option2_label": "Liberal label (1-3 words)",
+    "poll_option2_desc": "Liberal position description (under 15 words)",
+    "pexels_search_terms": "3-4 keywords for finding a relevant photo"
+  }},
+  ... 9 more stories ...
+]"""
 
     try:
         client = anthropic.Anthropic(api_key=ENV["ANTHROPIC_API_KEY"])
-        tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 6}]
+        tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 8}]
         messages = [{"role": "user", "content": user_prompt}]
 
         response_text = ""
-        for iteration in range(10):
+        for iteration in range(12):
             response = client.messages.create(
                 model="claude-sonnet-4-5-20250929",
-                max_tokens=1024,
+                max_tokens=6000,
                 system=system_prompt,
                 tools=tools,
                 messages=messages,
@@ -268,14 +273,27 @@ STEP 3 — Return ONLY a valid JSON object (no markdown, no explanation) with th
             log_message("Error: No text response from story selection")
             return None
 
-        json_match = re.search(r'\{.*\}', response_text, re.DOTALL)
-        if not json_match:
-            log_message(f"Error: No JSON found in story selection response: {response_text[:200]}")
+        # Strip markdown fences if present
+        response_text = re.sub(r'^```(?:json)?\s*', '', response_text.strip(), flags=re.MULTILINE)
+        response_text = re.sub(r'\s*```$', '', response_text.strip(), flags=re.MULTILINE)
+
+        # Find the JSON array [...] in the response
+        array_match = re.search(r'\[.*\]', response_text, re.DOTALL)
+        if not array_match:
+            log_message(f"Error: No JSON array found in story selection response: {response_text[:200]}")
             return None
 
-        story_data = json.loads(json_match.group())
-        log_message(f"Story selected: {story_data.get('slug', 'unknown')} — {story_data.get('title', '')[:60]}")
-        return story_data
+        stories = json.loads(array_match.group())
+        if not isinstance(stories, list) or len(stories) == 0:
+            log_message(f"Error: Expected JSON array of stories, got: {type(stories)}")
+            return None
+
+        # Trim to exactly 10 if we got more
+        stories = stories[:10]
+        log_message(f"Stories selected: {len(stories)} candidates")
+        for i, s in enumerate(stories, 1):
+            log_message(f"  {i}. {s.get('slug', 'unknown')} — {s.get('title', '')[:60]}")
+        return stories
 
     except json.JSONDecodeError as e:
         log_message(f"Error parsing story selection JSON: {e}")
@@ -369,10 +387,13 @@ def find_pexels_image(search_terms):
         return {"url": "", "page": "", "credit": "Image search failed"}
 
 
-def send_story_email(story_data):
-    """Send HTML email with story selection to jim@redwhiteandskewed.com."""
+def send_story_email(stories):
+    """Send HTML email with 10 numbered story options to jim@redwhiteandskewed.com.
+
+    The user replies with the number (1–10) of the story they want published.
+    """
     today = datetime.date.today().isoformat()
-    
+
     smtp_host = ENV.get("SMTP_HOST", "send.one.com")
     smtp_port = int(ENV.get("SMTP_PORT", "465"))
     from_email = ENV.get("SMTP_FROM", "info@redwhiteandskewed.com")
@@ -381,127 +402,97 @@ def send_story_email(story_data):
     if not ENV.get("SMTP_PASSWORD"):
         log_message("Error: SMTP_PASSWORD not set in .env")
         return False
-    
-    subject = f"🗞️ RWS Daily Story Pick — {today} — Action Required"
-    
-    image_url = story_data.get("image_url", "")
-    log_message(f"send_story_email: image_url={'SET (' + image_url[:60] + '...)' if image_url else 'EMPTY'}")
-    image_html = ""
-    if image_url:
-        image_credit = story_data.get("image_credit", "")
-        story_title = story_data.get("title", "")
-        image_html = f'<div style="margin: 20px 0;"><img src="{image_url}" style="max-width:600px; width:100%; border-radius: 8px;" alt="{story_title}"><p style="font-size:11px; color:#999; margin:4px 0 0 0;">{image_credit}</p></div>'
-    
-    conservative_headline = story_data.get("conservative_headline", "")
-    liberal_headline = story_data.get("liberal_headline", "")
-    poll_question = story_data.get("poll_question", "")
-    poll_option1_label = story_data.get("poll_option1_label", "")
-    poll_option1_desc = story_data.get("poll_option1_desc", "")
-    poll_option2_label = story_data.get("poll_option2_label", "")
-    poll_option2_desc = story_data.get("poll_option2_desc", "")
-    title = story_data.get("title", "")
-    
-    poll_html = ""
-    if poll_question:
-        poll_html = f"""
-        <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; margin: 20px 0;">
-            <p style="font-weight: bold; margin-bottom: 15px;">{poll_question}</p>
-            <div style="display: flex; gap: 15px;">
-                <div style="flex: 1; padding: 10px; background: white; border-left: 4px solid #e81b23; border-radius: 4px;">
-                    <p style="margin: 0; font-weight: bold; color: #e81b23;">{poll_option1_label}</p>
-                    <p style="margin: 5px 0 0 0; font-size: 12px;">{poll_option1_desc}</p>
-                </div>
-                <div style="flex: 1; padding: 10px; background: white; border-left: 4px solid #0066cc; border-radius: 4px;">
-                    <p style="margin: 0; font-weight: bold; color: #0066cc;">{poll_option2_label}</p>
-                    <p style="margin: 5px 0 0 0; font-size: 12px;">{poll_option2_desc}</p>
-                </div>
-            </div>
-        </div>
-        """
-    
+
+    subject = f"🗞️ RWS Story Choices — {today} — Reply 1–{len(stories)} to Publish"
+
+    # Build numbered story cards
+    stories_html = ""
+    for i, story in enumerate(stories, 1):
+        title = story.get("title", "")
+        con_head = story.get("conservative_headline", "")
+        lib_head = story.get("liberal_headline", "")
+        bg_color = "#ffffff" if i % 2 == 0 else "#f9f9f9"
+        stories_html += f"""
+        <div style="background: {bg_color}; border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 12px 0;">
+            <p style="margin: 0 0 8px 0; font-size: 22px; font-weight: bold; color: #1a1a1a;">
+                <span style="display: inline-block; background: #1a1a1a; color: white; border-radius: 50%; width: 32px; height: 32px; text-align: center; line-height: 32px; margin-right: 10px; font-size: 16px;">{i}</span>
+                {title}
+            </p>
+            <p style="margin: 6px 0 4px 42px; color: #c0392b; font-size: 13px;">
+                🔴 <strong>Right:</strong> {con_head}
+            </p>
+            <p style="margin: 4px 0 0 42px; color: #2980b9; font-size: 13px;">
+                🔵 <strong>Left:</strong> {lib_head}
+            </p>
+        </div>"""
+
     html_body = f"""
     <html>
-    <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-        <div style="max-width: 800px; margin: 0 auto; padding: 20px;">
-            <div style="text-align: center; margin-bottom: 30px;">
-                <h1 style="color: #1a1a1a; margin: 0;">Red White & Skewed</h1>
-                <p style="color: #666; margin: 5px 0 0 0;">Daily Story Selection</p>
+    <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; background: #f4f4f4;">
+        <div style="max-width: 700px; margin: 0 auto; padding: 20px;">
+            <div style="text-align: center; margin-bottom: 24px; background: #1a1a1a; padding: 20px; border-radius: 10px;">
+                <h1 style="color: white; margin: 0; font-size: 28px;">Red White &amp; Skewed</h1>
+                <p style="color: #aaa; margin: 6px 0 0 0; font-size: 14px;">Daily Story Selection — {today}</p>
             </div>
-            
-            <div style="border-left: 4px solid #1a1a1a; padding-left: 20px; margin: 30px 0;">
-                <h2 style="color: #1a1a1a; margin-top: 0;">{title}</h2>
+
+            <div style="background: #fff3cd; border-left: 4px solid #f39c12; padding: 14px 18px; border-radius: 6px; margin-bottom: 20px;">
+                <p style="margin: 0; font-size: 15px;">
+                    <strong>Reply to this email with a number (1–{len(stories)})</strong> to publish that story today.
+                    No reply by 9 AM tomorrow = story skipped.
+                </p>
             </div>
-            
-            {image_html}
-            
-            <div style="margin: 20px 0; padding: 15px; background: #fff3cd; border-left: 4px solid #e81b23; border-radius: 4px;">
-                <p style="margin: 0; color: #d63031;"><strong>Conservative Take:</strong> {conservative_headline}</p>
-            </div>
-            
-            <div style="margin: 20px 0; padding: 15px; background: #d1ecf1; border-left: 4px solid #0066cc; border-radius: 4px;">
-                <p style="margin: 0; color: #0066cc;"><strong>Liberal Take:</strong> {liberal_headline}</p>
-            </div>
-            
-            {poll_html}
-            
-            <div style="background: #f0f0f0; padding: 20px; border-radius: 8px; margin: 30px 0;">
-                <h3 style="margin-top: 0; color: #1a1a1a;">Action Required</h3>
-                <p style="margin: 10px 0;"><strong>Reply to this email with:</strong></p>
-                <ul style="margin: 10px 0;">
-                    <li><strong>1</strong> — Publish this story to redwhiteandskewed.com and Wix</li>
-                    <li><strong>2</strong> — Pick a different story</li>
-                    <li><strong>3</strong> — Keep story, find a different image</li>
-                    <li><strong>4</strong> or no reply — Skip today, do nothing</li>
-                </ul>
-                <p style="color: #666; font-size: 12px; margin: 15px 0 0 0;">If you don't reply by 9 AM tomorrow, story will be skipped.</p>
-            </div>
-            
-            <div style="text-align: center; color: #999; font-size: 11px; margin-top: 30px; border-top: 1px solid #ddd; padding-top: 15px;">
-                <p>Red White & Skewed Daily Automation</p>
+
+            {stories_html}
+
+            <div style="text-align: center; color: #999; font-size: 11px; margin-top: 24px; border-top: 1px solid #ddd; padding-top: 14px;">
+                <p>Red White &amp; Skewed Daily Automation</p>
             </div>
         </div>
     </body>
     </html>
     """
-    
+
     try:
         msg = MIMEMultipart("alternative")
         msg["Subject"] = subject
         msg["From"] = from_email
         msg["To"] = to_email
-        
+
         msg.attach(MIMEText(html_body, "html"))
-        
+
         context = ssl.create_default_context()
         with smtplib.SMTP_SSL(smtp_host, smtp_port, context=context) as server:
             server.login(from_email, ENV.get("SMTP_PASSWORD"))
             server.sendmail(from_email, to_email, msg.as_string())
-        
-        log_message(f"Email sent successfully to {to_email}")
+
+        log_message(f"Story choice email sent to {to_email} with {len(stories)} options")
         return True
-        
+
     except Exception as e:
         log_message(f"Error sending email: {e}")
         return False
 
 
-def save_state(story_data, image_data):
-    """Save pending story state to state/pending_story.json for reply_monitor."""
+def save_state(stories):
+    """Save list of 10 story candidates to state/pending_story.json for reply_monitor.
+
+    The reply_monitor reads this and uses the user's reply number (1–10) to look up
+    which story was chosen, then generates and publishes only that one story.
+    """
     today = datetime.date.today().isoformat()
     email_sent_at = datetime.datetime.now().isoformat()
 
     state = {
         "date": today,
         "email_sent_at": email_sent_at,
-        "story": story_data,
-        "image": image_data
+        "stories": stories,   # list of up to 10 story dicts
     }
 
     try:
         STATE_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(STATE_FILE, "w") as f:
             json.dump(state, f, indent=2)
-        log_message(f"State saved to {STATE_FILE}")
+        log_message(f"State saved: {len(stories)} story candidates → {STATE_FILE}")
         return True
     except Exception as e:
         log_message(f"Error saving state: {e}")
@@ -522,23 +513,23 @@ def main():
     
     if args.test_email:
         log_message("Test email mode enabled")
-        test_story = {
-            "title": "Policy Debate: Should Federal Government Expand or Limit?",
-            "slug": "test-story",
-            "topic_keywords": ["government", "policy", "expansion", "federal"],
-            "conservative_headline": "Government overreach threatens American freedoms and the free market",
-            "liberal_headline": "Stronger government action needed to address inequality and protect citizens",
-            "poll_question": "Which approach do you prefer?",
-            "poll_option1_label": "Limited Gov",
-            "poll_option1_desc": "Less federal intervention, more state/local control",
-            "poll_option2_label": "Strong Gov",
-            "poll_option2_desc": "More federal programs and regulations",
-            "pexels_search_terms": "government building politics",
-            "image_url": "",
-            "image_page": "",
-            "image_credit": "Test image"
-        }
-        send_story_email(test_story)
+        test_stories = [
+            {
+                "title": f"Test Story {i}: Policy Debate on Topic {i}",
+                "slug": f"test-story-{i}",
+                "topic_keywords": ["government", "policy", "test"],
+                "conservative_headline": f"Conservative framing of story {i}",
+                "liberal_headline": f"Liberal framing of story {i}",
+                "poll_question": "Which side do you agree with?",
+                "poll_option1_label": "Right",
+                "poll_option1_desc": "Conservative position here",
+                "poll_option2_label": "Left",
+                "poll_option2_desc": "Liberal position here",
+                "pexels_search_terms": "government politics news"
+            }
+            for i in range(1, 11)
+        ]
+        send_story_email(test_stories)
         log_message("Test email completed")
         return
     
@@ -548,31 +539,24 @@ def main():
     
     try:
         recent_topics = get_recent_topics(days=7)
-        
-        story_data = select_story(recent_topics)
-        if not story_data:
-            log_message("Error: Failed to select story, aborting")
+
+        stories = select_story(recent_topics)
+        if not stories:
+            log_message("Error: Failed to select stories, aborting")
             return
-        
-        pexels_search = story_data.get("pexels_search_terms", "news politics")
-        image_data = find_pexels_image(pexels_search)
-        
-        story_data["image_url"] = image_data.get("url", "")
-        story_data["image_page"] = image_data.get("page", "")
-        story_data["image_credit"] = image_data.get("credit", "")
 
-        image_url_preview = story_data["image_url"][:80] if story_data["image_url"] else "EMPTY — no image will appear in selection email"
-        log_message(f"Selection email image URL: {image_url_preview}")
+        # No image search here — images are fetched only when the user picks a story
+        # (in handle_option_1 → generate_full_story). This avoids wasting 10 image
+        # searches for stories that will never be published.
 
-        email_sent = send_story_email(story_data)
+        email_sent = send_story_email(stories)
         if not email_sent:
             log_message("Error: Failed to send email, aborting")
             return
-        
-        save_state(story_data, image_data)
-        
-        log_message(f"Success: Story '{story_data.get('slug')}' selected and emailed")
-        log_message("Waiting for user response...")
+
+        save_state(stories)
+
+        log_message(f"Success: {len(stories)} story options emailed. Waiting for user reply (1–{len(stories)})...")
         
     except Exception as e:
         log_message(f"Unexpected error in main: {e}")
