@@ -1,0 +1,196 @@
+{
+  "date": "2026-03-22",
+  "email_sent_at": "2026-03-22T04:54:26.132466",
+  "stories": [
+    {
+      "title": "Presidential Portrait or King Complex? Trump Gold Coin Divides America on 250th Birthday",
+      "slug": "trump-gold-coin-commemorative-controversy",
+      "topic_keywords": [
+        "Trump gold coin",
+        "commemorative currency",
+        "presidential imagery",
+        "living president",
+        "monarchy concerns"
+      ],
+      "conservative_headline": "Trump Gold Coin Honors America's 250th Anniversary with Strong Leadership",
+      "liberal_headline": "Trump's 'Kingly' Gold Coin Breaks Democratic Norms for Personal Glorification",
+      "poll_question": "Should a sitting president's face appear on U.S. commemorative coins?",
+      "poll_option1_label": "Honor Leadership",
+      "poll_option1_desc": "Recognizes the president overseeing America's 250th birthday celebration",
+      "poll_option2_label": "Protect Norms",
+      "poll_option2_desc": "Maintains tradition against depicting living leaders like monarchs",
+      "pexels_search_terms": "gold coin presidential portrait"
+    },
+    {
+      "title": "Nuclear Renaissance or Radioactive Recklessness? Trump Rewrites Safety Rules",
+      "slug": "nuclear-energy-safety-regulations-loosened",
+      "topic_keywords": [
+        "nuclear energy",
+        "safety regulations",
+        "environmental review",
+        "reactor testing",
+        "deregulation"
+      ],
+      "conservative_headline": "Trump Unleashes Nuclear Innovation to Power America's AI Future",
+      "liberal_headline": "Trump Administration Secretly Guts Nuclear Safety Rules, Risking Public Health",
+      "poll_question": "Should nuclear reactor regulations be loosened to speed innovation?",
+      "poll_option1_label": "Accelerate Progress",
+      "poll_option1_desc": "Streamline rules to deploy clean energy faster for AI demands",
+      "poll_option2_label": "Prioritize Safety",
+      "poll_option2_desc": "Maintain strict oversight to prevent another nuclear disaster",
+      "pexels_search_terms": "nuclear power plant reactor"
+    },
+    {
+      "title": "Traitor or Truth-Teller? Fetterman's DHS Vote Sparks Democratic Civil War",
+      "slug": "fetterman-dhs-vote-democrat-backlash",
+      "topic_keywords": [
+        "John Fetterman",
+        "DHS confirmation",
+        "Markwayne Mullin",
+        "Democrat defection",
+        "party loyalty"
+      ],
+      "conservative_headline": "Fetterman Shows Courage, Breaks with Extremist Democrats on Border Security",
+      "liberal_headline": "Fetterman Betrays Party, Enables Trump's Deportation Machine at DHS",
+      "poll_question": "Should Democrats primary challenge Senator Fetterman in 2028?",
+      "poll_option1_label": "Support Independence",
+      "poll_option1_desc": "Senators should vote conscience over party on national security",
+      "poll_option2_label": "Demand Loyalty",
+      "poll_option2_desc": "Democrats must hold members accountable for enabling Trump agenda",
+      "pexels_search_terms": "senate vote political divide"
+    },
+    {
+      "title": "War Powers or Presidential Freedom? Congress Debates Iran Military Action",
+      "slug": "iran-war-congressional-authorization-debate",
+      "topic_keywords": [
+        "Iran war",
+        "war powers",
+        "congressional authorization",
+        "military action",
+        "executive authority"
+      ],
+      "conservative_headline": "Senate Protects Presidential Authority to Defend America from Iranian Threats",
+      "liberal_headline": "Trump Wages Illegal War as Republicans Block Congressional Oversight",
+      "poll_question": "Does the President need Congressional approval to continue the Iran war?",
+      "poll_option1_label": "Trust Commander",
+      "poll_option1_desc": "President has constitutional authority to defend national security interests",
+      "poll_option2_label": "Require Authorization",
+      "poll_option2_desc": "Congress must approve sustained military operations under Constitution",
+      "pexels_search_terms": "military operation congress capitol"
+    },
+    {
+      "title": "Border Crisis Solution or Government Hostage? DHS Shutdown Hits Day 35",
+      "slug": "dhs-shutdown-funding-deadlock-continues",
+      "topic_keywords": [
+        "DHS shutdown",
+        "government funding",
+        "immigration enforcement",
+        "TSA delays",
+        "border security"
+      ],
+      "conservative_headline": "Democrats Hold Border Security Hostage, Leave TSA Workers Unpaid",
+      "liberal_headline": "Republicans Refuse ICE Reforms, Force Government Shutdown Over Deportations",
+      "poll_question": "Who is responsible for the DHS shutdown?",
+      "poll_option1_label": "Democrats Blocking",
+      "poll_option1_desc": "Democratic demands for ICE restrictions prevent funding critical security",
+      "poll_option2_label": "Republicans Refusing",
+      "poll_option2_desc": "GOP won't accept basic oversight of immigration enforcement abuses",
+      "pexels_search_terms": "airport security line TSA"
+    },
+    {
+      "title": "James Comey Returns: Witch Hunt Redux or Overdue Accountability?",
+      "slug": "comey-subpoena-russia-investigation-probe",
+      "topic_keywords": [
+        "James Comey",
+        "Russia investigation",
+        "FBI subpoena",
+        "Trump prosecution",
+        "2016 election"
+      ],
+      "conservative_headline": "Trump DOJ Finally Investigates Comey's Russia Hoax Conspiracy",
+      "liberal_headline": "Trump Weaponizes Justice Department for Revenge Against Former FBI Chief",
+      "poll_question": "Should Trump DOJ investigate the origins of the Russia probe?",
+      "poll_option1_label": "Demand Accountability",
+      "poll_option1_desc": "FBI officials who launched baseless Trump investigation must answer",
+      "poll_option2_label": "Stop Retaliation",
+      "poll_option2_desc": "Using DOJ against political enemies threatens rule of law",
+      "pexels_search_terms": "FBI building justice department"
+    },
+    {
+      "title": "Democracy Study or Liberal Propaganda? Reports Call Trump Autocratic",
+      "slug": "democracy-studies-trump-autocracy-claims",
+      "topic_keywords": [
+        "democracy decline",
+        "autocracy",
+        "freedom index",
+        "Trump administration",
+        "democratic norms"
+      ],
+      "conservative_headline": "Biased Academic Elite Labels Democratically-Elected Trump a Dictator",
+      "liberal_headline": "Three Major Studies Confirm U.S. Democracy Collapsing Under Trump",
+      "poll_question": "Is American democracy under threat from Trump's presidency?",
+      "poll_option1_label": "Partisan Smear",
+      "poll_option1_desc": "Left-wing academics attack Trump's popular democratic mandate",
+      "poll_option2_label": "Legitimate Concern",
+      "poll_option2_desc": "Independent researchers document Trump's authoritarian actions threatening democracy",
+      "pexels_search_terms": "American flag democracy capitol building"
+    },
+    {
+      "title": "Student Loan Rescue or Backdoor Handout? Treasury Takes Over Debt",
+      "slug": "student-loans-treasury-department-transfer",
+      "topic_keywords": [
+        "student loans",
+        "Education Department",
+        "Treasury transfer",
+        "debt forgiveness",
+        "loan management"
+      ],
+      "conservative_headline": "Trump Administration Reforms Bloated Student Loan Bureaucracy",
+      "liberal_headline": "Trump Moves Student Debt to Treasury in Scheme to Block Forgiveness",
+      "poll_question": "Should the Treasury Department manage student loans instead of Education?",
+      "poll_option1_label": "Reform System",
+      "poll_option1_desc": "Move loans to financial experts who can manage debt responsibly",
+      "poll_option2_label": "Protect Students",
+      "poll_option2_desc": "Transfer undermines borrower protections and forgiveness programs",
+      "pexels_search_terms": "college graduation student debt"
+    },
+    {
+      "title": "Harvard Accountability or Campus Censorship? DOJ Sues Over Antisemitism",
+      "slug": "harvard-antisemitism-lawsuit-discrimination",
+      "topic_keywords": [
+        "Harvard lawsuit",
+        "antisemitism",
+        "campus discrimination",
+        "civil rights",
+        "Jewish students"
+      ],
+      "conservative_headline": "Trump DOJ Holds Harvard Accountable for Tolerating Anti-Jewish Hate",
+      "liberal_headline": "Trump Attacks Academic Freedom, Targets Harvard Over Student Protests",
+      "poll_question": "Is Harvard discriminating against Jewish and Israeli students?",
+      "poll_option1_label": "Enforce Civil Rights",
+      "poll_option1_desc": "Harvard enables hostile environment violating federal discrimination laws",
+      "poll_option2_label": "Defend Free Speech",
+      "poll_option2_desc": "Government overreach threatens campus activism and Palestinian solidarity",
+      "pexels_search_terms": "Harvard university campus protest"
+    },
+    {
+      "title": "AIPAC Influence or Democratic Choice? Pro-Israel Money Floods Illinois Primaries",
+      "slug": "aipac-spending-illinois-democratic-primaries",
+      "topic_keywords": [
+        "AIPAC spending",
+        "Illinois primaries",
+        "campaign finance",
+        "Israel lobby",
+        "Democratic elections"
+      ],
+      "conservative_headline": "Pro-Israel Voters Exercise Democratic Rights in Illinois Elections",
+      "liberal_headline": "AIPAC's Secret Millions Buy Democratic Primaries, Undermine Progressive Candidates",
+      "poll_question": "Should pro-Israel groups spend millions in Democratic primaries?",
+      "poll_option1_label": "Free Speech Rights",
+      "poll_option1_desc": "Organizations can support candidates sharing their policy priorities",
+      "poll_option2_label": "Foreign Interference",
+      "poll_option2_desc": "AIPAC's hidden spending corrupts elections on behalf of foreign government",
+      "pexels_search_terms": "voting ballot campaign money"
+    }
+  ]
+}
