@@ -1,10 +1,10 @@
 name: RWS Daily Story Selector
 
-# Runs at 10 PM Eastern Time (3:00 AM UTC, accounting for EST = UTC-5)
-# Change to '0 2 * * *' in summer when Eastern = UTC-4
+# Runs at 10 PM Eastern Time (2:00 AM UTC for EDT = UTC-4)
+# Winter adjustment: change to '0 3 * * *' when clocks fall back (EST = UTC-5)
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 2 * * *'
   workflow_dispatch:  # Allow manual trigger from GitHub UI
 
 permissions:
@@ -17,8 +17,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        # Uses built-in GITHUB_TOKEN — auto-generated per run, never expires
         with:
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -52,7 +53,32 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "RWS Bot"
+          # Use GITHUB_TOKEN for push — always valid, no custom secret needed
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add state/pending_story.json story_history.json 2>/dev/null || true
-          git diff --staged --quiet || git commit -m "chore: daily story pick $(date +%Y-%m-%d)"
+          # Stash unstaged changes so rebase can proceed cleanly
+          git stash --include-untracked 2>/dev/null || true
           git pull --rebase origin main
+          git stash pop 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: daily story pick $(date +%Y-%m-%d)"
           git push
+
+      - name: Send failure notification email
+        if: failure()
+        env:
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        run: |
+          python3 - <<'PYEOF'
+          import smtplib, ssl, os, datetime
+          password = os.environ.get("SMTP_PASSWORD", "")
+          if not password:
+              print("No SMTP_PASSWORD — skipping failure email")
+              exit(0)
+          now = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+          body = f"From: info@redwhiteandskewed.com\r\nTo: jim@redwhiteandskewed.com\r\nSubject: RWS Daily Story Selector FAILED - {now}\r\nContent-Type: text/plain\r\n\r\nThe RWS Daily Story Selector GitHub Actions workflow failed at {now}.\r\n\r\nCheck logs: https://github.com/cassadyjim/RedWhiteandSkewed/actions/workflows/daily_story_selector.yml\r\n\r\nCommon causes:\r\n- ANTHROPIC_API_KEY secret expired\r\n- SMTP_PASSWORD secret expired\r\n- Network error during story selection\r\n\r\n-- RWS Automation\r\n"
+          ctx = ssl.create_default_context()
+          with smtplib.SMTP_SSL("send.one.com", 465, context=ctx) as s:
+              s.login("info@redwhiteandskewed.com", password)
+              s.sendmail("info@redwhiteandskewed.com", "jim@redwhiteandskewed.com", body.encode())
+          print("Failure notification sent to jim@redwhiteandskewed.com")
+          PYEOF
