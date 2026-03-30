@@ -1,0 +1,196 @@
+{
+  "date": "2026-03-30",
+  "email_sent_at": "2026-03-30T04:50:37.799906",
+  "stories": [
+    {
+      "title": "Patriotic Action or Political Persecution? FBI Seizes 2020 Georgia Ballots",
+      "slug": "fbi-fulton-county-ballot-seizure-2020-election",
+      "topic_keywords": [
+        "FBI",
+        "Georgia",
+        "2020 election",
+        "Fulton County",
+        "voter fraud"
+      ],
+      "conservative_headline": "FBI Finally Investigates Fulton County Election Irregularities After Years of Stonewalling",
+      "liberal_headline": "Trump's FBI Raids Georgia Elections Office in Unconstitutional Political Retaliation",
+      "poll_question": "Should the FBI have seized 2020 election ballots from Fulton County?",
+      "poll_option1_label": "Legitimate Investigation",
+      "poll_option1_desc": "FBI has right to investigate election irregularities regardless of timing",
+      "poll_option2_label": "Political Weaponization",
+      "poll_option2_desc": "Raid violates statute of limitations and targets Trump's political opponents",
+      "pexels_search_terms": "ballot box voting FBI"
+    },
+    {
+      "title": "National Security Breach or Partisan Hackery? Iranian Group Claims Kash Patel Email Hack",
+      "slug": "kash-patel-fbi-director-email-hacked-iran",
+      "topic_keywords": [
+        "Kash Patel",
+        "FBI",
+        "cybersecurity",
+        "Iran",
+        "hacking"
+      ],
+      "conservative_headline": "Pro-Iranian Hackers Target FBI Director in Escalating Cyberwar Against America",
+      "liberal_headline": "FBI Director's Personal Email Compromised, Raising Questions About Trump Appointee's Security",
+      "poll_question": "Does the Kash Patel email hack raise serious national security concerns?",
+      "poll_option1_label": "Foreign Threat",
+      "poll_option1_desc": "Iranian attack on FBI director shows escalating danger to America",
+      "poll_option2_label": "Personal Negligence",
+      "poll_option2_desc": "Trump appointee failed to secure his own email, risking intelligence",
+      "pexels_search_terms": "cybersecurity hacker computer email"
+    },
+    {
+      "title": "Constitutional Crisis or Common Sense? Supreme Court Hears Birthright Citizenship Case",
+      "slug": "supreme-court-birthright-citizenship-trump-14th-amendment",
+      "topic_keywords": [
+        "birthright citizenship",
+        "Supreme Court",
+        "14th Amendment",
+        "immigration",
+        "Constitution"
+      ],
+      "conservative_headline": "Supreme Court Weighs Ending Birth Tourism Loophole Exploiting American Citizenship",
+      "liberal_headline": "Trump Attempts to Dismantle 160 Years of Constitutional Birthright Citizenship Protections",
+      "poll_question": "Should babies born in the US to non-citizen parents automatically receive citizenship?",
+      "poll_option1_label": "End Birth Tourism",
+      "poll_option1_desc": "Citizenship should require parental legal status, not just geography",
+      "poll_option2_label": "Protect 14th Amendment",
+      "poll_option2_desc": "All persons born in US are citizens per Constitution",
+      "pexels_search_terms": "Supreme Court citizenship baby passport"
+    },
+    {
+      "title": "Airport Chaos or Manufactured Crisis? DHS Shutdown Enters Day 42",
+      "slug": "dhs-shutdown-tsa-airport-delays-congress",
+      "topic_keywords": [
+        "DHS shutdown",
+        "TSA",
+        "airport security",
+        "Congress",
+        "Trump"
+      ],
+      "conservative_headline": "Democrats Block DHS Funding Deal, Leaving TSA Workers Without Paychecks for Over 40 Days",
+      "liberal_headline": "Republicans Refuse to Fund Homeland Security Without Massive ICE Expansion, Creating Travel Nightmare",
+      "poll_question": "Who is responsible for the ongoing Department of Homeland Security shutdown?",
+      "poll_option1_label": "Democrats Obstructing",
+      "poll_option1_desc": "Senate Democrats blocking reasonable DHS funding to protect borders",
+      "poll_option2_label": "Republicans Demanding Too Much",
+      "poll_option2_desc": "GOP insisting on ICE expansion before funding basic security",
+      "pexels_search_terms": "airport security line TSA checkpoint"
+    },
+    {
+      "title": "Protecting Children or Government Overreach? Judge Blocks RFK Jr. Trans Care Restrictions",
+      "slug": "rfk-jr-transgender-youth-care-court-ruling",
+      "topic_keywords": [
+        "RFK Jr",
+        "transgender",
+        "gender-affirming care",
+        "minors",
+        "healthcare"
+      ],
+      "conservative_headline": "Activist Judge Allows Hospitals to Continue Irreversible Gender Procedures on Minors",
+      "liberal_headline": "Federal Court Strikes Down RFK Jr's Unlawful Attack on Trans Youth Healthcare",
+      "poll_question": "Should the federal government restrict gender-affirming care for transgender minors?",
+      "poll_option1_label": "Protect Children",
+      "poll_option1_desc": "Government must prevent irreversible procedures on minors who can't consent",
+      "poll_option2_label": "Trust Doctors & Families",
+      "poll_option2_desc": "Medical decisions belong to patients, families and healthcare providers",
+      "pexels_search_terms": "doctor patient healthcare hospital"
+    },
+    {
+      "title": "Restoring Peace or Endless War? Trump Seeks 'Final Blow' Against Iran",
+      "slug": "trump-iran-war-ground-operations-military",
+      "topic_keywords": [
+        "Iran war",
+        "Trump",
+        "military",
+        "ground troops",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump Prepares Decisive Military Action to End Iran's Nuclear Threat Once and For All",
+      "liberal_headline": "Trump Escalates Unpopular Iran War Despite Broad Opposition and Casualty Warnings",
+      "poll_question": "Should the US pursue ground operations for a 'final blow' against Iran?",
+      "poll_option1_label": "Decisive Victory",
+      "poll_option1_desc": "Military action needed to eliminate Iran's nuclear capability permanently",
+      "poll_option2_label": "Avoid Escalation",
+      "poll_option2_desc": "Ground invasion risks heavy casualties with dubious chances of success",
+      "pexels_search_terms": "military troops deployment Middle East"
+    },
+    {
+      "title": "Historic Tribute or Unprecedented Narcissism? Trump's Signature Coming to US Currency",
+      "slug": "trump-signature-us-dollar-bills-currency",
+      "topic_keywords": [
+        "Trump",
+        "currency",
+        "dollar bills",
+        "signature",
+        "Treasury"
+      ],
+      "conservative_headline": "President Trump's Signature to Grace American Currency as Symbol of Economic Renewal",
+      "liberal_headline": "Trump Breaks 250-Year Tradition by Putting His Signature on Money While Cash Use Declines",
+      "poll_question": "Should President Trump's signature appear on US dollar bills?",
+      "poll_option1_label": "Presidential Honor",
+      "poll_option1_desc": "Appropriate recognition of sitting president on nation's currency",
+      "poll_option2_label": "Inappropriate Ego Trip",
+      "poll_option2_desc": "Unprecedented violation of tradition prohibiting living presidents on money",
+      "pexels_search_terms": "dollar bill money currency USA"
+    },
+    {
+      "title": "Massive Resistance or Fringe Protest? 'No Kings' Rallies Draw Crowds Across America",
+      "slug": "no-kings-protest-rallies-trump-nationwide",
+      "topic_keywords": [
+        "protests",
+        "No Kings",
+        "Trump",
+        "demonstrations",
+        "activism"
+      ],
+      "conservative_headline": "Far-Left Organizers Mobilize Paid Protesters in Desperate Attempt to Undermine Trump",
+      "liberal_headline": "Millions Rally in 3,000+ Cities Against Trump's Authoritarian Overreach and Abuse of Power",
+      "poll_question": "Do the nationwide 'No Kings' protests represent legitimate grassroots resistance?",
+      "poll_option1_label": "Manufactured Outrage",
+      "poll_option1_desc": "Coordinated leftist groups organizing paid activists to attack democracy",
+      "poll_option2_label": "Genuine Movement",
+      "poll_option2_desc": "Organic response to Trump administration's assault on constitutional norms",
+      "pexels_search_terms": "protest crowd demonstration rally"
+    },
+    {
+      "title": "Election Integrity or Voter Intimidation? ICE Agents May Deploy to Polling Places",
+      "slug": "ice-agents-polling-places-2026-midterm-elections",
+      "topic_keywords": [
+        "ICE",
+        "elections",
+        "polling places",
+        "voting",
+        "immigration"
+      ],
+      "conservative_headline": "ICE to Ensure Election Security by Preventing Illegal Immigrant Voting at Polls",
+      "liberal_headline": "Trump Administration Plans to Deploy ICE Agents to Intimidate Voters at Polling Places",
+      "poll_question": "Should ICE agents be deployed to polling places during elections?",
+      "poll_option1_label": "Protect Elections",
+      "poll_option1_desc": "ICE presence prevents illegal voting and ensures election integrity",
+      "poll_option2_label": "Suppress Voters",
+      "poll_option2_desc": "Federal agents at polls intimidate minorities and suppress legal votes",
+      "pexels_search_terms": "voting booth election poll worker"
+    },
+    {
+      "title": "Fiscal Accountability or Political Witch Hunt? House Ethics Charges Democrat with 25 Violations",
+      "slug": "sheila-cherfilus-mccormick-ethics-violations-expulsion",
+      "topic_keywords": [
+        "House Ethics",
+        "corruption",
+        "Florida",
+        "Democrat",
+        "campaign finance"
+      ],
+      "conservative_headline": "Democrat Congresswoman Faces Expulsion After Bipartisan Ethics Panel Finds 25 Violations",
+      "liberal_headline": "Republicans Weaponize Ethics Process Against Black Congresswoman in Partisan Attack",
+      "poll_question": "Should Rep. Cherfilus-McCormick be expelled from Congress?",
+      "poll_option1_label": "Hold Accountable",
+      "poll_option1_desc": "25 ethics violations warrant expulsion regardless of political party",
+      "poll_option2_label": "Due Process First",
+      "poll_option2_desc": "Allegations require full investigation before removal from office",
+      "pexels_search_terms": "US Capitol Congress representative politician"
+    }
+  ]
+}
