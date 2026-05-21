@@ -2,44 +2,9 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-03-09",
-      "slug": "pentagon-domestic-surveillance-expansion-debate",
-      "topic": "Pentagon surveillance domestic intelligence privacy rights national security civil liberties military oversight government monitoring"
-    },
-    {
-      "date": "2026-03-09",
-      "slug": "house-gop-budget-cuts-social-programs-2026",
-      "topic": "budget cuts entitlement reform Medicare Medicaid Social Security federal spending deficit reduction social programs"
-    },
-    {
-      "date": "2026-03-09",
-      "slug": "trump-save-america-act-voter-id-legislative-blockade",
-      "topic": "SAVE America Act voter ID voting rights election security legislative gridlock"
-    },
-    {
-      "date": "2026-03-11",
-      "slug": "iran-war-partisan-divide-military-action-congressional-oversight",
-      "topic": "Iran war military action war powers Trump foreign policy congressional authorization"
-    },
-    {
-      "date": "2026-03-15",
-      "slug": "dhs-child-support-database-immigration-enforcement-privacy",
-      "topic": "immigration enforcement data privacy DHS database child support records government surveillance"
-    },
-    {
-      "date": "2026-03-16",
-      "slug": "housing-affordability-congress-bill-vs-trump-deregulation",
-      "topic": "housing affordability bipartisan legislation deregulation environmental regulations home construction"
-    },
-    {
-      "date": "2026-03-21",
-      "slug": "white-house-ai-framework-federal-state-regulation-debate",
-      "topic": "artificial intelligence AI regulation federal preemption state laws tech policy"
-    },
-    {
-      "date": "2026-03-22",
-      "slug": "trump-gold-coin-commemorative-controversy",
-      "topic": "Trump gold coin commemorative currency presidential imagery living president monarchy concerns"
+      "date": "2026-05-21",
+      "slug": "trump-anti-weaponization-fund-controversy",
+      "topic": "Trump Justice Department settlement Jan 6 taxpayer funds"
     }
   ]
 }
