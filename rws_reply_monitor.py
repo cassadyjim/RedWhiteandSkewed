@@ -771,13 +771,18 @@ def check_imap_for_reply(email_sent_at_str=None):
                     date_header = msg.get("Date", "")
                     try:
                         reply_dt = parsedate_to_datetime(date_header)
-                        # Make both naive UTC for comparison
-                        reply_naive = reply_dt.replace(tzinfo=None) if reply_dt.tzinfo else reply_dt
-                        sent_naive = sent_at_dt.replace(tzinfo=None) if sent_at_dt.tzinfo else sent_at_dt
-                        if reply_naive < sent_naive:
-                            log_message(f"Skipping reply dated {date_header!r} — arrived before selection email was sent ({email_sent_at_str})")
+                        # Convert reply to UTC before comparing — reply_dt has a timezone
+                        # offset (e.g. -0400 EDT) so we must normalize to UTC first.
+                        # sent_at_dt is naive UTC (from GitHub Actions).
+                        if reply_dt.tzinfo is not None:
+                            reply_utc_naive = reply_dt.astimezone(datetime.timezone.utc).replace(tzinfo=None)
+                        else:
+                            reply_utc_naive = reply_dt
+                        if reply_utc_naive < sent_at_dt:
+                            log_message(f"Skipping reply dated {date_header!r} (UTC {reply_utc_naive}) — before selection email sent at {email_sent_at_str}")
                             imap.store(email_id, "+FLAGS", "\\Seen")
                             continue
+                        log_message(f"Reply timestamp OK: {date_header!r} (UTC {reply_utc_naive}) >= sent at {email_sent_at_str}")
                     except Exception as e:
                         log_message(f"Warning: could not parse reply date {date_header!r}: {e} — accepting anyway")
 
