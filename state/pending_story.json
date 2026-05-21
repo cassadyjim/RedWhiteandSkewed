@@ -1,196 +1,196 @@
 {
-  "date": "2026-03-30",
-  "email_sent_at": "2026-03-30T04:50:37.799906",
+  "date": "2026-05-21",
+  "email_sent_at": "2026-05-21T16:17:20.163573",
   "stories": [
     {
-      "title": "Patriotic Action or Political Persecution? FBI Seizes 2020 Georgia Ballots",
-      "slug": "fbi-fulton-county-ballot-seizure-2020-election",
+      "title": "Justice or Corruption? Trump's $1.8B 'Anti-Weaponization' Fund Sparks Firestorm",
+      "slug": "trump-anti-weaponization-fund-controversy",
       "topic_keywords": [
-        "FBI",
-        "Georgia",
-        "2020 election",
-        "Fulton County",
-        "voter fraud"
+        "Trump",
+        "Justice Department",
+        "settlement",
+        "Jan 6",
+        "taxpayer funds"
       ],
-      "conservative_headline": "FBI Finally Investigates Fulton County Election Irregularities After Years of Stonewalling",
-      "liberal_headline": "Trump's FBI Raids Georgia Elections Office in Unconstitutional Political Retaliation",
-      "poll_question": "Should the FBI have seized 2020 election ballots from Fulton County?",
-      "poll_option1_label": "Legitimate Investigation",
-      "poll_option1_desc": "FBI has right to investigate election irregularities regardless of timing",
-      "poll_option2_label": "Political Weaponization",
-      "poll_option2_desc": "Raid violates statute of limitations and targets Trump's political opponents",
-      "pexels_search_terms": "ballot box voting FBI"
+      "conservative_headline": "Trump Administration Creates Fund to Compensate Victims of Biden's Weaponized DOJ",
+      "liberal_headline": "Trump Raids Treasury for $1.8 Billion Slush Fund to Pay Off Political Allies",
+      "poll_question": "Should the government compensate people who claim they were victims of 'weaponized' justice?",
+      "poll_option1_label": "Righting Wrongs",
+      "poll_option1_desc": "Victims of political persecution deserve compensation for government overreach",
+      "poll_option2_label": "Corrupt Scheme",
+      "poll_option2_desc": "This is taxpayer-funded corruption rewarding criminals and political cronies",
+      "pexels_search_terms": "justice department building money"
     },
     {
-      "title": "National Security Breach or Partisan Hackery? Iranian Group Claims Kash Patel Email Hack",
-      "slug": "kash-patel-fbi-director-email-hacked-iran",
+      "title": "Tax Immunity or Presidential Privilege? IRS Banned from Auditing Trump's Past Returns",
+      "slug": "irs-banned-trump-tax-audits",
       "topic_keywords": [
-        "Kash Patel",
-        "FBI",
-        "cybersecurity",
-        "Iran",
-        "hacking"
+        "Trump",
+        "IRS",
+        "taxes",
+        "audit",
+        "settlement"
       ],
-      "conservative_headline": "Pro-Iranian Hackers Target FBI Director in Escalating Cyberwar Against America",
-      "liberal_headline": "FBI Director's Personal Email Compromised, Raising Questions About Trump Appointee's Security",
-      "poll_question": "Does the Kash Patel email hack raise serious national security concerns?",
-      "poll_option1_label": "Foreign Threat",
-      "poll_option1_desc": "Iranian attack on FBI director shows escalating danger to America",
-      "poll_option2_label": "Personal Negligence",
-      "poll_option2_desc": "Trump appointee failed to secure his own email, risking intelligence",
-      "pexels_search_terms": "cybersecurity hacker computer email"
+      "conservative_headline": "Trump Secures Protection from Partisan IRS Harassment in Historic Settlement",
+      "liberal_headline": "Trump Grants Himself Permanent Tax Immunity in Unprecedented Self-Dealing",
+      "poll_question": "Should Trump be permanently exempt from IRS audits of his past tax returns?",
+      "poll_option1_label": "Fair Settlement",
+      "poll_option1_desc": "Reasonable protection after years of politically motivated IRS targeting",
+      "poll_option2_label": "Above the Law",
+      "poll_option2_desc": "No president should negotiate immunity from tax enforcement with himself",
+      "pexels_search_terms": "tax forms IRS documents"
     },
     {
-      "title": "Constitutional Crisis or Common Sense? Supreme Court Hears Birthright Citizenship Case",
-      "slug": "supreme-court-birthright-citizenship-trump-14th-amendment",
+      "title": "Heroes or Obstructionists? Capitol Police Sue to Block Jan 6 Rioters' Payouts",
+      "slug": "capitol-police-lawsuit-jan6-fund",
       "topic_keywords": [
-        "birthright citizenship",
+        "Jan 6",
+        "Capitol Police",
+        "lawsuit",
+        "rioters",
+        "settlement fund"
+      ],
+      "conservative_headline": "Activists Try to Block Compensation for Political Prisoners of Biden Regime",
+      "liberal_headline": "Officers Who Defended Democracy Sue to Stop Rewards for Capitol Attackers",
+      "poll_question": "Should Jan 6 rioters be eligible for government compensation?",
+      "poll_option1_label": "Justice Delayed",
+      "poll_option1_desc": "These patriots were prosecuted for exercising their rights to protest",
+      "poll_option2_label": "Rewarding Violence",
+      "poll_option2_desc": "Insurrectionists who attacked police should not profit from their crimes",
+      "pexels_search_terms": "capitol building police riot"
+    },
+    {
+      "title": "Voting Rights or Racial Gerrymandering? Supreme Court Ruling Reshapes 2026 Elections",
+      "slug": "supreme-court-voting-rights-act-ruling",
+      "topic_keywords": [
         "Supreme Court",
-        "14th Amendment",
-        "immigration",
-        "Constitution"
+        "Voting Rights Act",
+        "redistricting",
+        "gerrymandering",
+        "elections"
       ],
-      "conservative_headline": "Supreme Court Weighs Ending Birth Tourism Loophole Exploiting American Citizenship",
-      "liberal_headline": "Trump Attempts to Dismantle 160 Years of Constitutional Birthright Citizenship Protections",
-      "poll_question": "Should babies born in the US to non-citizen parents automatically receive citizenship?",
-      "poll_option1_label": "End Birth Tourism",
-      "poll_option1_desc": "Citizenship should require parental legal status, not just geography",
-      "poll_option2_label": "Protect 14th Amendment",
-      "poll_option2_desc": "All persons born in US are citizens per Constitution",
-      "pexels_search_terms": "Supreme Court citizenship baby passport"
+      "conservative_headline": "Supreme Court Strikes Down Unconstitutional Race-Based Districting Schemes",
+      "liberal_headline": "Conservative Justices Gut Voting Rights Act, Threatening Black Representation",
+      "poll_question": "Should states be allowed to draw majority-minority districts based on race?",
+      "poll_option1_label": "Colorblind Districts",
+      "poll_option1_desc": "Drawing districts by race violates constitutional equal protection principles",
+      "poll_option2_label": "Protecting Rights",
+      "poll_option2_desc": "Majority-minority districts are essential to prevent voter suppression",
+      "pexels_search_terms": "voting ballot democracy election"
     },
     {
-      "title": "Airport Chaos or Manufactured Crisis? DHS Shutdown Enters Day 42",
-      "slug": "dhs-shutdown-tsa-airport-delays-congress",
+      "title": "Trump Loyalty Test or Democracy? GOP Primary Winners All Backed by President",
+      "slug": "trump-primary-victories-gop",
       "topic_keywords": [
-        "DHS shutdown",
-        "TSA",
-        "airport security",
-        "Congress",
+        "Trump",
+        "primaries",
+        "Kentucky",
+        "Thomas Massie",
+        "GOP"
+      ],
+      "conservative_headline": "Trump's Dominant Endorsements Sweep GOP Primaries, Strengthening Party Unity",
+      "liberal_headline": "Trump Purges Republican Critics as Party Becomes Authoritarian Cult of Personality",
+      "poll_question": "Is Trump's dominance in GOP primaries good for the Republican Party?",
+      "poll_option1_label": "Strong Leadership",
+      "poll_option1_desc": "Trump's endorsements unite the party behind proven conservative leaders",
+      "poll_option2_label": "Dangerous Purge",
+      "poll_option2_desc": "Eliminating dissent turns the GOP into a personality cult",
+      "pexels_search_terms": "republican party primary voting"
+    },
+    {
+      "title": "Justice for Cuba or Political Theater? US Indicts Ra\u00fal Castro for 1996 Plane Downing",
+      "slug": "raul-castro-indictment-cuba",
+      "topic_keywords": [
+        "Cuba",
+        "Ra\u00fal Castro",
+        "indictment",
+        "foreign policy",
         "Trump"
       ],
-      "conservative_headline": "Democrats Block DHS Funding Deal, Leaving TSA Workers Without Paychecks for Over 40 Days",
-      "liberal_headline": "Republicans Refuse to Fund Homeland Security Without Massive ICE Expansion, Creating Travel Nightmare",
-      "poll_question": "Who is responsible for the ongoing Department of Homeland Security shutdown?",
-      "poll_option1_label": "Democrats Obstructing",
-      "poll_option1_desc": "Senate Democrats blocking reasonable DHS funding to protect borders",
-      "poll_option2_label": "Republicans Demanding Too Much",
-      "poll_option2_desc": "GOP insisting on ICE expansion before funding basic security",
-      "pexels_search_terms": "airport security line TSA checkpoint"
+      "conservative_headline": "Trump DOJ Finally Holds Communist Dictator Accountable for Murdering Americans",
+      "liberal_headline": "Trump Indicts 95-Year-Old in Symbolic Stunt as Cuba Relations Deteriorate",
+      "poll_question": "Should the US indict foreign leaders for decades-old crimes?",
+      "poll_option1_label": "Justice Served",
+      "poll_option1_desc": "Murder has no statute of limitations, dictators must be held accountable",
+      "poll_option2_label": "Empty Gesture",
+      "poll_option2_desc": "Symbolic charges that can never be enforced only worsen diplomatic relations",
+      "pexels_search_terms": "cuba flag international relations"
     },
     {
-      "title": "Protecting Children or Government Overreach? Judge Blocks RFK Jr. Trans Care Restrictions",
-      "slug": "rfk-jr-transgender-youth-care-court-ruling",
+      "title": "Medical Freedom or Child Protection? Blue States Lose Trans Healthcare Access",
+      "slug": "transgender-healthcare-hospitals-ending",
       "topic_keywords": [
-        "RFK Jr",
         "transgender",
-        "gender-affirming care",
-        "minors",
-        "healthcare"
+        "healthcare",
+        "youth",
+        "hospitals",
+        "Trump administration"
       ],
-      "conservative_headline": "Activist Judge Allows Hospitals to Continue Irreversible Gender Procedures on Minors",
-      "liberal_headline": "Federal Court Strikes Down RFK Jr's Unlawful Attack on Trans Youth Healthcare",
-      "poll_question": "Should the federal government restrict gender-affirming care for transgender minors?",
+      "conservative_headline": "Hospitals Stop Dangerous Gender Experiments on Children After Federal Pressure",
+      "liberal_headline": "Trump Threats Force Blue State Hospitals to Abandon Trans Kids",
+      "poll_question": "Should hospitals provide gender-affirming care to transgender minors?",
       "poll_option1_label": "Protect Children",
-      "poll_option1_desc": "Government must prevent irreversible procedures on minors who can't consent",
-      "poll_option2_label": "Trust Doctors & Families",
-      "poll_option2_desc": "Medical decisions belong to patients, families and healthcare providers",
-      "pexels_search_terms": "doctor patient healthcare hospital"
+      "poll_option1_desc": "Minors should not receive life-altering medical treatments before adulthood",
+      "poll_option2_label": "Essential Care",
+      "poll_option2_desc": "Evidence-based care saves lives and is supported by medical professionals",
+      "pexels_search_terms": "hospital healthcare doctor patient"
     },
     {
-      "title": "Restoring Peace or Endless War? Trump Seeks 'Final Blow' Against Iran",
-      "slug": "trump-iran-war-ground-operations-military",
+      "title": "Safeguarding Democracy or Election Interference? Democrats Launch 'Sabotage-Proof' PAC",
+      "slug": "democrats-election-defense-pac",
       "topic_keywords": [
-        "Iran war",
-        "Trump",
-        "military",
-        "ground troops",
-        "Middle East"
-      ],
-      "conservative_headline": "Trump Prepares Decisive Military Action to End Iran's Nuclear Threat Once and For All",
-      "liberal_headline": "Trump Escalates Unpopular Iran War Despite Broad Opposition and Casualty Warnings",
-      "poll_question": "Should the US pursue ground operations for a 'final blow' against Iran?",
-      "poll_option1_label": "Decisive Victory",
-      "poll_option1_desc": "Military action needed to eliminate Iran's nuclear capability permanently",
-      "poll_option2_label": "Avoid Escalation",
-      "poll_option2_desc": "Ground invasion risks heavy casualties with dubious chances of success",
-      "pexels_search_terms": "military troops deployment Middle East"
-    },
-    {
-      "title": "Historic Tribute or Unprecedented Narcissism? Trump's Signature Coming to US Currency",
-      "slug": "trump-signature-us-dollar-bills-currency",
-      "topic_keywords": [
-        "Trump",
-        "currency",
-        "dollar bills",
-        "signature",
-        "Treasury"
-      ],
-      "conservative_headline": "President Trump's Signature to Grace American Currency as Symbol of Economic Renewal",
-      "liberal_headline": "Trump Breaks 250-Year Tradition by Putting His Signature on Money While Cash Use Declines",
-      "poll_question": "Should President Trump's signature appear on US dollar bills?",
-      "poll_option1_label": "Presidential Honor",
-      "poll_option1_desc": "Appropriate recognition of sitting president on nation's currency",
-      "poll_option2_label": "Inappropriate Ego Trip",
-      "poll_option2_desc": "Unprecedented violation of tradition prohibiting living presidents on money",
-      "pexels_search_terms": "dollar bill money currency USA"
-    },
-    {
-      "title": "Massive Resistance or Fringe Protest? 'No Kings' Rallies Draw Crowds Across America",
-      "slug": "no-kings-protest-rallies-trump-nationwide",
-      "topic_keywords": [
-        "protests",
-        "No Kings",
-        "Trump",
-        "demonstrations",
-        "activism"
-      ],
-      "conservative_headline": "Far-Left Organizers Mobilize Paid Protesters in Desperate Attempt to Undermine Trump",
-      "liberal_headline": "Millions Rally in 3,000+ Cities Against Trump's Authoritarian Overreach and Abuse of Power",
-      "poll_question": "Do the nationwide 'No Kings' protests represent legitimate grassroots resistance?",
-      "poll_option1_label": "Manufactured Outrage",
-      "poll_option1_desc": "Coordinated leftist groups organizing paid activists to attack democracy",
-      "poll_option2_label": "Genuine Movement",
-      "poll_option2_desc": "Organic response to Trump administration's assault on constitutional norms",
-      "pexels_search_terms": "protest crowd demonstration rally"
-    },
-    {
-      "title": "Election Integrity or Voter Intimidation? ICE Agents May Deploy to Polling Places",
-      "slug": "ice-agents-polling-places-2026-midterm-elections",
-      "topic_keywords": [
-        "ICE",
+        "Democrats",
         "elections",
-        "polling places",
-        "voting",
-        "immigration"
+        "PAC",
+        "2028",
+        "election integrity"
       ],
-      "conservative_headline": "ICE to Ensure Election Security by Preventing Illegal Immigrant Voting at Polls",
-      "liberal_headline": "Trump Administration Plans to Deploy ICE Agents to Intimidate Voters at Polling Places",
-      "poll_question": "Should ICE agents be deployed to polling places during elections?",
-      "poll_option1_label": "Protect Elections",
-      "poll_option1_desc": "ICE presence prevents illegal voting and ensures election integrity",
-      "poll_option2_label": "Suppress Voters",
-      "poll_option2_desc": "Federal agents at polls intimidate minorities and suppress legal votes",
-      "pexels_search_terms": "voting booth election poll worker"
+      "conservative_headline": "Democrats Plot to Control Election Officials in Swing States for 2028",
+      "liberal_headline": "Pro-Democracy Groups Mobilize to Defend 2028 Elections from Trump Sabotage",
+      "poll_question": "Are Democrats' efforts to elect friendly election officials justified?",
+      "poll_option1_label": "Power Grab",
+      "poll_option1_desc": "Democrats want partisan officials to rig elections in their favor",
+      "poll_option2_label": "Democracy Defense",
+      "poll_option2_desc": "Protecting elections requires officials who will uphold the rule of law",
+      "pexels_search_terms": "election ballot box democracy"
     },
     {
-      "title": "Fiscal Accountability or Political Witch Hunt? House Ethics Charges Democrat with 25 Violations",
-      "slug": "sheila-cherfilus-mccormick-ethics-violations-expulsion",
+      "title": "Virginia Victory or Voter Suppression? Supreme Court Blocks Democratic Redistricting",
+      "slug": "virginia-redistricting-supreme-court",
       "topic_keywords": [
-        "House Ethics",
-        "corruption",
-        "Florida",
-        "Democrat",
-        "campaign finance"
+        "Virginia",
+        "redistricting",
+        "Supreme Court",
+        "Democrats",
+        "gerrymandering"
       ],
-      "conservative_headline": "Democrat Congresswoman Faces Expulsion After Bipartisan Ethics Panel Finds 25 Violations",
-      "liberal_headline": "Republicans Weaponize Ethics Process Against Black Congresswoman in Partisan Attack",
-      "poll_question": "Should Rep. Cherfilus-McCormick be expelled from Congress?",
-      "poll_option1_label": "Hold Accountable",
-      "poll_option1_desc": "25 ethics violations warrant expulsion regardless of political party",
-      "poll_option2_label": "Due Process First",
-      "poll_option2_desc": "Allegations require full investigation before removal from office",
-      "pexels_search_terms": "US Capitol Congress representative politician"
+      "conservative_headline": "Supreme Court Stops Democrats' Illegal Mid-Decade Redistricting Power Grab",
+      "liberal_headline": "Conservative Court Blocks Virginia Voters' Choice to End Gerrymandering",
+      "poll_question": "Should Virginia's voter-approved redistricting map have been implemented?",
+      "poll_option1_label": "Rule of Law",
+      "poll_option1_desc": "Democrats violated proper procedures trying to steal House seats illegally",
+      "poll_option2_label": "Voters' Will",
+      "poll_option2_desc": "Courts overruled what Virginia voters democratically approved in referendum",
+      "pexels_search_terms": "virginia state capitol voting"
+    },
+    {
+      "title": "Presidential Rhetoric or Free Speech? Trump's Vulgar Language Reaches New Heights",
+      "slug": "trump-rhetoric-analysis-profanity",
+      "topic_keywords": [
+        "Trump",
+        "rhetoric",
+        "language",
+        "presidency",
+        "communications"
+      ],
+      "conservative_headline": "Trump Speaks Like Regular Americans, Media Clutches Pearls Over Authenticity",
+      "liberal_headline": "Trump's Increasingly Vulgar and Violent Rhetoric Debases the Presidency",
+      "poll_question": "Is Trump's increased use of vulgar and combative language appropriate?",
+      "poll_option1_label": "Authentic Voice",
+      "poll_option1_desc": "Trump connects with voters by rejecting elite political correctness",
+      "poll_option2_label": "Unpresidential",
+      "poll_option2_desc": "Presidents should model dignity and civility, not vulgarity and insults",
+      "pexels_search_terms": "president speaking microphone speech"
     }
   ]
 }
