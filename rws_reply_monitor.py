@@ -688,8 +688,8 @@ def check_story_timeout(email_sent_at_str):
         current_time = datetime.datetime.now()
         hours_elapsed = (current_time - email_sent_at).total_seconds() / 3600
         
-        if hours_elapsed > 11:
-            log_message(f"Story timeout: {hours_elapsed:.1f} hours elapsed since email sent")
+        if hours_elapsed > 20:
+            log_message(f"Story timeout: {hours_elapsed:.1f} hours elapsed since email sent (>20h)")
             return True
         return False
     except Exception as e:
@@ -697,8 +697,22 @@ def check_story_timeout(email_sent_at_str):
         return False
 
 
-def check_imap_for_reply():
-    """Check IMAP inbox for reply to story email."""
+def check_imap_for_reply(email_sent_at_str=None):
+    """Check IMAP inbox for reply to story email.
+
+    If email_sent_at_str is provided, only replies that arrived AFTER that
+    timestamp are accepted. This prevents stale replies from a previous session
+    from being mistakenly applied to a fresh story list.
+    """
+    from email.utils import parsedate_to_datetime
+
+    sent_at_dt = None
+    if email_sent_at_str:
+        try:
+            sent_at_dt = datetime.datetime.fromisoformat(email_sent_at_str)
+        except Exception:
+            pass
+
     imap_host = ENV.get("IMAP_HOST", "imap.one.com")
     imap_port = int(ENV.get("IMAP_PORT", "993"))
     email_user = ENV.get("IMAP_USER", "jim@redwhiteandskewed.com")
@@ -741,11 +755,32 @@ def check_imap_for_reply():
 
                 log_message(f"Checking email — subject: {subject!r} | from: {from_addr}")
 
-                if "rws daily story pick" not in subject.lower():
+                # Match old format "rws daily story pick" AND new format "rws story choices"
+                subj_lower = subject.lower()
+                if "rws" not in subj_lower or not any(
+                    k in subj_lower for k in ["story", "pick", "choice"]
+                ):
                     continue
 
-                log_message(f"Found reply from {from_addr}: {subject}")
-                
+                log_message(f"Found RWS reply from {from_addr}: {subject}")
+
+                # Only accept replies that arrived AFTER the selection email was sent.
+                # This prevents an old "1" reply from a previous day being processed
+                # against today's fresh story list.
+                if sent_at_dt:
+                    date_header = msg.get("Date", "")
+                    try:
+                        reply_dt = parsedate_to_datetime(date_header)
+                        # Make both naive UTC for comparison
+                        reply_naive = reply_dt.replace(tzinfo=None) if reply_dt.tzinfo else reply_dt
+                        sent_naive = sent_at_dt.replace(tzinfo=None) if sent_at_dt.tzinfo else sent_at_dt
+                        if reply_naive < sent_naive:
+                            log_message(f"Skipping reply dated {date_header!r} — arrived before selection email was sent ({email_sent_at_str})")
+                            imap.store(email_id, "+FLAGS", "\\Seen")
+                            continue
+                    except Exception as e:
+                        log_message(f"Warning: could not parse reply date {date_header!r}: {e} — accepting anyway")
+
                 body = ""
                 if msg.is_multipart():
                     for part in msg.walk():
@@ -1651,7 +1686,7 @@ def main():
             clear_pending_state()
             return
 
-        reply = check_imap_for_reply()
+        reply = check_imap_for_reply(email_sent_at_str=state.get("email_sent_at"))
 
         if not reply:
             log_message("No reply received yet, continuing to wait")

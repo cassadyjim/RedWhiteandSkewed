@@ -55,12 +55,12 @@ jobs:
           git config --global user.name "RWS Bot"
           # Use GITHUB_TOKEN for push — always valid, no custom secret needed
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          # Stage and commit state FIRST (before any pull/rebase)
           git add state/pending_story.json story_history.json 2>/dev/null || true
-          # Stash unstaged changes so rebase can proceed cleanly
-          git stash --include-untracked 2>/dev/null || true
-          git pull --rebase origin main
-          git stash pop 2>/dev/null || true
           git diff --staged --quiet || git commit -m "chore: daily story pick $(date +%Y-%m-%d)"
+          # Discard any other unstaged changes (e.g. latest.json) so rebase runs clean
+          git checkout -- . 2>/dev/null || true
+          git pull --rebase origin main
           git push
 
       - name: Send failure notification email
