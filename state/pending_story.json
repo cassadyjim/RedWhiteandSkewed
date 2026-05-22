@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-22",
+  "email_sent_at": "2026-05-22T06:14:08.860938",
+  "stories": [
+    {
+      "title": "Presidential Monument or Ego Trip? Trump's 250-Foot Arch Approved Despite Public Opposition",
+      "slug": "trump-arch-monument-washington-approval-controversy",
+      "topic_keywords": [
+        "Trump arch",
+        "Washington monument",
+        "presidential legacy",
+        "public opposition",
+        "congressional approval"
+      ],
+      "conservative_headline": "Trump's Triumphal Arch Gets Green Light: America Deserves Monument Celebrating 250 Years of Greatness",
+      "liberal_headline": "Trump Appointees Fast-Track President's Vanity Project Despite 100% Public Opposition",
+      "poll_question": "Should Trump's 250-foot triumphal arch be built in Washington DC?",
+      "poll_option1_label": "Build It",
+      "poll_option1_desc": "America deserves a grand monument celebrating our 250th anniversary and greatness",
+      "poll_option2_label": "Block It",
+      "poll_option2_desc": "It's an ego project disrupting historic views and bypassing proper approval",
+      "pexels_search_terms": "arch monument Washington DC memorial"
+    },
+    {
+      "title": "Tax Relief or Revenue Loss? Bezos Proposes Zero Income Tax for Bottom 50%",
+      "slug": "bezos-zero-tax-proposal-bottom-earners",
+      "topic_keywords": [
+        "Bezos",
+        "income tax",
+        "tax reform",
+        "billionaires",
+        "wealth inequality"
+      ],
+      "conservative_headline": "Bezos Backs Common Sense Tax Relief: Bottom Half of Earners Should Pay Zero",
+      "liberal_headline": "Billionaire Bezos Defends The Rich While Proposing Tax Plan That Guts Federal Revenue",
+      "poll_question": "Should the bottom 50% of earners pay zero federal income tax?",
+      "poll_option1_label": "Yes, Zero Taxes",
+      "poll_option1_desc": "Low earners contribute only 3% of revenue and need relief now",
+      "poll_option2_label": "No, Everyone Pays",
+      "poll_option2_desc": "This creates massive revenue shortfall while billionaires avoid higher taxes",
+      "pexels_search_terms": "tax forms money calculator income"
+    },
+    {
+      "title": "National Security or Price Gouging? Gas Hits $4+ as Iran War Drags On",
+      "slug": "gas-prices-iran-war-economic-impact",
+      "topic_keywords": [
+        "gas prices",
+        "Iran war",
+        "energy crisis",
+        "Strait of Hormuz",
+        "inflation"
+      ],
+      "conservative_headline": "Temporary Pain for Permanent Security: Gas Prices Will Drop After We Stop Iran's Nuclear Threat",
+      "liberal_headline": "Trump's War of Choice Sends Gas Prices Soaring 50%, Crushing American Families",
+      "poll_question": "Is the spike in gas prices worth it to confront Iran militarily?",
+      "poll_option1_label": "Worth It",
+      "poll_option1_desc": "Temporary sacrifice needed to prevent Iran from getting nuclear weapons",
+      "poll_option2_label": "Not Worth It",
+      "poll_option2_desc": "Unnecessary war causing economic pain with no clear end in sight",
+      "pexels_search_terms": "gas station prices fuel pump"
+    },
+    {
+      "title": "Justice or Corruption? GOP Splits Over Trump's $1.8B Anti-Weaponization Fund",
+      "slug": "gop-split-trump-anti-weaponization-fund",
+      "topic_keywords": [
+        "anti-weaponization fund",
+        "Jan 6",
+        "GOP division",
+        "congressional oversight",
+        "Trump settlement"
+      ],
+      "conservative_headline": "Long Overdue: Victims of Government Persecution Finally Get Compensation They Deserve",
+      "liberal_headline": "Senate Republicans Revolt as Trump Creates Slush Fund for Jan 6 Rioters Without Oversight",
+      "poll_question": "Should the $1.8 billion anti-weaponization fund be approved?",
+      "poll_option1_label": "Approve It",
+      "poll_option1_desc": "People wrongly targeted by government weaponization deserve compensation and justice",
+      "poll_option2_label": "Block It",
+      "poll_option2_desc": "Taxpayer-funded payouts for rioters with zero congressional oversight is corrupt",
+      "pexels_search_terms": "money cash government building justice"
+    },
+    {
+      "title": "Military Intervention or Reckless Escalation? Cuba Indictment Fuels Invasion Debate",
+      "slug": "cuba-castro-indictment-military-intervention",
+      "topic_keywords": [
+        "Cuba",
+        "Raul Castro",
+        "military intervention",
+        "Caribbean",
+        "terrorism charges"
+      ],
+      "conservative_headline": "Time to Liberate Cuba: Castro Indictment Sets Stage for Ending Communist Dictatorship 90 Miles Away",
+      "liberal_headline": "Trump Threatens Another War: Cuba Indictment Seen as Pretext for Military Action",
+      "poll_question": "Should the US consider military intervention in Cuba?",
+      "poll_option1_label": "Intervene",
+      "poll_option1_desc": "Free the Cuban people from communist dictatorship and terrorism",
+      "poll_option2_label": "Stay Out",
+      "poll_option2_desc": "Reckless military adventurism while already fighting war in Iran",
+      "pexels_search_terms": "Cuba Havana military aircraft carrier"
+    },
+    {
+      "title": "Election Security or Power Grab? Democrats Launch $15M Fund for 2028 'Sabotage-Proofing'",
+      "slug": "democrats-election-defense-fund-2028",
+      "topic_keywords": [
+        "election security",
+        "2028 election",
+        "secretaries of state",
+        "election certification",
+        "Democracy Defenders"
+      ],
+      "conservative_headline": "Democrats Already Rigging 2028: New PAC Targets Election Officials in Battleground States",
+      "liberal_headline": "Democracy Defenders Launch Effort to Protect 2028 Elections from Trump Subversion Attempts",
+      "poll_question": "Is the Democratic election defense fund necessary to protect democracy?",
+      "poll_option1_label": "Undermining Trust",
+      "poll_option1_desc": "Democrats pre-rigging elections by installing partisan officials before votes cast",
+      "poll_option2_label": "Protecting Democracy",
+      "poll_option2_desc": "Essential safeguard after Trump's attempts to overturn 2020 election results",
+      "pexels_search_terms": "voting ballot election officials democracy"
+    },
+    {
+      "title": "Federal Reserve Independence or Presidential Control? Warsh Confirmation Sparks Debate",
+      "slug": "kevin-warsh-federal-reserve-confirmation",
+      "topic_keywords": [
+        "Federal Reserve",
+        "Kevin Warsh",
+        "Trump nominee",
+        "central bank independence",
+        "monetary policy"
+      ],
+      "conservative_headline": "Trump's Fed Pick Confirmed: Warsh Will Bring Accountability to Unelected Bureaucrats",
+      "liberal_headline": "Senate Confirms Trump Loyalist to Fed Board, Threatening Central Bank Independence",
+      "poll_question": "Should the president have more influence over Federal Reserve decisions?",
+      "poll_option1_label": "More Influence",
+      "poll_option1_desc": "Elected president should have say in economic policy affecting Americans",
+      "poll_option2_label": "Stay Independent",
+      "poll_option2_desc": "Political interference in Fed threatens economic stability and credibility",
+      "pexels_search_terms": "Federal Reserve building economy interest rates"
+    },
+    {
+      "title": "Transparency or Witch Hunt? Ex-Prosecutor Charged Over Leaked Trump Documents Report",
+      "slug": "prosecutor-charged-trump-documents-leak",
+      "topic_keywords": [
+        "Jack Smith",
+        "classified documents",
+        "DOJ charges",
+        "Trump investigation",
+        "whistleblower"
+      ],
+      "conservative_headline": "Justice Served: Former Prosecutor Faces Charges for Stealing Confidential Trump Case Files",
+      "liberal_headline": "Trump DOJ Prosecutes Whistleblower Who Exposed Classified Documents Mishandling",
+      "poll_question": "Should the former prosecutor be charged for leaking the Trump documents report?",
+      "poll_option1_label": "Charge Her",
+      "poll_option1_desc": "She violated law by stealing confidential reports for political purposes",
+      "poll_option2_label": "Protect Her",
+      "poll_option2_desc": "Exposing presidential misconduct is whistleblowing, not a crime",
+      "pexels_search_terms": "classified documents legal court justice"
+    },
+    {
+      "title": "Commencement Crisis or Student Entitlement? AI Mentions Spark Booing at Graduations",
+      "slug": "graduation-speakers-booed-ai-mentions",
+      "topic_keywords": [
+        "artificial intelligence",
+        "graduation",
+        "Class of 2026",
+        "college students",
+        "commencement speeches"
+      ],
+      "conservative_headline": "Entitled Graduates Boo Speakers Discussing Reality of AI's Impact on Their Careers",
+      "liberal_headline": "Class of 2026 Rejects Corporate AI Hype as Speakers Ignore Student Job Anxieties",
+      "poll_question": "Were graduates justified in booing speakers who mentioned AI?",
+      "poll_option1_label": "Disrespectful",
+      "poll_option1_desc": "Entitled behavior from students who need to face workplace reality",
+      "poll_option2_label": "Justified Protest",
+      "poll_option2_desc": "Students rightly rejected tone-deaf corporate cheerleading about job-killing technology",
+      "pexels_search_terms": "graduation ceremony students commencement college"
+    },
+    {
+      "title": "Partisan Gerrymandering or Electoral Fairness? Virginia Congressional Map Blocked",
+      "slug": "virginia-redistricting-congressional-map-blocked",
+      "topic_keywords": [
+        "redistricting",
+        "gerrymandering",
+        "Virginia",
+        "congressional maps",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Virginia Court Stops Democrat Power Grab Disguised as Redistricting Reform",
+      "liberal_headline": "Supreme Court Allows Partisan Gerrymandering, Blocking Fair Virginia District Maps",
+      "poll_question": "Should Virginia's new congressional map have been allowed?",
+      "poll_option1_label": "Block It",
+      "poll_option1_desc": "Partisan attempt to redraw districts mid-cycle to benefit Democrats",
+      "poll_option2_label": "Allow It",
+      "poll_option2_desc": "Fair maps reflecting actual population would end Republican gerrymandering",
+      "pexels_search_terms": "voting district map Virginia politics"
+    }
+  ]
+}
