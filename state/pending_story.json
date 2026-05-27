@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-27",
+  "email_sent_at": "2026-05-27T06:27:23.042398",
+  "stories": [
+    {
+      "title": "Trump's Health Transparency or Privacy Right? 79-Year-Old President's Third Medical Exam in 13 Months Sparks Scrutiny",
+      "slug": "trump-health-transparency-walter-reed-medical-exam",
+      "topic_keywords": [
+        "Trump health",
+        "presidential transparency",
+        "Walter Reed",
+        "age concerns",
+        "medical disclosure"
+      ],
+      "conservative_headline": "Trump Gets Routine Physical: President Shows Strength and Commitment to Transparency",
+      "liberal_headline": "Questions Mount Over Trump's Health as 79-Year-Old Makes Third Walter Reed Trip in Just Over a Year",
+      "poll_question": "Should presidents be required to publicly release full medical records?",
+      "poll_option1_label": "Privacy Rights",
+      "poll_option1_desc": "Presidents deserve medical privacy like any other American patient",
+      "poll_option2_label": "Full Transparency",
+      "poll_option2_desc": "Public has a right to know the complete health status of their leader",
+      "pexels_search_terms": "hospital medical doctor exam"
+    },
+    {
+      "title": "Voting Rights Protection or Unconstitutional Racial Gerrymandering? Supreme Court Ruling Threatens 19 Black Lawmakers",
+      "slug": "supreme-court-voting-rights-act-black-representation",
+      "topic_keywords": [
+        "voting rights",
+        "redistricting",
+        "Supreme Court",
+        "Congressional Black Caucus",
+        "gerrymandering"
+      ],
+      "conservative_headline": "Supreme Court Restores Colorblind Redistricting, Ending Decades of Race-Based Gerrymandering",
+      "liberal_headline": "Supreme Court Guts Voting Rights Act in Ruling That Could Eliminate 19 Black Congressional Seats",
+      "poll_question": "Should race be considered when drawing congressional districts?",
+      "poll_option1_label": "Colorblind Maps",
+      "poll_option1_desc": "Districts should be drawn without considering race at all",
+      "poll_option2_label": "Minority Protection",
+      "poll_option2_desc": "Race must be considered to ensure fair minority representation",
+      "pexels_search_terms": "voting election congress capitol"
+    },
+    {
+      "title": "Government Accountability or Free Press Threat? Trump Proposes NDAs for All Federal Employees",
+      "slug": "federal-employee-nda-trump-administration-leaks",
+      "topic_keywords": [
+        "non-disclosure agreements",
+        "federal workers",
+        "press freedom",
+        "government leaks",
+        "whistleblower protection"
+      ],
+      "conservative_headline": "Trump Moves to Stop Dangerous Leaks That Endanger National Security and Federal Operations",
+      "liberal_headline": "Trump Administration Proposes Sweeping Gag Orders on Millions of Federal Workers to Silence Whistleblowers",
+      "poll_question": "Should federal employees be required to sign non-disclosure agreements?",
+      "poll_option1_label": "Stop Leaks",
+      "poll_option1_desc": "NDAs needed to protect sensitive government information and national security",
+      "poll_option2_label": "Protect Speech",
+      "poll_option2_desc": "NDAs will silence whistleblowers and undermine government transparency",
+      "pexels_search_terms": "federal government workers office"
+    },
+    {
+      "title": "Partisan Enforcement or Drug War Success? Trump's Boat Strike Campaign Kills 193 in Latin America",
+      "slug": "trump-drug-boat-strikes-latin-america-deaths",
+      "topic_keywords": [
+        "drug trafficking",
+        "military strikes",
+        "Latin America",
+        "war on drugs",
+        "civilian casualties"
+      ],
+      "conservative_headline": "Trump Takes Bold Action Against Drug Cartels with Decisive Military Strikes",
+      "liberal_headline": "Trump's Reckless Drug War Kills 193 People in Controversial Boat Strikes Across Latin America",
+      "poll_question": "Should the US military strike suspected drug trafficking boats?",
+      "poll_option1_label": "Tough on Cartels",
+      "poll_option1_desc": "Decisive military action necessary to stop deadly drug trafficking",
+      "poll_option2_label": "Excessive Force",
+      "poll_option2_desc": "Strikes cause civilian deaths and violate international law",
+      "pexels_search_terms": "military boat ocean strike"
+    },
+    {
+      "title": "States' Rights Victory or Racist Power Grab? South Carolina Senate Rejects Trump's Push to Redraw Maps",
+      "slug": "south-carolina-redistricting-gop-opposition-trump",
+      "topic_keywords": [
+        "South Carolina",
+        "redistricting",
+        "GOP infighting",
+        "state legislature",
+        "Trump influence"
+      ],
+      "conservative_headline": "South Carolina GOP Stands Up for Principled Redistricting Despite White House Pressure",
+      "liberal_headline": "Internal GOP Revolt Blocks Trump's Attempt to Gerrymander South Carolina Congressional Maps",
+      "poll_question": "Should state legislatures redraw congressional maps mid-decade?",
+      "poll_option1_label": "Legal Redistricting",
+      "poll_option1_desc": "States have the right to fix unconstitutional maps anytime",
+      "poll_option2_label": "Election Rigging",
+      "poll_option2_desc": "Mid-decade redistricting is partisan manipulation of election outcomes",
+      "pexels_search_terms": "state capitol legislature voting"
+    },
+    {
+      "title": "Corporate Accountability or Economic Blackmail? Black Caucus Demands Companies Oppose GOP Redistricting",
+      "slug": "congressional-black-caucus-corporate-redistricting-pressure",
+      "topic_keywords": [
+        "corporate activism",
+        "Congressional Black Caucus",
+        "redistricting opposition",
+        "business politics",
+        "racial justice"
+      ],
+      "conservative_headline": "Democrats Pressure Corporations to Interfere in State Redistricting and Undermine Democracy",
+      "liberal_headline": "Congressional Black Caucus Urges 250+ Companies to Stand Against Racist Gerrymandering",
+      "poll_question": "Should corporations take public stances on redistricting?",
+      "poll_option1_label": "Stay Neutral",
+      "poll_option1_desc": "Companies should focus on business not political redistricting fights",
+      "poll_option2_label": "Speak Out",
+      "poll_option2_desc": "Corporations must oppose policies that undermine voting rights",
+      "pexels_search_terms": "corporate boardroom business meeting"
+    },
+    {
+      "title": "Foreign Policy Success or Constitutional Crisis? Trump Links Abraham Accords Expansion to Iran Nuclear Deal",
+      "slug": "trump-abraham-accords-iran-deal-saudi-qatar",
+      "topic_keywords": [
+        "Abraham Accords",
+        "Iran nuclear deal",
+        "Middle East peace",
+        "Saudi Arabia",
+        "Qatar"
+      ],
+      "conservative_headline": "Trump's Brilliant Middle East Strategy Pairs Historic Peace Deals with Iran Agreement",
+      "liberal_headline": "Trump Dangles Arms Sales to Gulf Monarchies as Sweetener for Controversial Iran Nuclear Deal",
+      "poll_question": "Should Middle East peace deals be tied to the Iran agreement?",
+      "poll_option1_label": "Smart Diplomacy",
+      "poll_option1_desc": "Linking deals creates comprehensive regional peace framework",
+      "poll_option2_label": "Dangerous Linkage",
+      "poll_option2_desc": "Mixing issues rewards dictatorships and weakens negotiating position",
+      "pexels_search_terms": "middle east diplomacy handshake"
+    },
+    {
+      "title": "Civil Rights Restoration or Retaliatory Prosecution? DOJ Criminal Charges Against Southern Poverty Law Center",
+      "slug": "doj-criminal-charges-southern-poverty-law-center",
+      "topic_keywords": [
+        "Southern Poverty Law Center",
+        "Department of Justice",
+        "civil rights",
+        "political prosecution",
+        "nonprofit law"
+      ],
+      "conservative_headline": "Justice Department Finally Holds Far-Left SPLC Accountable for Alleged Violations",
+      "liberal_headline": "Trump's DOJ Launches Political Persecution Campaign Against Renowned Civil Rights Organization",
+      "poll_question": "Are the DOJ charges against the SPLC politically motivated?",
+      "poll_option1_label": "Legitimate Prosecution",
+      "poll_option1_desc": "No organization is above the law including partisan nonprofits",
+      "poll_option2_label": "Political Retaliation",
+      "poll_option2_desc": "Charges are retribution for SPLC's criticism of Trump administration",
+      "pexels_search_terms": "justice department courthouse law"
+    },
+    {
+      "title": "Protecting Families or Immigration Theater? Florida Sues California and DC Over Commercial Driver Licenses for Undocumented Immigrants",
+      "slug": "florida-lawsuit-cdl-undocumented-immigrants",
+      "topic_keywords": [
+        "Florida lawsuit",
+        "commercial driver licenses",
+        "immigration enforcement",
+        "state conflicts",
+        "traffic safety"
+      ],
+      "conservative_headline": "Florida Takes Legal Action to Stop Sanctuary States from Enabling Illegal Immigration",
+      "liberal_headline": "DeSantis Files Politically Motivated Lawsuit Over Traffic Safety Regulations in Other States",
+      "poll_question": "Should states issue commercial licenses to undocumented immigrants?",
+      "poll_option1_label": "Enforce Laws",
+      "poll_option1_desc": "Commercial licenses should only go to legal residents",
+      "poll_option2_label": "Road Safety",
+      "poll_option2_desc": "Testing and licensing all drivers makes roads safer for everyone",
+      "pexels_search_terms": "truck driver commercial license"
+    },
+    {
+      "title": "Congressional Ethics or Partisan Stunt? Oversight Chairman Launches Insider Trading Probe of Prediction Markets",
+      "slug": "comer-insider-trading-investigation-kalshi-polymarket",
+      "topic_keywords": [
+        "insider trading",
+        "prediction markets",
+        "Kalshi",
+        "Polymarket",
+        "congressional investigation"
+      ],
+      "conservative_headline": "House Oversight Uncovers Potential Insider Trading Scheme on Political Betting Platforms",
+      "liberal_headline": "GOP Chairman Targets Prediction Markets That Showed Trump's Declining Iran Deal Support",
+      "poll_question": "Should Congress investigate trading on political prediction markets?",
+      "poll_option1_label": "Investigate Fraud",
+      "poll_option1_desc": "Insider trading on political events undermines market integrity",
+      "poll_option2_label": "Political Witch Hunt",
+      "poll_option2_desc": "Investigation targets platforms Republicans don't like",
+      "pexels_search_terms": "stock trading market investigation"
+    }
+  ]
+}
