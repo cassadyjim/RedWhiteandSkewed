@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-29",
+  "email_sent_at": "2026-05-29T06:20:46.941877",
+  "stories": [
+    {
+      "title": "Presidential Portrait or Presidential Ego? Trump $250 Bill Sparks Bipartisan Fury",
+      "slug": "trump-250-dollar-bill-currency-controversy",
+      "topic_keywords": [
+        "Trump",
+        "currency",
+        "Treasury",
+        "ego",
+        "tradition"
+      ],
+      "conservative_headline": "Treasury Honors Trump's Historic 250th Anniversary Leadership with Commemorative Currency",
+      "liberal_headline": "Trump Demands His Face on Money While Law Forbids Living Presidents on Currency",
+      "poll_question": "Should Trump's portrait appear on a new $250 bill?",
+      "poll_option1_label": "Honor the President",
+      "poll_option1_desc": "Commemorating the sitting president during America's 250th anniversary is appropriate and patriotic.",
+      "poll_option2_label": "Ego Trip",
+      "poll_option2_desc": "No living person has been on currency since 1866; this is unprecedented narcissism.",
+      "pexels_search_terms": "dollar bills money cash"
+    },
+    {
+      "title": "Privacy Rights or Political Cover-Up? Biden Sues to Block Ghostwriter Recording Release",
+      "slug": "biden-lawsuit-doj-ghostwriter-recordings",
+      "topic_keywords": [
+        "Biden",
+        "classified documents",
+        "recordings",
+        "privacy",
+        "Heritage Foundation"
+      ],
+      "conservative_headline": "Biden Fights to Hide Audio Proving Mental Decline Began Before 2020 Campaign",
+      "liberal_headline": "Biden Defends Privacy Rights as Trump DOJ Weaponizes Personal Grief Over Son's Death",
+      "poll_question": "Should Biden's private ghostwriter recordings be released?",
+      "poll_option1_label": "Transparency Matters",
+      "poll_option1_desc": "Americans deserve to hear recordings showing Biden's cognitive state before his presidency.",
+      "poll_option2_label": "Privacy Protected",
+      "poll_option2_desc": "Personal conversations about his son's death deserve protection from political exploitation.",
+      "pexels_search_terms": "audio recording microphone interview"
+    },
+    {
+      "title": "Smart Investing or Insider Trading? Trump's 3,600+ Stock Trades Fuel Corruption Claims",
+      "slug": "trump-stock-trading-ethics-controversy",
+      "topic_keywords": [
+        "Trump",
+        "stocks",
+        "ethics",
+        "conflicts",
+        "trading"
+      ],
+      "conservative_headline": "Trump's Blind Trust Follows Law While Critics Manufacture Fake Scandal Over Wealth",
+      "liberal_headline": "Trump Makes 60 Trades Per Day in Companies He Regulates, Profiting Off Presidency",
+      "poll_question": "Are Trump's thousands of stock trades while president ethical?",
+      "poll_option1_label": "Legal Investment",
+      "poll_option1_desc": "His assets are managed by third parties in compliance with all applicable laws.",
+      "poll_option2_label": "Corrupt Profiteering",
+      "poll_option2_desc": "Trading stocks in companies he regulates creates massive conflicts of interest and corruption.",
+      "pexels_search_terms": "stock market trading wall street"
+    },
+    {
+      "title": "Religious Freedom or Theocracy? Ohio Bill Would Mandate Teaching 'Judeo-Christian Values' in Schools",
+      "slug": "ohio-judeo-christian-values-education-bill",
+      "topic_keywords": [
+        "religion",
+        "education",
+        "Ohio",
+        "Christianity",
+        "separation"
+      ],
+      "conservative_headline": "Ohio Lawmakers Stand Up for America's Judeo-Christian Heritage in Public Education",
+      "liberal_headline": "Ohio Republicans Push Unconstitutional Religious Indoctrination in Public Schools",
+      "poll_question": "Should schools teach the positive impact of Judeo-Christian values?",
+      "poll_option1_label": "Heritage Education",
+      "poll_option1_desc": "Teaching our nation's religious foundations is essential to understanding American history and values.",
+      "poll_option2_label": "Separation of Church/State",
+      "poll_option2_desc": "This violates the First Amendment and forces religion on students of all faiths.",
+      "pexels_search_terms": "school classroom bible education"
+    },
+    {
+      "title": "Protecting Press Freedom or Silencing Whistleblowers? Trump Mandates NDAs for Federal Workers",
+      "slug": "trump-federal-employee-nda-requirement",
+      "topic_keywords": [
+        "NDAs",
+        "leaks",
+        "transparency",
+        "whistleblowers",
+        "press"
+      ],
+      "conservative_headline": "Trump Administration Ends Illegal Leaks That Undermined National Security and Governance",
+      "liberal_headline": "Trump Demands Federal Workers Sign NDAs in Unprecedented Attack on Transparency",
+      "poll_question": "Should federal employees be required to sign NDAs?",
+      "poll_option1_label": "Stop the Leaks",
+      "poll_option1_desc": "Preventing unauthorized disclosures protects national security and proper government function.",
+      "poll_option2_label": "Stifle Transparency",
+      "poll_option2_desc": "NDAs prevent whistleblowers from exposing corruption and wrongdoing to the public.",
+      "pexels_search_terms": "document signing contract pen"
+    },
+    {
+      "title": "Retaliation or Accountability? DOJ Investigates Reid Hoffman's Nonprofit Over E. Jean Carroll Funding",
+      "slug": "doj-reid-hoffman-carroll-investigation",
+      "topic_keywords": [
+        "Reid Hoffman",
+        "E. Jean Carroll",
+        "DOJ",
+        "investigation",
+        "donor"
+      ],
+      "conservative_headline": "DOJ Exposes Billionaire-Funded Lawfare Scheme Against Trump Through Carroll Case",
+      "liberal_headline": "Trump's DOJ Retaliates Against Billionaire Who Funded Sexual Assault Accuser's Legal Fees",
+      "poll_question": "Should DOJ investigate Reid Hoffman's Carroll case funding?",
+      "poll_option1_label": "Expose Lawfare",
+      "poll_option1_desc": "Billionaire-funded politically motivated lawsuits against Trump deserve scrutiny and investigation.",
+      "poll_option2_label": "Political Retaliation",
+      "poll_option2_desc": "Investigating Trump's critics for supporting sexual assault victims is authoritarian intimidation.",
+      "pexels_search_terms": "justice department investigation gavel"
+    },
+    {
+      "title": "Defending Civil Rights or Protecting Hate Groups? Trump DOJ Charges Southern Poverty Law Center",
+      "slug": "splc-doj-criminal-charges-trump",
+      "topic_keywords": [
+        "SPLC",
+        "hate groups",
+        "DOJ",
+        "civil rights",
+        "prosecution"
+      ],
+      "conservative_headline": "DOJ Finally Holds Radical Left-Wing SPLC Accountable for Smearing Conservative Groups",
+      "liberal_headline": "Trump DOJ Prosecutes Nation's Premier Civil Rights Organization in Authoritarian Power Play",
+      "poll_question": "Is DOJ right to prosecute the Southern Poverty Law Center?",
+      "poll_option1_label": "Overdue Accountability",
+      "poll_option1_desc": "SPLC falsely labels mainstream conservative organizations as hate groups and must face justice.",
+      "poll_option2_label": "Political Persecution",
+      "poll_option2_desc": "Prosecuting civil rights watchdogs is Trump's revenge for tracking extremism and hate.",
+      "pexels_search_terms": "civil rights justice courthouse"
+    },
+    {
+      "title": "AI Safety or Military Weakness? VP Vance Declares Humans Must Control Life-or-Death Decisions",
+      "slug": "vance-ai-military-human-control",
+      "topic_keywords": [
+        "AI",
+        "military",
+        "Vance",
+        "weapons",
+        "technology"
+      ],
+      "conservative_headline": "VP Vance Ensures American Military Superiority by Setting Responsible AI Guidelines",
+      "liberal_headline": "Vance's AI Restrictions Could Cede Military Advantage to China in Critical Technology Race",
+      "poll_question": "Should humans control all military life-or-death AI decisions?",
+      "poll_option1_label": "Human Control",
+      "poll_option1_desc": "Ethical concerns demand humans maintain final authority over all lethal military decisions.",
+      "poll_option2_label": "Technological Edge",
+      "poll_option2_desc": "Restricting AI gives adversaries advantage; modern warfare requires autonomous systems.",
+      "pexels_search_terms": "artificial intelligence military technology"
+    },
+    {
+      "title": "Border Security or License to Discriminate? DHS Targets Immigration Lawyers with Fraud Crackdown",
+      "slug": "dhs-immigration-lawyers-fraud-investigation",
+      "topic_keywords": [
+        "immigration",
+        "lawyers",
+        "ICE",
+        "asylum",
+        "fraud"
+      ],
+      "conservative_headline": "Trump Administration Cracks Down on Immigration Lawyers Filing Fraudulent Asylum Claims",
+      "liberal_headline": "ICE Intimidates Immigration Attorneys to Discourage Them from Representing Asylum Seekers",
+      "poll_question": "Should DHS aggressively prosecute immigration lawyers for filing errors?",
+      "poll_option1_label": "Stop Fraud",
+      "poll_option1_desc": "Attorneys filing false asylum claims undermine legal immigration and must be held accountable.",
+      "poll_option2_label": "Intimidation Tactic",
+      "poll_option2_desc": "This chills legal representation and denies vulnerable immigrants their constitutional rights.",
+      "pexels_search_terms": "immigration lawyer courthouse legal"
+    },
+    {
+      "title": "Electoral Fairness or Voter Suppression? Judge Allows Trump's Mail-In Voting Restrictions to Proceed",
+      "slug": "trump-mail-voting-executive-order-ruling",
+      "topic_keywords": [
+        "voting",
+        "mail-in",
+        "election",
+        "restrictions",
+        "access"
+      ],
+      "conservative_headline": "Federal Judge Upholds Trump's Common-Sense Reforms to Secure Mail-In Ballot Integrity",
+      "liberal_headline": "Trump's Vote-by-Mail Restrictions Advance Despite Clear Threat to Democratic Participation",
+      "poll_question": "Should Trump's executive order restricting mail-in voting stand?",
+      "poll_option1_label": "Election Security",
+      "poll_option1_desc": "Reasonable restrictions on mail voting are necessary to prevent fraud and ensure integrity.",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "These restrictions make it harder for elderly, disabled, and working Americans to vote.",
+      "pexels_search_terms": "voting ballot mail election"
+    }
+  ]
+}
