@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-30",
+  "email_sent_at": "2026-05-30T05:53:18.689921",
+  "stories": [
+    {
+      "title": "Presidential Vanity or Patriotic Honor? Trump's $250 Bill Sparks Currency Controversy",
+      "slug": "trump-250-dollar-bill-currency-controversy",
+      "topic_keywords": [
+        "Trump",
+        "currency",
+        "$250 bill",
+        "Treasury",
+        "commemorative"
+      ],
+      "conservative_headline": "Trump $250 Bill Would Honor President During America's 250th Anniversary",
+      "liberal_headline": "Trump Pushes Illegal Self-Glorification Scheme to Put Face on New Currency",
+      "poll_question": "Should a commemorative $250 bill feature President Trump's image?",
+      "poll_option1_label": "Patriotic Tribute",
+      "poll_option1_desc": "Honors sitting president during nation's 250th anniversary celebration",
+      "poll_option2_label": "Narcissistic Overreach",
+      "poll_option2_desc": "Violates law banning living people on currency for personal vanity",
+      "pexels_search_terms": "dollar bills money currency"
+    },
+    {
+      "title": "Justice or Retribution? DOJ Investigates E. Jean Carroll Lawsuit Funding",
+      "slug": "doj-e-jean-carroll-investigation-funding",
+      "topic_keywords": [
+        "E. Jean Carroll",
+        "DOJ",
+        "Reid Hoffman",
+        "Trump",
+        "investigation"
+      ],
+      "conservative_headline": "DOJ Uncovers Potential Perjury in Politically-Funded Carroll Lawsuit Against Trump",
+      "liberal_headline": "Trump's DOJ Weaponized Against Woman Who Won Sexual Abuse Case",
+      "poll_question": "Is the DOJ investigation into Carroll's lawsuit funding appropriate?",
+      "poll_option1_label": "Legitimate Inquiry",
+      "poll_option1_desc": "Investigating potential perjury about who funded politically motivated lawsuit",
+      "poll_option2_label": "Political Retaliation",
+      "poll_option2_desc": "Weaponizing Justice Department to intimidate Trump's victims and critics",
+      "pexels_search_terms": "justice department gavel court"
+    },
+    {
+      "title": "Heritage or Hubris? Judge Orders Trump's Name Removed from Kennedy Center",
+      "slug": "kennedy-center-trump-name-removal-ruling",
+      "topic_keywords": [
+        "Kennedy Center",
+        "Trump",
+        "renaming",
+        "judge",
+        "Congress"
+      ],
+      "conservative_headline": "Obama Judge Blocks Trump From Renovating Neglected Kennedy Center",
+      "liberal_headline": "Federal Court Stops Trump's Illegal Attempt to Erase JFK Legacy",
+      "poll_question": "Should Trump's name have been added to the Kennedy Center?",
+      "poll_option1_label": "Presidential Recognition",
+      "poll_option1_desc": "Acknowledges president securing $257 million for desperately needed repairs",
+      "poll_option2_label": "Desecrating Memorial",
+      "poll_option2_desc": "Illegal vanity project that disrespects JFK's legacy and memory",
+      "pexels_search_terms": "Kennedy Center Washington DC building"
+    },
+    {
+      "title": "Primary Earthquake or Party Purge? Ken Paxton Defeats Cornyn in Texas GOP Runoff",
+      "slug": "paxton-cornyn-texas-senate-primary-upset",
+      "topic_keywords": [
+        "Ken Paxton",
+        "John Cornyn",
+        "Texas",
+        "Senate",
+        "primary"
+      ],
+      "conservative_headline": "Trump-Backed Paxton Crushes Establishment RINO Cornyn in Texas Victory",
+      "liberal_headline": "Scandal-Plagued Paxton Ousts Incumbent Senator in Trump Loyalty Test",
+      "poll_question": "Was Paxton's primary victory good for Texas Republicans?",
+      "poll_option1_label": "MAGA Triumph",
+      "poll_option1_desc": "Trump-loyal warrior defeats out-of-touch establishment incumbent",
+      "poll_option2_label": "Extremist Takeover",
+      "poll_option2_desc": "Corrupt attorney general makes Senate seat vulnerable to Democrats",
+      "pexels_search_terms": "Texas state capitol election voting"
+    },
+    {
+      "title": "National Security or AI Fearmongering? VP Vance Says Humans Must Control Life-or-Death Decisions",
+      "slug": "vance-ai-military-human-control-speech",
+      "topic_keywords": [
+        "AI",
+        "military",
+        "JD Vance",
+        "artificial intelligence",
+        "warfare"
+      ],
+      "conservative_headline": "VP Vance Affirms American Values: Humans, Not Machines, Decide Life and Death",
+      "liberal_headline": "Vance's AI Stance Could Cede Military Superiority to China's Tech Advantage",
+      "poll_question": "Should AI be prohibited from making life-or-death military decisions?",
+      "poll_option1_label": "Human Control",
+      "poll_option1_desc": "Moral imperative to keep humans responsible for combat decisions",
+      "poll_option2_label": "Technology Advantage",
+      "poll_option2_desc": "AI could save American lives and maintain military superiority",
+      "pexels_search_terms": "artificial intelligence military technology"
+    },
+    {
+      "title": "Election Security or Voter Suppression? Federal Judge Allows Trump Mail-Voting Restrictions",
+      "slug": "trump-mail-voting-executive-order-ruling",
+      "topic_keywords": [
+        "mail voting",
+        "executive order",
+        "Trump",
+        "election",
+        "restrictions"
+      ],
+      "conservative_headline": "Judge Upholds Trump's Common-Sense Reforms to Protect Election Integrity",
+      "liberal_headline": "Court Enables Trump's Assault on Voting Rights Through Mail Ballot Ban",
+      "poll_question": "Should Trump's executive order restricting mail-in voting be allowed?",
+      "poll_option1_label": "Prevent Fraud",
+      "poll_option1_desc": "Essential safeguards to ensure secure and legitimate elections",
+      "poll_option2_label": "Suppress Votes",
+      "poll_option2_desc": "Unconstitutional attempt to disenfranchise millions of legitimate voters",
+      "pexels_search_terms": "mail ballot voting absentee"
+    },
+    {
+      "title": "Catching Criminals or Targeting Critics? Former CIA Officer Arrested with $40 Million in Gold",
+      "slug": "cia-officer-gold-theft-arrest",
+      "topic_keywords": [
+        "CIA",
+        "gold bars",
+        "theft",
+        "David Rush",
+        "arrest"
+      ],
+      "conservative_headline": "Deep State Corruption Exposed: Senior CIA Official Caught with Stolen Gold Fortune",
+      "liberal_headline": "Alleged CIA Theft Case Raises Questions About Trump's Politicized Prosecutions",
+      "poll_question": "Does the CIA gold theft case reflect deeper intelligence agency problems?",
+      "poll_option1_label": "Deep State Rot",
+      "poll_option1_desc": "Proves corruption and lack of accountability in intelligence agencies",
+      "poll_option2_label": "Individual Crime",
+      "poll_option2_desc": "Isolated case being exploited to attack intelligence community",
+      "pexels_search_terms": "gold bars money vault"
+    },
+    {
+      "title": "Government Efficiency or Presidential Profiteering? Google Employee Charged in Prediction Market Scheme",
+      "slug": "google-polymarket-insider-trading-arrest",
+      "topic_keywords": [
+        "Google",
+        "Polymarket",
+        "insider trading",
+        "prediction markets",
+        "betting"
+      ],
+      "conservative_headline": "Big Tech Insider Busted for $1 Million Illegal Betting Scheme",
+      "liberal_headline": "Prediction Market Arrest Highlights Dangers of Unregulated Gambling Platforms",
+      "poll_question": "Should prediction markets like Polymarket be more heavily regulated?",
+      "poll_option1_label": "Free Markets",
+      "poll_option1_desc": "Innovation and information aggregation work best without government interference",
+      "poll_option2_label": "Strict Oversight",
+      "poll_option2_desc": "Unregulated platforms enable insider trading and market manipulation",
+      "pexels_search_terms": "stock market trading computer"
+    },
+    {
+      "title": "Disaster Relief or Political Punishment? House Democrats Demand Probe of Trump's FEMA Denials",
+      "slug": "trump-fema-disaster-declarations-investigation",
+      "topic_keywords": [
+        "FEMA",
+        "disaster relief",
+        "Trump",
+        "denials",
+        "investigation"
+      ],
+      "conservative_headline": "Democrats Weaponize Disaster Aid Politics After Trump Ends FEMA Waste",
+      "liberal_headline": "Trump Denies Disaster Relief to Blue States in Cruel Partisan Retaliation",
+      "poll_question": "Are Trump's disaster declaration denials politically motivated?",
+      "poll_option1_label": "Fiscal Responsibility",
+      "poll_option1_desc": "Ending automatic approvals saves taxpayers from wasteful spending on minor events",
+      "poll_option2_label": "Partisan Punishment",
+      "poll_option2_desc": "Weaponizing disaster aid to punish states that didn't vote for Trump",
+      "pexels_search_terms": "natural disaster emergency FEMA"
+    },
+    {
+      "title": "Patriotic Celebration or Political Theater? Artists Boycott Trump's America 250 Concert Series",
+      "slug": "artists-boycott-america-250-concert",
+      "topic_keywords": [
+        "America 250",
+        "concert",
+        "artists",
+        "boycott",
+        "anniversary"
+      ],
+      "conservative_headline": "Ungrateful Liberal Artists Refuse to Celebrate America's 250th Birthday",
+      "liberal_headline": "Musicians Reject Participation in Trump's Politicized Anniversary Propaganda",
+      "poll_question": "Should artists participate in Trump's America 250 celebration concerts?",
+      "poll_option1_label": "Honor America",
+      "poll_option1_desc": "Celebrating nation's founding transcends politics and partisan differences",
+      "poll_option2_label": "Resist Propaganda",
+      "poll_option2_desc": "Trump has turned patriotic celebration into self-promoting political spectacle",
+      "pexels_search_terms": "concert stage American flag celebration"
+    }
+  ]
+}
