@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-01",
+  "email_sent_at": "2026-06-01T07:07:14.419330",
+  "stories": [
+    {
+      "title": "Presidential Health or Political Cover-Up? Trump's Medical Report Sparks Debate",
+      "slug": "trump-health-report-medical-transparency-debate",
+      "topic_keywords": [
+        "Trump",
+        "health",
+        "presidential fitness",
+        "medical records",
+        "transparency"
+      ],
+      "conservative_headline": "Trump's Doctor Declares President in 'Excellent Health' After Physical Exam",
+      "liberal_headline": "Independent Physicians Question Trump Health Report as 80-Year-Old President Gains 14 Pounds",
+      "poll_question": "Should presidents be required to release complete medical records?",
+      "poll_option1_label": "Privacy Matters",
+      "poll_option1_desc": "Presidents deserve medical privacy; no legal requirement to disclose everything",
+      "poll_option2_label": "Transparency Required",
+      "poll_option2_desc": "Public has right to know complete health status of oldest president ever",
+      "pexels_search_terms": "doctor medical exam elderly"
+    },
+    {
+      "title": "Voting Rights Victory or Racial Gerrymandering? Louisiana's New Congressional Map",
+      "slug": "louisiana-congressional-map-redistricting-voting-rights",
+      "topic_keywords": [
+        "Louisiana",
+        "redistricting",
+        "voting rights",
+        "gerrymandering",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Louisiana GOP Passes Fair Congressional Map Following Supreme Court Ruling",
+      "liberal_headline": "Louisiana Republicans Eliminate Majority-Black District to Grab House Seat",
+      "poll_question": "Is Louisiana's new congressional map fair?",
+      "poll_option1_label": "Partisan Fairness",
+      "poll_option1_desc": "Map follows traditional criteria and maximizes legitimate partisan advantage",
+      "poll_option2_label": "Racial Discrimination",
+      "poll_option2_desc": "Map packs Black voters into one district to dilute their political power",
+      "pexels_search_terms": "voting ballot election map"
+    },
+    {
+      "title": "Anti-Establishment Crusader or Celebrity Chaos? Spencer Pratt's LA Mayor Bid",
+      "slug": "spencer-pratt-los-angeles-mayor-campaign",
+      "topic_keywords": [
+        "Spencer Pratt",
+        "Los Angeles",
+        "mayor race",
+        "celebrity politics",
+        "wildfire"
+      ],
+      "conservative_headline": "Reality Star Spencer Pratt Surges in LA Mayor Race With Common-Sense Platform",
+      "liberal_headline": "MTV Villain's MAGA-Backed Campaign Threatens to Split LA Vote, Help Bass",
+      "poll_question": "Should Spencer Pratt be taken seriously as LA mayoral candidate?",
+      "poll_option1_label": "Fresh Perspective",
+      "poll_option1_desc": "Outsider addressing real issues like crime, homelessness, wildfire response failures",
+      "poll_option2_label": "Dangerous Stunt",
+      "poll_option2_desc": "Unqualified celebrity running Trump playbook with AI videos and nicknames",
+      "pexels_search_terms": "Los Angeles City Hall politics"
+    },
+    {
+      "title": "National Heritage or Taxpayer Waste? Artists Drop Out of Trump's 250th Anniversary Concert",
+      "slug": "america-250-state-fair-artists-boycott",
+      "topic_keywords": [
+        "Trump",
+        "250th anniversary",
+        "National Mall",
+        "concert",
+        "artists boycott"
+      ],
+      "conservative_headline": "Liberal Artists Abandon America's 250th Birthday Celebration in Political Stunt",
+      "liberal_headline": "Performers Flee Trump's Partisan State Fair as President Plans Rally Instead",
+      "poll_question": "Should the 250th anniversary celebration be non-partisan?",
+      "poll_option1_label": "Presidential Honor",
+      "poll_option1_desc": "President rightfully leads historic milestone; artists playing politics",
+      "poll_option2_label": "Politicized Event",
+      "poll_option2_desc": "Trump turned national celebration into campaign rally driving away performers",
+      "pexels_search_terms": "american flag celebration concert"
+    },
+    {
+      "title": "Anti-Corruption Justice or Political Weaponization? Judge Halts Trump's DOJ Fund",
+      "slug": "trump-anti-weaponization-fund-blocked",
+      "topic_keywords": [
+        "DOJ",
+        "anti-weaponization fund",
+        "federal judge",
+        "Trump",
+        "corruption"
+      ],
+      "conservative_headline": "Activist Judge Blocks Trump Fund to Compensate Victims of DOJ Persecution",
+      "liberal_headline": "Federal Court Halts Trump's Unprecedented Plan to Pay Allies With Taxpayer Money",
+      "poll_question": "Should the government compensate people claiming DOJ 'weaponization'?",
+      "poll_option1_label": "Justice Deserved",
+      "poll_option1_desc": "Victims of political prosecution deserve compensation for government abuse",
+      "poll_option2_label": "Corruption Scheme",
+      "poll_option2_desc": "Fund rewards Trump allies and sets dangerous precedent for partisan payouts",
+      "pexels_search_terms": "justice department courthouse gavel"
+    },
+    {
+      "title": "Transparency or Vanity Project? Kennedy Center Ordered to Remove Trump's Name",
+      "slug": "kennedy-center-trump-name-removal-court",
+      "topic_keywords": [
+        "Kennedy Center",
+        "Trump",
+        "federal judge",
+        "naming rights",
+        "Washington DC"
+      ],
+      "conservative_headline": "Liberal Judge Orders Removal of Trump Name From Kennedy Center He Renovated",
+      "liberal_headline": "Court Says Trump Cannot Put His Name on Public Building Without Approval",
+      "poll_question": "Can Trump put his name on federal buildings he renovates?",
+      "poll_option1_label": "Earned Recognition",
+      "poll_option1_desc": "President deserves credit for improvements made to national cultural institutions",
+      "poll_option2_label": "Illegal Branding",
+      "poll_option2_desc": "Federal property cannot be used for presidential self-promotion without Congress",
+      "pexels_search_terms": "Kennedy Center Washington building"
+    },
+    {
+      "title": "Historic Currency or Presidential Ego? Trump's Face on Proposed $250 Bill",
+      "slug": "trump-250-dollar-bill-treasury-currency",
+      "topic_keywords": [
+        "Trump",
+        "currency",
+        "$250 bill",
+        "Treasury",
+        "250th anniversary"
+      ],
+      "conservative_headline": "Treasury Prepares $250 Bill With Trump for America's 250th Anniversary",
+      "liberal_headline": "Trump Pushes to Put Living President's Face on Currency Despite Federal Law",
+      "poll_question": "Should Trump's image appear on U.S. currency?",
+      "poll_option1_label": "Patriotic Tribute",
+      "poll_option1_desc": "Honors president leading nation through 250th anniversary celebration milestone",
+      "poll_option2_label": "Illegal Vanity",
+      "poll_option2_desc": "Federal law prohibits living people on currency; pure self-aggrandizement",
+      "pexels_search_terms": "dollar bills currency money"
+    },
+    {
+      "title": "Accountability or Witch Hunt? Bondi Testifies on Epstein Files Controversy",
+      "slug": "pam-bondi-epstein-files-testimony-congress",
+      "topic_keywords": [
+        "Pam Bondi",
+        "Jeffrey Epstein",
+        "DOJ",
+        "Congress",
+        "testimony"
+      ],
+      "conservative_headline": "Former AG Bondi Defends DOJ Commitment to Justice for Epstein Victims",
+      "liberal_headline": "Bondi Faces Grilling Over Botched Epstein File Release and Cover-Up Claims",
+      "poll_question": "Was DOJ's handling of Epstein files appropriate?",
+      "poll_option1_label": "Proper Process",
+      "poll_option1_desc": "Justice Department followed procedures while protecting ongoing victim cases",
+      "poll_option2_label": "Political Cover-Up",
+      "poll_option2_desc": "DOJ bungled release to protect powerful figures connected to Epstein",
+      "pexels_search_terms": "congressional hearing testimony witness"
+    },
+    {
+      "title": "Military Readiness or Body Shaming? Troops Must Meet Weight Standards for UFC Tickets",
+      "slug": "white-house-ufc-weight-requirements-troops",
+      "topic_keywords": [
+        "military",
+        "weight standards",
+        "UFC",
+        "White House",
+        "fitness"
+      ],
+      "conservative_headline": "White House UFC Event Promotes Military Fitness Standards and Readiness",
+      "liberal_headline": "Trump Administration Bars Overweight Troops From White House UFC Fight",
+      "poll_question": "Should White House event access require meeting weight standards?",
+      "poll_option1_label": "Standards Matter",
+      "poll_option1_desc": "Military readiness requires fitness; standards should be enforced consistently",
+      "poll_option2_label": "Discriminatory Policy",
+      "poll_option2_desc": "Body-shaming troops for entertainment event is inappropriate and demoralizing",
+      "pexels_search_terms": "military soldiers fitness training"
+    },
+    {
+      "title": "Border Security or Family Cruelty? New Hampshire Voter Registration Battle",
+      "slug": "new-hampshire-voter-registration-citizenship-proof",
+      "topic_keywords": [
+        "New Hampshire",
+        "voter registration",
+        "citizenship",
+        "voting rights",
+        "federal court"
+      ],
+      "conservative_headline": "Activist Judge Forces New Hampshire to Weaken Voter Registration Safeguards",
+      "liberal_headline": "Federal Court Orders New Hampshire to Stop Blocking Eligible Voters From Registering",
+      "poll_question": "Should voter registration require documentary proof of citizenship?",
+      "poll_option1_label": "Prevent Fraud",
+      "poll_option1_desc": "Documentary proof ensures only citizens vote and protects election integrity",
+      "poll_option2_label": "Enable Access",
+      "poll_option2_desc": "Attestation sufficient; documentation requirements create barriers to legitimate voters",
+      "pexels_search_terms": "voter registration ballot box"
+    }
+  ]
+}
