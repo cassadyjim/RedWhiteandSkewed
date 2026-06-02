@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-02",
+  "email_sent_at": "2026-06-02T06:48:07.208510",
+  "stories": [
+    {
+      "title": "Diplomatic Breakthrough or Dangerous Weakness? Trump's On-Again, Off-Again Iran Deal",
+      "slug": "trump-iran-deal-negotiations-controversy",
+      "topic_keywords": [
+        "Iran",
+        "Trump",
+        "diplomacy",
+        "national security",
+        "negotiations"
+      ],
+      "conservative_headline": "Trump Masterfully Negotiates From Strength as Iran Begs for Deal",
+      "liberal_headline": "Trump's Chaotic Iran Policy Leaves Allies Confused and America at Risk",
+      "poll_question": "Is Trump's approach to Iran negotiations effective?",
+      "poll_option1_label": "Strong Leadership",
+      "poll_option1_desc": "Trump is forcing Iran to negotiate by showing strength and unpredictability",
+      "poll_option2_label": "Dangerous Chaos",
+      "poll_option2_desc": "Mixed signals and changing demands undermine diplomacy and credibility",
+      "pexels_search_terms": "Iran flag negotiations diplomacy"
+    },
+    {
+      "title": "Presidential Honor or Political Overreach? Kennedy Center Name Battle Heats Up",
+      "slug": "kennedy-center-trump-name-removal-controversy",
+      "topic_keywords": [
+        "Kennedy Center",
+        "Trump",
+        "judiciary",
+        "presidential legacy",
+        "arts"
+      ],
+      "conservative_headline": "Radical Judge Blocks Trump's Restoration of Failing Kennedy Center",
+      "liberal_headline": "Court Stops Trump's Illegal Attempt to Hijack JFK Memorial for Vanity",
+      "poll_question": "Should Trump's name be on the Kennedy Center?",
+      "poll_option1_label": "Honor His Work",
+      "poll_option1_desc": "Trump saved the center with funding and deserves recognition for repairs",
+      "poll_option2_label": "Protect JFK Legacy",
+      "poll_option2_desc": "The memorial honors Kennedy; only Congress can change the name",
+      "pexels_search_terms": "Kennedy Center Washington DC building"
+    },
+    {
+      "title": "Guardian of Democracy or Political Grandstanding? Powell Warns on Fed Independence",
+      "slug": "jerome-powell-fed-independence-warning-trump",
+      "topic_keywords": [
+        "Federal Reserve",
+        "Jerome Powell",
+        "Trump",
+        "independence",
+        "democracy"
+      ],
+      "conservative_headline": "Bitter Powell Attacks Trump After Failed Leadership at Federal Reserve",
+      "liberal_headline": "Powell Courageously Defends Fed Independence Against Political Pressure",
+      "poll_question": "Should the Federal Reserve be completely independent from politics?",
+      "poll_option1_label": "More Accountability",
+      "poll_option1_desc": "Elected officials should have influence over economic policy decisions",
+      "poll_option2_label": "Total Independence",
+      "poll_option2_desc": "Political pressure on the Fed would destroy credibility and economy",
+      "pexels_search_terms": "Federal Reserve building economics"
+    },
+    {
+      "title": "Justice or Political Weaponization? Trump Drops $1.8 Billion Compensation Fund",
+      "slug": "trump-anti-weaponization-fund-controversy",
+      "topic_keywords": [
+        "DOJ",
+        "Trump",
+        "corruption",
+        "compensation",
+        "political targeting"
+      ],
+      "conservative_headline": "Deep State Forces Trump to Abandon Justice for Persecuted Americans",
+      "liberal_headline": "Trump Backs Down From Corrupt Slush Fund for Political Allies",
+      "poll_question": "Should the government compensate victims of alleged political targeting?",
+      "poll_option1_label": "Compensate Victims",
+      "poll_option1_desc": "Those wrongly targeted by weaponized government deserve financial compensation",
+      "poll_option2_label": "Reject Slush Fund",
+      "poll_option2_desc": "The fund is corrupt payoff to Trump allies with taxpayer money",
+      "pexels_search_terms": "justice department courthouse money"
+    },
+    {
+      "title": "Flawed Candidate or Media Witch Hunt? Democrat Platner's Sexting Scandal Rocks Maine Race",
+      "slug": "graham-platner-sexting-scandal-maine-senate",
+      "topic_keywords": [
+        "Maine",
+        "Senate",
+        "scandal",
+        "elections",
+        "personal conduct"
+      ],
+      "conservative_headline": "Democrat's Disgusting Behavior Proves Party's Moral Bankruptcy",
+      "liberal_headline": "GOP-Pushed Tabloid Gossip Distracts From Susan Collins' Failed Record",
+      "poll_question": "Should past personal misconduct disqualify candidates?",
+      "poll_option1_label": "Character Matters",
+      "poll_option1_desc": "Personal behavior reflects judgment and fitness for high office",
+      "poll_option2_label": "Focus on Issues",
+      "poll_option2_desc": "Private matters are irrelevant; voters should judge policy positions",
+      "pexels_search_terms": "senate campaign politics controversy"
+    },
+    {
+      "title": "Border Security or Asylum Destruction? Trump Moves to Fast-Track Rejections",
+      "slug": "trump-asylum-fast-rejection-immigration-plan",
+      "topic_keywords": [
+        "immigration",
+        "asylum",
+        "Trump",
+        "border",
+        "refugees"
+      ],
+      "conservative_headline": "Trump Finally Closes Loopholes That Let Fake Asylum Seekers Pour In",
+      "liberal_headline": "Trump Guts Legal Asylum System With Plan to Reject Claims Without Hearings",
+      "poll_question": "Should asylum applications be processed without interviews?",
+      "poll_option1_label": "Speed Up Process",
+      "poll_option1_desc": "Most claims are fraudulent; fast rejections will secure borders",
+      "poll_option2_label": "Due Process Required",
+      "poll_option2_desc": "Denying asylum without interviews violates human rights and law",
+      "pexels_search_terms": "border immigration asylum processing"
+    },
+    {
+      "title": "Maverick Outsider or Unelectable Extremist? Texas GOP Nominates Ken Paxton",
+      "slug": "ken-paxton-texas-senate-primary-win",
+      "topic_keywords": [
+        "Texas",
+        "Ken Paxton",
+        "Republican primary",
+        "Senate",
+        "establishment"
+      ],
+      "conservative_headline": "Texas Voters Reject RINO Cornyn, Embrace Fighter Paxton for Senate",
+      "liberal_headline": "Scandal-Plagued Paxton Victory Shows GOP's Embrace of Extremism",
+      "poll_question": "Did Texas Republicans make the right choice nominating Paxton?",
+      "poll_option1_label": "Anti-Establishment Win",
+      "poll_option1_desc": "Paxton will fight for conservative values unlike moderate Cornyn",
+      "poll_option2_label": "General Election Risk",
+      "poll_option2_desc": "Paxton's baggage makes traditionally red Texas seat vulnerable",
+      "pexels_search_terms": "Texas state capitol election"
+    },
+    {
+      "title": "Electoral Necessity or Voter Suppression? New Hampshire Citizenship Proof Battle",
+      "slug": "new-hampshire-voter-registration-citizenship-proof",
+      "topic_keywords": [
+        "voting rights",
+        "citizenship",
+        "New Hampshire",
+        "voter ID",
+        "elections"
+      ],
+      "conservative_headline": "Liberal Judge Allows Non-Citizens to Register Without Proof in New Hampshire",
+      "liberal_headline": "Court Protects Voting Access by Blocking Trump's Restrictive Registration Rules",
+      "poll_question": "Should voters provide documentary proof of citizenship to register?",
+      "poll_option1_label": "Verify Citizenship",
+      "poll_option1_desc": "Documentary proof prevents illegal voting and protects election integrity",
+      "poll_option2_label": "Allow Attestation",
+      "poll_option2_desc": "Strict requirements disenfranchise eligible voters who lack documents",
+      "pexels_search_terms": "voter registration ballot box"
+    },
+    {
+      "title": "Progressive Champion or Unelectable Radical? Michigan Dems May Nominate El-Sayed",
+      "slug": "abdul-el-sayed-michigan-senate-controversy",
+      "topic_keywords": [
+        "Michigan",
+        "Abdul El-Sayed",
+        "Democrats",
+        "progressive",
+        "Israel"
+      ],
+      "conservative_headline": "Anti-Israel Radical El-Sayed Could Hand Michigan Senate Seat to GOP",
+      "liberal_headline": "Progressive El-Sayed Energizes Youth Vote With Bold Vision for Change",
+      "poll_question": "Should Democrats nominate El-Sayed for Michigan Senate?",
+      "poll_option1_label": "Energize Base",
+      "poll_option1_desc": "Bold progressive policies will inspire turnout and win election",
+      "poll_option2_label": "Electability First",
+      "poll_option2_desc": "Controversial statements will alienate moderates in swing state",
+      "pexels_search_terms": "Michigan politics progressive campaign"
+    },
+    {
+      "title": "Energy Security Win or Environmental Disaster? Trump Predicts Hormuz Reopening Soon",
+      "slug": "strait-of-hormuz-reopening-oil-trump",
+      "topic_keywords": [
+        "Strait of Hormuz",
+        "oil",
+        "Iran",
+        "energy",
+        "economy"
+      ],
+      "conservative_headline": "Trump's Pressure Campaign Working: Oil to Flow Through Hormuz in Weeks",
+      "liberal_headline": "Trump's Failed Iran War Dragged On for Months Before Tentative Opening",
+      "poll_question": "Is Trump handling the Strait of Hormuz crisis effectively?",
+      "poll_option1_label": "Strategic Success",
+      "poll_option1_desc": "Trump's military and economic pressure is forcing Iran to reopen",
+      "poll_option2_label": "Costly Failure",
+      "poll_option2_desc": "War caused unnecessary damage; strait should never have closed",
+      "pexels_search_terms": "oil tanker strait shipping"
+    }
+  ]
+}
