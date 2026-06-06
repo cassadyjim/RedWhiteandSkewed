@@ -1,0 +1,195 @@
+{
+  "date": "2026-06-06",
+  "email_sent_at": "2026-06-06T05:59:11.416424",
+  "stories": [
+    {
+      "title": "Kennedy Center Showdown: Cultural Heritage or Presidential Overreach?",
+      "slug": "kennedy-center-trump-name-removal-court-order",
+      "topic_keywords": [
+        "Kennedy Center",
+        "Trump",
+        "court ruling",
+        "cultural institutions",
+        "presidential power"
+      ],
+      "conservative_headline": "Liberal Judge Blocks Trump From Honoring His Revitalization of Historic Arts Center",
+      "liberal_headline": "Federal Court Orders Removal of Trump's Name From Kennedy Center, Citing Illegal Power Grab",
+      "poll_question": "Should Trump's name be allowed on the Kennedy Center?",
+      "poll_option1_label": "Honor Trump",
+      "poll_option1_desc": "He deserves recognition for revitalizing the center and supporting the arts",
+      "poll_option2_label": "Preserve JFK Legacy",
+      "poll_option2_desc": "Only Congress can change the name; court ruled board overstepped authority",
+      "pexels_search_terms": "performing arts center building architecture"
+    },
+    {
+      "title": "GOP Revolt: Ukraine Aid or America First?",
+      "slug": "house-republicans-defy-trump-ukraine-aid-russia-sanctions",
+      "topic_keywords": [
+        "Ukraine aid",
+        "Russia sanctions",
+        "GOP rebellion",
+        "foreign policy",
+        "Trump"
+      ],
+      "conservative_headline": "18 GOP Traitors Side With Democrats to Send Billions More to Ukraine Despite Trump Opposition",
+      "liberal_headline": "Bipartisan Coalition Defies Trump, Passes Critical Ukraine Aid and Russian Sanctions Package",
+      "poll_question": "Should Congress continue funding Ukraine despite Trump's opposition?",
+      "poll_option1_label": "America First",
+      "poll_option1_desc": "Focus on domestic needs; Trump should negotiate peace without more aid",
+      "poll_option2_label": "Support Democracy",
+      "poll_option2_desc": "Ukraine needs help defending against Russian aggression; sanctions work",
+      "pexels_search_terms": "Ukraine flag military support"
+    },
+    {
+      "title": "Bolton's Fall: Justice Served or Political Persecution?",
+      "slug": "john-bolton-guilty-plea-classified-documents",
+      "topic_keywords": [
+        "John Bolton",
+        "classified documents",
+        "Trump critic",
+        "national security",
+        "plea deal"
+      ],
+      "conservative_headline": "Trump Critic John Bolton Admits Guilt in Classified Documents Case, Faces $2.25M Fine",
+      "liberal_headline": "Bolton Forced to Plead Guilty in Trump's Revenge Campaign Against Political Enemies",
+      "poll_question": "Is Bolton's prosecution legitimate or political retribution?",
+      "poll_option1_label": "Equal Justice",
+      "poll_option1_desc": "Bolton broke the law; everyone who mishandles classified info must face consequences",
+      "poll_option2_label": "Political Targeting",
+      "poll_option2_desc": "Trump weaponizing DOJ against critics while his own case was dismissed",
+      "pexels_search_terms": "classified documents courtroom justice"
+    },
+    {
+      "title": "ICE Funding Fight: Border Security or Accountability Crisis?",
+      "slug": "senate-immigration-enforcement-funding-deaths-minnesota",
+      "topic_keywords": [
+        "ICE funding",
+        "border patrol",
+        "Minnesota deaths",
+        "immigration enforcement",
+        "police accountability"
+      ],
+      "conservative_headline": "Senate Passes $70B Border Bill After Democrats Drop Radical Demands to Defund ICE",
+      "liberal_headline": "Republicans Refuse Reforms After ICE Officers Killed Two Americans in Minnesota",
+      "poll_question": "Should ICE get $70 billion without new accountability measures?",
+      "poll_option1_label": "Secure Borders",
+      "poll_option1_desc": "ICE needs funding to enforce laws; isolated incidents shouldn't stop enforcement",
+      "poll_option2_label": "Demand Reforms",
+      "poll_option2_desc": "No funding until agencies implement safeguards after killing two citizens",
+      "pexels_search_terms": "border patrol immigration enforcement"
+    },
+    {
+      "title": "California Governor Race: Progressive vs. Trump-Backed Populist",
+      "slug": "california-governor-primary-becerra-hilton-showdown",
+      "topic_keywords": [
+        "California governor",
+        "Xavier Becerra",
+        "Steve Hilton",
+        "primary election",
+        "Trump endorsement"
+      ],
+      "conservative_headline": "Trump-Endorsed Steve Hilton Advances to Face Liberal Career Politician Becerra for California",
+      "liberal_headline": "Former HHS Secretary Becerra Leads Race to Stop Trump Ally's Hostile Takeover of California",
+      "poll_question": "Who should lead California out of its current challenges?",
+      "poll_option1_label": "Make CA Affordable",
+      "poll_option1_desc": "Hilton promises tax-free first $100K, cheaper gas, and housing reform",
+      "poll_option2_label": "Protect Progress",
+      "poll_option2_desc": "Becerra's experience will defend California values and working families",
+      "pexels_search_terms": "California state capitol building"
+    },
+    {
+      "title": "FISA Surveillance Blocked: National Security or Civil Liberties?",
+      "slug": "senate-blocks-fisa-reauthorization-pulte-concerns",
+      "topic_keywords": [
+        "FISA",
+        "surveillance",
+        "Bill Pulte",
+        "national intelligence",
+        "privacy rights"
+      ],
+      "conservative_headline": "Democrats Block Critical Surveillance Tool, Endangering National Security Over Partisan Games",
+      "liberal_headline": "Senate Stops FISA Extension Over Trump's Unqualified Intelligence Chief Pick",
+      "poll_question": "Should Democrats block FISA over concerns about Trump's intel appointee?",
+      "poll_option1_label": "Protect America",
+      "poll_option1_desc": "FISA is essential for stopping terrorists; Democrats playing politics with security",
+      "poll_option2_label": "Prevent Abuse",
+      "poll_option2_desc": "Can't trust Trump ally with warrantless surveillance of Americans",
+      "pexels_search_terms": "surveillance security technology privacy"
+    },
+    {
+      "title": "Alabama Redistricting: Voting Rights Rollback or States' Rights Win?",
+      "slug": "supreme-court-alabama-redistricting-black-representation",
+      "topic_keywords": [
+        "redistricting",
+        "voting rights",
+        "Supreme Court",
+        "Alabama",
+        "Black representation"
+      ],
+      "conservative_headline": "Supreme Court Allows Alabama to Use Fair Maps for Midterms Despite Democrat Objections",
+      "liberal_headline": "SCOTUS Greenlights Alabama GOP Map That Eliminates Black Democrat's Seat Before Election",
+      "poll_question": "Should the Supreme Court have blocked Alabama's new map?",
+      "poll_option1_label": "State Authority",
+      "poll_option1_desc": "States have right to draw districts; Alabama followed legal process",
+      "poll_option2_label": "Protect Voters",
+      "poll_option2_desc": "Map dilutes Black voting power and violates previous court orders",
+      "pexels_search_terms": "voting ballot democracy election"
+    },
+    {
+      "title": "Rand Paul's Son Sparks Firestorm: Free Speech or Hate Speech?",
+      "slug": "rand-paul-son-homophobic-comments-nuclear-family-month",
+      "topic_keywords": [
+        "Rand Paul",
+        "LGBTQ rights",
+        "Pride Month",
+        "free speech",
+        "homophobia"
+      ],
+      "conservative_headline": "GOP Rep Defends Traditional Family Values, Leftists Erupt Over 'Nuclear Family Month' Post",
+      "liberal_headline": "Bipartisan Condemnation After Rand Paul's Son Posts 'Homosexuality Has No Place in America'",
+      "poll_question": "Was the 'Nuclear Family Month' comment appropriate?",
+      "poll_option1_label": "Free Expression",
+      "poll_option1_desc": "Saying homosexuality has no place in America is discriminatory hate speech",
+      "poll_option2_label": "Unacceptable Bigotry",
+      "pexels_search_terms": "pride flag equality rights"
+    },
+    {
+      "title": "Todd Blanche Nomination: Qualified Attorney General or Trump Loyalist?",
+      "slug": "todd-blanche-attorney-general-nomination-confirmation-battle",
+      "topic_keywords": [
+        "Todd Blanche",
+        "Attorney General",
+        "DOJ",
+        "Trump administration",
+        "Senate confirmation"
+      ],
+      "conservative_headline": "Trump Taps Brilliant Legal Mind Todd Blanche for AG Despite Democrat Witch Hunt",
+      "liberal_headline": "Trump Doubles Down on Controversial Blanche Pick After Anti-Weaponization Fund Fiasco",
+      "poll_question": "Should the Senate confirm Todd Blanche as Attorney General?",
+      "poll_option1_label": "Confirm Blanche",
+      "poll_option1_desc": "Experienced lawyer who will restore integrity to politicized Justice Department",
+      "poll_option2_label": "Reject Loyalist",
+      "poll_option2_desc": "Trump's personal attorney will weaponize DOJ against political enemies",
+      "pexels_search_terms": "attorney general justice department building"
+    },
+    {
+      "title": "OMB Grant Power Grab: Political Interference or Accountability?",
+      "slug": "white-house-omb-federal-research-grants-control",
+      "topic_keywords": [
+        "research grants",
+        "OMB",
+        "science funding",
+        "political appointees",
+        "academic freedom"
+      ],
+      "conservative_headline": "White House Moves to Ensure Taxpayer-Funded Research Serves American Interests, Not Woke Agenda",
+      "liberal_headline": "Trump Administration Threatens Scientific Integrity With Political Control Over Research Grants",
+      "poll_question": "Should political appointees have more control over research grants?",
+      "poll_option1_label": "Taxpayer Oversight",
+      "poll_option1_desc": "Elected officials should ensure billions in grants align with national priorities",
+      "poll_option2_label": "Preserve Independence",
+      "poll_option2_desc": "Political interference will corrupt scientific research and waste billions",
+      "pexels_search_terms": "science research laboratory university"
+    }
+  ]
+}
