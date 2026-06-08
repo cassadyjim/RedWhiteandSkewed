@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-05-24",
-      "slug": "iran-war-powers-house-vote-cancelled",
-      "topic": "Iran war war powers Congress Trump military action"
-    },
-    {
       "date": "2026-05-25",
       "slug": "taiwan-arms-sales-pause-iran",
       "topic": "Taiwan China arms sales Iran military"
@@ -50,6 +45,11 @@
       "date": "2026-06-06",
       "slug": "house-republicans-defy-trump-ukraine-aid-russia-sanctions",
       "topic": "Ukraine aid Russia sanctions GOP rebellion foreign policy Trump"
+    },
+    {
+      "date": "2026-06-08",
+      "slug": "trump-federal-reserve-interest-rates-independence",
+      "topic": "Federal Reserve interest rates Trump pressure Kevin Warsh Fed independence"
     }
   ]
 }
