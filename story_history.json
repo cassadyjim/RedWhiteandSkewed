@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-05-25",
-      "slug": "taiwan-arms-sales-pause-iran",
-      "topic": "Taiwan China arms sales Iran military"
-    },
-    {
       "date": "2026-05-26",
       "slug": "doj-removes-january-6-press-releases",
       "topic": "January 6 DOJ website partisan propaganda Capitol"
@@ -50,6 +45,11 @@
       "date": "2026-06-08",
       "slug": "trump-federal-reserve-interest-rates-independence",
       "topic": "Federal Reserve interest rates Trump pressure Kevin Warsh Fed independence"
+    },
+    {
+      "date": "2026-06-09",
+      "slug": "trump-triumphal-arch-dc-memorial-controversy",
+      "topic": "Trump monument Washington DC memorial Arlington Cemetery"
     }
   ]
 }
