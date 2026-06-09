@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-09",
+  "email_sent_at": "2026-06-09T06:15:06.109029",
+  "stories": [
+    {
+      "title": "Scientific Integrity or Regulatory Relief? EPA Scientists Allege Political Pressure on Chemical Safety Reviews",
+      "slug": "epa-scientists-chemical-safety-political-pressure",
+      "topic_keywords": [
+        "EPA",
+        "chemical safety",
+        "Trump administration",
+        "environmental regulation",
+        "public health"
+      ],
+      "conservative_headline": "EPA Cuts Red Tape on Household Products, Prioritizes Real-World Safety Over Bureaucratic Overreach",
+      "liberal_headline": "Trump EPA Accused of Silencing Scientists to Help Chemical Industry Hide Health Risks",
+      "poll_question": "Should EPA scientists be able to flag chemical risks without political interference?",
+      "poll_option1_label": "Efficient Regulation",
+      "poll_option1_desc": "Political oversight ensures practical regulations that balance safety with economic impact",
+      "poll_option2_label": "Scientific Independence",
+      "poll_option2_desc": "Career scientists should evaluate chemical risks based solely on evidence",
+      "pexels_search_terms": "laboratory scientist chemicals safety"
+    },
+    {
+      "title": "Triumph or Travesty? Trump's 250-Foot Memorial Arch Faces Fierce Public Opposition",
+      "slug": "trump-triumphal-arch-dc-memorial-controversy",
+      "topic_keywords": [
+        "Trump",
+        "monument",
+        "Washington DC",
+        "memorial",
+        "Arlington Cemetery"
+      ],
+      "conservative_headline": "Trump's Magnificent Triumphal Arch Will Honor America's 250th Anniversary in Grand Style",
+      "liberal_headline": "Trump's Massive Vanity Project Threatens Historic Views and Disrespects Arlington National Cemetery",
+      "poll_question": "Should Trump's 250-foot triumphal arch be built near Arlington Cemetery?",
+      "poll_option1_label": "Patriotic Monument",
+      "poll_option1_desc": "A fitting tribute to America's greatness and 250th anniversary",
+      "poll_option2_label": "Vanity Project",
+      "poll_option2_desc": "An oversized ego project that disrupts sacred historic spaces",
+      "pexels_search_terms": "washington monument memorial architecture"
+    },
+    {
+      "title": "Justice or Hypocrisy? Trump Pardons Insider Trading Congressman While Condemning Stock Market Manipulation",
+      "slug": "trump-pardon-stephen-buyer-insider-trading",
+      "topic_keywords": [
+        "Trump pardon",
+        "Stephen Buyer",
+        "insider trading",
+        "Congress",
+        "stock trading"
+      ],
+      "conservative_headline": "Trump Corrects Politically Motivated Prosecution of Decorated Veteran and Congressman Stephen Buyer",
+      "liberal_headline": "Trump Pardons GOP Congressman Who Made $350K Through Illegal Insider Trading Despite Anti-Corruption Rhetoric",
+      "poll_question": "Was Trump right to pardon Stephen Buyer for insider trading?",
+      "poll_option1_label": "Correct Injustice",
+      "poll_option1_desc": "Buyer was unfairly targeted; his service merits clemency",
+      "poll_option2_label": "Corrupt Double Standard",
+      "poll_option2_desc": "Pardoning wealthy insiders while claiming to fight corruption",
+      "pexels_search_terms": "stock market trading congressional hearing"
+    },
+    {
+      "title": "Healing or Obstruction? Trump's DC Beautification Blitz Divides Historic Preservationists and Supporters",
+      "slug": "trump-dc-transformation-fountains-ballroom",
+      "topic_keywords": [
+        "Trump",
+        "Washington DC",
+        "White House ballroom",
+        "fountains",
+        "historic preservation"
+      ],
+      "conservative_headline": "Trump Restores DC's Glory With Fountain Revivals and Beautiful White House Ballroom Addition",
+      "liberal_headline": "Trump Forces Taxpayer-Funded Vanity Projects Across DC Without Congressional Approval or Historic Review",
+      "poll_question": "Should Trump have authority to transform DC landmarks without full congressional approval?",
+      "poll_option1_label": "Executive Leadership",
+      "poll_option1_desc": "President has authority to beautify the capital and get things done",
+      "poll_option2_label": "Constitutional Process",
+      "poll_option2_desc": "Major projects require congressional approval and proper historic review",
+      "pexels_search_terms": "white house fountain washington dc"
+    },
+    {
+      "title": "Partisan Blockade or Democratic Defense? Congress on Track for Fewest Bills in 50 Years",
+      "slug": "congress-fewest-bills-50-years-gridlock",
+      "topic_keywords": [
+        "Congress",
+        "legislation",
+        "gridlock",
+        "Trump",
+        "executive orders"
+      ],
+      "conservative_headline": "Trump Takes Decisive Action While Do-Nothing Democrats Obstruct Common-Sense Legislative Agenda",
+      "liberal_headline": "Congress Passes Fewest Bills in Half-Century as Trump Bypasses Legislative Branch With Executive Overreach",
+      "poll_question": "Is Congress passing fewer bills because of obstruction or executive overreach?",
+      "poll_option1_label": "Democratic Obstruction",
+      "poll_option1_desc": "Opposition party blocking progress, forcing Trump to act alone",
+      "poll_option2_label": "Executive Overreach",
+      "poll_option2_desc": "Trump bypassing Congress on decisions that require legislative approval",
+      "pexels_search_terms": "capitol building congress session empty"
+    },
+    {
+      "title": "Redistricting Revolution or Voter Suppression? GOP Poised to Gain 10 House Seats Through New Maps",
+      "slug": "republican-redistricting-gains-midterms-2026",
+      "topic_keywords": [
+        "redistricting",
+        "gerrymandering",
+        "2026 midterms",
+        "voting rights",
+        "House seats"
+      ],
+      "conservative_headline": "Republicans Win Redistricting Battle With Fair Maps That Reflect Population Growth in Red States",
+      "liberal_headline": "GOP Gerrymandering Could Trigger Largest Loss of Black Political Representation in American History",
+      "poll_question": "Are the new congressional maps fair redistricting or partisan gerrymandering?",
+      "poll_option1_label": "Fair Redistricting",
+      "poll_option1_desc": "Maps reflect legitimate population changes and constitutional requirements",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "Partisan manipulation designed to disenfranchise minority voters",
+      "pexels_search_terms": "voting booth ballot election map"
+    },
+    {
+      "title": "Patriot or Demagogue? Trump Sows Doubt in California Elections Despite Officials Debunking Claims",
+      "slug": "trump-california-election-fraud-claims-debunked",
+      "topic_keywords": [
+        "Trump",
+        "California",
+        "election integrity",
+        "voter fraud",
+        "2026 elections"
+      ],
+      "conservative_headline": "Trump Raises Legitimate Questions About California's Chaotic Vote Counting and Ballot Transparency Issues",
+      "liberal_headline": "Trump Spreads Debunked Election Lies About California Despite DOJ and Officials Confirming Accurate Count",
+      "poll_question": "Are Trump's concerns about California vote counting legitimate?",
+      "poll_option1_label": "Valid Concerns",
+      "poll_option1_desc": "California's slow counting and ballot handling deserve scrutiny and transparency",
+      "poll_option2_label": "Baseless Lies",
+      "poll_option2_desc": "Trump spreading debunked conspiracy theories to undermine democratic elections",
+      "pexels_search_terms": "ballot counting election workers california"
+    },
+    {
+      "title": "National Security or Political Loyalty? War Powers Resolutions Advance to Curb Trump on Iran",
+      "slug": "congress-war-powers-iran-trump-curbs",
+      "topic_keywords": [
+        "Iran war",
+        "war powers",
+        "Congress",
+        "Trump",
+        "military"
+      ],
+      "conservative_headline": "Reckless Democrats Try to Handcuff Commander-in-Chief During Active Military Operations in Iran",
+      "liberal_headline": "Bipartisan War Powers Resolutions Seek to Restore Congressional Authority Over Trump's Unauthorized Iran War",
+      "poll_question": "Should Congress invoke war powers to limit Trump's authority in Iran?",
+      "poll_option1_label": "Support Commander-in-Chief",
+      "poll_option1_desc": "President needs flexibility to protect American interests and troops",
+      "poll_option2_label": "Constitutional Checks",
+      "poll_option2_desc": "Congress must authorize war; Trump started conflict without approval",
+      "pexels_search_terms": "military troops iran middle east"
+    },
+    {
+      "title": "Spencer Pratt vs. City Council: Reality Star's LA Mayoral Bid Upended by Late Vote Surge",
+      "slug": "spencer-pratt-los-angeles-mayor-race-upset",
+      "topic_keywords": [
+        "Los Angeles",
+        "mayoral race",
+        "Spencer Pratt",
+        "Nithya Raman",
+        "California politics"
+      ],
+      "conservative_headline": "Political Outsider Spencer Pratt Overtaken by Progressive Activist as Late Ballots Mysteriously Favor Democrats",
+      "liberal_headline": "LA Councilmember Nithya Raman Surges Past Reality TV Celebrity in Democratic-Heavy Mail Ballot Count",
+      "poll_question": "Should political experience matter more than outsider celebrity status?",
+      "poll_option1_label": "Outsider Leadership",
+      "poll_option1_desc": "Fresh perspectives needed; career politicians created LA's problems",
+      "poll_option2_label": "Qualified Governance",
+      "poll_option2_desc": "City needs experienced leaders, not reality TV personalities",
+      "pexels_search_terms": "los angeles city hall mayor"
+    },
+    {
+      "title": "American Exceptionalism Fades? New Poll Shows Fewer Americans View Country as Special",
+      "slug": "american-exceptionalism-poll-decline-july-fourth",
+      "topic_keywords": [
+        "American exceptionalism",
+        "patriotism",
+        "July 4th",
+        "national identity",
+        "polling"
+      ],
+      "conservative_headline": "Left's Anti-American Propaganda Working: Poll Shows Dangerous Decline in Patriotic Pride Before July 4th",
+      "liberal_headline": "Americans Increasingly Reject Nationalist 'Exceptionalism' Myth as Country Faces Democratic Backsliding",
+      "poll_question": "Is America still an exceptional nation compared to others?",
+      "poll_option1_label": "American Exceptionalism",
+      "poll_option1_desc": "America remains the greatest nation with unique freedoms and values",
+      "poll_option2_label": "Equal Among Nations",
+      "poll_option2_desc": "America is one nation among many with strengths and flaws",
+      "pexels_search_terms": "american flag july fourth independence"
+    }
+  ]
+}
