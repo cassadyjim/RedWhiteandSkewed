@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-10",
+  "email_sent_at": "2026-06-10T06:37:29.427905",
+  "stories": [
+    {
+      "title": "Patriotic Honor or Monarchical Vanity? Trump's Face on New $250 Bill Divides America",
+      "slug": "trump-250-dollar-bill-currency-controversy",
+      "topic_keywords": [
+        "Trump",
+        "currency",
+        "$250 bill",
+        "Treasury Department",
+        "Congress"
+      ],
+      "conservative_headline": "Trump $250 Bill Would Honor President During America's 250th Anniversary Celebration",
+      "liberal_headline": "Trump Administration Pushes Illegal 'Wannabe King' Currency Scheme Featuring President's Face",
+      "poll_question": "Should President Trump's face appear on a new $250 bill?",
+      "poll_option1_label": "Patriotic Tribute",
+      "poll_option1_desc": "Honors the president during America's historic 250th anniversary celebration",
+      "poll_option2_label": "Monarchical Vanity",
+      "poll_option2_desc": "Violates 160-year tradition against putting living people on currency",
+      "pexels_search_terms": "dollar bill money currency"
+    },
+    {
+      "title": "National Security Crisis or Political Extortion? FISA Spy Powers Set to Expire Over Bill Pulte",
+      "slug": "fisa-section-702-bill-pulte-standoff",
+      "topic_keywords": [
+        "FISA",
+        "surveillance",
+        "Bill Pulte",
+        "national security",
+        "intelligence"
+      ],
+      "conservative_headline": "Democrats Threaten National Security By Blocking Spy Powers Over Qualified Trump Appointee",
+      "liberal_headline": "FISA Extension in Jeopardy After Trump Appoints Unqualified Political Loyalist to Intelligence Post",
+      "poll_question": "Should Congress extend FISA surveillance powers with Bill Pulte as acting DNI?",
+      "poll_option1_label": "Extend Immediately",
+      "poll_option1_desc": "National security requires spy powers regardless of who's in charge",
+      "poll_option2_label": "Withdraw Pulte First",
+      "poll_option2_desc": "Unqualified political operative shouldn't control surveillance powers",
+      "pexels_search_terms": "surveillance security intelligence technology"
+    },
+    {
+      "title": "Election Integrity Investigation or Authoritarian Intimidation? Trump Claims California Vote Fraud",
+      "slug": "california-voter-fraud-trump-allegations",
+      "topic_keywords": [
+        "California",
+        "voter fraud",
+        "election",
+        "mail-in ballots",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Demands Investigation Into Suspicious California Vote Counting as Republicans Lose Ground",
+      "liberal_headline": "Trump Returns to Baseless Voter Fraud Playbook, Attacks California's Legal Mail Ballot System",
+      "poll_question": "Are Trump's California voter fraud claims legitimate concerns?",
+      "poll_option1_label": "Legitimate Concerns",
+      "poll_option1_desc": "Suspicious late-arriving ballots changing results deserve investigation",
+      "poll_option2_label": "Baseless Attacks",
+      "poll_option2_desc": "Normal ballot counting process being falsely portrayed as fraud",
+      "pexels_search_terms": "voting ballot box election"
+    },
+    {
+      "title": "Border Security Funding or Defunding the Police? House Passes $70B Immigration Enforcement Bill",
+      "slug": "immigration-enforcement-funding-bill-passes",
+      "topic_keywords": [
+        "immigration",
+        "ICE",
+        "Border Patrol",
+        "funding",
+        "Congress"
+      ],
+      "conservative_headline": "House Republicans Fund Law Enforcement After Democrats Refused to Secure the Border",
+      "liberal_headline": "GOP Rams Through ICE Funding Without Accountability After Minneapolis Deaths",
+      "poll_question": "Should ICE and Border Patrol receive $70 billion without reform requirements?",
+      "poll_option1_label": "Fund Border Security",
+      "poll_option1_desc": "Law enforcement needs resources to protect America's borders",
+      "poll_option2_label": "Require Reforms First",
+      "poll_option2_desc": "Funding should come with accountability and operational changes",
+      "pexels_search_terms": "border patrol immigration enforcement"
+    },
+    {
+      "title": "Restoring Black Representation or GOP Gerrymandering? Supreme Court Backs Alabama Redistricting",
+      "slug": "alabama-redistricting-black-representation",
+      "topic_keywords": [
+        "redistricting",
+        "gerrymandering",
+        "Supreme Court",
+        "Alabama",
+        "voting rights"
+      ],
+      "conservative_headline": "Supreme Court Allows Alabama to Use Lawful Congressional Map for 2026 Midterms",
+      "liberal_headline": "Supreme Court Enables GOP to Eliminate Black Democrat's Seat Through Partisan Gerrymandering",
+      "poll_question": "Should Alabama's new congressional map be allowed for the 2026 midterms?",
+      "poll_option1_label": "Legal Redistricting",
+      "poll_option1_desc": "State has right to draw districts following constitutional guidelines",
+      "poll_option2_label": "Racial Gerrymandering",
+      "poll_option2_desc": "Map deliberately dilutes Black voting power and representation",
+      "pexels_search_terms": "voting rights congressional map"
+    },
+    {
+      "title": "Civics Education or Propaganda Contest? Teens Compete in Trump's Patriotism Competition",
+      "slug": "trump-civics-contest-patriotism-debate",
+      "topic_keywords": [
+        "education",
+        "civics",
+        "Trump",
+        "patriotism",
+        "students"
+      ],
+      "conservative_headline": "Students Celebrate American Values in Trump's Inspiring National Civics Competition",
+      "liberal_headline": "Teens Express 'Mixed Feelings' About Trump Patriotism Contest Some Call Propaganda",
+      "poll_question": "Is Trump's civics contest good for students?",
+      "poll_option1_label": "Patriotic Education",
+      "poll_option1_desc": "Encouraging young people to learn about American history and values",
+      "poll_option2_label": "Political Propaganda",
+      "poll_option2_desc": "Using students to promote Trump's personal brand of nationalism",
+      "pexels_search_terms": "students classroom American flag"
+    },
+    {
+      "title": "Civil Rights Oversight or Smear Campaign? Southern Poverty Law Center Grilled by Congress",
+      "slug": "southern-poverty-law-center-congressional-hearing",
+      "topic_keywords": [
+        "Southern Poverty Law Center",
+        "Congress",
+        "civil rights",
+        "hate groups",
+        "oversight"
+      ],
+      "conservative_headline": "SPLC Chair Put on Defensive Over Group's Liberal Agenda and Questionable Hate Group Labels",
+      "liberal_headline": "Republicans Attack Civil Rights Organization in Heated Congressional Hearing",
+      "poll_question": "Should Congress investigate the Southern Poverty Law Center?",
+      "poll_option1_label": "Investigate SPLC",
+      "poll_option1_desc": "Organization's hate group designations lack accountability and target conservatives",
+      "poll_option2_label": "Protect Civil Rights",
+      "poll_option2_desc": "Hearing is political attack on legitimate civil rights watchdog",
+      "pexels_search_terms": "Congress hearing testimony capitol"
+    },
+    {
+      "title": "Criminal Investigation or Political Vendetta? Vance Targets Tim Walz Over Minnesota Fraud",
+      "slug": "vance-walz-minnesota-fraud-investigation",
+      "topic_keywords": [
+        "Tim Walz",
+        "JD Vance",
+        "Minnesota",
+        "fraud",
+        "DOJ"
+      ],
+      "conservative_headline": "VP Vance Demands Criminal Probe Into Tim Walz's Role in Minnesota Fraud Scandal",
+      "liberal_headline": "Vance Weaponizes DOJ to Target Democratic Governor With Baseless Investigation",
+      "poll_question": "Should the DOJ investigate Tim Walz over Minnesota's fraud scandal?",
+      "poll_option1_label": "Investigate Now",
+      "poll_option1_desc": "Governor may have obstructed justice in state fraud case",
+      "poll_option2_label": "Political Retaliation",
+      "poll_option2_desc": "VP using DOJ as weapon against potential political opponent",
+      "pexels_search_terms": "government investigation justice department"
+    },
+    {
+      "title": "Productive Congress or Executive Overreach? Capitol on Track for Fewest Bills in 50 Years",
+      "slug": "congress-fewest-bills-50-years",
+      "topic_keywords": [
+        "Congress",
+        "legislation",
+        "Trump",
+        "executive orders",
+        "productivity"
+      ],
+      "conservative_headline": "Trump Gets Things Done With Executive Action While Dysfunctional Congress Drags Feet",
+      "liberal_headline": "Trump Bypasses Democracy as Congress Heads for Historic Low in Legislation Passed",
+      "poll_question": "Is Congress's low legislative output a problem?",
+      "poll_option1_label": "Executive Efficiency",
+      "poll_option1_desc": "President acting decisively while Congress remains gridlocked on issues",
+      "poll_option2_label": "Democratic Erosion",
+      "poll_option2_desc": "President usurping Congressional authority meant for elected representatives",
+      "pexels_search_terms": "Capitol building Congress Washington"
+    },
+    {
+      "title": "Self-Defense Strike or Escalating Conflict? U.S. Launches Retaliatory Attacks on Iran",
+      "slug": "us-iran-strikes-helicopter-retaliation",
+      "topic_keywords": [
+        "Iran",
+        "military strike",
+        "helicopter",
+        "retaliation",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Orders Decisive Military Response After Iran Shoots Down U.S. Apache Helicopter",
+      "liberal_headline": "Trump Escalates Iran War With New Strikes Despite 62% Disapproval of Military Action",
+      "poll_question": "Should the U.S. have launched strikes on Iran after the helicopter downing?",
+      "poll_option1_label": "Necessary Retaliation",
+      "poll_option1_desc": "Strong response required to deter Iranian aggression against Americans",
+      "poll_option2_label": "Dangerous Escalation",
+      "poll_option2_desc": "Further military action risks broader war Americans don't support",
+      "pexels_search_terms": "military helicopter Iran strike"
+    }
+  ]
+}
