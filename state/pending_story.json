@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-12",
+  "email_sent_at": "2026-06-12T06:48:51.658511",
+  "stories": [
+    {
+      "title": "National Security Crisis or Democratic Obstruction? FISA Surveillance Law Expires as Parties Clash",
+      "slug": "fisa-section-702-expires-democrats-republicans-surveillance",
+      "topic_keywords": [
+        "FISA",
+        "surveillance",
+        "national security",
+        "Bill Pulte",
+        "Section 702"
+      ],
+      "conservative_headline": "Democrats Block Critical Spy Tool, Putting America at Risk Over Political Vendetta",
+      "liberal_headline": "House Dems Refuse Surveillance Extension Until Trump Removes Unqualified Intelligence Chief",
+      "poll_question": "Should FISA Section 702 surveillance authority be renewed?",
+      "poll_option1_label": "Pass It Now",
+      "poll_option1_desc": "National security cannot wait\u2014renew the critical anti-terror surveillance tool immediately",
+      "poll_option2_label": "Demand Reforms",
+      "poll_option2_desc": "Only renew with privacy protections and qualified intelligence leadership in place",
+      "pexels_search_terms": "surveillance security intelligence technology"
+    },
+    {
+      "title": "Presidential Birthday Bash or Corrupt Self-Dealing? UFC Fight at White House Draws Lawsuits",
+      "slug": "ufc-white-house-fight-trump-birthday-lawsuit-corruption",
+      "topic_keywords": [
+        "UFC",
+        "White House",
+        "Trump birthday",
+        "corruption",
+        "Dana White"
+      ],
+      "conservative_headline": "Historic UFC Event Celebrates America 250 as Left Files Frivolous Lawsuit",
+      "liberal_headline": "Trump Turns White House Into Personal Playground With $60M Cage Fight for His Birthday",
+      "poll_question": "Should the UFC fight be held at the White House?",
+      "poll_option1_label": "Historic Event",
+      "poll_option1_desc": "Unique celebration of American strength and the 250th anniversary",
+      "poll_option2_label": "Corrupt Spectacle",
+      "poll_option2_desc": "Inappropriate use of sacred public property to enrich Trump and allies",
+      "pexels_search_terms": "UFC cage fight arena"
+    },
+    {
+      "title": "Consumer Protection or Government Overreach? Trump Threatens 500+ Hospitals Over Pricing",
+      "slug": "hospital-price-transparency-trump-fines-healthcare",
+      "topic_keywords": [
+        "healthcare",
+        "hospital pricing",
+        "transparency",
+        "Trump",
+        "affordability"
+      ],
+      "conservative_headline": "Trump Cracks Down on Hospital Price Gouging to Lower Healthcare Costs for Families",
+      "liberal_headline": "Trump Threatens Hospitals While Gutting Obamacare Subsidies That Actually Help Patients",
+      "poll_question": "Should hospitals face fines for not posting prices publicly?",
+      "poll_option1_label": "Enforce Transparency",
+      "poll_option1_desc": "Hospitals must disclose pricing so patients can shop for best value",
+      "poll_option2_label": "Misguided Priorities",
+      "poll_option2_desc": "Focus on expanding coverage and affordability, not punishing hospitals",
+      "pexels_search_terms": "hospital medical bills healthcare"
+    },
+    {
+      "title": "Justice for Victims or Political Persecution? Bill Gates Grilled by Congress on Epstein Ties",
+      "slug": "bill-gates-epstein-house-oversight-testimony",
+      "topic_keywords": [
+        "Bill Gates",
+        "Jeffrey Epstein",
+        "Congress",
+        "investigation",
+        "testimony"
+      ],
+      "conservative_headline": "House Finally Holds Bill Gates Accountable for Disturbing Epstein Relationship",
+      "liberal_headline": "Republicans Weaponize Epstein Files in Political Witch Hunt Against Tech Leaders",
+      "poll_question": "Should Congress investigate public figures' ties to Epstein?",
+      "poll_option1_label": "Demand Accountability",
+      "poll_option1_desc": "All connections to sex trafficker must be fully investigated",
+      "poll_option2_label": "Political Theater",
+      "poll_option2_desc": "Investigations should focus on crimes, not guilt by association",
+      "pexels_search_terms": "congressional hearing testimony capitol"
+    },
+    {
+      "title": "Election Integrity or Voter Suppression? Postal Service Won't Deliver Ballots Without Voter Lists",
+      "slug": "postal-service-mail-ballots-voter-lists-trump-directive",
+      "topic_keywords": [
+        "mail ballots",
+        "voter lists",
+        "USPS",
+        "election",
+        "voting rights"
+      ],
+      "conservative_headline": "USPS Protects Election Integrity by Requiring States to Share Voter Information",
+      "liberal_headline": "Trump's Postal Service Blocks Mail Voting Access in Naked Voter Suppression Scheme",
+      "poll_question": "Should USPS require voter lists to deliver mail ballots?",
+      "poll_option1_label": "Verify Voters",
+      "poll_option1_desc": "States must share data to ensure only eligible voters receive ballots",
+      "poll_option2_label": "Suppress Turnout",
+      "poll_option2_desc": "Blocking mail ballots is designed to reduce voting access",
+      "pexels_search_terms": "mail ballot voting envelope"
+    },
+    {
+      "title": "Fair Maps or Partisan Power Grab? States Rush to Redraw Districts Before Midterms",
+      "slug": "redistricting-gerrymandering-2026-midterms-congressional-maps",
+      "topic_keywords": [
+        "redistricting",
+        "gerrymandering",
+        "midterms",
+        "congressional maps",
+        "voting"
+      ],
+      "conservative_headline": "GOP Finishes Redistricting Victory, Gaining 10 Seats Through Legal Map Drawing",
+      "liberal_headline": "Republicans Rig Democracy With Extreme Gerrymandering Ahead of 2026 Elections",
+      "poll_question": "Are the new congressional maps fair?",
+      "poll_option1_label": "Legal and Fair",
+      "poll_option1_desc": "Courts approved maps that reflect legitimate political geography",
+      "poll_option2_label": "Rigged System",
+      "poll_option2_desc": "Extreme partisan gerrymandering undermines democratic representation",
+      "pexels_search_terms": "voting district map politics"
+    },
+    {
+      "title": "Border Security or Family Separation? Trump Signs $70B Immigration Enforcement Bill",
+      "slug": "immigration-enforcement-70-billion-secure-america-act",
+      "topic_keywords": [
+        "immigration",
+        "deportation",
+        "border security",
+        "ICE",
+        "enforcement"
+      ],
+      "conservative_headline": "Trump Secures Border With Historic $70 Billion Investment in Immigration Enforcement",
+      "liberal_headline": "Trump Signs $70B Deportation Machine to Tear Apart Immigrant Families",
+      "poll_question": "Should the government spend $70B on immigration enforcement?",
+      "poll_option1_label": "Secure the Border",
+      "poll_option1_desc": "Funding needed to deport illegal immigrants and protect American sovereignty",
+      "poll_option2_label": "Wrong Priorities",
+      "poll_option2_desc": "Money should go to pathways to citizenship and humanitarian assistance",
+      "pexels_search_terms": "border patrol immigration fence"
+    },
+    {
+      "title": "Political Retribution or Accountability? Four Republicans Who Released Epstein Files Lose Jobs",
+      "slug": "epstein-files-republicans-bravehearts-primary-losses",
+      "topic_keywords": [
+        "Epstein files",
+        "primaries",
+        "Trump",
+        "retaliation",
+        "Republicans"
+      ],
+      "conservative_headline": "Voters Replace Disloyal Republicans Who Defied Trump on Sensitive Files",
+      "liberal_headline": "Trump Destroys GOP Careers of Four Republicans Who Exposed Epstein Truth",
+      "poll_question": "Were the Republicans right to release the Epstein files?",
+      "poll_option1_label": "Reckless Defiance",
+      "poll_option1_desc": "They ignored security concerns and attacked the president",
+      "poll_option2_label": "Brave Whistleblowers",
+      "poll_option2_desc": "They prioritized transparency and accountability over political loyalty",
+      "pexels_search_terms": "congress primary election voting"
+    },
+    {
+      "title": "Hate Group Watchdog or Political Weaponization? Southern Poverty Law Center Grilled by GOP",
+      "slug": "southern-poverty-law-center-congressional-hearing-hate-groups",
+      "topic_keywords": [
+        "SPLC",
+        "hate groups",
+        "Congress",
+        "civil rights",
+        "extremism"
+      ],
+      "conservative_headline": "GOP Exposes Southern Poverty Law Center's Smear Campaigns Against Conservative Groups",
+      "liberal_headline": "Republicans Attack Civil Rights Organization That Tracks Right-Wing Extremism",
+      "poll_question": "Is the Southern Poverty Law Center a credible watchdog?",
+      "poll_option1_label": "Partisan Smear Machine",
+      "poll_option1_desc": "SPLC labels mainstream conservative groups as extremists for political reasons",
+      "poll_option2_label": "Essential Watchdog",
+      "poll_option2_desc": "SPLC does critical work tracking hate groups and extremism",
+      "pexels_search_terms": "congressional testimony hearing witness"
+    },
+    {
+      "title": "Civics Education or Propaganda Campaign? Teens Compete in Trump's Patriotism Contest",
+      "slug": "trump-civics-contest-patriotism-students-education",
+      "topic_keywords": [
+        "civics education",
+        "patriotism",
+        "Trump",
+        "students",
+        "schools"
+      ],
+      "conservative_headline": "Students Embrace American Pride in Trump's Historic Civics Competition",
+      "liberal_headline": "Trump Pushes Nationalist Propaganda on Students in Government-Sponsored Contest",
+      "poll_question": "Should the government sponsor civics competitions for students?",
+      "poll_option1_label": "Teach Patriotism",
+      "poll_option1_desc": "Students need to learn American values and love of country",
+      "poll_option2_label": "Government Propaganda",
+      "poll_option2_desc": "Civics should teach critical thinking, not blind nationalism",
+      "pexels_search_terms": "students classroom american flag education"
+    }
+  ]
+}
