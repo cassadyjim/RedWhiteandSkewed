@@ -2,16 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-05-27",
-      "slug": "supreme-court-voting-rights-act-black-representation",
-      "topic": "voting rights redistricting Supreme Court Congressional Black Caucus gerrymandering"
-    },
-    {
-      "date": "2026-05-28",
-      "slug": "white-house-ballroom-secret-service-funding",
-      "topic": "White House ballroom Secret Service Trump Senate funding security"
-    },
-    {
       "date": "2026-06-01",
       "slug": "louisiana-congressional-map-redistricting-voting-rights",
       "topic": "Louisiana redistricting voting rights gerrymandering Supreme Court"
@@ -50,6 +40,11 @@
       "date": "2026-06-10",
       "slug": "congress-fewest-bills-50-years",
       "topic": "Congress legislation Trump executive orders productivity"
+    },
+    {
+      "date": "2026-06-13",
+      "slug": "kennedy-center-trump-name-removal-court-battle",
+      "topic": "Kennedy Center Trump courts presidential legacy arts"
     }
   ]
 }
