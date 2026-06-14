@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-14",
+  "email_sent_at": "2026-06-14T06:47:42.952511",
+  "stories": [
+    {
+      "title": "Peace Deal or Propaganda? Trump Claims Iran War 'Ended' as Negotiations Drag On",
+      "slug": "trump-iran-war-peace-deal-negotiations",
+      "topic_keywords": [
+        "Iran",
+        "war",
+        "Trump",
+        "military",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump Ends Iran War, Secures Major Victory for American Security",
+      "liberal_headline": "Trump Falsely Claims Victory in Iran as War Drags On, Threatens More Strikes",
+      "poll_question": "Has Trump successfully ended the Iran conflict?",
+      "poll_option1_label": "Mission Accomplished",
+      "poll_option1_desc": "Trump's strong leadership brought Iran to the negotiating table and ended hostilities",
+      "poll_option2_label": "Premature Victory Lap",
+      "poll_option2_desc": "No final deal exists; Trump is misleading Americans about an ongoing war",
+      "pexels_search_terms": "military aircraft missiles middle east"
+    },
+    {
+      "title": "War Crime or Strategic Strike? US Faces Backlash Over Iran Water Facility Hit",
+      "slug": "iran-water-facility-strike-geneva-convention",
+      "topic_keywords": [
+        "Iran war",
+        "water infrastructure",
+        "Geneva Convention",
+        "civilian casualties",
+        "international law"
+      ],
+      "conservative_headline": "US Military Denies Targeting Civilian Water Supply in Precision Iran Strikes",
+      "liberal_headline": "Trump Administration May Have Committed War Crime by Striking Iranian Water Plant",
+      "poll_question": "Should the US face accountability for the water facility strike?",
+      "poll_option1_label": "Collateral Damage",
+      "poll_option1_desc": "War involves difficult choices; Iran shares blame for using civilian areas",
+      "poll_option2_label": "War Crime",
+      "poll_option2_desc": "Attacking water infrastructure violates Geneva Convention and must be investigated",
+      "pexels_search_terms": "water reservoir infrastructure damage war"
+    },
+    {
+      "title": "Billionaire Under Oath: Bill Gates Grilled on Epstein Ties - Justice or Witch Hunt?",
+      "slug": "bill-gates-epstein-testimony-house-oversight",
+      "topic_keywords": [
+        "Bill Gates",
+        "Jeffrey Epstein",
+        "House Oversight",
+        "testimony",
+        "scandal"
+      ],
+      "conservative_headline": "Gates Admits 'Grave Error' Meeting Epstein; Republicans Demand Full Accountability",
+      "liberal_headline": "GOP Uses Epstein Probe to Target Political Enemies While Ignoring Trump Connections",
+      "poll_question": "Is the Epstein investigation focused on the right people?",
+      "poll_option1_label": "Follow the Evidence",
+      "poll_option1_desc": "All Epstein associates should testify; Gates' connections warrant full investigation",
+      "poll_option2_label": "Selective Targeting",
+      "poll_option2_desc": "Republicans ignore Trump's Epstein ties while weaponizing probe against others",
+      "pexels_search_terms": "congressional hearing testimony capitol building"
+    },
+    {
+      "title": "Voting Rights Gutted or States' Rights Restored? Supreme Court Reverses Alabama Map Order",
+      "slug": "supreme-court-alabama-redistricting-voting-rights",
+      "topic_keywords": [
+        "Supreme Court",
+        "redistricting",
+        "voting rights",
+        "Alabama",
+        "gerrymandering"
+      ],
+      "conservative_headline": "Supreme Court Restores Alabama's Authority Over Its Own Electoral Maps",
+      "liberal_headline": "Supreme Court Enables Racial Gerrymandering, Strips Black Voters of Representation",
+      "poll_question": "Did the Supreme Court make the right decision on Alabama's map?",
+      "poll_option1_label": "State Sovereignty",
+      "poll_option1_desc": "States should control their own redistricting without federal court interference",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "Court rewarded Alabama's defiance and enabled discrimination against Black voters",
+      "pexels_search_terms": "voting ballot democracy election maps"
+    },
+    {
+      "title": "Congressional Authorization or Executive Power? Trump's Iran War Ignites Constitutional Debate",
+      "slug": "iran-war-congressional-authorization-constitution",
+      "topic_keywords": [
+        "war powers",
+        "Constitution",
+        "Congress",
+        "presidential authority",
+        "Iran"
+      ],
+      "conservative_headline": "Trump Acts Decisively to Protect America While Democrats Quibble Over Procedure",
+      "liberal_headline": "Trump Bypasses Congress, Launches Unconstitutional War Without Authorization",
+      "poll_question": "Should Trump have gotten congressional approval before striking Iran?",
+      "poll_option1_label": "Commander Authority",
+      "poll_option1_desc": "President has authority to act quickly to defend national security",
+      "poll_option2_label": "Constitutional Requirement",
+      "poll_option2_desc": "Only Congress can declare war; Trump violated the Constitution",
+      "pexels_search_terms": "constitution congress white house capitol"
+    },
+    {
+      "title": "Economic Disaster or Iran's Fault? Oil Prices Spike as Strait of Hormuz Remains Blocked",
+      "slug": "oil-prices-inflation-iran-strait-hormuz",
+      "topic_keywords": [
+        "oil prices",
+        "inflation",
+        "economy",
+        "Iran",
+        "Strait of Hormuz"
+      ],
+      "conservative_headline": "Iran's Aggression Threatens Global Economy as Oil Hits $91 Per Barrel",
+      "liberal_headline": "Trump's Reckless Iran War Drives Gas Prices Up, Markets Down",
+      "poll_question": "Who is responsible for rising oil prices?",
+      "poll_option1_label": "Iran's Aggression",
+      "poll_option1_desc": "Iran blocked the strait and must be held accountable",
+      "poll_option2_label": "Trump's War",
+      "poll_option2_desc": "Trump's unnecessary war caused the crisis and economic damage",
+      "pexels_search_terms": "oil tanker prices gas station"
+    },
+    {
+      "title": "Midterm Momentum or Gerrymandering Scheme? GOP Maps Could Flip 10 House Seats",
+      "slug": "redistricting-gop-house-seats-midterms",
+      "topic_keywords": [
+        "redistricting",
+        "midterms",
+        "gerrymandering",
+        "House",
+        "elections"
+      ],
+      "conservative_headline": "Republican-Drawn Maps Reflect Voter Preferences, Set Stage for GOP Gains",
+      "liberal_headline": "Republicans Rig Maps to Steal 10 House Seats Before Voters Even Cast Ballots",
+      "poll_question": "Are the new congressional maps fair?",
+      "poll_option1_label": "Fair Representation",
+      "poll_option1_desc": "Maps reflect legitimate population changes and voter preferences",
+      "poll_option2_label": "Gerrymandered Theft",
+      "poll_option2_desc": "GOP manipulated maps to gain seats they couldn't win fairly",
+      "pexels_search_terms": "electoral map districts congress voting"
+    },
+    {
+      "title": "National Security Risk or Partisan Vendetta? Democrats Block Bill Pulte Intel Appointment",
+      "slug": "bill-pulte-acting-intelligence-director-controversy",
+      "topic_keywords": [
+        "intelligence",
+        "national security",
+        "Bill Pulte",
+        "Trump appointments",
+        "Senate"
+      ],
+      "conservative_headline": "Democrats Put Politics Over Security, Obstruct Trump's Intelligence Pick",
+      "liberal_headline": "Trump Appoints Unqualified Loyalist with No Security Experience to Lead Intelligence",
+      "poll_question": "Should Bill Pulte serve as acting intelligence director?",
+      "poll_option1_label": "Trust Trump",
+      "poll_option1_desc": "President has right to choose his team; Democrats are obstructing",
+      "poll_option2_label": "Dangerous Unqualified",
+      "poll_option2_desc": "Pulte has zero national security experience and poses a risk",
+      "pexels_search_terms": "intelligence agency classified national security"
+    },
+    {
+      "title": "Biden Scandals Exposed or Republican Distraction? New Oversight Probes Target Former VP",
+      "slug": "house-oversight-biden-investigations-trump-deals",
+      "topic_keywords": [
+        "Biden",
+        "oversight",
+        "investigations",
+        "Trump conflicts",
+        "Congress"
+      ],
+      "conservative_headline": "Baldwin and Khanna Demand Investigation Into Trump's Foreign Business Dealings",
+      "liberal_headline": "While Trump Profits from Office, Republicans Investigate Biden on Debunked Claims",
+      "poll_question": "Should Congress investigate Trump's foreign business dealings?",
+      "poll_option1_label": "No Conflict",
+      "poll_option1_desc": "Trump disclosed his businesses; Democrats are manufacturing scandals",
+      "poll_option2_label": "Corruption Probe Needed",
+      "poll_option2_desc": "Trump is mixing private wealth with presidential power and must be investigated",
+      "pexels_search_terms": "business money corruption investigation documents"
+    },
+    {
+      "title": "Immigration Surge or ICE Overreach? Border Czar Homan Announces NY Enforcement Sweep",
+      "slug": "ice-enforcement-new-york-border-czar-homan",
+      "topic_keywords": [
+        "immigration",
+        "ICE",
+        "border",
+        "New York",
+        "enforcement"
+      ],
+      "conservative_headline": "Border Czar Homan Cracks Down on Sanctuary Cities Harboring Illegal Immigrants",
+      "liberal_headline": "Trump's ICE Raids Target Immigrant Communities in Blue States",
+      "poll_question": "Should ICE conduct large-scale enforcement operations in sanctuary cities?",
+      "poll_option1_label": "Enforce the Law",
+      "poll_option1_desc": "Federal immigration law applies everywhere; sanctuary cities must comply",
+      "poll_option2_label": "Targeting Communities",
+      "poll_option2_desc": "ICE raids terrorize immigrant families and violate local sovereignty",
+      "pexels_search_terms": "border patrol immigration enforcement officers"
+    }
+  ]
+}
