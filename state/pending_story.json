@@ -1,196 +1,196 @@
 {
-  "date": "2026-06-15",
-  "email_sent_at": "2026-06-15T07:27:38.516518",
+  "date": "2026-06-16",
+  "email_sent_at": "2026-06-16T07:33:39.825372",
   "stories": [
     {
-      "title": "Peace Victory or Dangerous Surrender? Trump's Iran Nuclear Deal",
-      "slug": "trump-iran-peace-deal-controversy",
+      "title": "Peace or Surrender? US-Iran War Deal Divides America",
+      "slug": "us-iran-peace-deal-hormuz-partisan-divide",
       "topic_keywords": [
         "Iran",
-        "nuclear deal",
+        "peace deal",
         "Trump",
         "Middle East",
-        "peace"
+        "foreign policy"
       ],
-      "conservative_headline": "Trump Secures Historic Peace Deal with Iran, Ends War and Reopens Hormuz Strait",
-      "liberal_headline": "Trump's Rushed Iran Deal Raises Fears of Appeasing Nuclear Threats Without Guarantees",
-      "poll_question": "Should the U.S. sign Trump's Iran peace deal?",
-      "poll_option1_label": "Sign It",
-      "poll_option1_desc": "Historic peace ending war and reopening vital shipping routes",
-      "poll_option2_label": "Reject It",
-      "poll_option2_desc": "Dangerous concessions without verified dismantling of nuclear program",
-      "pexels_search_terms": "Iran nuclear deal diplomacy"
+      "conservative_headline": "Trump Secures Historic Peace Deal with Iran, Reopens Strait of Hormuz",
+      "liberal_headline": "Critics Question Unclear Iran Deal as Trump Claims Victory Without Details",
+      "poll_question": "Do you support the US-Iran peace agreement?",
+      "poll_option1_label": "Support Deal",
+      "poll_option1_desc": "Trump delivered peace and reopened critical shipping lane",
+      "poll_option2_label": "Oppose Deal",
+      "poll_option2_desc": "Deal lacks transparency and details, rewards Iranian aggression",
+      "pexels_search_terms": "Iran flag diplomacy peace"
     },
     {
-      "title": "Voting Rights Victory or Racial Gerrymandering? Alabama's New Map",
-      "slug": "alabama-redistricting-supreme-court-racial",
+      "title": "Voter Rights or Politics? Supreme Court Alabama Map Ruling Sparks Fury",
+      "slug": "supreme-court-alabama-redistricting-voting-rights",
       "topic_keywords": [
-        "Alabama",
-        "redistricting",
         "Supreme Court",
+        "redistricting",
         "voting rights",
+        "Alabama",
         "gerrymandering"
       ],
-      "conservative_headline": "Supreme Court Restores Alabama's Sovereignty, Ends Judicial Overreach on Redistricting",
-      "liberal_headline": "Supreme Court Allows Alabama to Use Map Found to Intentionally Discriminate Against Black Voters",
-      "poll_question": "Should Alabama use the GOP-drawn congressional map?",
-      "poll_option1_label": "State's Rights",
-      "poll_option1_desc": "Alabama should draw its own maps without federal interference",
-      "poll_option2_label": "Protect Voters",
-      "poll_option2_desc": "Courts found intentional racial discrimination against Black voters",
-      "pexels_search_terms": "voting booth democracy redistricting"
+      "conservative_headline": "Supreme Court Upholds Alabama Map, Rejects Liberal Gerrymandering Claims",
+      "liberal_headline": "Supreme Court Allows Alabama to Use Racially Discriminatory Congressional Map",
+      "poll_question": "Should the Alabama congressional map be used for 2026?",
+      "poll_option1_label": "Allow Map",
+      "poll_option1_desc": "State legislature has authority to draw districts",
+      "poll_option2_label": "Block Map",
+      "poll_option2_desc": "Map intentionally discriminates against Black voters",
+      "pexels_search_terms": "voting booth Alabama district"
     },
     {
-      "title": "Health Crisis or Private Matter? McConnell Hospitalized Again",
-      "slug": "mitch-mcconnell-hospitalized-health-concerns",
+      "title": "Trade War or Leverage? Trump's French Wine Tariff Threat Erupts",
+      "slug": "trump-france-wine-tariff-tech-tax",
       "topic_keywords": [
-        "Mitch McConnell",
-        "health",
-        "Senate",
-        "Republican",
-        "leadership"
-      ],
-      "conservative_headline": "McConnell Receiving Excellent Care, Privacy Respected During Hospital Stay",
-      "liberal_headline": "84-Year-Old McConnell's Second Hospitalization This Year Raises Questions About Fitness",
-      "poll_question": "Should aging senators disclose detailed health information?",
-      "poll_option1_label": "Privacy Matters",
-      "poll_option1_desc": "Medical privacy should be respected for all lawmakers",
-      "poll_option2_label": "Public's Right",
-      "poll_option2_desc": "Voters deserve full transparency about their representatives' health",
-      "pexels_search_terms": "hospital elderly health care"
-    },
-    {
-      "title": "Diplomatic Triumph or Reckless Timing? Trump in France During Iran Crisis",
-      "slug": "trump-france-visit-iran-deal-timing",
-      "topic_keywords": [
-        "Trump",
+        "tariffs",
         "France",
-        "diplomacy",
-        "foreign travel",
-        "Iran"
+        "wine",
+        "tech tax",
+        "trade"
       ],
-      "conservative_headline": "Trump Shows Presidential Leadership, Travels to France as Iran Deal Finalized",
-      "liberal_headline": "Trump Leaves Country for France Trip as Iranian Deal Details Remain Murky",
-      "poll_question": "Was Trump's France trip appropriately timed?",
-      "poll_option1_label": "Good Timing",
-      "poll_option1_desc": "Shows confidence in deal and strengthens European alliances",
-      "poll_option2_label": "Poor Judgment",
-      "poll_option2_desc": "Should stay in U.S. until deal is formally signed",
-      "pexels_search_terms": "president foreign travel diplomatic"
+      "conservative_headline": "Trump Defends American Tech Companies Against French Tax with Tariff Warning",
+      "liberal_headline": "Trump Threatens Capricious Wine Tariffs at G7, Undermining Allies",
+      "poll_question": "Should Trump threaten tariffs on French wine?",
+      "poll_option1_label": "Support Tariffs",
+      "poll_option1_desc": "Protects American tech companies from unfair foreign taxes",
+      "poll_option2_label": "Oppose Tariffs",
+      "poll_option2_desc": "Alienates allies and harms consumers with higher prices",
+      "pexels_search_terms": "French wine bottles tariff"
     },
     {
-      "title": "Breaking the Cycle or Enabling Conflict? Israel Strikes Threaten Iran Peace",
-      "slug": "israel-beirut-strikes-iran-deal-jeopardy",
+      "title": "Leadership or Inexperience? Bill Pulte Intelligence Chief Appointment Divides Senate",
+      "slug": "bill-pulte-intelligence-chief-controversy",
       "topic_keywords": [
-        "Israel",
-        "Hezbollah",
-        "Beirut",
-        "Iran deal",
-        "Middle East"
-      ],
-      "conservative_headline": "Israel Defends Itself Against Hezbollah Threats Despite U.S. Pressure for Restraint",
-      "liberal_headline": "Netanyahu's Beirut Strikes Risk Derailing Historic U.S.-Iran Peace Agreement",
-      "poll_question": "Should Israel have delayed strikes during U.S.-Iran negotiations?",
-      "poll_option1_label": "Self-Defense First",
-      "poll_option1_desc": "Israel must respond to threats regardless of negotiations",
-      "poll_option2_label": "Diplomatic Priority",
-      "poll_option2_desc": "Strikes jeopardize rare opportunity for regional peace",
-      "pexels_search_terms": "Middle East conflict bombing"
-    },
-    {
-      "title": "Protecting Democracy or Suppressing Turnout? ICE at Polling Places Debate",
-      "slug": "ice-agents-midterm-polling-locations",
-      "topic_keywords": [
-        "ICE",
-        "immigration",
-        "voting",
-        "midterms",
-        "elections"
-      ],
-      "conservative_headline": "Senator Questions Whether ICE Will Ensure Only Citizens Vote in Midterm Elections",
-      "liberal_headline": "Democrats Raise Alarm Over Potential ICE Presence at Polls to Intimidate Voters",
-      "poll_question": "Should ICE agents be allowed near polling places?",
-      "poll_option1_label": "Prevent Fraud",
-      "poll_option1_desc": "Ensures election integrity and legal voting",
-      "poll_option2_label": "Voter Intimidation",
-      "poll_option2_desc": "Chills turnout and suppresses immigrant community participation",
-      "pexels_search_terms": "voting booth election polling"
-    },
-    {
-      "title": "National Security Expert or Unqualified Crony? Bill Pulte as Acting Intel Chief",
-      "slug": "bill-pulte-intelligence-director-controversy",
-      "topic_keywords": [
-        "Bill Pulte",
         "intelligence",
         "national security",
-        "Trump",
-        "appointment"
+        "Trump appointments",
+        "Senate",
+        "Jay Clayton"
       ],
-      "conservative_headline": "Trump Picks Loyal Outsider Pulte to Shake Up Politicized Intelligence Community",
-      "liberal_headline": "Democrats Blast Trump's Appointment of Intelligence Director With No Security Experience",
+      "conservative_headline": "Trump Taps Trusted Ally Pulte as Acting Intelligence Chief During Transition",
+      "liberal_headline": "Democrats Blast Trump's Appointment of Unqualified Pulte to Intelligence Post",
       "poll_question": "Should Bill Pulte serve as acting intelligence director?",
-      "poll_option1_label": "Fresh Perspective",
-      "poll_option1_desc": "Outsider needed to reform corrupt intelligence agencies",
-      "poll_option2_label": "Dangerous Pick",
-      "poll_option2_desc": "No national security experience for most critical job",
-      "pexels_search_terms": "intelligence agency security briefing"
+      "poll_option1_label": "Support Pulte",
+      "poll_option1_desc": "President has right to choose trusted advisors",
+      "poll_option2_label": "Oppose Pulte",
+      "poll_option2_desc": "Pulte has no national security experience for role",
+      "pexels_search_terms": "intelligence agency director Washington"
     },
     {
-      "title": "GOP Wave or Democratic Resilience? New Poll Shows 5-Point Dem Edge",
-      "slug": "midterm-poll-democrats-lead-congress",
+      "title": "Patriotism or Polarization? New NBC Poll Shows Pride at All-Time Low",
+      "slug": "american-pride-poll-partisan-divide",
       "topic_keywords": [
-        "midterms",
-        "poll",
-        "Democrats",
-        "Republicans",
-        "Congress"
+        "national pride",
+        "polling",
+        "partisan divide",
+        "American identity",
+        "NBC poll"
       ],
-      "conservative_headline": "Despite Liberal Media Polls, GOP Remains Confident Ahead of November Midterms",
-      "liberal_headline": "Democrats Maintain 5-Point Edge for Congress as Trump Approval Hits Second-Term Low",
-      "poll_question": "Who will control Congress after November 2026?",
-      "poll_option1_label": "GOP Majority",
-      "poll_option1_desc": "Voters will reject Biden-era policies and support Trump",
-      "poll_option2_label": "Dem Majority",
-      "poll_option2_desc": "Trump's low approval will drive Democratic turnout",
-      "pexels_search_terms": "Congress Capitol election campaign"
+      "conservative_headline": "Liberal Policies Erode American Pride to Historic Lows, Poll Shows",
+      "liberal_headline": "Trump's Divisiveness Drives American Pride to All-Time Low, Data Reveals",
+      "poll_question": "What is causing declining American pride?",
+      "poll_option1_label": "Liberal Policies",
+      "poll_option1_desc": "Progressive agenda undermines traditional American values and unity",
+      "poll_option2_label": "Trump Era",
+      "poll_option2_desc": "Divisive leadership and partisan conflict destroy national spirit",
+      "pexels_search_terms": "American flag pride unity"
     },
     {
-      "title": "Historic Retirements or Rats Fleeing? Record House Members Leaving Congress",
-      "slug": "house-retirements-record-numbers-2026",
+      "title": "Election Integrity or Voter Suppression? 30 States Refuse DOJ Voter Data Request",
+      "slug": "doj-voter-data-states-refuse",
       "topic_keywords": [
-        "retirements",
+        "voter data",
+        "DOJ",
+        "election integrity",
+        "states rights",
+        "privacy"
+      ],
+      "conservative_headline": "30 States Defy Federal Overreach, Protect Voter Data from DOJ",
+      "liberal_headline": "States Resist Trump Administration's Nationwide Voter Data Grab",
+      "poll_question": "Should states share voter data with DOJ?",
+      "poll_option1_label": "Share Data",
+      "poll_option1_desc": "Federal government needs data to ensure election integrity",
+      "poll_option2_label": "Refuse Request",
+      "poll_option2_desc": "Protects voter privacy and prevents federal intimidation tactics",
+      "pexels_search_terms": "voter registration database privacy"
+    },
+    {
+      "title": "Border Security or Political Theater? Homan Blames NY Governor for ICE Surge",
+      "slug": "ice-homan-hochul-border-enforcement",
+      "topic_keywords": [
+        "immigration",
+        "ICE",
+        "border czar",
+        "New York",
+        "enforcement"
+      ],
+      "conservative_headline": "Border Czar Homan Blasts Hochul for Obstructing ICE Immigration Enforcement",
+      "liberal_headline": "Trump's Border Czar Threatens Immigrant Communities in Political Attack",
+      "poll_question": "Who is responsible for immigration enforcement issues?",
+      "poll_option1_label": "Hochul",
+      "poll_option1_desc": "Democratic governor obstructs federal law enforcement in sanctuary state",
+      "poll_option2_label": "Trump Admin",
+      "poll_option2_desc": "Federal overreach targets immigrants in cruel political stunt",
+      "pexels_search_terms": "ICE immigration enforcement border"
+    },
+    {
+      "title": "Historic Retirements or Mass Exodus? Record House Members Leaving Congress",
+      "slug": "house-retirements-2026-record-exodus",
+      "topic_keywords": [
         "Congress",
-        "House",
-        "midterms",
-        "2026"
+        "retirements",
+        "House Representatives",
+        "2026 midterms",
+        "turnover"
       ],
-      "conservative_headline": "House Republicans Seek Higher Office as GOP Expands Opportunities Across States",
-      "liberal_headline": "Mass Congressional Exodus Signals Dysfunction as 58 Members Abandon Posts",
-      "poll_question": "Why are so many House members retiring?",
-      "poll_option1_label": "Career Growth",
-      "poll_option1_desc": "Natural progression to governor and Senate races",
-      "poll_option2_label": "Broken Institution",
-      "poll_option2_desc": "Dysfunction and extremism make Congress unworkable",
-      "pexels_search_terms": "Congress resignation politician leaving"
+      "conservative_headline": "GOP Members Leave Congress for Higher Office in Wave of Opportunity",
+      "liberal_headline": "Second-Highest Exodus in History as Members Flee Trump-Era Dysfunction",
+      "poll_question": "What's driving record Congressional retirements?",
+      "poll_option1_label": "New Opportunities",
+      "poll_option1_desc": "Members pursuing governor and Senate races across country",
+      "poll_option2_label": "Toxic Climate",
+      "poll_option2_desc": "Trump-era chaos makes Congress unbearable for functioning members",
+      "pexels_search_terms": "Congress Capitol building empty"
     },
     {
-      "title": "Restoring Fairness or GOP Power Grab? Louisiana's New Congressional Map",
-      "slug": "louisiana-redistricting-gop-seat-gain",
+      "title": "Gavin Newsom Under Investigation or Political Persecution?",
+      "slug": "newsom-trump-administration-investigation",
       "topic_keywords": [
-        "Louisiana",
-        "redistricting",
-        "gerrymandering",
-        "House",
-        "Republicans"
+        "Gavin Newsom",
+        "investigation",
+        "California",
+        "Trump DOJ",
+        "persecution"
       ],
-      "conservative_headline": "Louisiana Lawmakers Pass New Map Reflecting State's Conservative Majority",
-      "liberal_headline": "Louisiana GOP Gerrymanders Additional House Seat in Redistricting Power Play",
-      "poll_question": "Should Louisiana's new congressional map be approved?",
-      "poll_option1_label": "Fair Representation",
-      "poll_option1_desc": "Map accurately reflects state's political preferences",
-      "poll_option2_label": "Partisan Gerrymander",
-      "poll_option2_desc": "Designed solely to give Republicans unfair advantage",
-      "pexels_search_terms": "Louisiana state capitol map"
+      "conservative_headline": "Trump Administration Investigates Newsom for Potential Federal Violations",
+      "liberal_headline": "Trump Weaponizes DOJ Against Political Rival Governor Newsom",
+      "poll_question": "Is the Newsom investigation legitimate?",
+      "poll_option1_label": "Legitimate Probe",
+      "poll_option1_desc": "Governor may have violated federal laws requiring investigation",
+      "poll_option2_label": "Political Weapon",
+      "poll_option2_desc": "Trump abuses power to target potential 2028 opponent",
+      "pexels_search_terms": "Gavin Newsom California governor"
+    },
+    {
+      "title": "National Parks Restoration or Climate Censorship? Court Orders Reversal",
+      "slug": "national-parks-climate-civil-rights-restoration",
+      "topic_keywords": [
+        "national parks",
+        "climate change",
+        "civil rights",
+        "censorship",
+        "courts"
+      ],
+      "conservative_headline": "Federal Court Overreaches, Forces Activist Content Back Into National Parks",
+      "liberal_headline": "Court Blocks Trump's Censorship of Climate and Civil Rights Information",
+      "poll_question": "Should climate info be restored to national parks?",
+      "poll_option1_label": "Leave Removed",
+      "poll_option1_desc": "Parks should focus on nature, not political activism",
+      "poll_option2_label": "Restore Content",
+      "poll_option2_desc": "Scientific facts and history belong in educational materials",
+      "pexels_search_terms": "national parks sign information"
     }
   ]
 }
