@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-18",
+  "email_sent_at": "2026-06-18T06:58:53.142053",
+  "stories": [
+    {
+      "title": "Dealmaking or Disaster? Trump's $300 Billion Iran Agreement Divides America",
+      "slug": "trump-iran-deal-300-billion-controversy",
+      "topic_keywords": [
+        "Iran deal",
+        "Trump foreign policy",
+        "nuclear negotiations",
+        "reconstruction funds",
+        "Middle East peace"
+      ],
+      "conservative_headline": "Trump Brokers Historic Iran Peace Deal, Ends Costly War Without Taxpayer Money",
+      "liberal_headline": "Trump's Iran Deal Gives $300 Billion to Terrorists After Starting Disastrous War",
+      "poll_question": "Should the U.S. sign Trump's Iran peace agreement?",
+      "poll_option1_label": "Peace First",
+      "poll_option1_desc": "Deal ends war, reopens oil flow, and prevents Iranian nuclear weapons",
+      "poll_option2_label": "Reckless Appeasement",
+      "poll_option2_desc": "Trump started unnecessary war then rewarded Iran with massive reconstruction funds",
+      "pexels_search_terms": "Iran flag diplomacy handshake"
+    },
+    {
+      "title": "Inflation Fighter or Trump Puppet? New Fed Chair Warsh Signals Rate Hikes",
+      "slug": "kevin-warsh-federal-reserve-inflation-rates",
+      "topic_keywords": [
+        "Federal Reserve",
+        "Kevin Warsh",
+        "inflation",
+        "interest rates",
+        "economic policy"
+      ],
+      "conservative_headline": "Fed's Warsh Takes Tough Stand on Inflation, Puts America's Economic Health First",
+      "liberal_headline": "Trump's Fed Pick Warsh Threatens Rate Hikes That Could Tank Economy",
+      "poll_question": "Is Kevin Warsh the right person to lead the Federal Reserve?",
+      "poll_option1_label": "Strong Leadership",
+      "poll_option1_desc": "Warsh will fight inflation and restore Fed independence after years of failure",
+      "poll_option2_label": "Political Appointee",
+      "poll_option2_desc": "Trump installed loyalist who will hurt workers with higher rates and recession",
+      "pexels_search_terms": "federal reserve building Washington money"
+    },
+    {
+      "title": "Political Witch Hunt or Tax Fraud? DOJ Investigates Newsom's Wife",
+      "slug": "jennifer-siebel-newsom-doj-investigation",
+      "topic_keywords": [
+        "Gavin Newsom",
+        "DOJ investigation",
+        "Jennifer Siebel Newsom",
+        "political prosecution",
+        "tax fraud"
+      ],
+      "conservative_headline": "Newsom Family Under Federal Investigation for Tax Fraud and Nonprofit Abuse",
+      "liberal_headline": "Trump Weaponizes DOJ Against 2028 Rival, Targets Newsom's Wife in Political Hit Job",
+      "poll_question": "Is the DOJ investigation into Jennifer Siebel Newsom legitimate?",
+      "poll_option1_label": "Legitimate Probe",
+      "poll_option1_desc": "Whistleblower reports warrant investigation into nonprofit finances and tax issues",
+      "poll_option2_label": "Political Retaliation",
+      "poll_option2_desc": "Trump targeting political enemy Newsom through his wife before 2028 election",
+      "pexels_search_terms": "justice department investigation courthouse"
+    },
+    {
+      "title": "Supreme Redistricting Win or Voter Suppression? Alabama's GOP-Friendly Map Approved",
+      "slug": "alabama-congressional-map-supreme-court",
+      "topic_keywords": [
+        "redistricting",
+        "Alabama",
+        "Supreme Court",
+        "voting rights",
+        "gerrymandering"
+      ],
+      "conservative_headline": "Supreme Court Upholds Alabama Map, Rejects Liberal Gerrymandering Claims",
+      "liberal_headline": "Supreme Court Allows Alabama to Eliminate Black Democrat's Seat Through Gerrymandering",
+      "poll_question": "Should Alabama be allowed to use its new congressional map?",
+      "poll_option1_label": "Legal Map",
+      "poll_option1_desc": "Map follows legal standards and Supreme Court correctly upheld state's authority",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "Discriminatory map eliminates Black representation and violates voting rights protections",
+      "pexels_search_terms": "voting ballot democracy congress"
+    },
+    {
+      "title": "MAGA Victory or Extremism Rising? Trump-Backed Collins Wins Georgia Senate Primary",
+      "slug": "mike-collins-georgia-senate-trump-endorsement",
+      "topic_keywords": [
+        "Georgia Senate",
+        "Mike Collins",
+        "Trump endorsement",
+        "2026 midterms",
+        "Jon Ossoff"
+      ],
+      "conservative_headline": "Trump Champion Mike Collins Crushes Runoff, Will Take Down Vulnerable Democrat Ossoff",
+      "liberal_headline": "Extremist Trump Loyalist Collins Wins Primary in Battle for Georgia's Democratic Soul",
+      "poll_question": "Who would you support in the Georgia Senate race?",
+      "poll_option1_label": "Mike Collins (R)",
+      "poll_option1_desc": "Trump-backed conservative who will fight liberal agenda in Washington",
+      "poll_option2_label": "Jon Ossoff (D)",
+      "poll_option2_desc": "Incumbent Democrat fighting for working families against MAGA extremism",
+      "pexels_search_terms": "Georgia capitol election campaign"
+    },
+    {
+      "title": "National Security or Executive Chaos? Trump Delays Intel Chief Nomination Over Voter ID Bill",
+      "slug": "jay-clayton-intelligence-director-delay-voter-id",
+      "topic_keywords": [
+        "Jay Clayton",
+        "intelligence director",
+        "voter ID",
+        "FISA",
+        "Trump nomination"
+      ],
+      "conservative_headline": "Trump Takes Stand on Election Integrity, Won't Confirm Intel Chief Until Voter ID Passes",
+      "liberal_headline": "Trump's Chaotic Tantrum Delays Intelligence Chief, Flummoxes GOP Over Voter Suppression Demand",
+      "poll_question": "Should Trump delay the intelligence director nomination over voter ID?",
+      "poll_option1_label": "Right Priority",
+      "poll_option1_desc": "Election security is critical and Trump right to demand voter ID legislation",
+      "poll_option2_label": "Dangerous Chaos",
+      "poll_option2_desc": "Trump creating security risks and chaos with erratic demands over voter suppression",
+      "pexels_search_terms": "intelligence agency director security"
+    },
+    {
+      "title": "NAFTA Threat or Negotiating Tactic? Trump Says He'd 'Rather Not Have' Trade Deal",
+      "slug": "trump-nafta-usmca-trade-deal-threat",
+      "topic_keywords": [
+        "NAFTA",
+        "USMCA",
+        "trade policy",
+        "Trump tariffs",
+        "North America"
+      ],
+      "conservative_headline": "Trump Puts America First, Demands Better Deal as NAFTA Review Approaches",
+      "liberal_headline": "Trump Threatens to Blow Up North American Trade, Risking Jobs and Economic Chaos",
+      "poll_question": "Should Trump withdraw from the North American trade agreement?",
+      "poll_option1_label": "Renegotiate",
+      "poll_option1_desc": "Trump right to demand better terms that protect American workers and manufacturing",
+      "poll_option2_label": "Keep Agreement",
+      "poll_option2_desc": "Destroying trade deal would devastate economy and hurt American businesses and jobs",
+      "pexels_search_terms": "trade shipping containers economy border"
+    },
+    {
+      "title": "Security Success or Government Overreach? FBI Disrupts Alleged White House UFC Drone Plot",
+      "slug": "fbi-white-house-ufc-drone-plot",
+      "topic_keywords": [
+        "FBI",
+        "terrorism",
+        "White House",
+        "UFC",
+        "drone attack"
+      ],
+      "conservative_headline": "FBI Stops Terrorist Drone Attack on White House UFC Event, Five Arrested",
+      "liberal_headline": "Questions Arise Over FBI's Alleged 'Drone Plot' as Critics See Overreach and Fear-Mongering",
+      "poll_question": "Do you trust the FBI's handling of the alleged drone plot?",
+      "poll_option1_label": "Security Success",
+      "poll_option1_desc": "FBI protected Americans from real terror threat at high-profile White House event",
+      "poll_option2_label": "Suspicious Timing",
+      "poll_option2_desc": "Convenient 'terror plot' raises questions about FBI motives and actual threat level",
+      "pexels_search_terms": "FBI investigation White House security"
+    },
+    {
+      "title": "Rising Independence or Political Dysfunction? Independents Hit Decade High in New Poll",
+      "slug": "political-independents-record-high-cnn-poll",
+      "topic_keywords": [
+        "independent voters",
+        "political parties",
+        "CNN poll",
+        "voter trends",
+        "political realignment"
+      ],
+      "conservative_headline": "Americans Reject Democrat Extremism as Independent Registration Surges to Record Levels",
+      "liberal_headline": "Voters Flee Trump's GOP in Droves as Independent Registration Hits Highest Level in Decade",
+      "poll_question": "Why are more Americans identifying as independents?",
+      "poll_option1_label": "Rejecting Democrats",
+      "poll_option1_desc": "Americans fleeing radical left policies and embracing traditional conservative values independently",
+      "poll_option2_label": "Rejecting Republicans",
+      "poll_option2_desc": "Voters abandoning Trump's extremist GOP but maintaining progressive policy preferences",
+      "pexels_search_terms": "voting independent ballot American flag"
+    },
+    {
+      "title": "Border Enforcement or Judicial Intimidation? Federal Judge Blasts ICE for 'Public Attack'",
+      "slug": "ice-judge-public-attack-immigration-enforcement",
+      "topic_keywords": [
+        "ICE",
+        "immigration",
+        "federal judge",
+        "border enforcement",
+        "judicial independence"
+      ],
+      "conservative_headline": "Activist Judge Complains After ICE Calls Out Dangerous Catch-and-Release Rulings",
+      "liberal_headline": "Federal Judge Says ICE 'Public Attack' Put Her in 'Personal Danger' Over Immigration Ruling",
+      "poll_question": "Is ICE right to publicly criticize judges' immigration rulings?",
+      "poll_option1_label": "Legitimate Criticism",
+      "poll_option1_desc": "ICE has duty to call out dangerous judicial activism endangering Americans",
+      "poll_option2_label": "Dangerous Intimidation",
+      "poll_option2_desc": "ICE threatening judicial independence and endangering judges with public attacks",
+      "pexels_search_terms": "immigration judge courthouse ICE enforcement"
+    }
+  ]
+}
