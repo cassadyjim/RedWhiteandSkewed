@@ -2,21 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-06-01",
-      "slug": "louisiana-congressional-map-redistricting-voting-rights",
-      "topic": "Louisiana redistricting voting rights gerrymandering Supreme Court"
-    },
-    {
-      "date": "2026-06-02",
-      "slug": "trump-iran-deal-negotiations-controversy",
-      "topic": "Iran Trump diplomacy national security negotiations"
-    },
-    {
-      "date": "2026-06-03",
-      "slug": "trump-doj-anti-weaponization-fund-dropped",
-      "topic": "DOJ fund lawfare Trump Republicans settlement"
-    },
-    {
       "date": "2026-06-05",
       "slug": "bill-pulte-intelligence-director-qualifications-controversy",
       "topic": "intelligence Bill Pulte national security Trump appointments political loyalty"
@@ -45,6 +30,11 @@
       "date": "2026-06-13",
       "slug": "kennedy-center-trump-name-removal-court-battle",
       "topic": "Kennedy Center Trump courts presidential legacy arts"
+    },
+    {
+      "date": "2026-06-19",
+      "slug": "trump-iran-deal-peace-or-surrender",
+      "topic": "Iran deal Trump foreign policy sanctions lifted uranium enrichment Middle East"
     }
   ]
 }
