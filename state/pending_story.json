@@ -1,196 +1,196 @@
 {
-  "date": "2026-06-18",
-  "email_sent_at": "2026-06-18T06:58:53.142053",
+  "date": "2026-06-19",
+  "email_sent_at": "2026-06-19T07:17:36.692348",
   "stories": [
     {
-      "title": "Dealmaking or Disaster? Trump's $300 Billion Iran Agreement Divides America",
-      "slug": "trump-iran-deal-300-billion-controversy",
+      "title": "Peace Deal or Surrender? Trump's Iran Agreement Splits America",
+      "slug": "trump-iran-deal-peace-or-surrender",
       "topic_keywords": [
         "Iran deal",
         "Trump foreign policy",
-        "nuclear negotiations",
-        "reconstruction funds",
-        "Middle East peace"
+        "sanctions lifted",
+        "uranium enrichment",
+        "Middle East"
       ],
-      "conservative_headline": "Trump Brokers Historic Iran Peace Deal, Ends Costly War Without Taxpayer Money",
-      "liberal_headline": "Trump's Iran Deal Gives $300 Billion to Terrorists After Starting Disastrous War",
-      "poll_question": "Should the U.S. sign Trump's Iran peace agreement?",
-      "poll_option1_label": "Peace First",
-      "poll_option1_desc": "Deal ends war, reopens oil flow, and prevents Iranian nuclear weapons",
-      "poll_option2_label": "Reckless Appeasement",
-      "poll_option2_desc": "Trump started unnecessary war then rewarded Iran with massive reconstruction funds",
-      "pexels_search_terms": "Iran flag diplomacy handshake"
+      "conservative_headline": "Trump Secures Historic Peace Deal with Iran, Ends Costly War",
+      "liberal_headline": "Trump Hands Iran Major Victory, Lifting Sanctions While Nuclear Threat Remains",
+      "poll_question": "Is Trump's Iran agreement a good deal for America?",
+      "poll_option1_label": "Smart Diplomacy",
+      "poll_option1_desc": "Trump ended war and brought peace without endless conflict",
+      "poll_option2_label": "Dangerous Concession",
+      "poll_option2_desc": "Iran gets billions and uranium enrichment without real accountability",
+      "pexels_search_terms": "Iran flag agreement handshake"
     },
     {
-      "title": "Inflation Fighter or Trump Puppet? New Fed Chair Warsh Signals Rate Hikes",
-      "slug": "kevin-warsh-federal-reserve-inflation-rates",
+      "title": "Trump Cancels Intelligence Hearing: Strategic Move or Chaos?",
+      "slug": "trump-cancels-clayton-dni-hearing",
       "topic_keywords": [
-        "Federal Reserve",
-        "Kevin Warsh",
-        "inflation",
-        "interest rates",
-        "economic policy"
-      ],
-      "conservative_headline": "Fed's Warsh Takes Tough Stand on Inflation, Puts America's Economic Health First",
-      "liberal_headline": "Trump's Fed Pick Warsh Threatens Rate Hikes That Could Tank Economy",
-      "poll_question": "Is Kevin Warsh the right person to lead the Federal Reserve?",
-      "poll_option1_label": "Strong Leadership",
-      "poll_option1_desc": "Warsh will fight inflation and restore Fed independence after years of failure",
-      "poll_option2_label": "Political Appointee",
-      "poll_option2_desc": "Trump installed loyalist who will hurt workers with higher rates and recession",
-      "pexels_search_terms": "federal reserve building Washington money"
-    },
-    {
-      "title": "Political Witch Hunt or Tax Fraud? DOJ Investigates Newsom's Wife",
-      "slug": "jennifer-siebel-newsom-doj-investigation",
-      "topic_keywords": [
-        "Gavin Newsom",
-        "DOJ investigation",
-        "Jennifer Siebel Newsom",
-        "political prosecution",
-        "tax fraud"
-      ],
-      "conservative_headline": "Newsom Family Under Federal Investigation for Tax Fraud and Nonprofit Abuse",
-      "liberal_headline": "Trump Weaponizes DOJ Against 2028 Rival, Targets Newsom's Wife in Political Hit Job",
-      "poll_question": "Is the DOJ investigation into Jennifer Siebel Newsom legitimate?",
-      "poll_option1_label": "Legitimate Probe",
-      "poll_option1_desc": "Whistleblower reports warrant investigation into nonprofit finances and tax issues",
-      "poll_option2_label": "Political Retaliation",
-      "poll_option2_desc": "Trump targeting political enemy Newsom through his wife before 2028 election",
-      "pexels_search_terms": "justice department investigation courthouse"
-    },
-    {
-      "title": "Supreme Redistricting Win or Voter Suppression? Alabama's GOP-Friendly Map Approved",
-      "slug": "alabama-congressional-map-supreme-court",
-      "topic_keywords": [
-        "redistricting",
-        "Alabama",
-        "Supreme Court",
-        "voting rights",
-        "gerrymandering"
-      ],
-      "conservative_headline": "Supreme Court Upholds Alabama Map, Rejects Liberal Gerrymandering Claims",
-      "liberal_headline": "Supreme Court Allows Alabama to Eliminate Black Democrat's Seat Through Gerrymandering",
-      "poll_question": "Should Alabama be allowed to use its new congressional map?",
-      "poll_option1_label": "Legal Map",
-      "poll_option1_desc": "Map follows legal standards and Supreme Court correctly upheld state's authority",
-      "poll_option2_label": "Voter Suppression",
-      "poll_option2_desc": "Discriminatory map eliminates Black representation and violates voting rights protections",
-      "pexels_search_terms": "voting ballot democracy congress"
-    },
-    {
-      "title": "MAGA Victory or Extremism Rising? Trump-Backed Collins Wins Georgia Senate Primary",
-      "slug": "mike-collins-georgia-senate-trump-endorsement",
-      "topic_keywords": [
-        "Georgia Senate",
-        "Mike Collins",
-        "Trump endorsement",
-        "2026 midterms",
-        "Jon Ossoff"
-      ],
-      "conservative_headline": "Trump Champion Mike Collins Crushes Runoff, Will Take Down Vulnerable Democrat Ossoff",
-      "liberal_headline": "Extremist Trump Loyalist Collins Wins Primary in Battle for Georgia's Democratic Soul",
-      "poll_question": "Who would you support in the Georgia Senate race?",
-      "poll_option1_label": "Mike Collins (R)",
-      "poll_option1_desc": "Trump-backed conservative who will fight liberal agenda in Washington",
-      "poll_option2_label": "Jon Ossoff (D)",
-      "poll_option2_desc": "Incumbent Democrat fighting for working families against MAGA extremism",
-      "pexels_search_terms": "Georgia capitol election campaign"
-    },
-    {
-      "title": "National Security or Executive Chaos? Trump Delays Intel Chief Nomination Over Voter ID Bill",
-      "slug": "jay-clayton-intelligence-director-delay-voter-id",
-      "topic_keywords": [
+        "DNI nomination",
         "Jay Clayton",
-        "intelligence director",
-        "voter ID",
+        "Senate hearing",
+        "Bill Pulte",
+        "FISA"
+      ],
+      "conservative_headline": "Trump Stands Firm, Refuses to Let Democrats Break FISA Deal",
+      "liberal_headline": "Trump Creates Chaos by Canceling Intelligence Chief Hearing Over Petty Disputes",
+      "poll_question": "Should Trump have canceled the DNI confirmation hearing?",
+      "poll_option1_label": "Right Decision",
+      "poll_option1_desc": "Trump protecting his nominee from Democrat games and broken deals",
+      "poll_option2_label": "Reckless Move",
+      "poll_option2_desc": "National security endangered by Trump's erratic interference with Congress",
+      "pexels_search_terms": "Senate hearing empty chamber"
+    },
+    {
+      "title": "Supreme Court Redistricting Ruling: Voting Rights Win or Power Grab?",
+      "slug": "alabama-redistricting-supreme-court-voting-rights",
+      "topic_keywords": [
+        "Supreme Court",
+        "Alabama redistricting",
+        "voting rights",
+        "gerrymandering",
+        "Black voters"
+      ],
+      "conservative_headline": "Supreme Court Allows Alabama GOP-Friendly Map Despite Previous Rulings",
+      "liberal_headline": "Supreme Court Guts Voting Rights by Reversing Alabama Redistricting Order",
+      "poll_question": "Should the Supreme Court have allowed Alabama's GOP redistricting plan?",
+      "poll_option1_label": "Fair Process",
+      "poll_option1_desc": "States have right to draw own maps for elections",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "Cuts representation for Black voters in discriminatory way",
+      "pexels_search_terms": "voting rights ballot box"
+    },
+    {
+      "title": "Iran Gets $300 Billion? White House Can't Get Story Straight",
+      "slug": "iran-reconstruction-funds-controversy",
+      "topic_keywords": [
+        "Iran reconstruction",
+        "sanctions relief",
+        "Vance contradicts Trump",
+        "foreign aid",
+        "$300 billion"
+      ],
+      "conservative_headline": "Media Spreads Fake News About Iran Funds, Trump Sets Record Straight",
+      "liberal_headline": "Trump and Vance Contradict Each Other on Massive Iran Payments",
+      "poll_question": "Should Iran receive reconstruction funds as part of the deal?",
+      "poll_option1_label": "Incentive for Peace",
+      "poll_option1_desc": "Funds conditional on Iran honoring commitments to stability",
+      "poll_option2_label": "Rewarding Terrorism",
+      "poll_option2_desc": "Billions to regime that threatens America and supports terror",
+      "pexels_search_terms": "money cash billions dollars"
+    },
+    {
+      "title": "Trump's Approval Hits New Low as Midterms Loom",
+      "slug": "trump-approval-rating-midterm-elections",
+      "topic_keywords": [
+        "Trump approval",
+        "2026 midterms",
+        "poll numbers",
+        "Republican Party",
+        "economic rating"
+      ],
+      "conservative_headline": "Biased Polls Target Trump as Democrats Fear Losing Midterms",
+      "liberal_headline": "Trump's Historic Unpopularity Threatens GOP Control of Congress",
+      "poll_question": "Do approval ratings accurately reflect Trump's job performance?",
+      "poll_option1_label": "Media Manipulation",
+      "poll_option1_desc": "Polls biased against Trump ignore his actual accomplishments",
+      "poll_option2_label": "Voters Speaking",
+      "poll_option2_desc": "Americans disapprove of Trump's chaotic second term leadership",
+      "pexels_search_terms": "poll survey voting numbers"
+    },
+    {
+      "title": "Tucker Carlson vs Trump: Conservative Civil War Intensifies",
+      "slug": "tucker-carlson-trump-feud-iran",
+      "topic_keywords": [
+        "Tucker Carlson",
+        "America First",
+        "conservative split",
+        "Trump feud",
+        "foreign policy"
+      ],
+      "conservative_headline": "Tucker Carlson Abandons America First, Attacks Trump's Peace Deal",
+      "liberal_headline": "Top Trump Ally Tucker Carlson Says He Misled Voters, Denounces President",
+      "poll_question": "Who's right about Trump's foreign policy direction?",
+      "poll_option1_label": "Trump's Strategy",
+      "poll_option1_desc": "Peace through strength, ending wars is America First",
+      "poll_option2_label": "Carlson's Critique",
+      "poll_option2_desc": "Trump betrayed campaign promises with dangerous interventions",
+      "pexels_search_terms": "conservative media split debate"
+    },
+    {
+      "title": "Bill Pulte Stays as Intelligence Chief: Qualified or Crony?",
+      "slug": "bill-pulte-acting-dni-controversy",
+      "topic_keywords": [
+        "Bill Pulte",
+        "acting DNI",
+        "intelligence experience",
+        "national security",
+        "political appointee"
+      ],
+      "conservative_headline": "Trump Keeps Trusted Patriot Pulte Leading Intelligence After Democrat Obstruction",
+      "liberal_headline": "Unqualified Housing Official Remains in Charge of National Intelligence",
+      "poll_question": "Is Bill Pulte qualified to serve as acting Director of National Intelligence?",
+      "poll_option1_label": "Trump's Choice",
+      "poll_option1_desc": "Loyal, competent leader despite Democrat smear campaign",
+      "poll_option2_label": "Dangerous Amateur",
+      "poll_option2_desc": "No intelligence experience endangers American security operations",
+      "pexels_search_terms": "intelligence agency security chief"
+    },
+    {
+      "title": "Congress FISA Fight: Security vs Liberty in the Balance",
+      "slug": "fisa-section-702-reauthorization-battle",
+      "topic_keywords": [
         "FISA",
-        "Trump nomination"
+        "Section 702",
+        "surveillance",
+        "civil liberties",
+        "spy powers"
       ],
-      "conservative_headline": "Trump Takes Stand on Election Integrity, Won't Confirm Intel Chief Until Voter ID Passes",
-      "liberal_headline": "Trump's Chaotic Tantrum Delays Intelligence Chief, Flummoxes GOP Over Voter Suppression Demand",
-      "poll_question": "Should Trump delay the intelligence director nomination over voter ID?",
-      "poll_option1_label": "Right Priority",
-      "poll_option1_desc": "Election security is critical and Trump right to demand voter ID legislation",
-      "poll_option2_label": "Dangerous Chaos",
-      "poll_option2_desc": "Trump creating security risks and chaos with erratic demands over voter suppression",
-      "pexels_search_terms": "intelligence agency director security"
+      "conservative_headline": "Democrats Block Critical Spy Tools Over Political Disputes",
+      "liberal_headline": "Trump Holds National Security Hostage to Demand Voting Law Changes",
+      "poll_question": "Should Congress reauthorize Section 702 surveillance powers?",
+      "poll_option1_label": "Protect America",
+      "poll_option1_desc": "Essential intelligence tool needed to prevent terrorist attacks",
+      "poll_option2_label": "Reform Needed",
+      "poll_option2_desc": "Surveillance powers abused, civil liberties must be protected",
+      "pexels_search_terms": "surveillance security camera government"
     },
     {
-      "title": "NAFTA Threat or Negotiating Tactic? Trump Says He'd 'Rather Not Have' Trade Deal",
-      "slug": "trump-nafta-usmca-trade-deal-threat",
+      "title": "Iran Nuclear 'Gentleman's Agreement': Trust or Folly?",
+      "slug": "iran-uranium-gentlemens-agreement",
       "topic_keywords": [
-        "NAFTA",
-        "USMCA",
-        "trade policy",
-        "Trump tariffs",
-        "North America"
+        "uranium enrichment",
+        "nuclear deal",
+        "Iran compliance",
+        "verbal agreements",
+        "JD Vance"
       ],
-      "conservative_headline": "Trump Puts America First, Demands Better Deal as NAFTA Review Approaches",
-      "liberal_headline": "Trump Threatens to Blow Up North American Trade, Risking Jobs and Economic Chaos",
-      "poll_question": "Should Trump withdraw from the North American trade agreement?",
-      "poll_option1_label": "Renegotiate",
-      "poll_option1_desc": "Trump right to demand better terms that protect American workers and manufacturing",
-      "poll_option2_label": "Keep Agreement",
-      "poll_option2_desc": "Destroying trade deal would devastate economy and hurt American businesses and jobs",
-      "pexels_search_terms": "trade shipping containers economy border"
+      "conservative_headline": "Vance Explains Smart Deal Structure That Prioritizes Action Over Words",
+      "liberal_headline": "No Written Guarantees on Iran's Nuclear Program, Vance Admits",
+      "poll_question": "Should the U.S. rely on verbal agreements with Iran about uranium?",
+      "poll_option1_label": "Trust But Verify",
+      "poll_option1_desc": "Actions matter more than paper, inspectors will ensure compliance",
+      "poll_option2_label": "Dangerously Naive",
+      "poll_option2_desc": "Iran has history of deception, needs enforceable written terms",
+      "pexels_search_terms": "nuclear facility uranium Iran"
     },
     {
-      "title": "Security Success or Government Overreach? FBI Disrupts Alleged White House UFC Drone Plot",
-      "slug": "fbi-white-house-ufc-drone-plot",
+      "title": "Record House Retirements: Midterm Exodus or Normal Turnover?",
+      "slug": "house-retirements-2026-midterms",
       "topic_keywords": [
-        "FBI",
-        "terrorism",
-        "White House",
-        "UFC",
-        "drone attack"
+        "congressional retirements",
+        "House elections",
+        "midterm races",
+        "political turnover",
+        "2026 elections"
       ],
-      "conservative_headline": "FBI Stops Terrorist Drone Attack on White House UFC Event, Five Arrested",
-      "liberal_headline": "Questions Arise Over FBI's Alleged 'Drone Plot' as Critics See Overreach and Fear-Mongering",
-      "poll_question": "Do you trust the FBI's handling of the alleged drone plot?",
-      "poll_option1_label": "Security Success",
-      "poll_option1_desc": "FBI protected Americans from real terror threat at high-profile White House event",
-      "poll_option2_label": "Suspicious Timing",
-      "poll_option2_desc": "Convenient 'terror plot' raises questions about FBI motives and actual threat level",
-      "pexels_search_terms": "FBI investigation White House security"
-    },
-    {
-      "title": "Rising Independence or Political Dysfunction? Independents Hit Decade High in New Poll",
-      "slug": "political-independents-record-high-cnn-poll",
-      "topic_keywords": [
-        "independent voters",
-        "political parties",
-        "CNN poll",
-        "voter trends",
-        "political realignment"
-      ],
-      "conservative_headline": "Americans Reject Democrat Extremism as Independent Registration Surges to Record Levels",
-      "liberal_headline": "Voters Flee Trump's GOP in Droves as Independent Registration Hits Highest Level in Decade",
-      "poll_question": "Why are more Americans identifying as independents?",
-      "poll_option1_label": "Rejecting Democrats",
-      "poll_option1_desc": "Americans fleeing radical left policies and embracing traditional conservative values independently",
-      "poll_option2_label": "Rejecting Republicans",
-      "poll_option2_desc": "Voters abandoning Trump's extremist GOP but maintaining progressive policy preferences",
-      "pexels_search_terms": "voting independent ballot American flag"
-    },
-    {
-      "title": "Border Enforcement or Judicial Intimidation? Federal Judge Blasts ICE for 'Public Attack'",
-      "slug": "ice-judge-public-attack-immigration-enforcement",
-      "topic_keywords": [
-        "ICE",
-        "immigration",
-        "federal judge",
-        "border enforcement",
-        "judicial independence"
-      ],
-      "conservative_headline": "Activist Judge Complains After ICE Calls Out Dangerous Catch-and-Release Rulings",
-      "liberal_headline": "Federal Judge Says ICE 'Public Attack' Put Her in 'Personal Danger' Over Immigration Ruling",
-      "poll_question": "Is ICE right to publicly criticize judges' immigration rulings?",
-      "poll_option1_label": "Legitimate Criticism",
-      "poll_option1_desc": "ICE has duty to call out dangerous judicial activism endangering Americans",
-      "poll_option2_label": "Dangerous Intimidation",
-      "poll_option2_desc": "ICE threatening judicial independence and endangering judges with public attacks",
-      "pexels_search_terms": "immigration judge courthouse ICE enforcement"
+      "conservative_headline": "Republicans Retire to Run for Higher Office as Party Expands Reach",
+      "liberal_headline": "Mass GOP Exodus Shows Members Fleeing Trump's Toxic Leadership",
+      "poll_question": "What explains the record number of House retirements?",
+      "poll_option1_label": "Career Advancement",
+      "poll_option1_desc": "Natural cycle of members seeking new opportunities",
+      "poll_option2_label": "Sinking Ship",
+      "poll_option2_desc": "Republicans abandoning Congress to escape Trump's chaos",
+      "pexels_search_terms": "Congress Capitol building exit"
     }
   ]
 }
