@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-20",
+  "email_sent_at": "2026-06-20T06:28:16.154520",
+  "stories": [
+    {
+      "title": "Political Targeting or Justice? DOJ Probes Newsom and Wife Ahead of 2028 Presidential Run",
+      "slug": "newsom-doj-investigation-weaponization",
+      "topic_keywords": [
+        "Gavin Newsom",
+        "DOJ",
+        "political targeting",
+        "2028 election",
+        "Trump"
+      ],
+      "conservative_headline": "DOJ Investigates Corrupt California Governor Newsom's Wife for Tax Fraud",
+      "liberal_headline": "Trump Weaponizes Justice Department Against 2028 Presidential Rival Newsom",
+      "poll_question": "Is the DOJ investigation of Gavin Newsom politically motivated?",
+      "poll_option1_label": "Legitimate Probe",
+      "poll_option1_desc": "DOJ following evidence of potential tax fraud and misuse of nonprofit funds",
+      "poll_option2_label": "Political Vendetta",
+      "poll_option2_desc": "Trump targeting potential 2028 rival to eliminate political opposition",
+      "pexels_search_terms": "justice department investigation politics"
+    },
+    {
+      "title": "Voting Rights Victory or Racial Discrimination? Supreme Court Reinstates Alabama GOP Map",
+      "slug": "alabama-supreme-court-voting-map-controversy",
+      "topic_keywords": [
+        "voting rights",
+        "Alabama",
+        "Supreme Court",
+        "redistricting",
+        "gerrymandering"
+      ],
+      "conservative_headline": "Supreme Court Ends Race-Based Gerrymandering in Alabama Congressional Maps",
+      "liberal_headline": "Supreme Court Allows Alabama to Eliminate Black-Majority District Before Midterms",
+      "poll_question": "Should Alabama be allowed to use its Republican-drawn congressional map?",
+      "poll_option1_label": "Constitutional Map",
+      "poll_option1_desc": "Map is partisan not racial; eliminates unconstitutional race-based districting",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "Map intentionally discriminates against Black voters and dilutes their power",
+      "pexels_search_terms": "voting ballot congressional district"
+    },
+    {
+      "title": "Diplomatic Gift or Corruption? Trump Accepts $400M Luxury Jet from Qatar",
+      "slug": "trump-qatar-air-force-one-gift",
+      "topic_keywords": [
+        "Air Force One",
+        "Qatar",
+        "foreign gifts",
+        "Trump",
+        "ethics"
+      ],
+      "conservative_headline": "Trump Saves Taxpayers Hundreds of Millions by Accepting Free Presidential Jet",
+      "liberal_headline": "Trump Accepts Unprecedented $400M Foreign Gift Raising Constitutional Questions",
+      "poll_question": "Should Trump have accepted the luxury plane from Qatar?",
+      "poll_option1_label": "Smart Deal",
+      "poll_option1_desc": "Saves taxpayer money and serves national interests with transparent transaction",
+      "poll_option2_label": "Ethical Violation",
+      "poll_option2_desc": "Violates constitutional ban on foreign gifts and creates conflict of interest",
+      "pexels_search_terms": "luxury airplane presidential aircraft"
+    },
+    {
+      "title": "Historic Retirements or Republican Exodus? 58 House Members Step Down in 2026",
+      "slug": "house-retirements-midterm-exodus",
+      "topic_keywords": [
+        "Congress",
+        "retirements",
+        "midterm elections",
+        "House Republicans",
+        "2026"
+      ],
+      "conservative_headline": "Republicans Seek Higher Office as 20 Leave House to Run for Senate, Governor",
+      "liberal_headline": "GOP Mass Exodus: Republicans Flee House Amid Trump's Poor Approval Ratings",
+      "poll_question": "What's driving the historic number of House retirements?",
+      "poll_option1_label": "Career Advancement",
+      "poll_option1_desc": "Many retiring to run for higher offices like Senate and governor",
+      "poll_option2_label": "Trump Toxicity",
+      "poll_option2_desc": "Republicans abandoning ship as Trump's approval drags party down",
+      "pexels_search_terms": "congress capitol building politicians"
+    },
+    {
+      "title": "Presidential Approval Crisis or Media Bias? Trump Ratings Tank Ahead of Midterms",
+      "slug": "trump-approval-rating-midterms",
+      "topic_keywords": [
+        "Trump approval",
+        "polls",
+        "midterm elections",
+        "2026",
+        "NBC poll"
+      ],
+      "conservative_headline": "Biased Polls Show Media Continues Campaign Against Trump's Successful Agenda",
+      "liberal_headline": "Trump's Poor Approval Rating Weighing Down Republican Party Before Midterms",
+      "poll_question": "Are Trump's approval ratings hurting Republicans in 2026?",
+      "poll_option1_label": "Fake Polls",
+      "poll_option1_desc": "Media bias skewing polls against Trump's accomplishments and strong leadership",
+      "poll_option2_label": "Real Problem",
+      "poll_option2_desc": "Trump's unpopularity genuinely threatening Republican chances in November elections",
+      "pexels_search_terms": "presidential polling election survey"
+    },
+    {
+      "title": "Pastors and Politics: Trump-Aligned Minister Withdraws After Sexting Scandal",
+      "slug": "pastors-for-trump-texting-scandal",
+      "topic_keywords": [
+        "religious right",
+        "scandal",
+        "Trump campaign",
+        "evangelical voters",
+        "House race"
+      ],
+      "conservative_headline": "Liberal Media Smears Christian Leader to Damage Trump's Faith Coalition",
+      "liberal_headline": "Pastors for Trump Founder's Hypocrisy Exposed in Sexting Scandal",
+      "poll_question": "Should religious leaders who support Trump be held to higher moral standards?",
+      "poll_option1_label": "Forgiveness First",
+      "poll_option1_desc": "Everyone makes mistakes; media targeting Christians unfairly for political gain",
+      "poll_option2_label": "Accountability Matters",
+      "poll_option2_desc": "Religious leaders claiming moral authority must practice what they preach",
+      "pexels_search_terms": "pastor church political campaign"
+    },
+    {
+      "title": "Obama's Enduring Legacy or Nostalgia Illusion? Former President Tops Trump and Biden in Poll",
+      "slug": "obama-popularity-trump-biden-comparison",
+      "topic_keywords": [
+        "Obama",
+        "presidential legacy",
+        "approval ratings",
+        "Trump",
+        "Biden"
+      ],
+      "conservative_headline": "Americans Forget Obama's Failures as Media Rehabilitates His Disastrous Presidency",
+      "liberal_headline": "Americans View Obama Far More Positively Than Trump or Biden, Poll Shows",
+      "poll_question": "Why does Obama poll better than Trump and Biden?",
+      "poll_option1_label": "Selective Memory",
+      "poll_option1_desc": "Media nostalgia ignoring Obama's actual record of scandals and failures",
+      "poll_option2_label": "Better Leadership",
+      "poll_option2_desc": "Obama represented dignity and competence compared to current political chaos",
+      "pexels_search_terms": "presidential portrait leadership poll"
+    },
+    {
+      "title": "Culture War Weapon or Voter Priorities? Republicans Leverage Divisive Issues for Midterms",
+      "slug": "culture-war-midterm-strategy",
+      "topic_keywords": [
+        "culture war",
+        "midterm strategy",
+        "social issues",
+        "Republican campaign",
+        "polarization"
+      ],
+      "conservative_headline": "Republicans Champion Traditional Values as Democrats Push Radical Agenda",
+      "liberal_headline": "GOP Exploits Divisive Culture War Issues to Distract from Economic Failures",
+      "poll_question": "Should culture war issues be central to the 2026 midterms?",
+      "poll_option1_label": "Values Matter",
+      "poll_option1_desc": "Traditional values and parental rights are legitimate concerns for voters",
+      "poll_option2_label": "Manufactured Distraction",
+      "poll_option2_desc": "Republicans using wedge issues to avoid discussing economy and healthcare",
+      "pexels_search_terms": "political protest cultural divide"
+    },
+    {
+      "title": "Independent Surge or Party Frustration? Political Independents Hit Decade High",
+      "slug": "political-independents-record-high",
+      "topic_keywords": [
+        "independent voters",
+        "political parties",
+        "polarization",
+        "voter registration",
+        "CNN poll"
+      ],
+      "conservative_headline": "Voters Abandon Democrats in Droves as Party Moves Further Left",
+      "liberal_headline": "Americans Reject Both Parties as Political Polarization Reaches Extreme Levels",
+      "poll_question": "What's driving the surge in political independents?",
+      "poll_option1_label": "Democratic Extremism",
+      "poll_option1_desc": "Moderate voters fleeing Democratic Party's radical progressive policies",
+      "poll_option2_label": "Both Parties Failing",
+      "poll_option2_desc": "Extreme polarization making both parties unacceptable to reasonable Americans",
+      "pexels_search_terms": "independent voter ballot choice"
+    },
+    {
+      "title": "Trump's Frustration or Congressional Dysfunction? President Cancels Hearing, Flummoxes GOP",
+      "slug": "trump-cancels-hearing-gop-confusion",
+      "topic_keywords": [
+        "Trump",
+        "Congress",
+        "GOP leadership",
+        "hearing cancellation",
+        "presidential power"
+      ],
+      "conservative_headline": "Trump Takes Charge as RINO Congress Continues to Stall His Agenda",
+      "liberal_headline": "Chaotic Trump Cancels Congressional Hearing via Tweet, Confusing GOP Leaders",
+      "poll_question": "Was Trump right to cancel the congressional hearing?",
+      "poll_option1_label": "Executive Leadership",
+      "poll_option1_desc": "President exercising authority to stop wasteful political theater by establishment",
+      "poll_option2_label": "Reckless Chaos",
+      "poll_option2_desc": "Impulsive social media governance undermining constitutional separation of powers",
+      "pexels_search_terms": "congress hearing capitol testimony"
+    }
+  ]
+}
