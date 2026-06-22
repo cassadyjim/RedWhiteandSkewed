@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-22",
+  "email_sent_at": "2026-06-22T07:31:52.910832",
+  "stories": [
+    {
+      "title": "Presidential Recovery or Economic Failure? Trump's Approval Hits Historic Lows",
+      "slug": "trump-economy-approval-record-low",
+      "topic_keywords": [
+        "Trump",
+        "economy",
+        "approval rating",
+        "inflation",
+        "midterms"
+      ],
+      "conservative_headline": "Media Ignores Trump's Long-Term Vision as Economy Undergoes Necessary Reset",
+      "liberal_headline": "Trump's Economic Approval Plummets to Worst Ever, Below Even Biden's Lowest",
+      "poll_question": "Is Trump's low economic approval justified?",
+      "poll_option1_label": "Give Him Time",
+      "poll_option1_desc": "Economic fixes take years; he inherited Biden's mess and needs patience",
+      "poll_option2_label": "He's Failing",
+      "poll_option2_desc": "His policies caused high prices; voters are right to disapprove now",
+      "pexels_search_terms": "gas station prices economy"
+    },
+    {
+      "title": "Constitutional Crisis or Overdue Correction? Birthright Citizenship Ruling Expected",
+      "slug": "supreme-court-birthright-citizenship-ruling",
+      "topic_keywords": [
+        "Supreme Court",
+        "birthright citizenship",
+        "immigration",
+        "14th Amendment",
+        "Trump"
+      ],
+      "conservative_headline": "Supreme Court Poised to End Citizenship Abuse and Restore Constitutional Intent",
+      "liberal_headline": "Court Threatens 160-Year Precedent That Could Strip Rights from Millions",
+      "poll_question": "Should birthright citizenship be limited?",
+      "poll_option1_label": "Yes, Restrict It",
+      "poll_option1_desc": "Constitution wasn't meant for illegal immigrants; citizenship should be earned",
+      "poll_option2_label": "No, Keep It",
+      "poll_option2_desc": "14th Amendment is clear; all born here are citizens regardless",
+      "pexels_search_terms": "supreme court building gavel"
+    },
+    {
+      "title": "Voter Protection or Racial Gerrymandering? Alabama Map Battle Divides Nation",
+      "slug": "alabama-redistricting-supreme-court",
+      "topic_keywords": [
+        "Alabama",
+        "redistricting",
+        "voting rights",
+        "gerrymandering",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Supreme Court Frees Alabama from Racial Quota System in District Drawing",
+      "liberal_headline": "Court Enables Intentional Racial Discrimination Against Black Voters in Alabama",
+      "poll_question": "Should Alabama use its 2023 redistricting map?",
+      "poll_option1_label": "Yes, Use It",
+      "poll_option1_desc": "States have sovereignty to draw maps without racial quotas imposed",
+      "poll_option2_label": "No, It's Racist",
+      "poll_option2_desc": "Three judges found intentional discrimination against Black voters; it's unconstitutional",
+      "pexels_search_terms": "voting ballot box democracy"
+    },
+    {
+      "title": "National Pride or Presidential Vanity? Reflecting Pool Repairs Spark Fury",
+      "slug": "trump-reflecting-pool-controversy",
+      "topic_keywords": [
+        "Trump",
+        "Lincoln Memorial",
+        "Reflecting Pool",
+        "vandalism",
+        "Washington DC"
+      ],
+      "conservative_headline": "Trump Restores National Monument After Years of Disgraceful Neglect",
+      "liberal_headline": "Trump's Personal Obsession Causes Algae Disaster at Lincoln Memorial",
+      "poll_question": "Who's responsible for the Reflecting Pool problems?",
+      "poll_option1_label": "Vandals/Past Neglect",
+      "poll_option1_desc": "Trump is fixing damage from vandalism and years of poor maintenance",
+      "poll_option2_label": "Trump's Bad Work",
+      "poll_option2_desc": "His rushed renovation accelerated algae growth and made it worse",
+      "pexels_search_terms": "lincoln memorial washington monument"
+    },
+    {
+      "title": "Peace Through Strength or Diplomatic Surrender? Trump-Iran Deal Divides GOP",
+      "slug": "trump-senate-republicans-breaking-point",
+      "topic_keywords": [
+        "Senate",
+        "Trump",
+        "Iran deal",
+        "Republicans",
+        "Congress"
+      ],
+      "conservative_headline": "Trump Defies Warmongers, Delivers Peace Deal Establishment Can't Accept",
+      "liberal_headline": "Senate Republicans Revolt as Trump's Chaotic Leadership Hits Breaking Point",
+      "poll_question": "Is Trump's relationship with Senate Republicans healthy?",
+      "poll_option1_label": "He's Leading",
+      "poll_option1_desc": "Strong presidents challenge Congress; he's getting things done his way",
+      "poll_option2_label": "It's Broken",
+      "poll_option2_desc": "He's alienating his own party and causing chaos in Congress",
+      "pexels_search_terms": "senate congress capitol building"
+    },
+    {
+      "title": "Border Security Win or Economic Disaster? Trump's Wall Deadline Looms",
+      "slug": "trump-border-wall-deadline",
+      "topic_keywords": [
+        "border wall",
+        "immigration",
+        "Trump",
+        "deadline",
+        "Mexico"
+      ],
+      "conservative_headline": "Trump Races to Complete Campaign Promise Despite Democrat Obstruction",
+      "liberal_headline": "Clock Ticks on Trump's Costly Wall Boondoggle as Completion Remains Elusive",
+      "poll_question": "Should Trump prioritize completing the border wall?",
+      "poll_option1_label": "Yes, Build It",
+      "poll_option1_desc": "Border security is national security; finish what he started",
+      "poll_option2_label": "No, It's Wasteful",
+      "poll_option2_desc": "Expensive failure that doesn't work; money should go elsewhere",
+      "pexels_search_terms": "border fence security construction"
+    },
+    {
+      "title": "Presidential Showpiece or Wasteful Excess? New Air Force One Unveiled",
+      "slug": "new-air-force-one-trump",
+      "topic_keywords": [
+        "Air Force One",
+        "Trump",
+        "luxury jet",
+        "military spending",
+        "July 4th"
+      ],
+      "conservative_headline": "Trump Unveils Magnificent New Air Force One, Symbol of American Strength",
+      "liberal_headline": "$400 Million Luxury Jet Becomes Trump's Personal Toy Amid Economic Crisis",
+      "poll_question": "Was the new Air Force One purchase justified?",
+      "poll_option1_label": "Yes, Necessary",
+      "poll_option1_desc": "President needs modern secure aircraft representing American power and prestige",
+      "poll_option2_label": "No, Excessive",
+      "poll_option2_desc": "Wasteful spending on luxury during economic hardship for ordinary Americans",
+      "pexels_search_terms": "air force one airplane president"
+    },
+    {
+      "title": "Election Integrity or Voter Suppression? Mail Ballot Ruling Could Reshape Midterms",
+      "slug": "supreme-court-mail-ballot-deadline",
+      "topic_keywords": [
+        "mail ballots",
+        "election law",
+        "Supreme Court",
+        "Mississippi",
+        "voting"
+      ],
+      "conservative_headline": "Supreme Court Set to Restore Election Day Integrity Across Multiple States",
+      "liberal_headline": "Court Poised to Disenfranchise Voters by Striking Down Grace Period Laws",
+      "poll_question": "Should ballots be received by Election Day?",
+      "poll_option1_label": "Yes, Election Day",
+      "poll_option1_desc": "Federal law requires ballots received by deadline to ensure integrity",
+      "poll_option2_label": "No, Grace Period",
+      "poll_option2_desc": "Postmarked by deadline should count; grace periods help valid votes",
+      "pexels_search_terms": "mail ballot envelope voting"
+    },
+    {
+      "title": "Foreign Policy Crisis or Diplomatic Misunderstanding? Italy Cancels US Visit Over Trump Remarks",
+      "slug": "italy-trump-diplomatic-crisis",
+      "topic_keywords": [
+        "Italy",
+        "Meloni",
+        "Trump",
+        "diplomacy",
+        "foreign policy"
+      ],
+      "conservative_headline": "Fake News Media Invents Trump Quote, Damages US-Italy Relations",
+      "liberal_headline": "Trump's Offensive Remarks Force Italian Foreign Minister to Cancel US Trip",
+      "poll_question": "Who's at fault for the Italy diplomatic incident?",
+      "poll_option1_label": "Media Fabrication",
+      "poll_option1_desc": "False reporting created crisis; Meloni right to call out lies",
+      "poll_option2_label": "Trump's Insults",
+      "poll_option2_desc": "His offensive comments about Italy are serious and damaged relations",
+      "pexels_search_terms": "italy flag diplomatic meeting"
+    },
+    {
+      "title": "Vacation Freedom or Economic Warning? Two-Thirds Can't Afford Summer Travel",
+      "slug": "summer-vacation-costs-economy",
+      "topic_keywords": [
+        "economy",
+        "inflation",
+        "summer vacation",
+        "cost of living",
+        "consumers"
+      ],
+      "conservative_headline": "Americans Adjust Spending Wisely During Economic Transition Period",
+      "liberal_headline": "Trump's Inflation Crisis Forces Families to Cancel Summer Vacations",
+      "poll_question": "Who's responsible for high vacation costs?",
+      "poll_option1_label": "Biden's Legacy",
+      "poll_option1_desc": "Inherited inflation and spending problems take time to fix properly",
+      "poll_option2_label": "Trump's Policies",
+      "poll_option2_desc": "His tariffs and Iran war drove gas prices up hurting families",
+      "pexels_search_terms": "family vacation beach travel"
+    }
+  ]
+}
