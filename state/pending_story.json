@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-24",
+  "email_sent_at": "2026-06-24T06:12:31.586736",
+  "stories": [
+    {
+      "title": "Socialist Surge or Urban Disaster? Cities Elect Far-Left Mayors Amid Trump Era",
+      "slug": "democratic-socialist-mayors-cities-election-surge",
+      "topic_keywords": [
+        "democratic socialists",
+        "mayors",
+        "cities",
+        "DSA",
+        "progressives"
+      ],
+      "conservative_headline": "Socialist Takeover: NYC, Seattle, DC Mayors Push Radical Left Agenda",
+      "liberal_headline": "Progressive Wave: Democratic Socialists Win Big in Major Cities Fighting Trump",
+      "poll_question": "Should major cities embrace democratic socialist leadership?",
+      "poll_option1_label": "No, Too Radical",
+      "poll_option1_desc": "Socialist policies will destroy business and drive away investment from cities",
+      "poll_option2_label": "Yes, Change Needed",
+      "poll_option2_desc": "Progressive leadership can address housing costs and inequality effectively",
+      "pexels_search_terms": "city hall politics vote"
+    },
+    {
+      "title": "Privacy Rights or Public Interest? Biden Sues DOJ Over Audio Recordings",
+      "slug": "biden-sues-doj-audio-recordings-release",
+      "topic_keywords": [
+        "Biden",
+        "DOJ",
+        "audio recordings",
+        "classified documents",
+        "privacy"
+      ],
+      "conservative_headline": "Biden Desperately Hides 'Cognitive Decline' Audio From American People",
+      "liberal_headline": "Biden Fights Partisan DOJ Attack on Personal Privacy Rights",
+      "poll_question": "Should Biden's memoir audio recordings be released publicly?",
+      "poll_option1_label": "Release Them",
+      "poll_option1_desc": "Public has right to hear recordings about cognitive fitness concerns",
+      "poll_option2_label": "Protect Privacy",
+      "poll_option2_desc": "Personal conversations about deceased son deserve privacy protection",
+      "pexels_search_terms": "audio recording microphone privacy"
+    },
+    {
+      "title": "Voting Rights Gutted or States' Rights Protected? Alabama Map Sparks Controversy",
+      "slug": "alabama-voting-map-supreme-court-black-districts",
+      "topic_keywords": [
+        "voting rights",
+        "Alabama",
+        "Supreme Court",
+        "redistricting",
+        "VRA"
+      ],
+      "conservative_headline": "Supreme Court Protects States From Federal Overreach on District Maps",
+      "liberal_headline": "SCOTUS Allows Racially Discriminatory Maps, Gutting Voting Rights Act",
+      "poll_question": "Should the Supreme Court have allowed Alabama's redistricting map?",
+      "poll_option1_label": "Yes, State Control",
+      "poll_option1_desc": "States have right to draw their own districts without federal interference",
+      "poll_option2_label": "No, Discrimination",
+      "poll_option2_desc": "Map eliminates Black-majority district and violates civil rights protections",
+      "pexels_search_terms": "voting ballot supreme court"
+    },
+    {
+      "title": "Housing Solution or Government Overreach? Bipartisan Bill Passes Senate 85-5",
+      "slug": "housing-bill-senate-bipartisan-21st-century",
+      "topic_keywords": [
+        "housing",
+        "Senate",
+        "bipartisan",
+        "affordability",
+        "legislation"
+      ],
+      "conservative_headline": "Rare Senate Unity: Housing Bill Cuts Red Tape, Lowers Costs",
+      "liberal_headline": "Democrats Deliver on Housing Crisis With Historic Bipartisan Victory",
+      "poll_question": "Is the bipartisan housing bill good for America?",
+      "poll_option1_label": "Market Solutions",
+      "poll_option1_desc": "Government intervention in housing market creates more problems than solutions",
+      "poll_option2_label": "Federal Action Needed",
+      "poll_option2_desc": "Crisis requires government investment to make housing affordable for families",
+      "pexels_search_terms": "house for sale affordable housing"
+    },
+    {
+      "title": "Executive Overreach or Necessary Reform? Trump Fires Independent Agency Heads",
+      "slug": "trump-fires-independent-agencies-ftc-fed",
+      "topic_keywords": [
+        "Trump",
+        "independent agencies",
+        "FTC",
+        "Federal Reserve",
+        "executive power"
+      ],
+      "conservative_headline": "Trump Restores Presidential Authority Over Rogue Bureaucratic Agencies",
+      "liberal_headline": "Trump Dismantles Independence of Key Agencies, Threatens Economic Stability",
+      "poll_question": "Should presidents be able to fire independent agency leaders at will?",
+      "poll_option1_label": "Yes, Accountability",
+      "poll_option1_desc": "Elected presidents should control all executive branch officials and agencies",
+      "poll_option2_label": "No, Independence",
+      "poll_option2_desc": "Agencies like Fed must remain independent from political interference",
+      "pexels_search_terms": "federal reserve government agency"
+    },
+    {
+      "title": "Vandalism or Cover-Up? Trump's $15M Reflecting Pool Fiasco Goes Green",
+      "slug": "reflecting-pool-algae-trump-renovation-failure",
+      "topic_keywords": [
+        "Reflecting Pool",
+        "Trump",
+        "renovation",
+        "National Mall",
+        "algae"
+      ],
+      "conservative_headline": "Vandals Sabotage Trump's Reflecting Pool Restoration, Investigation Underway",
+      "liberal_headline": "Trump's Botched $15M Pool Job Turns Green, Blames Everyone But Himself",
+      "poll_question": "Who's responsible for the Reflecting Pool problems?",
+      "poll_option1_label": "Vandals/Sabotage",
+      "poll_option1_desc": "Criminal vandalism damaged pool after Trump's quality restoration work",
+      "poll_option2_label": "Poor Workmanship",
+      "poll_option2_desc": "No-bid contracts and shoddy work caused the expensive renovation failure",
+      "pexels_search_terms": "Lincoln memorial reflecting pool algae"
+    },
+    {
+      "title": "Birthright Citizenship: Constitutional Right or Immigration Loophole?",
+      "slug": "birthright-citizenship-trump-executive-order-scotus",
+      "topic_keywords": [
+        "birthright citizenship",
+        "immigration",
+        "Trump",
+        "Constitution",
+        "14th Amendment"
+      ],
+      "conservative_headline": "Trump Ends Birthright Citizenship Abuse, Closes Immigration Loophole",
+      "liberal_headline": "Trump's Attack on Constitution: Executive Order Denies Babies Citizenship",
+      "poll_question": "Should children born in the US automatically get citizenship?",
+      "poll_option1_label": "No, End Abuse",
+      "poll_option1_desc": "Constitution doesn't guarantee citizenship for illegal immigrants' children born here",
+      "poll_option2_label": "Yes, Constitutional",
+      "poll_option2_desc": "14th Amendment clearly grants citizenship to all born on US soil",
+      "pexels_search_terms": "newborn baby american flag"
+    },
+    {
+      "title": "Gun Rights Victory or Public Safety Threat? Court Strikes Drug User Ban",
+      "slug": "supreme-court-gun-rights-drug-users-second-amendment",
+      "topic_keywords": [
+        "gun rights",
+        "Second Amendment",
+        "drug users",
+        "Supreme Court",
+        "marijuana"
+      ],
+      "conservative_headline": "Supreme Court Upholds Second Amendment, Strikes Down Unconstitutional Gun Ban",
+      "liberal_headline": "Dangerous Ruling Allows Drug Users to Own Guns, Threatens Public Safety",
+      "poll_question": "Should people who use marijuana be banned from owning guns?",
+      "poll_option1_label": "No, Rights Protected",
+      "poll_option1_desc": "Second Amendment rights can't be stripped over marijuana use alone",
+      "poll_option2_label": "Yes, Safety First",
+      "poll_option2_desc": "Drug users pose dangers and shouldn't have access to firearms",
+      "pexels_search_terms": "handgun firearms marijuana"
+    },
+    {
+      "title": "Electoral Interference or Election Integrity? Trump Uses DHS Funds for Voting Changes",
+      "slug": "trump-homeland-security-funds-election-changes-states",
+      "topic_keywords": [
+        "elections",
+        "DHS",
+        "Trump",
+        "election integrity",
+        "states rights"
+      ],
+      "conservative_headline": "Trump Secures Elections: DHS Funding Incentivizes Voter ID and Integrity Measures",
+      "liberal_headline": "Trump Weaponizes Federal Funds to Pressure States Into Voter Suppression",
+      "poll_question": "Should federal DHS funds be tied to election law changes?",
+      "poll_option1_label": "Yes, Protect Elections",
+      "poll_option1_desc": "Federal funding should require states to adopt secure election practices",
+      "poll_option2_label": "No, Coercion",
+      "poll_option2_desc": "Using homeland security funds to force voting changes is unconstitutional",
+      "pexels_search_terms": "voting booth election security"
+    },
+    {
+      "title": "Conservative Strategy or Dark Money Scandal? GOP Spending Floods Democratic Primaries",
+      "slug": "conservative-groups-spending-democratic-primaries-interference",
+      "topic_keywords": [
+        "primaries",
+        "dark money",
+        "conservatives",
+        "Democrats",
+        "elections"
+      ],
+      "conservative_headline": "Smart Politics: Conservative Donors Support Moderate Democrats in Primaries",
+      "liberal_headline": "GOP Dark Money Infiltrates Democratic Primaries to Elect Weaker Candidates",
+      "poll_question": "Should conservatives spend heavily in Democratic primaries?",
+      "poll_option1_label": "Fair Game",
+      "poll_option1_desc": "Legal political strategy to support more moderate electable Democratic candidates",
+      "poll_option2_label": "Election Interference",
+      "poll_option2_desc": "Dark money manipulation undermines democracy and primary election integrity",
+      "pexels_search_terms": "political donations money campaign"
+    }
+  ]
+}
