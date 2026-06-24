@@ -2,26 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-06-05",
-      "slug": "bill-pulte-intelligence-director-qualifications-controversy",
-      "topic": "intelligence Bill Pulte national security Trump appointments political loyalty"
-    },
-    {
-      "date": "2026-06-06",
-      "slug": "house-republicans-defy-trump-ukraine-aid-russia-sanctions",
-      "topic": "Ukraine aid Russia sanctions GOP rebellion foreign policy Trump"
-    },
-    {
-      "date": "2026-06-08",
-      "slug": "trump-federal-reserve-interest-rates-independence",
-      "topic": "Federal Reserve interest rates Trump pressure Kevin Warsh Fed independence"
-    },
-    {
-      "date": "2026-06-09",
-      "slug": "trump-triumphal-arch-dc-memorial-controversy",
-      "topic": "Trump monument Washington DC memorial Arlington Cemetery"
-    },
-    {
       "date": "2026-06-10",
       "slug": "congress-fewest-bills-50-years",
       "topic": "Congress legislation Trump executive orders productivity"
@@ -35,6 +15,11 @@
       "date": "2026-06-19",
       "slug": "trump-iran-deal-peace-or-surrender",
       "topic": "Iran deal Trump foreign policy sanctions lifted uranium enrichment Middle East"
+    },
+    {
+      "date": "2026-06-24",
+      "slug": "birthright-citizenship-trump-executive-order-scotus",
+      "topic": "birthright citizenship immigration Trump Constitution 14th Amendment"
     }
   ]
 }
