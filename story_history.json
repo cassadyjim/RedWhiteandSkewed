@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-06-10",
-      "slug": "congress-fewest-bills-50-years",
-      "topic": "Congress legislation Trump executive orders productivity"
-    },
-    {
       "date": "2026-06-13",
       "slug": "kennedy-center-trump-name-removal-court-battle",
       "topic": "Kennedy Center Trump courts presidential legacy arts"
@@ -20,6 +15,11 @@
       "date": "2026-06-24",
       "slug": "birthright-citizenship-trump-executive-order-scotus",
       "topic": "birthright citizenship immigration Trump Constitution 14th Amendment"
+    },
+    {
+      "date": "2026-06-25",
+      "slug": "trump-cancels-housing-bill-signing-save-act",
+      "topic": "housing SAVE Act voting rights bipartisan Trump"
     }
   ]
 }
