@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-25",
+  "email_sent_at": "2026-06-25T06:14:26.255660",
+  "stories": [
+    {
+      "title": "Trump Cancels Housing Bill Signing: Election Power Play or Policy Priority?",
+      "slug": "trump-cancels-housing-bill-signing-save-act",
+      "topic_keywords": [
+        "housing",
+        "SAVE Act",
+        "voting rights",
+        "bipartisan",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Holds Firm on Election Security, Refuses to Sign Housing Bill Until SAVE Act Passes",
+      "liberal_headline": "Trump Abandons Bipartisan Housing Relief to Push Restrictive Voting Scheme Before Midterms",
+      "poll_question": "Should Trump sign the bipartisan housing bill regardless of other legislation?",
+      "poll_option1_label": "Pass SAVE First",
+      "poll_option1_desc": "Election integrity must come before all other legislation priorities",
+      "poll_option2_label": "Sign Housing Now",
+      "poll_option2_desc": "Americans need housing relief, don't hold it hostage for politics",
+      "pexels_search_terms": "White House signing ceremony politics"
+    },
+    {
+      "title": "Judge Blocks Food Stamp Junk Food Ban: Health Initiative or Overreach?",
+      "slug": "snap-soda-candy-ban-blocked-court",
+      "topic_keywords": [
+        "SNAP",
+        "food stamps",
+        "health",
+        "MAHA",
+        "Kennedy"
+      ],
+      "conservative_headline": "Activist Judge Blocks Common-Sense Ban on Using Taxpayer Money for Soda and Candy",
+      "liberal_headline": "Court Protects SNAP Recipients After Trump Admin Illegally Restricts Food Access",
+      "poll_question": "Should SNAP benefits be allowed to purchase soda and candy?",
+      "poll_option1_label": "Ban Junk Food",
+      "poll_option1_desc": "Taxpayers shouldn't subsidize obesity and diabetes through unhealthy purchases",
+      "poll_option2_label": "Allow All Food",
+      "poll_option2_desc": "Recipients deserve choice and some need these items for health",
+      "pexels_search_terms": "grocery store food shopping"
+    },
+    {
+      "title": "Trump Dismantles Education Department: States' Rights or Endangering Students?",
+      "slug": "education-department-special-education-civil-rights",
+      "topic_keywords": [
+        "education",
+        "special education",
+        "civil rights",
+        "states rights",
+        "disabilities"
+      ],
+      "conservative_headline": "Trump Returns Education to States, Eliminates Federal Bureaucracy Holding Students Back",
+      "liberal_headline": "Trump Illegally Strips Protections for Disabled Students and Civil Rights Enforcement",
+      "poll_question": "Should special education and civil rights move out of the Education Department?",
+      "poll_option1_label": "Support Restructuring",
+      "poll_option1_desc": "Federal micromanagement has failed, states can better serve students",
+      "poll_option2_label": "Keep Protections",
+      "poll_option2_desc": "Vulnerable students need consistent federal oversight and protection",
+      "pexels_search_terms": "students classroom special education"
+    },
+    {
+      "title": "Trump-GOP Senate Clash: Executive Power or Constitutional Crisis?",
+      "slug": "trump-cassidy-war-powers-clash",
+      "topic_keywords": [
+        "war powers",
+        "Senate",
+        "Iran",
+        "Cassidy",
+        "executive"
+      ],
+      "conservative_headline": "Trump Stands Up to Weak GOP Senators Who Won't Support War on Terror",
+      "liberal_headline": "Trump Bullies Republican Senator in Heated Exchange Over Unchecked War Powers",
+      "poll_question": "Should Congress limit Trump's war powers regarding Iran?",
+      "poll_option1_label": "Support President",
+      "poll_option1_desc": "Commander-in-chief needs flexibility to protect American interests abroad",
+      "poll_option2_label": "Require Authorization",
+      "poll_option2_desc": "Constitution requires Congress to authorize military action, not president",
+      "pexels_search_terms": "Capitol Hill Senate meeting"
+    },
+    {
+      "title": "Socialist Wave in NYC: Progressive Victory or Democratic Disaster?",
+      "slug": "mamdani-socialists-sweep-new-york-primaries",
+      "topic_keywords": [
+        "New York",
+        "Mamdani",
+        "socialism",
+        "primaries",
+        "Democrats"
+      ],
+      "conservative_headline": "Socialist Mayor Mamdani's Radical Allies Hijack Democratic Party in New York Sweep",
+      "liberal_headline": "Progressive Candidates Score Historic Wins, Defeating Corporate Democratic Establishment",
+      "poll_question": "Are Mamdani-backed progressive victories good for the Democratic Party?",
+      "poll_option1_label": "Bad Direction",
+      "poll_option1_desc": "Socialism will cost Democrats elections and hurt working families",
+      "poll_option2_label": "Grassroots Win",
+      "poll_option2_desc": "Progressive populism is what voters want, not corporate moderates",
+      "pexels_search_terms": "New York election victory celebration"
+    },
+    {
+      "title": "Pentagon Seeks $87.6 Billion for Iran War: Defense Priority or Reckless Spending?",
+      "slug": "iran-war-funding-request-87-billion",
+      "topic_keywords": [
+        "Iran",
+        "war funding",
+        "defense spending",
+        "supplemental",
+        "Pentagon"
+      ],
+      "conservative_headline": "White House Requests Critical Funding to Support Troops Fighting Iranian Aggression",
+      "liberal_headline": "Trump Asks Taxpayers for $87B More for Unnecessary War He Started Without Authorization",
+      "poll_question": "Should Congress approve the $87.6 billion Iran war supplemental funding?",
+      "poll_option1_label": "Fund Our Troops",
+      "poll_option1_desc": "Military needs resources to defend America against Iranian threats",
+      "poll_option2_label": "Reject Blank Check",
+      "poll_option2_desc": "Trump launched unauthorized costly war, Congress shouldn't enable it",
+      "pexels_search_terms": "military spending Pentagon budget"
+    },
+    {
+      "title": "Senate Blocks War Powers Resolution: Presidential Authority or Constitutional Violation?",
+      "slug": "senate-iran-war-powers-resolution-fails",
+      "topic_keywords": [
+        "war powers",
+        "Iran",
+        "Senate vote",
+        "Kaine",
+        "Congress"
+      ],
+      "conservative_headline": "Senate Republicans Hand Trump Victory, Defeat Democrats' Dangerous War Powers Constraint",
+      "liberal_headline": "GOP Senators Enable Trump's Unauthorized War After Rejecting Constitutional Oversight",
+      "poll_question": "Should Trump need Congressional authorization to continue military action in Iran?",
+      "poll_option1_label": "President Decides",
+      "poll_option1_desc": "National security requires presidential flexibility in responding to threats",
+      "poll_option2_label": "Congress Must Authorize",
+      "poll_option2_desc": "Constitution requires Congress, not just president, to declare war",
+      "pexels_search_terms": "Senate chamber vote Congress"
+    },
+    {
+      "title": "Appeals Court Revives Expedited Deportations: Border Security or Due Process Violation?",
+      "slug": "expedited-removal-deportation-appeals-court",
+      "topic_keywords": [
+        "immigration",
+        "deportation",
+        "expedited removal",
+        "appeals court",
+        "due process"
+      ],
+      "conservative_headline": "Federal Court Restores Trump's Fast-Track Deportation Policy to Remove Illegal Immigrants",
+      "liberal_headline": "Appeals Court Allows Trump to Deport Immigrants Without Hearings in Due Process Rollback",
+      "poll_question": "Should the government be allowed to expedite deportations without full hearings?",
+      "poll_option1_label": "Expedite Removals",
+      "poll_option1_desc": "Illegal immigrants don't deserve lengthy court process delaying deportation",
+      "poll_option2_label": "Protect Due Process",
+      "poll_option2_desc": "Everyone deserves fair hearing before life-altering deportation decision",
+      "pexels_search_terms": "immigration border court gavel"
+    },
+    {
+      "title": "Intelligence Chief Fires Career Officials: Accountability or Political Purge?",
+      "slug": "dni-fires-officials-intelligence-purge",
+      "topic_keywords": [
+        "intelligence",
+        "DNI",
+        "Gabbard",
+        "career officials",
+        "firings"
+      ],
+      "conservative_headline": "Acting DNI Cleans House, Removes Deep State Operatives Undermining National Security",
+      "liberal_headline": "Trump Intelligence Chief Fires Dozens in Dangerous Purge of Career Professionals",
+      "poll_question": "Are the intelligence community firings appropriate accountability?",
+      "poll_option1_label": "Necessary Reform",
+      "poll_option1_desc": "Intelligence agencies need political appointees loyal to elected leadership",
+      "poll_option2_label": "Dangerous Purge",
+      "poll_option2_desc": "Removing career experts weakens national security for political reasons",
+      "pexels_search_terms": "intelligence agency Washington DC"
+    },
+    {
+      "title": "Trump Demands SAVE Act: Election Integrity or Voter Suppression?",
+      "slug": "save-act-voter-id-citizenship-controversy",
+      "topic_keywords": [
+        "SAVE Act",
+        "voter ID",
+        "citizenship",
+        "election integrity",
+        "voting rights"
+      ],
+      "conservative_headline": "Trump Pushes Common-Sense Bill Requiring Proof of Citizenship to Vote in Elections",
+      "liberal_headline": "Trump's Voter Suppression Scheme Would Block 21 Million Americans From Voting",
+      "poll_question": "Should voters be required to show documentary proof of citizenship to register?",
+      "poll_option1_label": "Require Proof",
+      "poll_option1_desc": "Only citizens should vote, passport or birth certificate prevents fraud",
+      "poll_option2_label": "Too Restrictive",
+      "poll_option2_desc": "Millions lack these documents, existing safeguards already prevent fraud",
+      "pexels_search_terms": "voting ballot election registration"
+    }
+  ]
+}
