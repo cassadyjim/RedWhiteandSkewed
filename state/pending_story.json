@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-29",
+  "email_sent_at": "2026-06-29T06:56:05.274938",
+  "stories": [
+    {
+      "title": "National Security or Imperial Presidency? Trump's Iran Strikes Test War Powers",
+      "slug": "iran-strikes-war-powers-debate",
+      "topic_keywords": [
+        "Iran",
+        "military strikes",
+        "war powers",
+        "Trump",
+        "foreign policy"
+      ],
+      "conservative_headline": "Trump Shows Strength: US Strikes Iran After Attack on Cargo Ship",
+      "liberal_headline": "Trump Escalates Unauthorized War as Iran Peace Talks Collapse",
+      "poll_question": "Should the President conduct military strikes without Congressional approval?",
+      "poll_option1_label": "Executive Authority",
+      "poll_option1_desc": "President must act swiftly to protect American interests and personnel abroad",
+      "poll_option2_label": "Congressional Oversight",
+      "poll_option2_desc": "Only Congress can authorize military action under the Constitution's war powers",
+      "pexels_search_terms": "military aircraft missile strike"
+    },
+    {
+      "title": "Social Security Solvency or Political Football? 2032 Cuts Loom Over Midterms",
+      "slug": "social-security-2032-crisis-debate",
+      "topic_keywords": [
+        "Social Security",
+        "entitlements",
+        "retirement",
+        "2032",
+        "budget crisis"
+      ],
+      "conservative_headline": "Reform Needed: Social Security Faces 22% Cut Without Action on Unsustainable Program",
+      "liberal_headline": "GOP Threatens Seniors' Benefits While Protecting Tax Cuts for Billionaires",
+      "poll_question": "How should Congress fix Social Security's funding shortfall?",
+      "poll_option1_label": "Benefit Reform",
+      "poll_option1_desc": "Raise retirement age and reform benefits to ensure long-term program sustainability",
+      "poll_option2_label": "Tax the Wealthy",
+      "poll_option2_desc": "Lift income cap on payroll taxes so billionaires pay their fair share",
+      "pexels_search_terms": "elderly person social security check"
+    },
+    {
+      "title": "Wealth Tax Revolution or California Exodus? Newsom's Billionaire Plan Divides Democrats",
+      "slug": "newsom-billionaire-tax-proposal",
+      "topic_keywords": [
+        "Gavin Newsom",
+        "wealth tax",
+        "billionaires",
+        "California",
+        "2028 campaign"
+      ],
+      "conservative_headline": "Newsom's Socialist Tax Scheme Would Drive Jobs and Wealth Out of America",
+      "liberal_headline": "Newsom Champions Working Families With Bold Plan to Tax Ultra-Wealthy Oligarchs",
+      "poll_question": "Should the US impose a minimum tax on billionaires?",
+      "poll_option1_label": "Free Markets",
+      "poll_option1_desc": "Wealth taxes punish success and drive investment and jobs to other countries",
+      "poll_option2_label": "Fair Share",
+      "poll_option2_desc": "Billionaires should pay at least same tax rate as their own workers",
+      "pexels_search_terms": "wealthy businessman luxury yacht money"
+    },
+    {
+      "title": "Humanitarian Relief or Illegal Loophole? Supreme Court Allows TPS Deportations",
+      "slug": "supreme-court-tps-deportation-ruling",
+      "topic_keywords": [
+        "Supreme Court",
+        "TPS",
+        "deportation",
+        "Haiti",
+        "Syria"
+      ],
+      "conservative_headline": "SCOTUS Restores Order: Temporary Protection Was Never Meant to Be Permanent",
+      "liberal_headline": "Conservative Justices Condemn 350,000 to Danger Despite Trump's Racist Rhetoric",
+      "poll_question": "Should the government end Temporary Protected Status for Haitians and Syrians?",
+      "poll_option1_label": "End TPS",
+      "poll_option1_desc": "Temporary status should be temporary, not a backdoor to permanent residency",
+      "poll_option2_label": "Protect Immigrants",
+      "poll_option2_desc": "Can't deport people to countries with gang violence and civil war",
+      "pexels_search_terms": "immigrant family deportation protest"
+    },
+    {
+      "title": "Pete Buttigieg Swatting: Political Attack or Child Safety Concern?",
+      "slug": "buttigieg-cps-investigation-swatting",
+      "topic_keywords": [
+        "Pete Buttigieg",
+        "swatting",
+        "child protective services",
+        "2028",
+        "political targeting"
+      ],
+      "conservative_headline": "Anonymous Tip Triggers Standard CPS Investigation of Buttigieg Family",
+      "liberal_headline": "Right-Wing Extremists Weaponize Swatting Against Buttigieg's Children",
+      "poll_question": "Was the CPS report on Buttigieg's family a political attack?",
+      "poll_option1_label": "Due Process",
+      "poll_option1_desc": "Police must investigate all reports to protect children regardless of politics",
+      "poll_option2_label": "Political Harassment",
+      "poll_option2_desc": "False reports targeting political figures' families should be prosecuted as terrorism",
+      "pexels_search_terms": "police investigation child protective services"
+    },
+    {
+      "title": "Election Integrity or Gridlock Politics? Trump Blocks Housing Bill Over Voter ID",
+      "slug": "trump-housing-bill-save-act-standoff",
+      "topic_keywords": [
+        "housing bill",
+        "SAVE Act",
+        "voter ID",
+        "Trump",
+        "legislative gridlock"
+      ],
+      "conservative_headline": "Trump Stands Firm: Secure Elections Must Come Before Minor Legislation",
+      "liberal_headline": "Trump Sabotages Bipartisan Housing Bill to Push Voter Suppression Scheme",
+      "poll_question": "Should Trump have signed the bipartisan housing bill?",
+      "poll_option1_label": "Priorities Matter",
+      "poll_option1_desc": "Election security is more important than minor housing legislation right now",
+      "poll_option2_label": "End Gridlock",
+      "poll_option2_desc": "Refusing to sign bipartisan bills hurts Americans and blocks progress",
+      "pexels_search_terms": "affordable housing construction development"
+    },
+    {
+      "title": "Gas Price Gouging or Market Forces? Trump Orders DOJ Investigation of Oil Companies",
+      "slug": "trump-oil-price-investigation",
+      "topic_keywords": [
+        "gas prices",
+        "oil companies",
+        "price gouging",
+        "inflation",
+        "DOJ investigation"
+      ],
+      "conservative_headline": "Trump Takes Action as Big Oil Refuses to Pass Savings to Consumers",
+      "liberal_headline": "Trump's DOJ Probe Is Election-Year Stunt While His Policies Hurt Consumers",
+      "poll_question": "Are oil companies engaging in price gouging?",
+      "poll_option1_label": "Market Dynamics",
+      "poll_option1_desc": "Prices reflect supply, demand and business costs, not corporate conspiracy",
+      "poll_option2_label": "Corporate Greed",
+      "poll_option2_desc": "Oil profits soar while companies keep prices high to maximize shareholder returns",
+      "pexels_search_terms": "gas station fuel prices expensive"
+    },
+    {
+      "title": "Free Expression or Dangerous Extremism? Trump Attacks Democrats as 'Godless Communists'",
+      "slug": "trump-godless-communists-rhetoric",
+      "topic_keywords": [
+        "Trump",
+        "rhetoric",
+        "political discourse",
+        "Democrats",
+        "midterm elections"
+      ],
+      "conservative_headline": "Trump Tells Truth: Democrats' Socialist Agenda Threatens American Values",
+      "liberal_headline": "Trump Embraces Fascist Rhetoric, Calls Half of Americans 'Godless Communists'",
+      "poll_question": "Is Trump's 'godless Communists' rhetoric appropriate?",
+      "poll_option1_label": "Strong Leadership",
+      "poll_option1_desc": "Trump tells it like it is about Democrats' radical far-left agenda",
+      "poll_option2_label": "Dangerous Rhetoric",
+      "poll_option2_desc": "Dehumanizing language divides America and incites violence against political opponents",
+      "pexels_search_terms": "Trump rally political speech crowd"
+    },
+    {
+      "title": "Patriotic Celebration or Partisan Spectacle? America's 250th Birthday Fair Sparks Boycott",
+      "slug": "america-250-state-fair-controversy",
+      "topic_keywords": [
+        "America 250",
+        "national mall",
+        "state fair",
+        "Trump rally",
+        "boycott"
+      ],
+      "conservative_headline": "Blue States Boycott America's Birthday as Trump Celebrates National Heritage",
+      "liberal_headline": "Trump Hijacks Nation's 250th Anniversary for Political Rally, States Refuse to Participate",
+      "poll_question": "Should the America 250 celebration be a political event?",
+      "poll_option1_label": "Patriotic Pride",
+      "poll_option1_desc": "Nothing wrong with celebrating America's founding and the current president",
+      "poll_option2_label": "Nonpartisan Unity",
+      "poll_option2_desc": "National anniversaries should unite all Americans, not serve one party",
+      "pexels_search_terms": "american flag celebration fireworks patriotic"
+    },
+    {
+      "title": "Trump's New Passport Design: Bold Patriotism or Cult of Personality?",
+      "slug": "trump-passport-redesign-controversy",
+      "topic_keywords": [
+        "passport design",
+        "Trump",
+        "State Department",
+        "national identity",
+        "branding"
+      ],
+      "conservative_headline": "State Department Unveils Passport Honoring President and America's Founding",
+      "liberal_headline": "Trump Puts His Face on US Passports in Unprecedented Power Grab",
+      "poll_question": "Should the US passport feature the current president?",
+      "poll_option1_label": "Honor Leadership",
+      "poll_option1_desc": "Passport appropriately recognizes the president who represents America abroad",
+      "poll_option2_label": "Authoritarian Symbol",
+      "poll_option2_desc": "Official documents shouldn't promote individual leaders like dictatorships do",
+      "pexels_search_terms": "passport travel document official government"
+    }
+  ]
+}
