@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-06-13",
-      "slug": "kennedy-center-trump-name-removal-court-battle",
-      "topic": "Kennedy Center Trump courts presidential legacy arts"
-    },
-    {
       "date": "2026-06-19",
       "slug": "trump-iran-deal-peace-or-surrender",
       "topic": "Iran deal Trump foreign policy sanctions lifted uranium enrichment Middle East"
@@ -20,6 +15,11 @@
       "date": "2026-06-25",
       "slug": "trump-cancels-housing-bill-signing-save-act",
       "topic": "housing SAVE Act voting rights bipartisan Trump"
+    },
+    {
+      "date": "2026-06-29",
+      "slug": "social-security-2032-crisis-debate",
+      "topic": "Social Security entitlements retirement 2032 budget crisis"
     }
   ]
 }
