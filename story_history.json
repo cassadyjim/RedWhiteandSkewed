@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-06-19",
-      "slug": "trump-iran-deal-peace-or-surrender",
-      "topic": "Iran deal Trump foreign policy sanctions lifted uranium enrichment Middle East"
-    },
-    {
       "date": "2026-06-24",
       "slug": "birthright-citizenship-trump-executive-order-scotus",
       "topic": "birthright citizenship immigration Trump Constitution 14th Amendment"
@@ -30,6 +25,11 @@
       "date": "2026-07-02",
       "slug": "supreme-court-birthright-citizenship-trump-executive-order",
       "topic": "birthright citizenship 14th Amendment immigration Supreme Court Constitution"
+    },
+    {
+      "date": "2026-07-05",
+      "slug": "supreme-court-mail-ballot-ruling",
+      "topic": "Supreme Court mail-in voting election law ballot deadlines Amy Coney Barrett"
     }
   ]
 }
