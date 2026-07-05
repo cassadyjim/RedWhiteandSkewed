@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-05",
+  "email_sent_at": "2026-07-05T06:11:19.154982",
+  "stories": [
+    {
+      "title": "Trump Hostage Crisis or Legislative Strategy? President Blocks Housing Bill Over Voter ID Demands",
+      "slug": "trump-housing-bill-voter-id-standoff",
+      "topic_keywords": [
+        "housing affordability",
+        "voter ID",
+        "SAVE Act",
+        "Trump",
+        "bipartisan legislation"
+      ],
+      "conservative_headline": "Trump Takes Strong Stand: No Housing Bill Until Election Integrity Secured",
+      "liberal_headline": "Trump Holds Affordable Housing Hostage to Push Restrictive Voting Law",
+      "poll_question": "Should Trump sign the bipartisan housing bill or wait for voter ID legislation?",
+      "poll_option1_label": "Voter ID First",
+      "poll_option1_desc": "Election integrity is a national emergency that must come before housing",
+      "poll_option2_label": "Sign Housing Bill",
+      "poll_option2_desc": "Americans need affordable housing relief now, not political games",
+      "pexels_search_terms": "housing crisis affordable homes"
+    },
+    {
+      "title": "Political Witch Hunt or Criminal Accountability? Louisiana AG Indicted for Threatening Officials",
+      "slug": "louisiana-ag-murrill-indictment",
+      "topic_keywords": [
+        "Liz Murrill",
+        "Louisiana",
+        "criminal indictment",
+        "New Orleans",
+        "state vs local"
+      ],
+      "conservative_headline": "Democrat-Led New Orleans Grand Jury Weaponizes Justice Against Republican AG Murrill",
+      "liberal_headline": "Louisiana's Top Lawyer Faces Criminal Charges for Allegedly Intimidating Local Officials",
+      "poll_question": "Is the indictment of Attorney General Liz Murrill politically motivated?",
+      "poll_option1_label": "Kangaroo Court",
+      "poll_option1_desc": "This is a politically motivated attack on a tough-on-crime AG",
+      "poll_option2_label": "Legitimate Charges",
+      "poll_option2_desc": "No one is above the law, even the attorney general",
+      "pexels_search_terms": "courthouse gavel justice system"
+    },
+    {
+      "title": "Protecting Democracy or Voter Suppression? Supreme Court Rules on Mail-In Ballot Deadlines",
+      "slug": "supreme-court-mail-ballot-ruling",
+      "topic_keywords": [
+        "Supreme Court",
+        "mail-in voting",
+        "election law",
+        "ballot deadlines",
+        "Amy Coney Barrett"
+      ],
+      "conservative_headline": "Supreme Court Opens Door to Election Day Chaos with Mail Ballot Ruling",
+      "liberal_headline": "Supreme Court Protects Voting Rights, Rejects GOP Effort to Disqualify Late Ballots",
+      "poll_question": "Should mail-in ballots received after Election Day be counted?",
+      "poll_option1_label": "Election Day Deadline",
+      "poll_option1_desc": "All ballots must be received by Election Day to prevent fraud",
+      "poll_option2_label": "Postmark Deadline",
+      "poll_option2_desc": "Ballots postmarked by Election Day should count regardless of mail delays",
+      "pexels_search_terms": "voting mail ballot envelope"
+    },
+    {
+      "title": "Presidential Overreach or Constitutional Duty? Trump vs Federal Reserve Independence",
+      "slug": "trump-federal-reserve-firing-power",
+      "topic_keywords": [
+        "Federal Reserve",
+        "presidential power",
+        "Lisa Cook",
+        "central bank independence",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Supreme Court Expands Presidential Authority While Protecting Unelected Fed Bureaucrats",
+      "liberal_headline": "Supreme Court Blocks Trump's Attempt to Fire Fed Governor, Preserves Independence",
+      "poll_question": "Should the President have power to fire Federal Reserve governors?",
+      "poll_option1_label": "Presidential Control",
+      "poll_option1_desc": "Elected presidents should control all executive branch officials",
+      "poll_option2_label": "Fed Independence",
+      "poll_option2_desc": "The Fed must remain independent to prevent political interference",
+      "pexels_search_terms": "Federal Reserve building economy"
+    },
+    {
+      "title": "National Security or Warmongering? Trump Administration's Iran Strategy Under Fire",
+      "slug": "trump-iran-policy-debate",
+      "topic_keywords": [
+        "Iran",
+        "foreign policy",
+        "Khamenei death",
+        "military action",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump Shows Strength: America First Foreign Policy Keeps Iran in Check",
+      "liberal_headline": "Trump's Reckless Iran War Drives Up Inflation, Destabilizes Middle East",
+      "poll_question": "Is Trump's approach to Iran making America safer?",
+      "poll_option1_label": "Strong Leadership",
+      "poll_option1_desc": "Projecting strength prevents Iran from threatening American interests",
+      "poll_option2_label": "Dangerous Escalation",
+      "poll_option2_desc": "Military confrontation with Iran puts Americans at risk",
+      "pexels_search_terms": "Middle East military conflict"
+    },
+    {
+      "title": "Military Courage or Insubordination? Active-Duty Officer Arrested at Capitol for Criticizing Trump",
+      "slug": "military-officer-arrested-capitol",
+      "topic_keywords": [
+        "military",
+        "free speech",
+        "Trump criticism",
+        "Capitol Police",
+        "uniform"
+      ],
+      "conservative_headline": "Active-Duty Officer Faces Consequences for Violating Military Code with Political Attack",
+      "liberal_headline": "Trump Administration Arrests Military Officer in Uniform for Exercising Free Speech",
+      "poll_question": "Should active-duty military be allowed to publicly criticize the President?",
+      "poll_option1_label": "Military Discipline",
+      "poll_option1_desc": "Service members in uniform must remain apolitical and follow chain of command",
+      "poll_option2_label": "Constitutional Rights",
+      "poll_option2_desc": "Military members don't surrender their First Amendment rights",
+      "pexels_search_terms": "military uniform capitol building"
+    },
+    {
+      "title": "Generational Change or Progressive Takeover? Democratic Socialists Upset Establishment in Primaries",
+      "slug": "democratic-socialist-primary-wins",
+      "topic_keywords": [
+        "Colorado primary",
+        "Diana DeGette",
+        "Democratic Party",
+        "progressive movement",
+        "Kiros"
+      ],
+      "conservative_headline": "Radical Left Wins: Socialist Newcomer Defeats 15-Term Democrat in Colorado",
+      "liberal_headline": "Voters Choose Bold Progressive Vision, Oust Centrist Incumbent After 30 Years",
+      "poll_question": "Are Democratic Socialist primary victories good for the party?",
+      "poll_option1_label": "Recipe for Disaster",
+      "poll_option1_desc": "Radical candidates will cost Democrats seats in November",
+      "poll_option2_label": "New Energy",
+      "poll_option2_desc": "Young progressives represent the future Democrats need",
+      "pexels_search_terms": "voting primary election democracy"
+    },
+    {
+      "title": "Humanitarian Crisis or Rule of Law? Supreme Court Ends Protected Status for Haitians and Syrians",
+      "slug": "temporary-protected-status-ruling",
+      "topic_keywords": [
+        "immigration",
+        "TPS",
+        "Haiti",
+        "Syria",
+        "deportation"
+      ],
+      "conservative_headline": "Supreme Court Restores Immigration Enforcement, Ends Temporary Status Loophole",
+      "liberal_headline": "Court Greenlights Mass Deportations of Hundreds of Thousands to Dangerous Countries",
+      "poll_question": "Should Temporary Protected Status be ended for Haitians and Syrians?",
+      "poll_option1_label": "End TPS",
+      "poll_option1_desc": "Temporary means temporary; it's time to enforce the law",
+      "poll_option2_label": "Extend Protection",
+      "poll_option2_desc": "Deporting people to dangerous countries is inhumane",
+      "pexels_search_terms": "immigration refugees families"
+    },
+    {
+      "title": "Trump Family Business or Conflict of Interest? Donald Trump Jr.'s Gun Sales Empire",
+      "slug": "don-jr-gun-sales-business",
+      "topic_keywords": [
+        "Donald Trump Jr",
+        "firearms",
+        "GrabAGun",
+        "ethics",
+        "Second Amendment"
+      ],
+      "conservative_headline": "Don Jr. Supports Second Amendment Rights Through American Gun Business",
+      "liberal_headline": "President's Son Profits from Gun Sales While Father Sets Federal Policy",
+      "poll_question": "Is Donald Trump Jr.'s gun business a conflict of interest?",
+      "poll_option1_label": "No Conflict",
+      "poll_option1_desc": "Legal business supporting constitutional rights isn't a problem",
+      "poll_option2_label": "Clear Conflict",
+      "poll_option2_desc": "Family profiting from guns while setting policy is corruption",
+      "pexels_search_terms": "firearms gun store business"
+    },
+    {
+      "title": "National Monument or Trump Vanity Project? President's Giant Arch Plan Sparks Historic Preservation Battle",
+      "slug": "trump-memorial-arch-controversy",
+      "topic_keywords": [
+        "Trump arch",
+        "Memorial Circle",
+        "historic preservation",
+        "Washington DC",
+        "America 250"
+      ],
+      "conservative_headline": "Trump's Bold Vision: Magnificent Arch to Celebrate America's 250th Birthday",
+      "liberal_headline": "Trump Wants to Build Towering Monument to Himself on Historic Washington Land",
+      "poll_question": "Should Trump's arch be built at Memorial Circle in DC?",
+      "poll_option1_label": "Build the Arch",
+      "poll_option1_desc": "A grand monument befitting America's 250th anniversary celebration",
+      "poll_option2_label": "Protect History",
+      "poll_option2_desc": "Presidential ego project threatens DC's historic preservation",
+      "pexels_search_terms": "Washington DC monuments memorial"
+    }
+  ]
+}
