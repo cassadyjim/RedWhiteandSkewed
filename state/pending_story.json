@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-07",
+  "email_sent_at": "2026-07-07T06:14:52.729681",
+  "stories": [
+    {
+      "title": "Presidential Pressure or Fair Review? Trump's FIFA Phone Call Sparks World Cup Controversy",
+      "slug": "trump-fifa-world-cup-balogun-red-card-controversy",
+      "topic_keywords": [
+        "Trump",
+        "FIFA",
+        "World Cup",
+        "red card",
+        "political interference"
+      ],
+      "conservative_headline": "Trump Fights For American Athletes, Corrects Unfair FIFA Red Card Decision",
+      "liberal_headline": "Trump Intervenes in World Cup, Undermines Sports Integrity with FIFA Phone Call",
+      "poll_question": "Should the President intervene when American athletes face controversial penalties in international sports?",
+      "poll_option1_label": "Advocacy",
+      "poll_option1_desc": "Presidents should stand up for American athletes facing unfair treatment abroad",
+      "poll_option2_label": "Interference",
+      "poll_option2_desc": "Presidents should not meddle in sports governance or referee decisions",
+      "pexels_search_terms": "soccer world cup stadium referee"
+    },
+    {
+      "title": "Accountability or Political Targeting? Paul Pelosi Faces Hit-and-Run Charges in California",
+      "slug": "paul-pelosi-hit-and-run-napa-county-charges",
+      "topic_keywords": [
+        "Paul Pelosi",
+        "Nancy Pelosi",
+        "hit-and-run",
+        "California",
+        "criminal charges"
+      ],
+      "conservative_headline": "Paul Pelosi in Legal Trouble Again After Hit-and-Run Crash in Wine Country",
+      "liberal_headline": "Elderly Driver Paul Pelosi Faces Minor Charges After Accidental Car Incident",
+      "poll_question": "How should Paul Pelosi's hit-and-run incident be covered by the media?",
+      "poll_option1_label": "Pattern of Behavior",
+      "poll_option1_desc": "Second car incident shows accountability issues requiring serious scrutiny",
+      "poll_option2_label": "Private Matter",
+      "poll_option2_desc": "Minor accident by elderly driver shouldn't be politicized or sensationalized",
+      "pexels_search_terms": "car accident damaged vehicle California"
+    },
+    {
+      "title": "Election Security or Voter Suppression? SAVE America Act Divides House GOP",
+      "slug": "save-america-act-voter-id-house-gop-revolt",
+      "topic_keywords": [
+        "voter ID",
+        "SAVE America Act",
+        "Mike Johnson",
+        "election security",
+        "filibuster"
+      ],
+      "conservative_headline": "Speaker Johnson Vows to Pass Critical Voter ID Legislation Despite Democrat Obstruction",
+      "liberal_headline": "GOP Pushes Restrictive Voter ID Bill Through Budget Gimmicks After Revolt",
+      "poll_question": "Should strict voter ID and proof-of-citizenship requirements be mandated nationwide?",
+      "poll_option1_label": "Secure Elections",
+      "poll_option1_desc": "Strict ID requirements prevent fraud and ensure only citizens vote",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "Burdensome ID laws disenfranchise legitimate voters and target minorities",
+      "pexels_search_terms": "voting ballot box polling station"
+    },
+    {
+      "title": "Military Strength or Partisan Gamesmanship? Defense Bill Hostage to Voter ID Demands",
+      "slug": "ndaa-defense-bill-voter-id-linkage-senate",
+      "topic_keywords": [
+        "NDAA",
+        "defense bill",
+        "military",
+        "voter ID",
+        "budget reconciliation"
+      ],
+      "conservative_headline": "Johnson Links Defense Bill to Election Security in Strategic Move to Protect Democracy",
+      "liberal_headline": "GOP Threatens to Tank Critical Military Funding Over Partisan Voter ID Push",
+      "poll_question": "Should Congress link the Defense Authorization Act to voter ID legislation?",
+      "poll_option1_label": "Strategic Leverage",
+      "poll_option1_desc": "Use must-pass bills to advance critical election security reforms",
+      "poll_option2_label": "Reckless Hostage-Taking",
+      "poll_option2_desc": "Keep military funding separate from partisan political battles",
+      "pexels_search_terms": "military soldiers american flag pentagon"
+    },
+    {
+      "title": "Constitutional Crisis or Proper Checks? Trump Holds Up Nominations Over Senate Resistance",
+      "slug": "trump-blocks-intelligence-nominations-housing-bill",
+      "topic_keywords": [
+        "Trump",
+        "nominations",
+        "housing bill",
+        "filibuster",
+        "Senate"
+      ],
+      "conservative_headline": "Trump Stands Firm on Priorities, Refuses to Sign Bills Without Election Reforms",
+      "liberal_headline": "Trump Holds Government Hostage, Blocks Intelligence Picks and Housing Aid",
+      "poll_question": "Should the President withhold signatures on bipartisan bills to pressure Congress?",
+      "poll_option1_label": "Executive Power",
+      "poll_option1_desc": "Presidents should use all tools to advance their agenda",
+      "poll_option2_label": "Abuse of Power",
+      "poll_option2_desc": "Holding bipartisan legislation hostage undermines democratic governance",
+      "pexels_search_terms": "white house president signing document"
+    },
+    {
+      "title": "Generational Change or Progressive Takeover? Democratic Incumbents Fall to Socialist Challengers",
+      "slug": "democratic-primary-upsets-socialist-victories-colorado",
+      "topic_keywords": [
+        "Democratic primary",
+        "Diana DeGette",
+        "socialism",
+        "progressive",
+        "Colorado"
+      ],
+      "conservative_headline": "Far-Left Socialists Purge Moderate Democrats in Shocking Primary Defeats",
+      "liberal_headline": "Progressive Insurgents Bring Fresh Vision, Defeat Entrenched Democratic Establishment",
+      "poll_question": "Are Democratic Socialist primary victories good for the Democratic Party?",
+      "poll_option1_label": "Radical Takeover",
+      "poll_option1_desc": "Socialist extremists are pushing Democrats away from mainstream voters",
+      "poll_option2_label": "Necessary Change",
+      "poll_option2_desc": "New progressive leaders energize base and represent future of party",
+      "pexels_search_terms": "voting election primary democratic ballot"
+    },
+    {
+      "title": "National Unity or Divisive Rhetoric? Trump's America 250 Speech Blends Politics with Patriotism",
+      "slug": "trump-america-250-speech-communism-warning",
+      "topic_keywords": [
+        "America 250",
+        "Trump speech",
+        "communism",
+        "patriotism",
+        "July 4th"
+      ],
+      "conservative_headline": "Trump Delivers Rousing Patriotic Address Warning Against Resurgence of Communism",
+      "liberal_headline": "Trump Injects Dark Partisan Politics Into America's 250th Anniversary Celebration",
+      "poll_question": "Should the President's speeches at patriotic celebrations be nonpartisan?",
+      "poll_option1_label": "Call Out Threats",
+      "poll_option1_desc": "Presidents should warn Americans about real dangers like communism",
+      "poll_option2_label": "Unifying Tradition",
+      "poll_option2_desc": "Patriotic celebrations should unite all Americans not divide them",
+      "pexels_search_terms": "american flag july fourth celebration fireworks"
+    },
+    {
+      "title": "Mental Health Awareness or Dereliction of Duty? GOP Congressman's Mysterious Months-Long Absence Explained",
+      "slug": "tom-kean-depression-absence-congress",
+      "topic_keywords": [
+        "Tom Kean",
+        "depression",
+        "mental health",
+        "Congress",
+        "absence"
+      ],
+      "conservative_headline": "Rep. Kean Shows Courage Coming Forward About Depression After Hospital Stay",
+      "liberal_headline": "GOP Congressman Left Constituents Without Representation for Months Over Health Crisis",
+      "poll_question": "Should members of Congress be required to disclose extended absences?",
+      "poll_option1_label": "Privacy Rights",
+      "poll_option1_desc": "Medical conditions are personal and representatives deserve privacy",
+      "poll_option2_label": "Accountability",
+      "poll_option2_desc": "Constituents deserve to know why their representative is absent",
+      "pexels_search_terms": "congress capitol building representative mental health"
+    },
+    {
+      "title": "Undermining Democracy or Institutional Reform? Senate GOP Split Over Filibuster Elimination",
+      "slug": "filibuster-debate-senate-republicans-trump",
+      "topic_keywords": [
+        "filibuster",
+        "Senate",
+        "Ron Johnson",
+        "John Thune",
+        "parliamentary rules"
+      ],
+      "conservative_headline": "Sen. Ron Johnson: Kill Filibuster First Before Democrats Use It Against Us",
+      "liberal_headline": "Trump Allies Push to Destroy Senate Filibuster, Threatening Democratic Norms",
+      "poll_question": "Should Senate Republicans eliminate the filibuster to advance their agenda?",
+      "poll_option1_label": "Strategic Move",
+      "poll_option1_desc": "End filibuster now before Democrats do it themselves later",
+      "poll_option2_label": "Protect Tradition",
+      "poll_option2_desc": "Preserve filibuster as crucial check on majority power",
+      "pexels_search_terms": "senate chamber congress legislative debate"
+    },
+    {
+      "title": "Worksite Enforcement or Immigration Raids? Trump Admin Plans Major Crackdown on Employers",
+      "slug": "trump-worksite-immigration-enforcement-employer-crackdown",
+      "topic_keywords": [
+        "immigration",
+        "worksite enforcement",
+        "employers",
+        "ICE",
+        "deportation"
+      ],
+      "conservative_headline": "Trump Administration to Crack Down on Businesses Hiring Illegal Immigrants",
+      "liberal_headline": "Trump Plans Massive Workplace Raids Threatening Immigrant Families and Businesses",
+      "poll_question": "Should the government increase worksite immigration enforcement?",
+      "poll_option1_label": "Employer Accountability",
+      "poll_option1_desc": "Businesses hiring illegal workers should face serious consequences and prosecution",
+      "poll_option2_label": "Economic Disruption",
+      "poll_option2_desc": "Workplace raids hurt businesses and tear apart immigrant families",
+      "pexels_search_terms": "workplace factory workers immigration enforcement"
+    }
+  ]
+}
