@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-08",
+  "email_sent_at": "2026-07-08T05:27:37.726906",
+  "stories": [
+    {
+      "title": "Presidential Pressure or Fair Review? Trump's FIFA Red Card Intervention Divides Nation",
+      "slug": "trump-fifa-world-cup-red-card-controversy",
+      "topic_keywords": [
+        "Trump",
+        "World Cup",
+        "FIFA",
+        "corruption",
+        "sports"
+      ],
+      "conservative_headline": "Trump Stands Up for America, Gets Unfair Red Card Overturned",
+      "liberal_headline": "Trump Corrupts World Cup, Pressures FIFA to Bend Rules for US Player",
+      "poll_question": "Should the President intervene in sports referee decisions?",
+      "poll_option1_label": "Patriotic Leadership",
+      "poll_option1_desc": "Trump fought for American athlete treated unfairly by biased referee",
+      "poll_option2_label": "Abuse of Power",
+      "poll_option2_desc": "Presidential interference undermines integrity of international sports competition",
+      "pexels_search_terms": "soccer red card referee"
+    },
+    {
+      "title": "Escalation or Necessary Defense? US Strikes Iran After Tanker Attacks",
+      "slug": "us-iran-strikes-strait-hormuz-ceasefire",
+      "topic_keywords": [
+        "Iran",
+        "military strikes",
+        "Middle East",
+        "ceasefire",
+        "oil"
+      ],
+      "conservative_headline": "US Defends Global Commerce With Powerful Iran Strikes After Ceasefire Violation",
+      "liberal_headline": "Trump Risks Wider War With Iran Escalation Despite Fragile Peace Deal",
+      "poll_question": "Was the US military response to Iran's attacks justified?",
+      "poll_option1_label": "Strong Defense",
+      "poll_option1_desc": "Iran violated ceasefire; US must protect international shipping and deter aggression",
+      "poll_option2_label": "Reckless Escalation",
+      "poll_option2_desc": "Strikes jeopardize peace negotiations and risk wider regional war",
+      "pexels_search_terms": "military strike explosion night"
+    },
+    {
+      "title": "Progressive Champion or Defund Denier? Michigan Senate Candidate's Police Controversy",
+      "slug": "abdul-el-sayed-defund-police-michigan-senate",
+      "topic_keywords": [
+        "defund police",
+        "Michigan",
+        "Senate race",
+        "Abdul El-Sayed",
+        "crime"
+      ],
+      "conservative_headline": "Radical Democrat Caught Lying About Defund the Police Support",
+      "liberal_headline": "GOP Attacks Michigan Progressive With Old Clips, Ignoring Nuanced Position",
+      "poll_question": "Should politicians be held accountable for past defund the police statements?",
+      "poll_option1_label": "Past Matters",
+      "poll_option1_desc": "Candidates can't delete controversial positions when politically convenient",
+      "poll_option2_label": "Views Evolve",
+      "poll_option2_desc": "Politicians' positions become more nuanced with experience and changing contexts",
+      "pexels_search_terms": "police officers community"
+    },
+    {
+      "title": "Accountability or Witch Hunt? Democrats Demand Maine Senate Candidate Withdraw After Assault Allegation",
+      "slug": "graham-platner-sexual-assault-maine-senate",
+      "topic_keywords": [
+        "Graham Platner",
+        "sexual assault",
+        "Maine",
+        "Senate race",
+        "MeToo"
+      ],
+      "conservative_headline": "Democrats Eat Their Own: Party Turns on Platner Over Unproven Allegations",
+      "liberal_headline": "Democratic Leaders Demand Platner Exit Race After Credible Sexual Assault Accusation",
+      "poll_question": "Should Senate candidate Platner drop out over sexual assault allegation?",
+      "poll_option1_label": "Innocent Until Proven",
+      "poll_option1_desc": "One allegation shouldn't end career; accusation alone isn't conviction",
+      "poll_option2_label": "Believe Survivors",
+      "poll_option2_desc": "Credible allegations require candidate to step aside for party integrity",
+      "pexels_search_terms": "campaign rally politician speaking"
+    },
+    {
+      "title": "Transparency Crisis or Privacy Rights? McConnell Hospitalization Sparks Health Disclosure Debate",
+      "slug": "mitch-mcconnell-hospitalized-secrecy-health",
+      "topic_keywords": [
+        "Mitch McConnell",
+        "health",
+        "transparency",
+        "Senate",
+        "hospitalization"
+      ],
+      "conservative_headline": "McConnell Deserves Privacy During Recovery, Family Making Medical Decisions",
+      "liberal_headline": "McConnell Team Hides Health Crisis From Public for Three Weeks",
+      "poll_question": "Should elected officials disclose detailed health information?",
+      "poll_option1_label": "Medical Privacy",
+      "poll_option1_desc": "Politicians entitled to same health privacy rights as all Americans",
+      "poll_option2_label": "Public's Right to Know",
+      "poll_option2_desc": "Voters deserve transparency about officials' ability to serve effectively",
+      "pexels_search_terms": "hospital elderly politician"
+    },
+    {
+      "title": "Partisan Gerrymandering or Democratic Reform? Maryland Plans Special Session on Redistricting",
+      "slug": "maryland-redistricting-special-session-gerrymander",
+      "topic_keywords": [
+        "gerrymandering",
+        "Maryland",
+        "redistricting",
+        "congressional maps",
+        "Democrats"
+      ],
+      "conservative_headline": "Maryland Democrats Plot Brazen Gerrymander to Eliminate All GOP Seats",
+      "liberal_headline": "Maryland Lawmakers Pursue Constitutional Amendment to Fix Broken Redistricting",
+      "poll_question": "Should Maryland Democrats pursue an 8-0 congressional map?",
+      "poll_option1_label": "Power Grab",
+      "poll_option1_desc": "Extreme partisan gerrymandering undermines fair representation and democratic principles",
+      "poll_option2_label": "Leveling Field",
+      "poll_option2_desc": "Republicans gerrymander nationwide; Democrats must compete using same tools",
+      "pexels_search_terms": "voting district map"
+    },
+    {
+      "title": "Protecting Kids or Big Tech Overreach? Texas App Age Verification Law Takes Effect",
+      "slug": "texas-app-age-verification-supreme-court",
+      "topic_keywords": [
+        "Supreme Court",
+        "Texas",
+        "parental rights",
+        "apps",
+        "minors"
+      ],
+      "conservative_headline": "Supreme Court Lets Texas Protect Children From Dangerous Apps",
+      "liberal_headline": "Texas Law Creates Surveillance State for Minors' Phone Use",
+      "poll_question": "Should states require parental permission for minors to download apps?",
+      "poll_option1_label": "Parental Rights",
+      "poll_option1_desc": "Parents should control what children download; protects kids from harmful content",
+      "poll_option2_label": "Privacy Invasion",
+      "poll_option2_desc": "Creates surveillance infrastructure and limits teens' access to vital information",
+      "pexels_search_terms": "teenager smartphone parents"
+    },
+    {
+      "title": "Oversight or Intimidation? Federal Agents Visit Citizen Who Criticized ICE",
+      "slug": "ice-agents-home-visit-critical-email",
+      "topic_keywords": [
+        "ICE",
+        "free speech",
+        "intimidation",
+        "immigration",
+        "First Amendment"
+      ],
+      "conservative_headline": "ICE Agents Conduct Routine Follow-Up After Threatening Email to Agency",
+      "liberal_headline": "Trump's ICE Targets Citizen With Home Visit for Sending Critical Email",
+      "poll_question": "Should federal agents visit citizens who send critical emails?",
+      "poll_option1_label": "Legitimate Inquiry",
+      "poll_option1_desc": "Agencies must investigate potentially threatening communications to protect employees",
+      "poll_option2_label": "Chilling Effect",
+      "poll_option2_desc": "Government intimidates critics and suppresses constitutionally protected speech",
+      "pexels_search_terms": "federal agents door"
+    },
+    {
+      "title": "Academic Bias or Historical Truth? White House Report Blasts Smithsonian for 'Radical Ideology'",
+      "slug": "white-house-smithsonian-radical-ideology-report",
+      "topic_keywords": [
+        "Smithsonian",
+        "museums",
+        "woke",
+        "history",
+        "culture war"
+      ],
+      "conservative_headline": "White House Exposes Smithsonian's Woke Propaganda Masquerading as History",
+      "liberal_headline": "Trump Administration Attacks Museums for Teaching Accurate American History",
+      "poll_question": "Is the Smithsonian promoting radical ideology or inclusive history?",
+      "poll_option1_label": "Woke Propaganda",
+      "poll_option1_desc": "Museums pushing divisive political agenda instead of celebrating American greatness",
+      "poll_option2_label": "Complete History",
+      "poll_option2_desc": "Institutions rightfully presenting full story including marginalized perspectives",
+      "pexels_search_terms": "museum history exhibit"
+    },
+    {
+      "title": "Conscience Protection or Discrimination? Trump Administration Rolls Back Teen Pregnancy Prevention Funding",
+      "slug": "trump-teen-pregnancy-contraception-funding",
+      "topic_keywords": [
+        "contraception",
+        "teen pregnancy",
+        "reproductive health",
+        "abstinence",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Promotes Life by Shifting Teen Programs Toward Family Values",
+      "liberal_headline": "Trump Cuts Proven Teen Pregnancy Prevention, Pushes Abstinence-Only Agenda",
+      "poll_question": "Should federal programs promote childbearing over pregnancy prevention?",
+      "poll_option1_label": "Pro-Life Values",
+      "poll_option1_desc": "Government should support families and life, not subsidize contraception",
+      "poll_option2_label": "Public Health Crisis",
+      "poll_option2_desc": "Evidence-based prevention reduces teen pregnancy; abstinence-only programs fail",
+      "pexels_search_terms": "teenage pregnancy healthcare"
+    }
+  ]
+}
