@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-09",
+  "email_sent_at": "2026-07-09T06:11:23.851799",
+  "stories": [
+    {
+      "title": "Ceasefire Collapse or Justified Retaliation? US Strikes Iran After Shipping Attacks",
+      "slug": "iran-ceasefire-collapse-us-strikes-oil-sanctions",
+      "topic_keywords": [
+        "Iran",
+        "military strikes",
+        "ceasefire",
+        "oil sanctions",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Takes Decisive Action Against Iranian Aggression in Strait of Hormuz",
+      "liberal_headline": "Trump's Reckless Iran Strikes Threaten Fragile Peace Deal He Just Celebrated",
+      "poll_question": "Should the US have launched new military strikes on Iran after shipping attacks?",
+      "poll_option1_label": "Necessary Response",
+      "poll_option1_desc": "Iran violated ceasefire agreement and threatened vital shipping lanes requiring strong action",
+      "poll_option2_label": "Dangerous Escalation",
+      "poll_option2_desc": "Strikes risk destroying ceasefire and reigniting war Trump claimed was over",
+      "pexels_search_terms": "military strike missile iran"
+    },
+    {
+      "title": "Federal Overreach or Election Integrity? DOJ Demands States' Voter Data",
+      "slug": "doj-voter-data-lawsuit-states-refuse",
+      "topic_keywords": [
+        "voter data",
+        "DOJ",
+        "election integrity",
+        "privacy",
+        "states rights"
+      ],
+      "conservative_headline": "30 States Obstruct Federal Efforts to Clean Up Dirty Voter Rolls",
+      "liberal_headline": "Trump DOJ Creates Illegal Voter Surveillance Database to Purge Eligible Voters",
+      "poll_question": "Should the DOJ have access to complete state voter registration lists with Social Security numbers?",
+      "poll_option1_label": "Ensure Clean Rolls",
+      "poll_option1_desc": "Federal oversight needed to prevent fraud and maintain accurate voter registration",
+      "poll_option2_label": "Protect Privacy",
+      "poll_option2_desc": "Unprecedented federal power grab violates privacy and threatens eligible voters",
+      "pexels_search_terms": "voting ballot database privacy"
+    },
+    {
+      "title": "Progressive Revolution or Corporate Puppet? Michigan Senate Primary Explodes Over AIPAC",
+      "slug": "michigan-senate-el-sayed-stevens-aipac-debate",
+      "topic_keywords": [
+        "Michigan",
+        "AIPAC",
+        "Israel",
+        "Democratic primary",
+        "progressive"
+      ],
+      "conservative_headline": "Radical El-Sayed Attacks Israel, Calls for Abolishing ICE in Senate Bid",
+      "liberal_headline": "Corporate-Backed Stevens Defends Millions in AIPAC Money as Progressive Surges",
+      "poll_question": "Should Democratic candidates accept campaign funding from AIPAC?",
+      "poll_option1_label": "Support Israel",
+      "poll_option1_desc": "AIPAC represents legitimate support for US-Israel alliance and democratic values",
+      "poll_option2_label": "Reject Influence",
+      "poll_option2_desc": "AIPAC money corrupts foreign policy and enables unconditional military aid",
+      "pexels_search_terms": "political debate campaign money"
+    },
+    {
+      "title": "Transparency or Intimidation? Federal Agents Visit Critic's Home After Email",
+      "slug": "ice-agents-warning-david-streever-lawsuit",
+      "topic_keywords": [
+        "ICE",
+        "federal agents",
+        "First Amendment",
+        "intimidation",
+        "whistleblower"
+      ],
+      "conservative_headline": "ICE Properly Investigates Threatening Communications Sent to Agency Leadership",
+      "liberal_headline": "Trump's ICE Tries to Silence Critics with Doorstep Intimidation Tactics",
+      "poll_question": "Should federal agents visit citizens' homes over critical emails to government officials?",
+      "poll_option1_label": "Legitimate Investigation",
+      "poll_option1_desc": "Law enforcement must assess potential threats to protect federal officials",
+      "poll_option2_label": "Chilling Effect",
+      "poll_option2_desc": "Government intimidating citizens for exercising First Amendment rights to criticize",
+      "pexels_search_terms": "federal agents doorbell camera"
+    },
+    {
+      "title": "Justice Restored or Political Vendetta? Trump DOJ Seeks Georgia Election Worker Names",
+      "slug": "doj-georgia-election-workers-fulton-county-subpoena",
+      "topic_keywords": [
+        "Georgia",
+        "election workers",
+        "2020 election",
+        "DOJ",
+        "Fulton County"
+      ],
+      "conservative_headline": "DOJ Rightfully Investigates Election Irregularities in Democrat-Run Fulton County",
+      "liberal_headline": "Judge Blocks Trump's 'Unreasonable' Attempt to Target Georgia Election Workers",
+      "poll_question": "Should the DOJ be able to subpoena names of 2020 election workers in Georgia?",
+      "poll_option1_label": "Investigate Fraud",
+      "poll_option1_desc": "Federal government must examine potential election irregularities in key counties",
+      "poll_option2_label": "Harassment Campaign",
+      "poll_option2_desc": "Attempt to intimidate and punish officials who certified legitimate election results",
+      "pexels_search_terms": "election workers voting ballot"
+    },
+    {
+      "title": "Immigration Justice or Reckless Policy? Trump Admin Fires Immigration Judges",
+      "slug": "immigration-judges-fired-trump-deportation-policy",
+      "topic_keywords": [
+        "immigration judges",
+        "deportation",
+        "Trump administration",
+        "ICE",
+        "due process"
+      ],
+      "conservative_headline": "Trump Cleans House of Activist Judges Who Blocked Deportations",
+      "liberal_headline": "Mass Firing of Immigration Judges Dismantles Due Process Protections",
+      "poll_question": "Should the Trump administration be firing immigration judges?",
+      "poll_option1_label": "Enforce Law",
+      "poll_option1_desc": "Removing judges who obstructed legitimate deportation orders and immigration enforcement",
+      "poll_option2_label": "Destroy Courts",
+      "poll_option2_desc": "Politicizing independent judiciary to rubber-stamp deportations without fair hearings",
+      "pexels_search_terms": "judge courtroom immigration gavel"
+    },
+    {
+      "title": "Historic Accountability or Presidential Harassment? E. Jean Carroll Wins $5.8M From Trump",
+      "slug": "e-jean-carroll-trump-damages-payment-court-order",
+      "topic_keywords": [
+        "Trump",
+        "E. Jean Carroll",
+        "defamation",
+        "sexual abuse",
+        "court judgment"
+      ],
+      "conservative_headline": "Liberal Judge Forces Trump to Pay Politically-Motivated Accuser Millions",
+      "liberal_headline": "Trump Finally Held Accountable: Court Orders Payment to Sexual Abuse Victim",
+      "poll_question": "Should Trump be required to pay E. Jean Carroll $5.8 million in damages?",
+      "poll_option1_label": "Unjust Verdict",
+      "poll_option1_desc": "Politically motivated case based on decades-old allegations without real evidence",
+      "poll_option2_label": "Justice Served",
+      "poll_option2_desc": "Jury found Trump liable for abuse and defamation deserving compensation",
+      "pexels_search_terms": "courtroom judge verdict justice"
+    },
+    {
+      "title": "Parental Rights Victory or Censorship? Texas App Age Verification Law Takes Effect",
+      "slug": "texas-app-store-age-verification-law-supreme-court",
+      "topic_keywords": [
+        "Texas",
+        "app store",
+        "age verification",
+        "minors",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Supreme Court Protects Children: Texas Can Require Parental Consent for Apps",
+      "liberal_headline": "Court Allows Dangerous Surveillance Law Restricting Teens' Digital Access",
+      "poll_question": "Should states require parental permission for minors to download apps?",
+      "poll_option1_label": "Protect Children",
+      "poll_option1_desc": "Parents have right to oversee what apps their children access",
+      "poll_option2_label": "Restrict Access",
+      "poll_option2_desc": "Creates surveillance infrastructure and limits teens' access to important resources",
+      "pexels_search_terms": "teenager smartphone app parent"
+    },
+    {
+      "title": "National Symbol Restoration or Petty Obsession? Trump Drains Reflecting Pool Again",
+      "slug": "trump-reflecting-pool-kennedy-center-name-removal",
+      "topic_keywords": [
+        "Reflecting Pool",
+        "Kennedy Center",
+        "Trump name",
+        "National Mall",
+        "monuments"
+      ],
+      "conservative_headline": "Trump Administration Works to Fix Neglected National Monuments After Biden",
+      "liberal_headline": "Trump Wastes Taxpayer Money on Vanity Projects While Erasing His Name",
+      "poll_question": "Should Trump's name remain on federal buildings and monuments?",
+      "poll_option1_label": "Honor Achievements",
+      "poll_option1_desc": "Presidents deserve recognition for contributions and Trump earned place in history",
+      "poll_option2_label": "Remove Name",
+      "poll_option2_desc": "Self-aggrandizing naming inappropriate for public institutions funded by taxpayers",
+      "pexels_search_terms": "washington monument national mall"
+    },
+    {
+      "title": "National Security or Unconstitutional Deportation? DOJ Shared Iranian Asylum Seeker Data",
+      "slug": "trump-admin-iranian-asylum-seekers-confidential-data-lawsuit",
+      "topic_keywords": [
+        "Iran",
+        "asylum seekers",
+        "deportation",
+        "confidential data",
+        "lawsuit"
+      ],
+      "conservative_headline": "Trump Administration Deports Dangerous Iranian Nationals Who Lied on Applications",
+      "liberal_headline": "Trump Violated Law by Sharing Asylum Seekers' Data to Expedite Deportations",
+      "poll_question": "Should the US have shared confidential information on Iranian asylum seekers to facilitate deportations?",
+      "poll_option1_label": "National Security",
+      "poll_option1_desc": "Iranian asylum seekers pose potential security risk requiring thorough vetting",
+      "poll_option2_label": "Illegal Violation",
+      "poll_option2_desc": "Sharing confidential data violated law and endangered people fleeing persecution",
+      "pexels_search_terms": "immigration refugee asylum deportation"
+    }
+  ]
+}
