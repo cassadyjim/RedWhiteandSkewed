@@ -2,16 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-06-24",
-      "slug": "birthright-citizenship-trump-executive-order-scotus",
-      "topic": "birthright citizenship immigration Trump Constitution 14th Amendment"
-    },
-    {
-      "date": "2026-06-25",
-      "slug": "trump-cancels-housing-bill-signing-save-act",
-      "topic": "housing SAVE Act voting rights bipartisan Trump"
-    },
-    {
       "date": "2026-06-29",
       "slug": "social-security-2032-crisis-debate",
       "topic": "Social Security entitlements retirement 2032 budget crisis"
@@ -30,6 +20,11 @@
       "date": "2026-07-05",
       "slug": "supreme-court-mail-ballot-ruling",
       "topic": "Supreme Court mail-in voting election law ballot deadlines Amy Coney Barrett"
+    },
+    {
+      "date": "2026-07-10",
+      "slug": "doj-voter-data-lawsuit-states-refusing",
+      "topic": "voter data DOJ election integrity privacy federal overreach"
     }
   ]
 }

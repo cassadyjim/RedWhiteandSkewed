@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-10",
+  "title": "Election Integrity or Voter Intimidation? DOJ Demands Sensitive Data from 30 States",
+  "subtitle": "The Department of Justice has sued 30 states and Washington, D.C. for refusing to provide detailed voter registration data, sparking a fierce partisan battle over election integrity versus voter privacy.",
+  "image": {
+    "url": "https://images.pexels.com/photos/7103187/pexels-photo-7103187.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Photo: Edmond Dant\u00e8s / Pexels",
+    "alt": "Election Integrity or Voter Intimidation? DOJ Demands Sensitive Data from 30 States",
+    "source": "Pexels",
+    "page": "https://www.pexels.com/photo/person-putting-a-ballot-in-the-box-7103187/",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should DOJ access states' complete voter registration data including SSNs?",
+    "options": [
+      {
+        "label": "Ensure Integrity",
+        "description": "Federal government needs data to prevent illegal voting and fraud"
+      },
+      {
+        "label": "Protect Privacy",
+        "description": "States should refuse federal demands for citizens' sensitive personal information"
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "DOJ Fights for Clean Voter Rolls as 30 States Obstruct Election Integrity Efforts",
+    "byline": "As seen on Washington Examiner, Daily Caller, Department of Justice",
+    "paragraphs": [
+      "<strong>The Department of Justice is finally taking action to restore Americans' confidence in election integrity, demanding that states fulfill their basic legal obligation to maintain accurate voter rolls. After years of neglect, the DOJ has filed lawsuits against 30 states and Washington, D.C. that have refused to provide voter registration data necessary to identify and remove ineligible voters from the rolls.</strong>",
+      "Attorney General Pam Bondi made the case clear in announcing the lawsuits: <a href=\"https://www.justice.gov/opa/pr/justice-department-sues-six-additional-states-failure-provide-voter-registration-rolls\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"Accurate voter rolls are the cornerstone of fair and free elections.\"</a> The DOJ's Civil Rights Division, led by Assistant Attorney General Harmeet Dhillon, has discovered shocking evidence of sloppy voter roll maintenance nationwide.",
+      "According to <a href=\"https://www.washingtonexaminer.com/news/justice/4641501/harmeet-dhillon-states-homework-voter-rolls-midterms/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Harmeet Dhillon's findings</a>, there are \"at least 350,000 dead people currently on the voter rolls\" across the country. This isn't a partisan witch hunt\u2014it's about basic election administration. States have <a href=\"https://dailycaller.com/2026/07/08/justice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"homework to do on voter rolls\"</a> that they've been avoiding for years.",
+      "The data tells a damning story. According to analysis from the Electronic Registration Information Center (ERIC), states are sitting on 13.9 million cross-state movers, nearly 30 million voters needing address updates, 1.38 million duplicate registrations, and roughly 660,000 registrations tied to deceased people. These aren't theoretical problems\u2014they're real vulnerabilities in our election system.",
+      "As the <a href=\"https://www.washingtonexaminer.com/opinion/editorials/4632154/keep-up-pressure-state-voter-roll-purges/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Washington Examiner's editorial board wrote</a>, \"Clean voter rolls are the foundation of secure elections.\" Yet liberal states are fighting tooth and nail to prevent basic list maintenance, hiding behind privacy concerns while millions of inaccurate records remain on the books.",
+      "Sixteen states have already complied with the DOJ's request and provided their voter data, including Alabama, Florida, Texas, and Ohio. These states understand that transparency and accuracy strengthen democracy rather than threaten it. The DOJ plans to cross-reference the data with the Department of Homeland Security's SAVE database to identify non-citizens who may be improperly registered.",
+      "Assistant Attorney General Dhillon has emphasized that <a href=\"https://www.washingtonexaminer.com/news/justice/4641501/harmeet-dhillon-states-homework-voter-rolls-midterms/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">\"We're here to represent and protect all Americans, and do so on a nonpartisan basis.\"</a> This isn't about suppressing votes\u2014it's about ensuring that only eligible citizens vote and that their votes aren't diluted by inaccurate rolls.",
+      "<strong>The resistance from Democratic-controlled states reveals their true priority: maintaining bloated voter rolls that create opportunities for fraud and undermine public confidence in elections. Americans deserve to know their elections are conducted fairly, and that starts with accurate voter rolls. The DOJ is standing up for election integrity, and it's about time.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "Department of Justice \u2014 Justice Department Sues Six Additional States for Failure to Provide Voter Registration Rolls",
+        "url": "https://www.justice.gov/opa/pr/justice-department-sues-six-additional-states-failure-provide-voter-registration-rolls"
+      },
+      {
+        "text": "Washington Examiner \u2014 Harmeet Dhillon: States have 'homework to do' on voter rolls before midterms",
+        "url": "https://www.washingtonexaminer.com/news/justice/4641501/harmeet-dhillon-states-homework-voter-rolls-midterms/"
+      },
+      {
+        "text": "Daily Caller \u2014 Justice Department Launches Election Integrity Offensive On Voter Rolls",
+        "url": "https://dailycaller.com/2026/07/08/justice-department-election-integrity-civil-rights-voter-rolls-donald-trump-harmeet-dhillon/"
+      },
+      {
+        "text": "Washington Examiner \u2014 Keep up the pressure on state voter roll purges",
+        "url": "https://www.washingtonexaminer.com/opinion/editorials/4632154/keep-up-pressure-state-voter-roll-purges/"
+      }
+    ]
+  },
+  "liberal": {
+    "headline": "Trump's DOJ Sues 30 States in Alarming Power Grab for Citizens' Private Voter Information",
+    "byline": "As seen on Salon, Common Cause, NBC News, PBS NewsHour",
+    "paragraphs": [
+      "<strong>In an unprecedented assault on voter privacy and states' rights, the Trump administration's Department of Justice has launched a nationwide campaign to seize sensitive personal information of millions of American voters, suing 30 states and Washington, D.C. that have refused to comply with sweeping data demands. The move represents a dangerous expansion of federal power that threatens both election security and constitutional principles.</strong>",
+      "Virginia Kase Solom\u00f3n, President and CEO of Common Cause, didn't mince words about the administration's intentions: <a href=\"https://www.commoncause.org/press-release/common-cause-statement-on-dojs-lawsuits-against-states-refusing-to-comply-with-demand-for-voter-data/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"This is a blatant, partisan power grab designed to cast doubt on the validity of our elections.\"</a> She went further, warning that <a href=\"https://www.commoncause.org/press-release/common-cause-statement-on-dojs-lawsuits-against-states-refusing-to-comply-with-demand-for-voter-data/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"President Trump's DOJ isn't just threatening the privacy of every American\u2014they are building a system designed to imprison the ballot box and silence millions of eligible voters.\"</a>",
+      "The DOJ is demanding driver's license numbers, partial Social Security numbers, dates of birth, and detailed address histories\u2014exactly the kind of sensitive data that could be used to intimidate voters or enable large-scale purges of eligible citizens from voter rolls. State election officials are rightly pushing back against this federal overreach.",
+      "Washington Secretary of State Steve Hobbs warned that the <a href=\"https://www.nbcnews.com/politics/justice-department/tracking-dojs-effort-get-us-voter-registration-data-rcna331509\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">DOJ is \"accelerating down a slippery slope of threatening personal legal action against election administrators\"</a> who are simply trying to protect their constituents' privacy and constitutional rights. Colorado Secretary of State Jena Griswold was equally defiant, declaring <a href=\"https://www.salon.com/2026/04/03/states-are-resisting-the-trump-admins-voter-data-power-grab-partner/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"We will not hand over Coloradans' sensitive voting information to Donald Trump. He does not have a legal right to the information.\"</a>",
+      "The courts are siding with the states. Federal judges have already dismissed DOJ lawsuits in 11 states, including California, Michigan, Pennsylvania, and Wisconsin. Maine Secretary of State Shenna Bellows celebrated her state's victory by noting that <a href=\"https://www.pbs.org/newshour/politics/federal-judge-dismisses-justice-department-lawsuit-seeking-detailed-maryland-voter-data\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">\"Today's ruling affirms that the states, not the federal government, are in charge of our elections.\"</a> One judge even called the DOJ's data demands a \"fishing expedition.\"",
+      "The timing is particularly suspicious. This mass data collection effort comes as Trump continues to promote debunked conspiracy theories about the 2020 election and as Republican-controlled states have already begun aggressive voter purges that have removed eligible voters from the rolls. The DOJ's plan to run state voter data through the Department of Homeland Security's SAVE database\u2014a system known for high error rates\u2014raises serious concerns about mass disenfranchisement.",
+      "The constitutional implications are staggering. For decades, states have managed their own elections under the Tenth Amendment, developing voter registration systems that balance accessibility with security. The Trump DOJ's demand represents a radical departure from federalism, attempting to centralize voter data in Washington where it could be vulnerable to hacking, misuse, or political manipulation.",
+      "<strong>As 30 states continue to resist this federal power grab, Americans should ask themselves: Why does Donald Trump's Justice Department need driver's license numbers and Social Security information for millions of voters? The answer isn't election security\u2014it's voter suppression. This is an authoritarian playbook, and states are right to fight back.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "Common Cause \u2014 Common Cause Statement on DOJ's Lawsuits Against States Refusing to Comply with Demand for Voter Data",
+        "url": "https://www.commoncause.org/press-release/common-cause-statement-on-dojs-lawsuits-against-states-refusing-to-comply-with-demand-for-voter-data/"
+      },
+      {
+        "text": "NBC News \u2014 Tracking the DOJ's effort to get U.S. voter registration data",
+        "url": "https://www.nbcnews.com/politics/justice-department/tracking-dojs-effort-get-us-voter-registration-data-rcna331509"
+      },
+      {
+        "text": "Salon \u2014 States are resisting the Trump admin's voter data power grab",
+        "url": "https://www.salon.com/2026/04/03/states-are-resisting-the-trump-admins-voter-data-power-grab-partner/"
+      },
+      {
+        "text": "PBS NewsHour \u2014 Federal judge dismisses Justice Department lawsuit seeking detailed Maryland voter data",
+        "url": "https://www.pbs.org/newshour/politics/federal-judge-dismisses-justice-department-lawsuit-seeking-detailed-maryland-voter-data"
+      }
+    ]
+  },
+  "factcheck": {
+    "headline": "Separating Fact from Spin",
+    "paragraphs": [
+      "<strong>Both sides are presenting selective versions of a complex legal and political battle over voter data. Here is what we actually know.</strong>",
+      "<p class=\"text-xl font-bold text-purple-900\">THE UNDISPUTED FACTS:</p>",
+      "\u2713 <strong>Lawsuits filed:</strong> <a href=\"https://www.nbcnews.com/politics/justice-department/tracking-dojs-effort-get-us-voter-registration-data-rcna331509\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">The Department of Justice has sued 30 states and Washington, D.C.</a> for refusing to turn over detailed voter registration data including driver's license numbers and partial Social Security numbers.",
+      "\u2713 <strong>Court outcomes:</strong> <a href=\"https://www.pbs.org/newshour/politics/federal-judge-dismisses-justice-department-lawsuit-seeking-detailed-maryland-voter-data\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">Federal judges have dismissed DOJ lawsuits in 11 states</a> including Arizona, California, Maine, Maryland, Massachusetts, Michigan, New Hampshire, Oregon, Pennsylvania, Rhode Island, and Wisconsin. <a href=\"https://www.nbcnews.com/politics/justice-department/tracking-dojs-effort-get-us-voter-registration-data-rcna331509\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">No federal court has ruled in favor</a> of the DOJ's voter data requests as of July 2026.",
+      "\u2713 <strong>State compliance:</strong> <a href=\"https://www.brennan.center.org/our-work/research-reports/tracker-justice-department-requests-voter-information\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">Sixteen states have complied</a> with the DOJ's requests and provided full voter registration data, including Alabama, Alaska, Arkansas, Florida, Indiana, Iowa, Louisiana, Mississippi, Nebraska, Ohio, Oklahoma, South Carolina, South Dakota, Tennessee, Texas, and Wyoming.",
+      "\u2713 <strong>Data usage plan:</strong> The DOJ has stated it plans to cross-reference voter registration data with the Department of Homeland Security's SAVE (Systematic Alien Verification for Entitlements) database to identify potentially ineligible voters, particularly non-citizens.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">CONSERVATIVE SPIN VS. REALITY:</p>",
+      "\u26a0\ufe0f <strong>Claim: This is purely about election integrity.</strong> While cleaning voter rolls is a legitimate government function, the DOJ has not articulated a clear legal basis for demanding sensitive personal data beyond what states already use for voter roll maintenance. Multiple federal judges have found the requests overly broad.",
+      "\u2713 <strong>Fair Point:</strong> States do have legitimate responsibilities under federal law to maintain accurate voter rolls and remove deceased voters, duplicate registrations, and voters who have moved. The existence of inaccurate records on voter rolls is well-documented, though conservatives often conflate outdated records with actual voter fraud.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">LIBERAL SPIN VS. REALITY:</p>",
+      "\u26a0\ufe0f <strong>Claim: This will lead to mass voter suppression.</strong> While the concerns about aggressive purges are valid based on past experience, the mere collection of voter data doesn't automatically result in disenfranchisement. The actual risk depends on how the data is used and what safeguards exist\u2014questions the DOJ has not adequately answered.",
+      "\u2713 <strong>Fair Point:</strong> The federal government's SAVE database has documented accuracy problems and high false-positive rates that could flag eligible citizens as non-citizens. The sensitive nature of the requested data (partial SSNs, driver's license numbers) does create legitimate privacy and security concerns, especially regarding potential data breaches.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">THE BIGGER PICTURE:</p>",
+      "This dispute reflects a deeper tension between federal oversight authority and state control of elections. The Constitution gives states primary responsibility for running elections, but federal law also establishes certain baseline requirements for voter registration accuracy. The legal question is whether the DOJ's data demands exceed its statutory authority\u2014and so far, federal courts have sided with the states.",
+      "Both partisan narratives avoid the real policy question: What is the appropriate balance between election security, voter privacy, and preventing disenfranchisement? States use various methods to maintain voter rolls, including interstate data-sharing through programs like ERIC (which many Republican-controlled states have now abandoned). The DOJ's nationwide approach may be redundant, legally questionable, or both\u2014but that doesn't mean voter roll accuracy is unimportant.",
+      "<strong>The Bottom Line: The DOJ has lost every case so far, suggesting its legal theory is weak. But the underlying policy debate about voter roll maintenance, citizenship verification, and state versus federal authority remains unresolved. Neither \"voter suppression conspiracy\" nor \"election integrity crusade\" captures the complex constitutional and administrative issues actually at stake.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "NBC News \u2014 Tracking the DOJ's effort to get U.S. voter registration data",
+        "url": "https://www.nbcnews.com/politics/justice-department/tracking-dojs-effort-get-us-voter-registration-data-rcna331509"
+      },
+      {
+        "text": "PBS NewsHour \u2014 Federal judge dismisses Justice Department lawsuit seeking detailed Maryland voter data",
+        "url": "https://www.pbs.org/newshour/politics/federal-judge-dismisses-justice-department-lawsuit-seeking-detailed-maryland-voter-data"
+      },
+      {
+        "text": "Brennan Center for Justice \u2014 Tracker: Justice Department Requests for Voter Information",
+        "url": "https://www.brennan.center.org/our-work/research-reports/tracker-justice-department-requests-voter-information"
+      }
+    ]
+  }
+}
