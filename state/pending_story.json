@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-13",
+  "email_sent_at": "2026-07-13T05:43:41.784647",
+  "stories": [
+    {
+      "title": "Necessary Deregulation or Species Extinction? Trump Guts Endangered Species Act Habitat Protections",
+      "slug": "endangered-species-act-habitat-protection-rollback",
+      "topic_keywords": [
+        "endangered species",
+        "environment",
+        "deregulation",
+        "wildlife",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Cuts Red Tape: Endangered Species Act Reform Frees Business from Overregulation",
+      "liberal_headline": "Trump Administration Threatens Wildlife by Gutting 50-Year-Old Endangered Species Protections",
+      "poll_question": "Should the Trump administration remove habitat destruction from Endangered Species Act protections?",
+      "poll_option1_label": "Reduce Regulation",
+      "poll_option1_desc": "Outdated rules burden businesses and slow economic development",
+      "poll_option2_label": "Protect Wildlife",
+      "poll_option2_desc": "Habitat protection saved bald eagles and prevents species extinction",
+      "pexels_search_terms": "bald eagle wildlife habitat"
+    },
+    {
+      "title": "Press Freedom Crisis or Leak Investigation? DOJ Subpoenas NY Times Reporters Over Air Force One Story",
+      "slug": "doj-subpoenas-new-york-times-air-force-one",
+      "topic_keywords": [
+        "press freedom",
+        "DOJ",
+        "New York Times",
+        "Air Force One",
+        "Qatar"
+      ],
+      "conservative_headline": "DOJ Investigates Dangerous National Security Leaks After Times Exposes Classified Information",
+      "liberal_headline": "Trump Escalates War on Media: Federal Agents Show Up at Journalists' Homes with Subpoenas",
+      "poll_question": "Was the DOJ justified in subpoenaing Times reporters over Air Force One security reporting?",
+      "poll_option1_label": "Stop Leaks",
+      "poll_option1_desc": "National security leaks endanger the president and must be prosecuted",
+      "poll_option2_label": "Defend Press Freedom",
+      "poll_option2_desc": "Intimidating journalists threatens First Amendment and public's right to know",
+      "pexels_search_terms": "journalist press freedom reporter"
+    },
+    {
+      "title": "Strategic Standoff or Reckless Escalation? Trump Threatens 'Complete Decimation' of Iran",
+      "slug": "trump-iran-military-threats-strait-hormuz",
+      "topic_keywords": [
+        "Iran",
+        "military",
+        "Trump",
+        "Middle East",
+        "war"
+      ],
+      "conservative_headline": "Trump Shows Strength: Warns Iran of Devastating Response to Assassination Plot",
+      "liberal_headline": "Trump Recklessly Threatens Total War as Iran Conflict Spirals Out of Control",
+      "poll_question": "Is Trump's threat to 'decimate and destroy' Iran the right approach?",
+      "poll_option1_label": "Necessary Deterrence",
+      "poll_option1_desc": "Strong threats protect president and deter Iranian aggression effectively",
+      "poll_option2_label": "Dangerous Escalation",
+      "poll_option2_desc": "Inflammatory rhetoric risks wider war and destabilizes the region",
+      "pexels_search_terms": "military strike middle east conflict"
+    },
+    {
+      "title": "Principled Stand or Political Stunt? Trump Refuses to Sign Housing Bill Over Voter ID Demand",
+      "slug": "trump-housing-bill-save-act-voter-id",
+      "topic_keywords": [
+        "housing",
+        "voter ID",
+        "SAVE Act",
+        "Trump",
+        "affordability"
+      ],
+      "conservative_headline": "Trump Holds the Line: Won't Sign Bills Until Congress Passes Election Integrity",
+      "liberal_headline": "Trump Sabotages Bipartisan Housing Relief to Push Discriminatory Voter Suppression Law",
+      "poll_question": "Should Trump have refused to sign the housing bill to pressure Congress on voter ID?",
+      "poll_option1_label": "Election Integrity First",
+      "poll_option1_desc": "Securing elections with proof of citizenship is more urgent",
+      "poll_option2_label": "Housing Crisis Urgent",
+      "poll_option2_desc": "Holding affordable housing hostage over partisan politics is wrong",
+      "pexels_search_terms": "affordable housing crisis voting"
+    },
+    {
+      "title": "National Security Concern or Corrupt Gift? Qatar's $400M Air Force One Lacks Security Features",
+      "slug": "qatar-air-force-one-gift-security-concerns",
+      "topic_keywords": [
+        "Air Force One",
+        "Qatar",
+        "corruption",
+        "national security",
+        "Trump"
+      ],
+      "conservative_headline": "Ungrateful Media Attacks Generous Gift From Ally While Trump Flies Safely",
+      "liberal_headline": "Trump's $400M Qatari Bribe Puts President at Risk, Lacks Anti-Missile Defenses",
+      "poll_question": "Should Trump have accepted a $400 million plane gift from Qatar?",
+      "poll_option1_label": "Ally Generosity",
+      "poll_option1_desc": "Qatar is trusted partner; plane represents strong bilateral relationship",
+      "poll_option2_label": "Ethics Violation",
+      "poll_option2_desc": "Foreign gifts create conflicts and plane lacks proper security",
+      "pexels_search_terms": "air force one presidential aircraft"
+    },
+    {
+      "title": "Innovation or Manipulation? AI Bots Posing as Candidates Text Voters in 2026 Midterms",
+      "slug": "ai-campaign-bots-texting-voters-midterms",
+      "topic_keywords": [
+        "AI",
+        "campaigns",
+        "technology",
+        "midterms",
+        "texting"
+      ],
+      "conservative_headline": "Campaigns Embrace AI Innovation to Connect with Voters More Efficiently Than Ever",
+      "liberal_headline": "Deceptive AI Bots Impersonate Candidates, Manipulate Voters Without Disclosure",
+      "poll_question": "Should political campaigns be allowed to use AI bots that text voters?",
+      "poll_option1_label": "Embrace Technology",
+      "poll_option1_desc": "AI helps campaigns efficiently engage thousands of voters personally",
+      "poll_option2_label": "Require Disclosure",
+      "poll_option2_desc": "Voters deserve to know they're talking to bots, not real people",
+      "pexels_search_terms": "smartphone text message artificial intelligence"
+    },
+    {
+      "title": "Overdue Justice or January 6 Whitewash? Judge Dismisses Proud Boys Convictions After Trump Pardons",
+      "slug": "proud-boys-january-6-convictions-dismissed",
+      "topic_keywords": [
+        "Proud Boys",
+        "January 6",
+        "pardons",
+        "Trump",
+        "Capitol"
+      ],
+      "conservative_headline": "Judge Rightly Dismisses Political Prosecutions of Proud Boys After Trump Pardons",
+      "liberal_headline": "Trump Judge Erases Proud Boys Sedition Convictions, Rewards Capitol Insurrectionists",
+      "poll_question": "Should the Proud Boys' January 6 convictions have been dismissed?",
+      "poll_option1_label": "Correct Decision",
+      "poll_option1_desc": "Trump's pardons were legitimate; prosecutions were politically motivated",
+      "poll_option2_label": "Miscarriage of Justice",
+      "poll_option2_desc": "Violent insurrectionists convicted by jury should face consequences",
+      "pexels_search_terms": "capitol building january protest"
+    },
+    {
+      "title": "Sexual Assault Accountability or Political Witch Hunt? Maine Dem Senate Candidate Quits Over Rape Allegation",
+      "slug": "graham-platner-maine-senate-rape-allegation",
+      "topic_keywords": [
+        "Maine",
+        "Senate",
+        "sexual assault",
+        "Democrats",
+        "Susan Collins"
+      ],
+      "conservative_headline": "Democrat Senate Hopeful Drops Out After Credible Sexual Assault Allegation Surfaces",
+      "liberal_headline": "MeToo Forces Maine Democrat from Race While GOP Keeps Accused Candidates",
+      "poll_question": "Should Graham Platner have dropped out of the Senate race?",
+      "poll_option1_label": "Accountability Matters",
+      "poll_option1_desc": "Sexual assault allegations require candidates to step aside immediately",
+      "poll_option2_label": "Due Process First",
+      "poll_option2_desc": "Allegations shouldn't end campaigns without full investigation",
+      "pexels_search_terms": "campaign politics election controversy"
+    },
+    {
+      "title": "Healing Hero or Clinical Depression Excuse? GOP Congressman Returns After 117-Day Absence",
+      "slug": "tom-kean-jr-depression-congress-absence",
+      "topic_keywords": [
+        "mental health",
+        "Congress",
+        "depression",
+        "absence",
+        "accountability"
+      ],
+      "conservative_headline": "Rep. Tom Kean Jr. Courageously Opens Up About Mental Health Battle",
+      "liberal_headline": "GOP Congressman Collects Salary for 4 Months While Skipping Votes, Cites Depression",
+      "poll_question": "Should Rep. Kean have been absent from Congress for 117 days?",
+      "poll_option1_label": "Mental Health Matters",
+      "poll_option1_desc": "Depression is real illness deserving compassion and time to heal",
+      "poll_option2_label": "Accountability Required",
+      "poll_option2_desc": "Constituents deserve representation; should have resigned or taken leave",
+      "pexels_search_terms": "congress capitol hill representative"
+    },
+    {
+      "title": "University Freedom or Trump Censorship? College Administrators Question What Art Can Be Displayed",
+      "slug": "trump-executive-orders-campus-art-censorship",
+      "topic_keywords": [
+        "campus",
+        "censorship",
+        "art",
+        "universities",
+        "executive orders"
+      ],
+      "conservative_headline": "Trump Orders End Taxpayer Funding of Divisive Political Art on Campuses",
+      "liberal_headline": "Trump's Executive Orders Create Chilling Effect, Force Universities to Censor Art",
+      "poll_question": "Should Trump's executive orders restrict art displayed on college campuses?",
+      "poll_option1_label": "End Indoctrination",
+      "poll_option1_desc": "Federal funds shouldn't support political propaganda disguised as art",
+      "poll_option2_label": "Protect Free Expression",
+      "poll_option2_desc": "Government censorship of campus art violates academic freedom",
+      "pexels_search_terms": "university campus art gallery"
+    }
+  ]
+}
