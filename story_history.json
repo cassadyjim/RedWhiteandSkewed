@@ -2,16 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-06-29",
-      "slug": "social-security-2032-crisis-debate",
-      "topic": "Social Security entitlements retirement 2032 budget crisis"
-    },
-    {
-      "date": "2026-06-30",
-      "slug": "medicare-glp1-weight-loss-coverage-ozempic-wegovy",
-      "topic": "Medicare GLP-1 weight loss healthcare Ozempic"
-    },
-    {
       "date": "2026-07-02",
       "slug": "supreme-court-birthright-citizenship-trump-executive-order",
       "topic": "birthright citizenship 14th Amendment immigration Supreme Court Constitution"
@@ -30,6 +20,11 @@
       "date": "2026-07-13",
       "slug": "trump-housing-bill-save-act-voter-id",
       "topic": "housing voter ID SAVE Act Trump affordability"
+    },
+    {
+      "date": "2026-07-16",
+      "slug": "trump-voting-machine-intelligence-declassified",
+      "topic": "election security voting machines intelligence midterms disinformation"
     }
   ]
 }
