@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-17",
+  "email_sent_at": "2026-07-17T05:18:51.233249",
+  "stories": [
+    {
+      "title": "Presidential Address or Power Grab? Trump's Primetime Election Security Claims",
+      "slug": "trump-election-security-speech-declassified-documents",
+      "topic_keywords": [
+        "Trump",
+        "elections",
+        "declassified",
+        "speech",
+        "China"
+      ],
+      "conservative_headline": "Trump Reveals Declassified Intel on Foreign Election Interference Threats",
+      "liberal_headline": "Trump Rehashes 2020 Election Lies in Primetime Spectacle, Democrats Say",
+      "poll_question": "Should Trump's claims about election vulnerabilities be taken seriously?",
+      "poll_option1_label": "Necessary Warning",
+      "poll_option1_desc": "President exposing real threats to protect future elections",
+      "poll_option2_label": "Dangerous Fiction",
+      "poll_option2_desc": "Relitigating 2020 loss to undermine democracy and voting confidence",
+      "pexels_search_terms": "White House speech podium"
+    },
+    {
+      "title": "Military Aid to Israel: National Security or Moral Crisis?",
+      "slug": "israel-aid-democratic-divide-congress",
+      "topic_keywords": [
+        "Israel",
+        "Gaza",
+        "military aid",
+        "Democrats",
+        "foreign policy"
+      ],
+      "conservative_headline": "Over 100 House Democrats Vote to Abandon Key U.S. Ally Israel",
+      "liberal_headline": "Progressive Democrats Take Stand Against Funding Gaza Military Operations",
+      "poll_question": "Should the U.S. continue billions in military aid to Israel?",
+      "poll_option1_label": "Support Our Ally",
+      "poll_option1_desc": "Israel needs U.S. backing against terrorism and regional threats",
+      "poll_option2_label": "Stop Funding War",
+      "poll_option2_desc": "American taxpayers shouldn't fund operations harming Palestinian civilians",
+      "pexels_search_terms": "Israel flag Congress military"
+    },
+    {
+      "title": "White House Leak Probe: Security Measure or Intimidation Tactic?",
+      "slug": "white-house-leak-investigation-phones",
+      "topic_keywords": [
+        "leak probe",
+        "White House",
+        "Patel",
+        "phones",
+        "investigation"
+      ],
+      "conservative_headline": "White House Cracks Down on Dangerous National Security Leaks",
+      "liberal_headline": "Trump Aides Confiscate Staff Phones in Chilling Intimidation Campaign",
+      "poll_question": "Is the White House phone seizure justified?",
+      "poll_option1_label": "Protecting Secrets",
+      "poll_option1_desc": "Government must stop leaks that threaten national security",
+      "poll_option2_label": "Authoritarian Overreach",
+      "poll_option2_desc": "Silencing whistleblowers and creating climate of fear",
+      "pexels_search_terms": "smartphone surveillance security government"
+    },
+    {
+      "title": "Brazil Tariffs: Economic Strategy or Reckless Protectionism?",
+      "slug": "trump-brazil-tariffs-trade-war",
+      "topic_keywords": [
+        "tariffs",
+        "Brazil",
+        "trade",
+        "economy",
+        "deforestation"
+      ],
+      "conservative_headline": "Trump Fights Back Against Brazil's Unfair Trade Practices and Censorship",
+      "liberal_headline": "Trump Slaps 25% Tariffs on Brazil Despite U.S. Trade Surplus",
+      "poll_question": "Are tariffs on Brazil justified?",
+      "poll_option1_label": "Level Playing Field",
+      "poll_option1_desc": "Protecting American businesses from unfair foreign practices",
+      "poll_option2_label": "Economic Sabotage",
+      "poll_option2_desc": "Raising costs for American consumers and businesses unnecessarily",
+      "pexels_search_terms": "Brazil trade containers shipping"
+    },
+    {
+      "title": "Daylight Saving Time: Health Science or Economic Boost?",
+      "slug": "permanent-daylight-saving-time-debate",
+      "topic_keywords": [
+        "daylight saving",
+        "time change",
+        "health",
+        "economic",
+        "bipartisan"
+      ],
+      "conservative_headline": "House Passes Trump-Backed Bill to End Pointless Clock Changes Forever",
+      "liberal_headline": "Permanent Daylight Time Could Harm Children's Health, Experts Warn",
+      "poll_question": "Should daylight saving time become permanent?",
+      "poll_option1_label": "Make It Permanent",
+      "poll_option1_desc": "Stop changing clocks; more evening light boosts economy and mood",
+      "poll_option2_label": "Stick With Standard",
+      "poll_option2_desc": "Morning sunlight is healthier; permanent DST disrupts circadian rhythms",
+      "pexels_search_terms": "clock sunset time change"
+    },
+    {
+      "title": "Crypto Legislation: Innovation Opportunity or Trump Corruption?",
+      "slug": "crypto-bill-trump-conflicts-senate",
+      "topic_keywords": [
+        "cryptocurrency",
+        "Trump business",
+        "conflicts",
+        "Senate",
+        "regulation"
+      ],
+      "conservative_headline": "Senate Moves Forward on Crypto Bill to Keep America Ahead of China",
+      "liberal_headline": "Trump Pushes Crypto Bill That Could Earn Him Billions in Personal Profit",
+      "poll_question": "Should the Senate pass cryptocurrency regulation now?",
+      "poll_option1_label": "Pass It Now",
+      "poll_option1_desc": "America needs crypto rules to compete globally and foster innovation",
+      "poll_option2_label": "Ethics First",
+      "poll_option2_desc": "Block bill until Trump's billion-dollar conflicts of interest addressed",
+      "pexels_search_terms": "cryptocurrency bitcoin regulation money"
+    },
+    {
+      "title": "Epstein Hearings: Justice Delayed or Political Theater?",
+      "slug": "blanche-epstein-survivors-confirmation",
+      "topic_keywords": [
+        "Epstein",
+        "Todd Blanche",
+        "confirmation",
+        "survivors",
+        "Justice Department"
+      ],
+      "conservative_headline": "Blanche Meets with Epstein Survivors, Shows Commitment to Justice",
+      "liberal_headline": "Trump's AG Pick Finally Meets Victims After Intense Senate Pressure",
+      "poll_question": "Should Blanche be confirmed as Attorney General?",
+      "poll_option1_label": "Confirm Him",
+      "poll_option1_desc": "Qualified nominee willing to engage with all stakeholders",
+      "poll_option2_label": "Reject Him",
+      "poll_option2_desc": "Trump loyalist only meeting victims under political duress",
+      "pexels_search_terms": "Justice Department hearing Senate"
+    },
+    {
+      "title": "Iran Tensions: Defending America or Provoking War?",
+      "slug": "iran-hormuz-trump-strike-threats",
+      "topic_keywords": [
+        "Iran",
+        "Strait of Hormuz",
+        "military",
+        "strikes",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump's Strong Iran Stance Protects Vital Shipping Lanes, American Lives",
+      "liberal_headline": "Trump's Reckless Iran Threats Risk Catastrophic Middle East War",
+      "poll_question": "Should the U.S. escalate military pressure on Iran?",
+      "poll_option1_label": "Show Strength",
+      "poll_option1_desc": "Iran only responds to force; must protect American interests",
+      "poll_option2_label": "Pursue Diplomacy",
+      "poll_option2_desc": "Military escalation risks war; negotiate to reduce tensions",
+      "pexels_search_terms": "Iran military ships Middle East"
+    },
+    {
+      "title": "Rubio's Global Summit: Fighting Terrorism or Targeting Dissent?",
+      "slug": "rubio-left-wing-terrorism-summit",
+      "topic_keywords": [
+        "Marco Rubio",
+        "terrorism",
+        "left-wing",
+        "international",
+        "State Department"
+      ],
+      "conservative_headline": "Rubio Leads 65 Nations to Combat Dangerous Left-Wing Political Violence",
+      "liberal_headline": "Rubio Convenes Authoritarian Summit to Label Progressive Activism as Terrorism",
+      "poll_question": "Is Rubio's focus on 'left-wing terrorism' appropriate?",
+      "poll_option1_label": "Real Threat",
+      "poll_option1_desc": "Left-wing violence is rising; international cooperation needed now",
+      "poll_option2_label": "Manufactured Crisis",
+      "poll_option2_desc": "Demonizing legitimate protest movements and political opposition",
+      "pexels_search_terms": "international summit diplomacy flags"
+    },
+    {
+      "title": "14th Amendment Documentary: Artistic Freedom or Campaign Tool?",
+      "slug": "ava-duvernay-birthright-citizenship-film",
+      "topic_keywords": [
+        "birthright citizenship",
+        "14th Amendment",
+        "Ava DuVernay",
+        "documentary",
+        "immigration"
+      ],
+      "conservative_headline": "Hollywood Elite Launch Propaganda Film Against Birthright Reform",
+      "liberal_headline": "Acclaimed Filmmaker Ava DuVernay Defends Constitutional Rights in New Documentary",
+      "poll_question": "Should birthright citizenship be reformed?",
+      "poll_option1_label": "Reform Needed",
+      "poll_option1_desc": "Constitution shouldn't reward illegal immigration with automatic citizenship",
+      "poll_option2_label": "Protect the 14th",
+      "poll_option2_desc": "Birthright citizenship is fundamental American right enshrined in Constitution",
+      "pexels_search_terms": "Constitution amendment documentary film"
+    }
+  ]
+}
