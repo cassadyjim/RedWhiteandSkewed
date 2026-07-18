@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-07-02",
-      "slug": "supreme-court-birthright-citizenship-trump-executive-order",
-      "topic": "birthright citizenship 14th Amendment immigration Supreme Court Constitution"
-    },
-    {
       "date": "2026-07-05",
       "slug": "supreme-court-mail-ballot-ruling",
       "topic": "Supreme Court mail-in voting election law ballot deadlines Amy Coney Barrett"
@@ -25,6 +20,11 @@
       "date": "2026-07-16",
       "slug": "trump-voting-machine-intelligence-declassified",
       "topic": "election security voting machines intelligence midterms disinformation"
+    },
+    {
+      "date": "2026-07-18",
+      "slug": "brazil-tariffs-trade-war-fair-play",
+      "topic": "tariffs Brazil trade inflation Bolsonaro"
     }
   ]
 }
