@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-18",
+  "email_sent_at": "2026-07-18T04:53:54.154414",
+  "stories": [
+    {
+      "title": "Trade War or Fair Play? Trump's 25% Brazil Tariffs Ignite Debate",
+      "slug": "brazil-tariffs-trade-war-fair-play",
+      "topic_keywords": [
+        "tariffs",
+        "Brazil",
+        "trade",
+        "inflation",
+        "Bolsonaro"
+      ],
+      "conservative_headline": "Trump Cracks Down on Brazil's Unfair Trade Practices with Bold 25% Tariffs",
+      "liberal_headline": "Trump Risks Inflation Spike with Politically Motivated Brazil Tariffs",
+      "poll_question": "Should the U.S. impose 25% tariffs on Brazilian goods?",
+      "poll_option1_label": "Protect America",
+      "poll_option1_desc": "Yes, tariffs defend U.S. businesses from Brazil's unfair barriers and deforestation advantages",
+      "poll_option2_label": "Economic Harm",
+      "poll_option2_desc": "No, tariffs raise consumer prices and are politically motivated against Lula",
+      "pexels_search_terms": "shipping containers trade tariffs"
+    },
+    {
+      "title": "Sunshine or Standard? House Passes Permanent Daylight Saving Time",
+      "slug": "permanent-daylight-saving-time-debate",
+      "topic_keywords": [
+        "daylight saving time",
+        "Congress",
+        "health",
+        "economy",
+        "clocks"
+      ],
+      "conservative_headline": "House Delivers on Trump Promise: Permanent Daylight Saving Boosts Economy and Safety",
+      "liberal_headline": "Health Experts Warn Permanent Daylight Saving Time Threatens Children's Sleep and Wellbeing",
+      "poll_question": "Should Congress make Daylight Saving Time permanent?",
+      "poll_option1_label": "Lock the Clock",
+      "poll_option1_desc": "Yes, permanent DST means more evening sunlight, less crime, and economic benefits",
+      "poll_option2_label": "Follow the Science",
+      "poll_option2_desc": "No, permanent standard time is healthier and better aligns with circadian rhythms",
+      "pexels_search_terms": "clock time sunset evening"
+    },
+    {
+      "title": "Accountability or Fog of War? Iran School Strike Investigation Stalls",
+      "slug": "iran-school-strike-investigation",
+      "topic_keywords": [
+        "Iran",
+        "military",
+        "civilians",
+        "accountability",
+        "war"
+      ],
+      "conservative_headline": "Blame Game: Iran School Strike Remains Murky Amid Complex Battlefield Conditions",
+      "liberal_headline": "Trump Evades Responsibility as Evidence Mounts U.S. Killed 168 Iranian Schoolchildren",
+      "poll_question": "How should the U.S. handle the Iran school strike investigation?",
+      "poll_option1_label": "Fog of War",
+      "poll_option1_desc": "Accept uncertainty; missiles were flying everywhere in legitimate military operation",
+      "poll_option2_label": "Full Accountability",
+      "poll_option2_desc": "Demand transparent investigation and consequences for killing 168 children",
+      "pexels_search_terms": "military accountability investigation justice"
+    },
+    {
+      "title": "Leak Crackdown or Authoritarian Overreach? White House Seizes Staff Phones",
+      "slug": "white-house-leak-probe-phone-seizure",
+      "topic_keywords": [
+        "White House",
+        "leaks",
+        "phones",
+        "Patel",
+        "surveillance"
+      ],
+      "conservative_headline": "White House Cracks Down on Dangerous Leaks Threatening National Security",
+      "liberal_headline": "Trump Aide Patel Leads Authoritarian Phone Seizure in Escalating Leak Witch Hunt",
+      "poll_question": "Should the White House seize staff phones to find leakers?",
+      "poll_option1_label": "Stop Leaks",
+      "poll_option1_desc": "Yes, leaks endanger national security and must be stopped immediately",
+      "poll_option2_label": "Authoritarian Tactic",
+      "poll_option2_desc": "No, phone seizures create chilling effect and undermine whistleblower protections",
+      "pexels_search_terms": "smartphone security surveillance investigation"
+    },
+    {
+      "title": "Terror Summit or Political Theater? Rubio Convenes 67 Nations on 'Left-Wing Terror'",
+      "slug": "rubio-left-wing-terrorism-summit",
+      "topic_keywords": [
+        "terrorism",
+        "Rubio",
+        "left-wing",
+        "foreign policy",
+        "international"
+      ],
+      "conservative_headline": "Rubio Leads Global Coalition Against Rising Threat of Left-Wing Political Terrorism",
+      "liberal_headline": "Rubio's 'Left-Wing Terror' Summit Demonizes Legitimate Protest Movements Worldwide",
+      "poll_question": "Is a global summit on 'left-wing terrorism' necessary?",
+      "poll_option1_label": "Combat Threat",
+      "poll_option1_desc": "Yes, left-wing political violence is escalating and requires international coordination",
+      "poll_option2_label": "Political Stunt",
+      "poll_option2_desc": "No, this targets legitimate activists while ignoring right-wing extremism",
+      "pexels_search_terms": "international summit diplomacy flags"
+    },
+    {
+      "title": "Justice or Vendetta? Todd Blanche Confirmation Hearing Spotlights Trump Fund",
+      "slug": "blanche-attorney-general-confirmation-trump-fund",
+      "topic_keywords": [
+        "Attorney General",
+        "Blanche",
+        "Epstein",
+        "DOJ",
+        "weaponization"
+      ],
+      "conservative_headline": "Blanche Defends Anti-Weaponization Fund to Compensate Victims of Partisan Prosecutions",
+      "liberal_headline": "Trump's Lawyer Faces Grilling Over $1.8 Billion Slush Fund for Political Allies",
+      "poll_question": "Should the DOJ create a fund for 'weaponization' victims?",
+      "poll_option1_label": "Compensate Victims",
+      "poll_option1_desc": "Yes, those targeted by partisan prosecutors deserve compensation and justice",
+      "poll_option2_label": "Corrupt Scheme",
+      "poll_option2_desc": "No, it's a taxpayer-funded slush fund rewarding Trump allies",
+      "pexels_search_terms": "courtroom justice department hearing"
+    },
+    {
+      "title": "Prosecutor Purge or Presidential Power? Trump Fires Seattle's Top Federal Attorney",
+      "slug": "trump-fires-seattle-prosecutor",
+      "topic_keywords": [
+        "prosecutors",
+        "Seattle",
+        "appointments",
+        "judiciary",
+        "executive power"
+      ],
+      "conservative_headline": "Trump Exercises Constitutional Authority to Remove Court-Appointed Prosecutor",
+      "liberal_headline": "Trump Fires Independent Seattle Prosecutor in Latest Attack on Judicial Independence",
+      "poll_question": "Can the president fire court-appointed federal prosecutors?",
+      "poll_option1_label": "Executive Authority",
+      "poll_option1_desc": "Yes, president has constitutional power over all federal prosecutors",
+      "poll_option2_label": "Judicial Independence",
+      "poll_option2_desc": "No, court-appointed prosecutors should be protected from political interference",
+      "pexels_search_terms": "federal courthouse justice scales"
+    },
+    {
+      "title": "Insider Trading or Witch Hunt? Teleprompter Operator Under Investigation",
+      "slug": "teleprompter-operator-insider-trading-probe",
+      "topic_keywords": [
+        "insider trading",
+        "White House",
+        "Kalshi",
+        "investigation",
+        "betting"
+      ],
+      "conservative_headline": "Swift Action: Trump Suspends Staffer Accused of Insider Trading on Speech Content",
+      "liberal_headline": "Trump Administration's Chaotic Leaks Lead to Teleprompter Operator Scapegoating",
+      "poll_question": "Should White House staff face investigation for betting on political events?",
+      "poll_option1_label": "Corruption Probe",
+      "poll_option1_desc": "Yes, using insider knowledge for personal gain is serious misconduct",
+      "poll_option2_label": "Overreach",
+      "poll_option2_desc": "No, this is overblown and distracts from real White House problems",
+      "pexels_search_terms": "teleprompter speech presidential podium"
+    },
+    {
+      "title": "Scientific Freedom or Political Control? Trump Seeks to Politicize $1 Trillion in Grants",
+      "slug": "trump-research-grants-politicization",
+      "topic_keywords": [
+        "science",
+        "research",
+        "grants",
+        "universities",
+        "academic freedom"
+      ],
+      "conservative_headline": "Trump Restores Accountability: Taxpayers Deserve Say in $1 Trillion Research Spending",
+      "liberal_headline": "Trump Threatens Scientific Independence with Unprecedented Politicization of Research Grants",
+      "poll_question": "Should the White House have more control over research grants?",
+      "poll_option1_label": "Taxpayer Accountability",
+      "poll_option1_desc": "Yes, elected officials should decide how taxpayer money funds research",
+      "poll_option2_label": "Scientific Independence",
+      "poll_option2_desc": "No, politics will corrupt peer review and harm scientific progress",
+      "pexels_search_terms": "laboratory science research microscope"
+    },
+    {
+      "title": "Dynasty Politics or Qualified Successor? Trump Urges Lindsey Graham's Sister to Run",
+      "slug": "darline-graham-senate-south-carolina",
+      "topic_keywords": [
+        "Senate",
+        "South Carolina",
+        "Graham",
+        "nepotism",
+        "elections"
+      ],
+      "conservative_headline": "Trump Backs Darline Graham to Continue Her Brother's Conservative Legacy in Senate",
+      "liberal_headline": "Trump Pushes Dynastic Politics with Unqualified Graham Successor Pick",
+      "poll_question": "Should Darline Graham run for her brother's Senate seat?",
+      "poll_option1_label": "Continue Legacy",
+      "poll_option1_desc": "Yes, she can honor her brother's work and deserves consideration",
+      "poll_option2_label": "Merit Over Name",
+      "poll_option2_desc": "No, Senate seats aren't family heirlooms; voters deserve qualified candidates",
+      "pexels_search_terms": "senate chamber capitol congress"
+    }
+  ]
+}
