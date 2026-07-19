@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-19",
+  "email_sent_at": "2026-07-19T05:28:18.391118",
+  "stories": [
+    {
+      "title": "Over 100 Democrats Block Israel Aid: Party Fracture or Principled Stand?",
+      "slug": "democrats-israel-aid-vote-party-split",
+      "topic_keywords": [
+        "Israel",
+        "military aid",
+        "Democrats",
+        "Gaza",
+        "foreign policy"
+      ],
+      "conservative_headline": "103 Democrats Vote Against Israel as Progressive Wing Takes Over Party",
+      "liberal_headline": "Progressive Democrats Lead Historic Vote to Stop Unconditional Military Aid to Netanyahu",
+      "poll_question": "Should the U.S. provide military aid to Israel without conditions?",
+      "poll_option1_label": "Unwavering Support",
+      "poll_option1_desc": "Stand with Israel unconditionally, our strongest Middle East ally deserves full backing",
+      "poll_option2_label": "Conditioned Aid",
+      "poll_option2_desc": "No blank checks for any country violating international law and U.S. values",
+      "pexels_search_terms": "Israeli flag American flag Congress"
+    },
+    {
+      "title": "Permanent Daylight Saving Time: Modern Convenience or Health Disaster?",
+      "slug": "permanent-daylight-saving-time-debate",
+      "topic_keywords": [
+        "daylight saving",
+        "Sunshine Protection Act",
+        "health",
+        "Congress",
+        "sleep"
+      ],
+      "conservative_headline": "House Passes Common-Sense Bill to End Clock-Changing Chaos Once and For All",
+      "liberal_headline": "Scientists Warn Trump's Daylight Saving Plan Could Harm Children's Health and Safety",
+      "poll_question": "Should Congress make Daylight Saving Time permanent year-round?",
+      "poll_option1_label": "Lock the Clock",
+      "poll_option1_desc": "End the twice-yearly confusion and give families more evening daylight year-round",
+      "poll_option2_label": "Keep Standard Time",
+      "poll_option2_desc": "Permanent DST means dark winter mornings endangering kids and workers",
+      "pexels_search_terms": "clock change alarm sunrise morning"
+    },
+    {
+      "title": "Trump on Dollar Coin: Historic Honor or Narcissistic Power Grab?",
+      "slug": "trump-dollar-coin-us-mint-controversy",
+      "topic_keywords": [
+        "Trump",
+        "US Mint",
+        "currency",
+        "living president",
+        "commemoration"
+      ],
+      "conservative_headline": "Trump Honored on Commemorative Coin Celebrating America's 250th Birthday",
+      "liberal_headline": "Trump Breaks Law Putting His Face on Currency While Still in Office",
+      "poll_question": "Should the U.S. Mint produce coins featuring living presidents?",
+      "poll_option1_label": "Presidential Honor",
+      "poll_option1_desc": "Celebrating current leadership for America's 250th anniversary is appropriate and patriotic",
+      "poll_option2_label": "Authoritarian Overreach",
+      "poll_option2_desc": "Federal law prohibits living presidents on currency for good reason",
+      "pexels_search_terms": "gold coin currency presidential portrait"
+    },
+    {
+      "title": "Prediction Markets vs Courts: Free Speech or Illegal Gambling?",
+      "slug": "kalshi-prediction-markets-trump-regulator",
+      "topic_keywords": [
+        "prediction markets",
+        "gambling",
+        "regulation",
+        "Kalshi",
+        "CFTC"
+      ],
+      "conservative_headline": "Trump Regulator Defends Free Markets After Court Tries to Block Prediction Betting",
+      "liberal_headline": "Trump Official Orders Company to Defy Michigan Court in Gambling Controversy",
+      "poll_question": "Should political prediction markets be legal in the United States?",
+      "poll_option1_label": "Market Freedom",
+      "poll_option1_desc": "Free markets provide valuable information and shouldn't be restricted by government",
+      "poll_option2_label": "Ban Gambling",
+      "poll_option2_desc": "Political betting corrupts democracy and violates state gambling laws",
+      "pexels_search_terms": "stock market trading betting computer"
+    },
+    {
+      "title": "Epstein Files and Attorney General Confirmation: Justice or Cover-Up?",
+      "slug": "todd-blanche-epstein-files-confirmation",
+      "topic_keywords": [
+        "Todd Blanche",
+        "Epstein",
+        "Attorney General",
+        "Justice Department",
+        "confirmation"
+      ],
+      "conservative_headline": "Democrats Weaponize Epstein Case to Block Trump's Qualified Attorney General Pick",
+      "liberal_headline": "Trump's AG Nominee Faces Backlash for Dismissing Epstein Abuse Reports as 'Rehashed Crap'",
+      "poll_question": "Should Todd Blanche be confirmed as Attorney General?",
+      "poll_option1_label": "Confirm Blanche",
+      "poll_option1_desc": "Qualified lawyer being smeared with unrelated Epstein conspiracy theories by opponents",
+      "poll_option2_label": "Reject Nominee",
+      "poll_option2_desc": "Justice Department needs transparency on Epstein files, not dismissive cover-ups",
+      "pexels_search_terms": "Senate confirmation hearing justice gavel"
+    },
+    {
+      "title": "Third Reconciliation Bill: Fiscal Responsibility or Budget-Busting Politics?",
+      "slug": "gop-reconciliation-bill-no-offsets",
+      "topic_keywords": [
+        "reconciliation",
+        "budget",
+        "deficit",
+        "Republicans",
+        "spending"
+      ],
+      "conservative_headline": "Republicans Advance Bold Agenda Without Democrat Obstruction Through Reconciliation",
+      "liberal_headline": "GOP Reconciliation Bill Would Add Billions to Deficit Without Paying for Anything",
+      "poll_question": "Should Congress use reconciliation to pass bills without bipartisan support?",
+      "poll_option1_label": "Majority Rule",
+      "poll_option1_desc": "Winners of elections deserve to govern and deliver on campaign promises",
+      "poll_option2_label": "Bipartisan Process",
+      "poll_option2_desc": "Major legislation adding to debt requires debate and compromise across parties",
+      "pexels_search_terms": "Congress budget calculator deficit money"
+    },
+    {
+      "title": "Life Expectancy Gap: Democratic Districts Live Longer - Policy or Demographics?",
+      "slug": "life-expectancy-democratic-districts-partisan",
+      "topic_keywords": [
+        "life expectancy",
+        "health outcomes",
+        "demographics",
+        "congressional districts",
+        "inequality"
+      ],
+      "conservative_headline": "Misleading Study Ignores Urban Density and Demographics in Life Expectancy Claims",
+      "liberal_headline": "Americans in Blue Districts Live Longer Thanks to Better Healthcare and Policy",
+      "poll_question": "Why do people in Democratic-held districts live longer on average?",
+      "poll_option1_label": "Demographics",
+      "poll_option1_desc": "Urban areas have different demographics and access to hospitals regardless of politics",
+      "poll_option2_label": "Policy Matters",
+      "poll_option2_desc": "Democratic policies on healthcare, environment, and safety improve life outcomes",
+      "pexels_search_terms": "elderly healthcare doctor hospital longevity"
+    },
+    {
+      "title": "Socialist Candidates in Blue Districts: Democratic Future or Electoral Suicide?",
+      "slug": "jared-polis-socialism-democratic-primaries",
+      "topic_keywords": [
+        "socialism",
+        "Democrats",
+        "primaries",
+        "Jared Polis",
+        "progressives"
+      ],
+      "conservative_headline": "Democrat Governor Polis Admits Socialism is 'Ticket to Nowhere' as Party Shifts Left",
+      "liberal_headline": "Corporate Democrat Attacks Progressive Candidates Fighting for Working Families",
+      "poll_question": "Should Democrats nominate socialist candidates in safe blue districts?",
+      "poll_option1_label": "Reject Socialism",
+      "poll_option1_desc": "Socialist candidates will cost Democrats swing districts and mainstream voters nationwide",
+      "poll_option2_label": "Embrace Progressives",
+      "poll_option2_desc": "Working-class districts deserve candidates fighting for bold economic transformation",
+      "pexels_search_terms": "political rally progressive protest voters"
+    },
+    {
+      "title": "Russian Sanctions Expanded: Tough Deterrence or Pointless Escalation?",
+      "slug": "russia-sanctions-putin-congress-bill",
+      "topic_keywords": [
+        "Russia",
+        "sanctions",
+        "Putin",
+        "Congress",
+        "foreign policy"
+      ],
+      "conservative_headline": "Congress Gets Tough on Putin With New Sanctions on Russian Military and Energy",
+      "liberal_headline": "Bipartisan Russia Sanctions Bill Passes as Trump's Putin Friendship Finally Ends",
+      "poll_question": "Should the U.S. impose stronger sanctions on Russia?",
+      "poll_option1_label": "Maximum Pressure",
+      "poll_option1_desc": "Putin only responds to strength and must pay price for aggression",
+      "poll_option2_label": "Diplomatic Solution",
+      "poll_option2_desc": "Endless sanctions haven't worked and risk escalating to dangerous conflict",
+      "pexels_search_terms": "Russia Kremlin sanctions economic warfare"
+    },
+    {
+      "title": "Supreme Court Security Funding: Necessary Protection or Luxury Expense?",
+      "slug": "supreme-court-security-kagan-barrett-congress",
+      "topic_keywords": [
+        "Supreme Court",
+        "security",
+        "threats",
+        "funding",
+        "justices"
+      ],
+      "conservative_headline": "Justices Kagan and Barrett Seek More Security After Left-Wing Threats Escalate",
+      "liberal_headline": "Supreme Court Demands More Taxpayer Money While Stripping Americans' Rights",
+      "poll_question": "Should Congress increase funding for Supreme Court security?",
+      "poll_option1_label": "Protect Justices",
+      "poll_option1_desc": "Rising threats against judges require enhanced security regardless of political views",
+      "poll_option2_label": "Reject Increase",
+      "poll_option2_desc": "Court has adequate protection and shouldn't get special treatment during budget crisis",
+      "pexels_search_terms": "Supreme Court building security guards"
+    }
+  ]
+}
