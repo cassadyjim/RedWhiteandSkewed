@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-20",
+  "email_sent_at": "2026-07-20T05:46:07.385870",
+  "stories": [
+    {
+      "title": "Clean Energy Future or Economic Suicide? Iran War Gas Prices Reignite Climate Debate",
+      "slug": "iran-war-gas-prices-climate-debate",
+      "topic_keywords": [
+        "Iran war",
+        "gas prices",
+        "inflation",
+        "climate change",
+        "renewable energy"
+      ],
+      "conservative_headline": "Biden-Era Green Energy Fantasies Backfire as Iran War Exposes America's Need for Fossil Fuels",
+      "liberal_headline": "Iran War's Gas Price Surge Proves Urgent Need to Break Fossil Fuel Dependence with Renewables",
+      "poll_question": "Should the gas price crisis push America toward renewable energy or more oil drilling?",
+      "poll_option1_label": "Drill More",
+      "poll_option1_desc": "Increase domestic oil production to lower gas prices and ensure energy independence",
+      "poll_option2_label": "Go Green",
+      "poll_option2_desc": "Accelerate renewable energy investment to avoid future oil price shocks and crises",
+      "pexels_search_terms": "gas station prices energy"
+    },
+    {
+      "title": "Nuclear Ally or Weapons Risk? Trump's Saudi Uranium Deal Divides Washington",
+      "slug": "trump-saudi-uranium-enrichment-deal",
+      "topic_keywords": [
+        "Saudi Arabia",
+        "nuclear deal",
+        "uranium enrichment",
+        "Trump",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump Strengthens Critical Saudi Alliance with Smart Nuclear Energy Partnership Deal",
+      "liberal_headline": "Trump's Reckless Saudi Nuclear Deal Risks Middle East Arms Race Without Proper Safeguards",
+      "poll_question": "Should the U.S. allow Saudi Arabia to enrich uranium without full international oversight?",
+      "poll_option1_label": "Support Deal",
+      "poll_option1_desc": "Strengthen alliance with Saudi Arabia through civilian nuclear energy cooperation and technology",
+      "poll_option2_label": "Reject Deal",
+      "poll_option2_desc": "Require full IAEA oversight to prevent nuclear weapons proliferation in volatile region",
+      "pexels_search_terms": "nuclear power plant uranium"
+    },
+    {
+      "title": "Economic Recovery or Jobs Killer? Endangered Species Protections Canceled for Development",
+      "slug": "endangered-species-protections-canceled",
+      "topic_keywords": [
+        "endangered species",
+        "wildlife protection",
+        "development",
+        "environment",
+        "regulations"
+      ],
+      "conservative_headline": "Trump Frees American Industry from Job-Killing Endangered Species Red Tape and Overreach",
+      "liberal_headline": "Trump Pushes Monarchs, Turtles Toward Extinction by Gutting Critical Endangered Species Protections",
+      "poll_question": "Should threatened species receive automatic protections or individualized business exemptions?",
+      "poll_option1_label": "Industry First",
+      "poll_option1_desc": "Allow development to proceed with individualized plans that balance conservation and economy",
+      "poll_option2_label": "Wildlife First",
+      "poll_option2_desc": "Maintain automatic protections to prevent extinction of vulnerable species like monarch butterflies",
+      "pexels_search_terms": "monarch butterfly endangered wildlife"
+    },
+    {
+      "title": "Blame Game: Who's Responsible for Iran War Inflation Crushing American Families?",
+      "slug": "iran-war-inflation-blame",
+      "topic_keywords": [
+        "inflation",
+        "Iran war",
+        "economy",
+        "gas prices",
+        "Trump"
+      ],
+      "conservative_headline": "Trump's Necessary Military Action Against Iran Creates Temporary Disruption for National Security",
+      "liberal_headline": "Trump's Reckless Iran War Drives Inflation to Highest Level in Years, Erasing Wage Gains",
+      "poll_question": "Is the Iran war's economic impact a necessary cost or a preventable disaster?",
+      "poll_option1_label": "Necessary Action",
+      "poll_option1_desc": "Temporary economic pain worth stopping Iran's nuclear weapons program and protecting America",
+      "poll_option2_label": "Avoidable Crisis",
+      "poll_option2_desc": "Reckless war destroyed economy and raised prices while diplomacy could have prevented crisis",
+      "pexels_search_terms": "grocery shopping inflation prices"
+    },
+    {
+      "title": "Border Accountability or Cover-Up? ICE Investigating Its Own Agents After Deadly Shootings",
+      "slug": "ice-investigating-deadly-shootings",
+      "topic_keywords": [
+        "ICE",
+        "immigration enforcement",
+        "border",
+        "investigations",
+        "accountability"
+      ],
+      "conservative_headline": "ICE Agents Face Unfair Scrutiny for Doing Dangerous Jobs Protecting America's Borders",
+      "liberal_headline": "Fox Guarding Henhouse: ICE Investigating Itself After Agents Fatally Shoot Two Immigrants",
+      "poll_question": "Should ICE investigate its own agents' use of deadly force?",
+      "poll_option1_label": "Internal Review",
+      "poll_option1_desc": "ICE agents best understand border dangers and should investigate their own operations",
+      "poll_option2_label": "Independent Probe",
+      "poll_option2_desc": "Outside agency must investigate to ensure accountability and prevent conflicts of interest",
+      "pexels_search_terms": "border patrol agents enforcement"
+    },
+    {
+      "title": "Election Interference or Free Speech? Hunter Biden Tours Conservative Podcasts Amid Controversy",
+      "slug": "hunter-biden-conservative-podcast-tour",
+      "topic_keywords": [
+        "Hunter Biden",
+        "media",
+        "podcasts",
+        "politics",
+        "controversy"
+      ],
+      "conservative_headline": "Hunter Biden's Desperate Podcast Tour Reveals Left's Panic Over Exposing Biden Family Corruption",
+      "liberal_headline": "Hunter Biden Courageously Confronts Critics on Their Own Turf, Demonstrating Transparency and Openness",
+      "poll_question": "Is Hunter Biden's conservative podcast tour genuine transparency or political calculation?",
+      "poll_option1_label": "Political Stunt",
+      "poll_option1_desc": "Calculated media strategy to rehabilitate image and deflect from legitimate corruption concerns",
+      "poll_option2_label": "Brave Transparency",
+      "poll_option2_desc": "Courageous effort to face harshest critics directly and answer questions without hiding",
+      "pexels_search_terms": "podcast microphone interview media"
+    },
+    {
+      "title": "Freedom Fighter or Election Meddler? Cuban Dissident Released to US Sparks Democracy Debate",
+      "slug": "cuban-dissident-released-us",
+      "topic_keywords": [
+        "Cuba",
+        "dissidents",
+        "human rights",
+        "foreign policy",
+        "democracy"
+      ],
+      "conservative_headline": "Cuban Freedom Fighter Escapes Communist Tyranny, Exposes Left's Silence on Socialist Oppression",
+      "liberal_headline": "Cuban Artist's Release Highlights Need for Diplomatic Engagement Over Failed Embargo Policies",
+      "poll_question": "Should the U.S. prioritize regime change or diplomatic engagement with Cuba?",
+      "poll_option1_label": "Regime Change",
+      "poll_option1_desc": "Support dissidents and maintain pressure on communist government until democracy is restored",
+      "poll_option2_label": "Engagement",
+      "poll_option2_desc": "Normalize relations and end embargo to improve lives and encourage gradual reform",
+      "pexels_search_terms": "cuba flag freedom protest"
+    },
+    {
+      "title": "Justice or Partisanship? Wisconsin Governor Race Heats Up with Evers Endorsement",
+      "slug": "wisconsin-governor-race-crowley-evers",
+      "topic_keywords": [
+        "Wisconsin",
+        "governor race",
+        "Democrats",
+        "midterms",
+        "endorsements"
+      ],
+      "conservative_headline": "Democrat Establishment Rigs Wisconsin Primary as Governor Evers Hand-Picks His Successor",
+      "liberal_headline": "Wisconsin Democrats Unite Behind Crowley to Protect Democracy and Progressive Gains in Swing State",
+      "poll_question": "Should sitting governors endorse candidates in their party's primary elections?",
+      "poll_option1_label": "Stay Neutral",
+      "poll_option1_desc": "Governors should remain neutral in primaries to let voters choose without establishment interference",
+      "poll_option2_label": "Endorse Freely",
+      "poll_option2_desc": "Governors have right to support preferred candidates who will continue their successful policies",
+      "pexels_search_terms": "Wisconsin capitol building politics"
+    },
+    {
+      "title": "Religious Freedom or Political Theater? Rubio Convenes 60 Nations Against 'Left Wing Terrorism'",
+      "slug": "rubio-left-wing-terrorism-summit",
+      "topic_keywords": [
+        "Marco Rubio",
+        "terrorism",
+        "foreign policy",
+        "international",
+        "security"
+      ],
+      "conservative_headline": "Secretary Rubio Leads Global Coalition to Combat Radical Left-Wing Violence and Extremism",
+      "liberal_headline": "Rubio's Dangerous 'Left Wing Terrorism' Summit Threatens Political Dissent and Free Expression Worldwide",
+      "poll_question": "Is Rubio's international effort against 'left wing terrorism' necessary or politically motivated?",
+      "poll_option1_label": "Legitimate Threat",
+      "poll_option1_desc": "Left-wing extremism is real danger requiring international cooperation to combat violence",
+      "poll_option2_label": "Political Witch Hunt",
+      "poll_option2_desc": "Dangerous labeling of political opposition as terrorism threatens democracy and free speech",
+      "pexels_search_terms": "international summit diplomacy flags"
+    },
+    {
+      "title": "Judicial Independence or Disability Inspiration? Federal Judge Works Full Caseload with MS",
+      "slug": "federal-judge-multiple-sclerosis-disability",
+      "topic_keywords": [
+        "judiciary",
+        "disability",
+        "health",
+        "courts",
+        "accessibility"
+      ],
+      "conservative_headline": "79-Year-Old Federal Judge's Inspiring Work Ethic Despite MS Proves American Grit and Determination",
+      "liberal_headline": "Judge with MS Highlights Critical Need for Disability Accommodations and Healthcare Access in America",
+      "poll_question": "Should federal judges be required to retire at a certain age or health status?",
+      "poll_option1_label": "Mandatory Retirement",
+      "poll_option1_desc": "Set age limits to ensure judges can handle demanding workload and make timely decisions",
+      "poll_option2_label": "No Age Limit",
+      "poll_option2_desc": "Experience matters most; judges should serve as long as capable regardless of age",
+      "pexels_search_terms": "judge gavel courthouse justice"
+    }
+  ]
+}
