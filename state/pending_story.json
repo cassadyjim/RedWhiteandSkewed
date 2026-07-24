@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-24",
+  "email_sent_at": "2026-07-24T05:26:01.898055",
+  "stories": [
+    {
+      "title": "Government Savior or Shutdown Threat? House Passes Stopgap Funding Bill",
+      "slug": "government-shutdown-stopgap-funding-bill",
+      "topic_keywords": [
+        "government shutdown",
+        "continuing resolution",
+        "Congress",
+        "federal funding",
+        "Mike Johnson"
+      ],
+      "conservative_headline": "House Republicans Save Government from Democrat-Induced Shutdown Crisis",
+      "liberal_headline": "GOP Forces Through Flawed Stopgap Bill That Fails to Block Trump's Mass Deportation Machine",
+      "poll_question": "Should Congress pass the continuing resolution to fund the government through December?",
+      "poll_option1_label": "Pass It Now",
+      "poll_option1_desc": "Keep government open and functioning for the American people",
+      "poll_option2_label": "Block Funding",
+      "poll_option2_desc": "Don't fund Trump's deportation machine without safeguards",
+      "pexels_search_terms": "capitol building congress government"
+    },
+    {
+      "title": "Trusted Agency or Trump Propaganda? Social Security Email Sparks Fury",
+      "slug": "social-security-partisan-email-controversy",
+      "topic_keywords": [
+        "Social Security",
+        "Frank Bisignano",
+        "partisan messaging",
+        "Trump tax cuts",
+        "agency independence"
+      ],
+      "conservative_headline": "Social Security Commissioner Celebrates Trump's Historic Tax Relief for 35 Million Seniors",
+      "liberal_headline": "Social Security Boss Turns Nonpartisan Agency Into Trump Campaign Tool With Misleading Email",
+      "poll_question": "Was the Social Security Administration email to seniors inappropriate?",
+      "poll_option1_label": "Informing Seniors",
+      "poll_option1_desc": "SSA properly informed seniors about tax benefits they earned",
+      "poll_option2_label": "Partisan Abuse",
+      "poll_option2_desc": "Agency misused trust to spread misleading Trump propaganda",
+      "pexels_search_terms": "senior citizen retirement mail"
+    },
+    {
+      "title": "Strategic Partnership or Nuclear Nightmare? US-Saudi Deal Divides Congress",
+      "slug": "us-saudi-arabia-nuclear-deal-controversy",
+      "topic_keywords": [
+        "Saudi Arabia",
+        "nuclear deal",
+        "uranium enrichment",
+        "nonproliferation",
+        "Congress review"
+      ],
+      "conservative_headline": "Trump Secures Major Nuclear Deal With Key Middle East Ally Saudi Arabia",
+      "liberal_headline": "Trump Gives Authoritarian Kingdom Path to Nuclear Weapons in Reckless Deal",
+      "poll_question": "Should the US allow Saudi Arabia to enrich nuclear fuel?",
+      "poll_option1_label": "Support Deal",
+      "poll_option1_desc": "Strategic partnership benefits both nations and regional stability",
+      "poll_option2_label": "Block Deal",
+      "poll_option2_desc": "Dangerous to give belligerent regime nuclear weapons technology",
+      "pexels_search_terms": "nuclear power plant saudi arabia"
+    },
+    {
+      "title": "Budget Reconciliation Victory or Fiscal Disaster? GOP Pushes $95B Package",
+      "slug": "gop-budget-reconciliation-iran-war-costs",
+      "topic_keywords": [
+        "budget reconciliation",
+        "Iran war costs",
+        "farm aid",
+        "election security",
+        "Senate filibuster"
+      ],
+      "conservative_headline": "House Advances Critical Funding for Iran War Costs and Election Security",
+      "liberal_headline": "Republicans Ram Through $95 Billion Spending Package Using Budget Tricks",
+      "poll_question": "Should Congress use reconciliation to fund Iran war costs?",
+      "poll_option1_label": "Fund Our Troops",
+      "poll_option1_desc": "Support military and protect election integrity with needed funding",
+      "poll_option2_label": "Stop the Spending",
+      "poll_option2_desc": "Reckless spending without proper debate or fiscal responsibility",
+      "pexels_search_terms": "military spending budget congress"
+    },
+    {
+      "title": "Climate Crisis Response or Natural Disaster? Oregon Wildfire Smoke Blankets Nation",
+      "slug": "oregon-wildfire-smoke-air-quality-crisis",
+      "topic_keywords": [
+        "Oregon wildfires",
+        "air quality",
+        "climate change",
+        "wildfire season",
+        "public health"
+      ],
+      "conservative_headline": "Oregon Wildfires Highlight Need for Better Forest Management Policies",
+      "liberal_headline": "Climate-Fueled Wildfires Prove Urgent Need for Green New Deal Action",
+      "poll_question": "What is the primary cause of worsening western wildfires?",
+      "poll_option1_label": "Forest Mismanagement",
+      "poll_option1_desc": "Poor forest management and environmental regulations blocking cleanup",
+      "poll_option2_label": "Climate Change",
+      "poll_option2_desc": "Rising temperatures and drought from human-caused climate change",
+      "pexels_search_terms": "wildfire smoke forest fire"
+    },
+    {
+      "title": "Election Integrity or Voter Suppression? New Crypto Ethics Rules Spark Debate",
+      "slug": "crypto-ethics-rules-politicians-controversy",
+      "topic_keywords": [
+        "cryptocurrency",
+        "ethics rules",
+        "campaign finance",
+        "Justice Department",
+        "political donations"
+      ],
+      "conservative_headline": "Republicans Approve Needed Transparency Rules for Crypto in Politics",
+      "liberal_headline": "GOP Approves Problematic Crypto Rules With Justice Department Enforcement Concerns",
+      "poll_question": "Should politicians face new ethics rules for cryptocurrency dealings?",
+      "poll_option1_label": "Support Rules",
+      "poll_option1_desc": "Transparency needed for emerging crypto political donations",
+      "poll_option2_label": "Oppose Rules",
+      "poll_option2_desc": "Justice Department enforcement creates partisan weaponization concerns",
+      "pexels_search_terms": "cryptocurrency bitcoin politics ethics"
+    },
+    {
+      "title": "Economic Reality Check or Partisan Perception? Americans Divided on Nation's Problems",
+      "slug": "gallup-poll-biggest-national-problems",
+      "topic_keywords": [
+        "Gallup poll",
+        "government dysfunction",
+        "immigration",
+        "public opinion",
+        "partisan divide"
+      ],
+      "conservative_headline": "Poll Reveals Immigration Crisis Is Second-Biggest Problem After Government Dysfunction",
+      "liberal_headline": "Americans Blame Poor Leadership and Government Dysfunction as Top Problem",
+      "poll_question": "What is America's most serious problem right now?",
+      "poll_option1_label": "Immigration Crisis",
+      "poll_option1_desc": "Border security and illegal immigration threaten national safety",
+      "poll_option2_label": "Bad Leadership",
+      "poll_option2_desc": "Government dysfunction and poor leadership from Trump administration",
+      "pexels_search_terms": "american flag capitol building divided"
+    },
+    {
+      "title": "Senate Cooperation or Republican Sellout? Thune Floats Bipartisan Funding Deal",
+      "slug": "senate-thune-bipartisan-funding-deal",
+      "topic_keywords": [
+        "John Thune",
+        "Senate Republicans",
+        "bipartisan deal",
+        "government funding",
+        "conservative backlash"
+      ],
+      "conservative_headline": "Thune Betrays Base by Working With Democrats to Fund Government",
+      "liberal_headline": "Senate GOP Leader Shows Rare Willingness to Work Across Aisle on Funding",
+      "poll_question": "Should Senate Republicans work with Democrats on government funding?",
+      "poll_option1_label": "Stand Firm",
+      "poll_option1_desc": "Republicans should hold line on conservative priorities",
+      "poll_option2_label": "Work Together",
+      "poll_option2_desc": "Bipartisan cooperation needed to keep government functioning",
+      "pexels_search_terms": "senate bipartisan cooperation compromise"
+    },
+    {
+      "title": "Storm Preparedness or Climate Wake-Up Call? Tropical Storm Bertha Hits Gulf",
+      "slug": "tropical-storm-bertha-gulf-coast",
+      "topic_keywords": [
+        "Tropical Storm Bertha",
+        "Louisiana",
+        "Gulf Coast",
+        "extreme weather",
+        "disaster response"
+      ],
+      "conservative_headline": "Gulf States Show Resilience as Tropical Storm Bertha Makes Landfall",
+      "liberal_headline": "Yet Another Storm Highlights Climate Crisis Battering Southern States",
+      "poll_question": "How should government prioritize storm response funding?",
+      "poll_option1_label": "Emergency Response",
+      "poll_option1_desc": "Focus on immediate disaster relief and recovery efforts",
+      "poll_option2_label": "Climate Prevention",
+      "poll_option2_desc": "Invest in climate change mitigation to prevent future disasters",
+      "pexels_search_terms": "tropical storm hurricane flooding"
+    },
+    {
+      "title": "Modernization Success or Mass Layoffs? Social Security Workforce Controversy",
+      "slug": "social-security-workforce-changes-bisignano",
+      "topic_keywords": [
+        "Social Security staffing",
+        "Frank Bisignano",
+        "government efficiency",
+        "customer service",
+        "DOGE"
+      ],
+      "conservative_headline": "Bisignano Transforms Social Security With Efficiency Improvements and Better Service",
+      "liberal_headline": "Trump Administration Pushes Out 8,000 Social Security Workers, Service Suffers",
+      "poll_question": "Are Social Security Administration workforce changes helping or hurting?",
+      "poll_option1_label": "Modernizing Agency",
+      "poll_option1_desc": "Reducing wait times and improving efficiency for beneficiaries",
+      "poll_option2_label": "Destroying Service",
+      "poll_option2_desc": "Mass layoffs harming customer service and vulnerable seniors",
+      "pexels_search_terms": "government office workers service desk"
+    }
+  ]
+}
