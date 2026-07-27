@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-27",
+  "email_sent_at": "2026-07-27T03:13:03.836995",
+  "stories": [
+    {
+      "title": "Economic Patriotism or Trade War Chaos? Trump's New Wave of Tariffs Hits 60 Countries",
+      "slug": "trump-tariffs-60-countries-trade-war-economic-patriotism",
+      "topic_keywords": [
+        "tariffs",
+        "trade",
+        "Trump",
+        "economy",
+        "forced labor"
+      ],
+      "conservative_headline": "Trump Takes Bold Stand Against Forced Labor, Imposes Tariffs on 60 Nations to Protect American Workers",
+      "liberal_headline": "Trump Recklessly Launches New Tariff War on Allies After Supreme Court Defeat",
+      "poll_question": "Should the U.S. impose 10-12.5% tariffs on 60 trading partners?",
+      "poll_option1_label": "Protect America",
+      "poll_option1_desc": "Strong tariffs defend American workers and combat forced labor abroad",
+      "poll_option2_label": "Reckless Trade War",
+      "poll_option2_desc": "Tariffs will raise consumer prices and damage international relationships",
+      "pexels_search_terms": "shipping containers port trade"
+    },
+    {
+      "title": "Lock the Clock or Keep Status Quo? House Votes to End Daylight Saving Time Switches",
+      "slug": "daylight-saving-time-permanent-house-vote-sunshine-protection",
+      "topic_keywords": [
+        "daylight saving time",
+        "Congress",
+        "health",
+        "agriculture",
+        "lifestyle"
+      ],
+      "conservative_headline": "House Passes Common-Sense Bill to End Clock Changes, Boost Economic Activity and Safety",
+      "liberal_headline": "Permanent Daylight Saving Time Threatens Children's Safety with Dark Winter Mornings",
+      "poll_question": "Should daylight saving time be made permanent year-round?",
+      "poll_option1_label": "Lock the Clock",
+      "poll_option1_desc": "End the outdated practice, improve health and extend daylight hours",
+      "poll_option2_label": "Keep Standard Time",
+      "poll_option2_desc": "Dark winter mornings endanger children and disrupt natural rhythms",
+      "pexels_search_terms": "clock time change daylight"
+    },
+    {
+      "title": "Presidential Humor or Authoritarian Threats? Trump's Contentious White House Correspondents' Dinner Speech",
+      "slug": "trump-white-house-correspondents-dinner-2026-press-freedom",
+      "topic_keywords": [
+        "press freedom",
+        "Trump",
+        "media",
+        "First Amendment",
+        "journalism"
+      ],
+      "conservative_headline": "Trump Delivers Powerful Speech Defending America, Calls Out Biased Media at Rescheduled Dinner",
+      "liberal_headline": "Trump Attacks Free Press and Jokes About Illegal Third Term in Disturbing Dinner Speech",
+      "poll_question": "Was Trump's White House Correspondents' Dinner speech appropriate?",
+      "poll_option1_label": "Truth-Telling",
+      "poll_option1_desc": "President rightfully called out media bias and celebrated achievements",
+      "poll_option2_label": "Authoritarian Attack",
+      "poll_option2_desc": "Inappropriate attacks on press freedom and democratic norms",
+      "pexels_search_terms": "press conference journalism microphone"
+    },
+    {
+      "title": "Justice Served or Executive Overreach? Supreme Court Strikes Down Trump's IEEPA Tariffs",
+      "slug": "supreme-court-trump-tariffs-ieepa-unconstitutional",
+      "topic_keywords": [
+        "Supreme Court",
+        "tariffs",
+        "presidential power",
+        "IEEPA",
+        "separation of powers"
+      ],
+      "conservative_headline": "Activist Court Undermines Presidential Authority on National Security Trade Policy",
+      "liberal_headline": "Supreme Court Upholds Constitutional Limits, Blocks Trump's Illegal Tariff Scheme",
+      "poll_question": "Did the Supreme Court make the right decision on tariff authority?",
+      "poll_option1_label": "Judicial Activism",
+      "poll_option1_desc": "Court wrongly restricted president's power to protect national security",
+      "poll_option2_label": "Constitutional Victory",
+      "poll_option2_desc": "Court properly enforced separation of powers and congressional authority",
+      "pexels_search_terms": "supreme court building justice"
+    },
+    {
+      "title": "Border Security or Worker Exploitation? Trump Cites Forced Labor in New Tariff Justification",
+      "slug": "forced-labor-tariffs-trump-trade-policy-china",
+      "topic_keywords": [
+        "forced labor",
+        "China",
+        "human rights",
+        "trade policy",
+        "imports"
+      ],
+      "conservative_headline": "Trump Administration Champions Human Rights with Tough Stance on Forced Labor Imports",
+      "liberal_headline": "Trump Uses Human Rights as Excuse for Economically Damaging Tariff Policy",
+      "poll_question": "Are tariffs the right tool to combat forced labor?",
+      "poll_option1_label": "Economic Pressure Works",
+      "poll_option1_desc": "Tariffs effectively punish countries that use forced labor practices",
+      "poll_option2_label": "Wrong Approach",
+      "poll_option2_desc": "Tariffs hurt Americans while doing little to address human rights",
+      "pexels_search_terms": "factory workers manufacturing labor"
+    },
+    {
+      "title": "Rising Star or Scandal-Tainted? Maine Democrats Choose Troy Jackson for Senate Race",
+      "slug": "maine-senate-race-troy-jackson-susan-collins-2026",
+      "topic_keywords": [
+        "Maine",
+        "Senate race",
+        "Susan Collins",
+        "Troy Jackson",
+        "midterms"
+      ],
+      "conservative_headline": "Moderate Republican Collins Faces Extremist Democrat in Critical Senate Race",
+      "liberal_headline": "Economic Populist Jackson Chosen to Challenge Collins' Corporate-Friendly Record",
+      "poll_question": "Who should represent Maine in the U.S. Senate?",
+      "poll_option1_label": "Experienced Leadership",
+      "poll_option1_desc": "Collins brings moderate bipartisan experience to Washington",
+      "poll_option2_label": "Economic Populism",
+      "poll_option2_desc": "Jackson will fight for working families against corporate interests",
+      "pexels_search_terms": "Maine lighthouse senator campaign"
+    },
+    {
+      "title": "Future of Democracy or DNC Power Play? South Carolina Chosen for First 2028 Primary",
+      "slug": "dnc-2028-primary-calendar-south-carolina-nevada-iowa",
+      "topic_keywords": [
+        "DNC",
+        "primaries",
+        "2028 election",
+        "South Carolina",
+        "Iowa"
+      ],
+      "conservative_headline": "Democrats Abandon Iowa Farmers, Prioritize Identity Politics in Primary Shakeup",
+      "liberal_headline": "DNC Modernizes Primary Calendar to Reflect Diverse America, Prioritize Black and Latino Voters",
+      "poll_question": "Should South Carolina host the first Democratic primary in 2028?",
+      "poll_option1_label": "Tradition Matters",
+      "poll_option1_desc": "Iowa and New Hampshire earned first status through grassroots engagement",
+      "poll_option2_label": "Represent Diversity",
+      "poll_option2_desc": "Early states should reflect the party's diverse base of supporters",
+      "pexels_search_terms": "voting booth election democracy"
+    },
+    {
+      "title": "Election Security or Voter Suppression? DHS Threatens to Withhold Funding from States",
+      "slug": "dhs-election-security-funding-threats-states-markwayne-mullin",
+      "topic_keywords": [
+        "election security",
+        "DHS",
+        "voting rights",
+        "federalism",
+        "states' rights"
+      ],
+      "conservative_headline": "DHS Takes Strong Action to Secure Elections and Prevent Fraud Across States",
+      "liberal_headline": "Trump Administration Threatens States with Funding Cuts to Impose Voter Suppression Tactics",
+      "poll_question": "Should federal government withhold funds from states over election security?",
+      "poll_option1_label": "Secure Elections",
+      "poll_option1_desc": "Federal standards ensure integrity and prevent fraud nationwide",
+      "poll_option2_label": "States' Rights",
+      "poll_option2_desc": "Federal coercion threatens state sovereignty and voter access",
+      "pexels_search_terms": "ballot box voting security"
+    },
+    {
+      "title": "Accountability or Political Witch Hunt? House Grills JPMorgan Executive Over Epstein Ties",
+      "slug": "jpmorgan-jes-staley-epstein-congress-hearing-financial-sector",
+      "topic_keywords": [
+        "Epstein",
+        "JPMorgan",
+        "banking",
+        "accountability",
+        "sexual abuse"
+      ],
+      "conservative_headline": "Congress Finally Holds Wall Street Accountable for Epstein Banking Relationship",
+      "liberal_headline": "Republican-Led Hearing on Epstein Connections Reveals Financial Sector's Dark Ties",
+      "poll_question": "Should Congress investigate banks' relationships with Epstein?",
+      "poll_option1_label": "Demand Accountability",
+      "poll_option1_desc": "Banks must answer for enabling predators like Jeffrey Epstein",
+      "poll_option2_label": "Political Theater",
+      "poll_option2_desc": "Hearings are grandstanding that won't lead to real reform",
+      "pexels_search_terms": "congressional hearing testimony banking"
+    },
+    {
+      "title": "Fiscal Responsibility or Betraying Veterans? Speaker Johnson Pulls Veterans Benefits Bill",
+      "slug": "speaker-johnson-veterans-benefits-bill-humiliating-defeat",
+      "topic_keywords": [
+        "veterans",
+        "benefits",
+        "Mike Johnson",
+        "Congress",
+        "military"
+      ],
+      "conservative_headline": "Speaker Johnson Acts Responsibly, Delays Unsustainable Veterans Spending Bill",
+      "liberal_headline": "Republican Speaker Suffers Embarrassing Defeat, Abandons Veterans in Budget Standoff",
+      "poll_question": "Should Congress prioritize expanded veterans benefits?",
+      "poll_option1_label": "Fiscal Restraint",
+      "poll_option1_desc": "Must ensure benefits are sustainable and fiscally responsible",
+      "poll_option2_label": "Honor Service",
+      "poll_option2_desc": "Veterans earned these benefits through sacrifice and deserve support",
+      "pexels_search_terms": "military veterans american flag"
+    }
+  ]
+}
