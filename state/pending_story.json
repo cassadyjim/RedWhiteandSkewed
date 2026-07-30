@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-30",
+  "email_sent_at": "2026-07-30T03:10:34.841444",
+  "stories": [
+    {
+      "title": "National Security or Foreign Policy Overreach? Trump's Saudi Nuclear Deal Contingent on Israel Normalization",
+      "slug": "trump-saudi-nuclear-deal-israel-normalization",
+      "topic_keywords": [
+        "Saudi Arabia",
+        "nuclear deal",
+        "Israel",
+        "Abraham Accords",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump Secures Historic Peace Breakthrough: Saudi Nuclear Deal Requires Israel Normalization",
+      "liberal_headline": "Trump Risks Nuclear Proliferation Crisis by Linking Saudi Deal to Controversial Israel Demands",
+      "poll_question": "Should the Saudi nuclear deal be contingent on normalizing relations with Israel?",
+      "poll_option1_label": "Peace Through Strength",
+      "poll_option1_desc": "Historic opportunity to expand Abraham Accords and promote Middle East stability",
+      "poll_option2_label": "Dangerous Overreach",
+      "poll_option2_desc": "Ignores Palestinian rights and risks nuclear weapons proliferation in the region",
+      "pexels_search_terms": "nuclear power plant saudi arabia flag"
+    },
+    {
+      "title": "Party Loyalty Crisis: Fetterman Threatens to Leave Democrats Over Israel Policy Shift",
+      "slug": "fetterman-democrats-israel-party-switch",
+      "topic_keywords": [
+        "John Fetterman",
+        "Democratic Party",
+        "Israel",
+        "party switch",
+        "progressives"
+      ],
+      "conservative_headline": "Fetterman Exposes Dem Anti-Israel Extremism, Considers Leaving 'Anti-Israel Party'",
+      "liberal_headline": "Fetterman Defies Democratic Base, Threatens Party Exit Over Israel Criticism",
+      "poll_question": "Is the Democratic Party becoming too critical of Israel?",
+      "poll_option1_label": "Anti-Israel Shift",
+      "poll_option1_desc": "Democrats abandoning our strongest Middle East ally under progressive pressure",
+      "poll_option2_label": "Principled Criticism",
+      "poll_option2_desc": "Supporting Palestinian rights and holding Israel accountable is moral necessity",
+      "pexels_search_terms": "democratic senator congress israel flag"
+    },
+    {
+      "title": "Election Integrity or Voter Suppression? Trump Takes Mail Voting Battle to Supreme Court",
+      "slug": "trump-supreme-court-mail-voting-restrictions",
+      "topic_keywords": [
+        "mail voting",
+        "Supreme Court",
+        "election integrity",
+        "midterm elections",
+        "voter access"
+      ],
+      "conservative_headline": "Trump Fights for Election Security: Supreme Court to Decide on Critical Mail Ballot Safeguards",
+      "liberal_headline": "Trump Seeks to Suppress Millions of Votes Before Midterms with Mail Ballot Ban",
+      "poll_question": "Should the Supreme Court allow Trump's mail voting restrictions?",
+      "poll_option1_label": "Secure Elections",
+      "poll_option1_desc": "Necessary safeguards to prevent fraud and ensure only citizens vote",
+      "poll_option2_label": "Protect Voting Rights",
+      "poll_option2_desc": "Baseless restrictions designed to suppress Democratic voters before November",
+      "pexels_search_terms": "mail ballot voting envelope american flag"
+    },
+    {
+      "title": "Progressive Surge or Democratic Divide? 103 House Democrats Vote to Cut Israel Aid",
+      "slug": "house-democrats-israel-aid-vote",
+      "topic_keywords": [
+        "Israel aid",
+        "House Democrats",
+        "progressive movement",
+        "military funding",
+        "Gaza"
+      ],
+      "conservative_headline": "Shocking: Over 100 Democrats Vote to Abandon Israel, Even Pelosi Joins Anti-Israel Bloc",
+      "liberal_headline": "Historic Shift: Democratic Majority Demands Accountability on Israel Military Aid",
+      "poll_question": "Should Congress cut military aid to Israel?",
+      "poll_option1_label": "Stand With Israel",
+      "poll_option1_desc": "Supporting our ally is crucial for Middle East stability and security",
+      "poll_option2_label": "End Blank Checks",
+      "poll_option2_desc": "U.S. taxpayers shouldn't fund human rights violations against Palestinians",
+      "pexels_search_terms": "congress voting capitol building debate"
+    },
+    {
+      "title": "Bipartisan Outreach or Partisan Betrayal? Republicans Court Fetterman to Switch Parties",
+      "slug": "republicans-court-fetterman-party-switch",
+      "topic_keywords": [
+        "party switching",
+        "Senate control",
+        "John Fetterman",
+        "GOP strategy",
+        "midterms"
+      ],
+      "conservative_headline": "Common Sense Wins: GOP Welcomes Moderate Fetterman Fleeing Radical Left",
+      "liberal_headline": "GOP Desperately Courts Fetterman in Cynical Bid to Maintain Senate Control",
+      "poll_question": "Would a Fetterman party switch be good for Pennsylvania?",
+      "poll_option1_label": "Principled Stand",
+      "poll_option1_desc": "Following his values away from extremist Democratic positions",
+      "poll_option2_label": "Political Opportunism",
+      "poll_option2_desc": "Betraying voters who elected him as a Democrat",
+      "pexels_search_terms": "senate chamber politician pennsylvania"
+    },
+    {
+      "title": "Energy Independence or Environmental Recklessness? Saudi Nuclear Program Raises Enrichment Concerns",
+      "slug": "saudi-nuclear-enrichment-debate",
+      "topic_keywords": [
+        "uranium enrichment",
+        "nuclear proliferation",
+        "Saudi Arabia",
+        "energy policy",
+        "weapons risk"
+      ],
+      "conservative_headline": "Trump Ensures Safety: Saudi Nuclear Deal Bans Uranium Enrichment Despite Liberal Fearmongering",
+      "liberal_headline": "Experts Warn Saudi Nuclear Deal Could Enable Weapons Program Despite Trump Claims",
+      "poll_question": "Should the U.S. help Saudi Arabia develop nuclear energy?",
+      "poll_option1_label": "Strategic Partnership",
+      "poll_option1_desc": "Peaceful nuclear energy strengthens allies and reduces fossil fuel dependence",
+      "poll_option2_label": "Proliferation Risk",
+      "poll_option2_desc": "Saudi Arabia cannot be trusted with nuclear technology",
+      "pexels_search_terms": "nuclear reactor cooling towers middle east"
+    },
+    {
+      "title": "Constitutional Authority or Presidential Overreach? Trump's Executive Order on Elections Challenged",
+      "slug": "trump-election-executive-order-challenge",
+      "topic_keywords": [
+        "executive order",
+        "election law",
+        "states' rights",
+        "federal power",
+        "Constitution"
+      ],
+      "conservative_headline": "States Defy Trump's Common-Sense Election Security Measures in Partisan Lawsuit",
+      "liberal_headline": "23 States Sue Trump for Unconstitutional Federal Takeover of State Elections",
+      "poll_question": "Can the President regulate state election procedures?",
+      "poll_option1_label": "Federal Authority",
+      "poll_option1_desc": "President must ensure national election security and integrity",
+      "poll_option2_label": "States' Rights",
+      "poll_option2_desc": "Constitution clearly gives election authority to states, not president",
+      "pexels_search_terms": "constitution document states rights federal"
+    },
+    {
+      "title": "Campus Free Speech or Antisemitism? Fetterman Attacks Pro-Palestine Protests",
+      "slug": "fetterman-campus-palestine-protests",
+      "topic_keywords": [
+        "campus protests",
+        "Palestine",
+        "antisemitism",
+        "free speech",
+        "college activism"
+      ],
+      "conservative_headline": "Fetterman Calls Out Antisemitic College Radicals Masquerading as Activists",
+      "liberal_headline": "Fetterman Smears Student Peace Activists as 'Antisemitic' for Criticizing Israel",
+      "poll_question": "Are pro-Palestine campus protests antisemitic?",
+      "poll_option1_label": "Hate Movement",
+      "poll_option1_desc": "Anti-Israel protests create hostile environment for Jewish students",
+      "poll_option2_label": "Legitimate Activism",
+      "poll_option2_desc": "Students exercising free speech to oppose occupation and violence",
+      "pexels_search_terms": "college campus protest students demonstration"
+    },
+    {
+      "title": "Peace Diplomacy or Appeasement? Abraham Accords Expansion Faces Saudi Resistance",
+      "slug": "abraham-accords-saudi-palestine-dispute",
+      "topic_keywords": [
+        "Abraham Accords",
+        "Saudi Arabia",
+        "Palestine statehood",
+        "Middle East peace",
+        "diplomacy"
+      ],
+      "conservative_headline": "Trump's Abraham Accords Poised for Historic Expansion Despite Saudi Hesitation",
+      "liberal_headline": "Saudi Arabia Refuses Trump Pressure to Normalize Ties While Ignoring Palestinian State",
+      "poll_question": "Should Saudi Arabia join the Abraham Accords now?",
+      "poll_option1_label": "Expand Peace",
+      "poll_option1_desc": "Normalization brings stability and economic benefits to entire region",
+      "poll_option2_label": "Palestinian State First",
+      "poll_option2_desc": "Cannot normalize relations while Palestinians lack their own state",
+      "pexels_search_terms": "middle east peace handshake diplomatic agreement"
+    },
+    {
+      "title": "Voter Fraud Prevention or Election Chaos? Trump's Citizenship List Plan Sparks Legal Battle",
+      "slug": "trump-citizenship-list-voter-eligibility",
+      "topic_keywords": [
+        "voter eligibility",
+        "citizenship verification",
+        "non-citizen voting",
+        "voter rolls",
+        "election administration"
+      ],
+      "conservative_headline": "Trump's Citizenship Verification Exposes Democrat Resistance to Election Integrity",
+      "liberal_headline": "Trump's 'Citizenship List' Could Purge Legal Voters, Disenfranchise Millions",
+      "poll_question": "Should federal government create citizenship lists for voting?",
+      "poll_option1_label": "Common Sense",
+      "poll_option1_desc": "Only citizens should vote; verification prevents illegal ballot casting",
+      "poll_option2_label": "Voter Purge",
+      "poll_option2_desc": "Error-prone lists will wrongly remove eligible voters from rolls",
+      "pexels_search_terms": "voter registration american citizenship documents"
+    }
+  ]
+}
