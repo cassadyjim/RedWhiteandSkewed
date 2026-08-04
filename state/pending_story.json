@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-04",
+  "email_sent_at": "2026-08-04T03:10:46.861579",
+  "stories": [
+    {
+      "title": "Peace Deal or Surrender? Trump Calls Off Iran Strike After 'Major Combat Operations'",
+      "slug": "trump-iran-strike-hormuz-deal",
+      "topic_keywords": [
+        "Iran",
+        "Trump",
+        "military",
+        "diplomacy",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump's Bold Diplomacy Brings Iran to Negotiating Table, Averts Massive Conflict",
+      "liberal_headline": "Trump's Chaotic Iran Policy Flip-Flops After Planned 'WWII-Level' Strike",
+      "poll_question": "Did Trump make the right call on Iran?",
+      "poll_option1_label": "Strong Leadership",
+      "poll_option1_desc": "Trump's willingness to strike forced Iran to negotiate and reopen Hormuz",
+      "poll_option2_label": "Reckless Chaos",
+      "poll_option2_desc": "Erratic threats and cancellations show Trump has no coherent Iran strategy",
+      "pexels_search_terms": "military jets aircraft carrier"
+    },
+    {
+      "title": "Patriot or Partisan? Todd Blanche AG Confirmation Stalls Over Trump Settlement Fund",
+      "slug": "todd-blanche-attorney-general-confirmation",
+      "topic_keywords": [
+        "Todd Blanche",
+        "attorney general",
+        "confirmation",
+        "Trump",
+        "DOJ"
+      ],
+      "conservative_headline": "Qualified AG Nominee Blanche Held Hostage by Democrat Obstruction",
+      "liberal_headline": "Trump Lawyer Blanche's AG Bid Threatened by $1.8 Billion Corruption Scandal",
+      "poll_question": "Should Todd Blanche be confirmed as Attorney General?",
+      "poll_option1_label": "Confirm Him",
+      "poll_option1_desc": "Blanche is qualified with broad law enforcement support across the nation",
+      "poll_option2_label": "Reject Him",
+      "poll_option2_desc": "Trump's personal lawyer overseeing a billion-dollar fund for Trump is corruption",
+      "pexels_search_terms": "gavel courthouse justice department"
+    },
+    {
+      "title": "Consumer Protection or Federal Overreach? 25 States Sue Over Trump's Latest Tariffs",
+      "slug": "california-states-tariff-lawsuit-august",
+      "topic_keywords": [
+        "tariffs",
+        "lawsuit",
+        "California",
+        "trade",
+        "economy"
+      ],
+      "conservative_headline": "Blue State Attorneys General Attack Trump's America First Trade Policy Again",
+      "liberal_headline": "25 States Challenge Trump's Third Illegal Tariff Scheme Hurting Families",
+      "poll_question": "Are Trump's tariffs helping or hurting Americans?",
+      "poll_option1_label": "Helping America",
+      "poll_option1_desc": "Tariffs protect American jobs and bring manufacturing back to the USA",
+      "poll_option2_label": "Hurting Families",
+      "poll_option2_desc": "Illegal tariffs are a tax raising costs for struggling American consumers",
+      "pexels_search_terms": "shipping containers port trade"
+    },
+    {
+      "title": "Funding the Government or Blocking Science? Senate Deal Limits White House Grant Control",
+      "slug": "senate-science-funding-white-house-control",
+      "topic_keywords": [
+        "Senate",
+        "science funding",
+        "appropriations",
+        "Collins",
+        "spending"
+      ],
+      "conservative_headline": "Senate Protects Research Grants From Partisan Political Manipulation",
+      "liberal_headline": "Bipartisan Senate Rebukes Trump's Power Grab Over Scientific Research",
+      "poll_question": "Should the White House control federal science grants?",
+      "poll_option1_label": "Executive Control",
+      "poll_option1_desc": "President should direct taxpayer research dollars toward American priorities and accountability",
+      "poll_option2_label": "Independent Science",
+      "poll_option2_desc": "Scientific research must remain independent from political interference and White House control",
+      "pexels_search_terms": "laboratory scientist research funding"
+    },
+    {
+      "title": "Economic Security or Privacy Invasion? ICE Seeks Access to Needy Families Data",
+      "slug": "ice-needy-families-data-sharing-lawsuit",
+      "topic_keywords": [
+        "ICE",
+        "immigration",
+        "data privacy",
+        "welfare",
+        "surveillance"
+      ],
+      "conservative_headline": "Trump Administration Cracks Down on Welfare Fraud by Illegal Immigrants",
+      "liberal_headline": "California Sues to Block Trump's 'Mass Surveillance' of Poor Families",
+      "poll_question": "Should ICE have access to welfare program data?",
+      "poll_option1_label": "Enforce Immigration",
+      "poll_option1_desc": "Verify citizenship status to prevent illegal immigrants from exploiting welfare programs",
+      "poll_option2_label": "Protect Privacy",
+      "poll_option2_desc": "Mass surveillance of struggling families violates privacy and targets political opponents",
+      "pexels_search_terms": "government database privacy surveillance"
+    },
+    {
+      "title": "Border Security or Oil Betrayal? Trump Attacks Oil Companies for 'Too Much Money'",
+      "slug": "trump-oil-companies-profits-criticism",
+      "topic_keywords": [
+        "oil prices",
+        "Trump",
+        "energy",
+        "profits",
+        "economy"
+      ],
+      "conservative_headline": "Trump Stands Up for Consumers Against Big Oil Price Gouging",
+      "liberal_headline": "Trump Turns on Energy Allies After Years of Drill Baby Drill Support",
+      "poll_question": "Should Trump criticize oil company profits?",
+      "poll_option1_label": "Defend Consumers",
+      "poll_option1_desc": "Oil companies made excessive profits at expense of American families paying",
+      "poll_option2_label": "Support Energy",
+      "poll_option2_desc": "Attacking energy producers undermines American independence and free market capitalism",
+      "pexels_search_terms": "oil refinery gas pump prices"
+    },
+    {
+      "title": "National Security or Nuclear Blackmail? Trump Demands Saudi-Israel Deal for Nuclear Agreement",
+      "slug": "saudi-nuclear-deal-israel-normalization",
+      "topic_keywords": [
+        "Saudi Arabia",
+        "Israel",
+        "nuclear",
+        "Middle East",
+        "diplomacy"
+      ],
+      "conservative_headline": "Trump's Middle East Strategy Links Saudi Nuclear Program to Israel Peace",
+      "liberal_headline": "Trump Dangerously Offers Nuclear Tech to Saudis to Force Israel Deal",
+      "poll_question": "Should the US give Saudi Arabia nuclear technology?",
+      "poll_option1_label": "Strategic Partnership",
+      "poll_option1_desc": "Nuclear deal with Saudi normalization brings Middle East peace and stability",
+      "poll_option2_label": "Dangerous Proliferation",
+      "poll_option2_desc": "Giving nuclear weapons capability to Saudi Arabia threatens global security forever",
+      "pexels_search_terms": "nuclear power plant Saudi Arabia"
+    },
+    {
+      "title": "Crypto Innovation or Regulatory Capture? Senate Rushes Crypto Bill Before Recess",
+      "slug": "senate-crypto-regulation-bill-recess",
+      "topic_keywords": [
+        "cryptocurrency",
+        "regulation",
+        "Senate",
+        "blockchain",
+        "finance"
+      ],
+      "conservative_headline": "Senate Moves to Unleash American Crypto Innovation With Smart Regulation",
+      "liberal_headline": "Big Crypto Lobbyists Push Deregulation Through Senate Before August Break",
+      "poll_question": "Should Congress pass major crypto legislation now?",
+      "poll_option1_label": "Regulate Now",
+      "poll_option1_desc": "Clear regulations allow American innovation to compete globally in digital assets",
+      "poll_option2_label": "Slow Down",
+      "poll_option2_desc": "Rushed legislation written by lobbyists will enable fraud and market manipulation",
+      "pexels_search_terms": "cryptocurrency bitcoin blockchain trading"
+    },
+    {
+      "title": "Democratic Primary or Populist Takeover? Michigan Senate Race Features Outsider vs. Establishment",
+      "slug": "michigan-senate-primary-stevens-el-sayed",
+      "topic_keywords": [
+        "Michigan",
+        "Senate",
+        "primary",
+        "Democrats",
+        "election"
+      ],
+      "conservative_headline": "Far-Left Populist El-Sayed Threatens to Hijack Michigan Democrat Primary",
+      "liberal_headline": "Progressive Champion El-Sayed Challenges Corporate Democrat in Michigan",
+      "poll_question": "Who should Democrats nominate in Michigan?",
+      "poll_option1_label": "Rep. Stevens",
+      "poll_option1_desc": "Experienced congresswoman can win general election and deliver for Michigan families",
+      "poll_option2_label": "Abdul El-Sayed",
+      "poll_option2_desc": "Bold progressive populist will energize base and fight corporate special interests",
+      "pexels_search_terms": "voting booth Michigan election"
+    },
+    {
+      "title": "Abuse Allegation or Political Attack? Senator Accuses Rep. Miller of Assaulting Daughter",
+      "slug": "max-miller-abuse-allegations-senator",
+      "topic_keywords": [
+        "Max Miller",
+        "abuse",
+        "Congress",
+        "scandal",
+        "Ohio"
+      ],
+      "conservative_headline": "Rep. Miller Denies False Accusations, Slams Senator for Public Smear",
+      "liberal_headline": "Ohio Congressman Faces Serious Abuse Allegations From Senator's Family",
+      "poll_question": "How should Congress handle these allegations?",
+      "poll_option1_label": "Presume Innocence",
+      "poll_option1_desc": "Miller denied allegations and deserves due process without public trial",
+      "poll_option2_label": "Independent Investigation",
+      "poll_option2_desc": "Serious abuse allegations require immediate ethics committee investigation and transparency",
+      "pexels_search_terms": "congress capitol building scandal"
+    }
+  ]
+}
