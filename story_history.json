@@ -2,29 +2,9 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-07-10",
-      "slug": "doj-voter-data-lawsuit-states-refusing",
-      "topic": "voter data DOJ election integrity privacy federal overreach"
-    },
-    {
-      "date": "2026-07-13",
-      "slug": "trump-housing-bill-save-act-voter-id",
-      "topic": "housing voter ID SAVE Act Trump affordability"
-    },
-    {
-      "date": "2026-07-16",
-      "slug": "trump-voting-machine-intelligence-declassified",
-      "topic": "election security voting machines intelligence midterms disinformation"
-    },
-    {
-      "date": "2026-07-18",
-      "slug": "brazil-tariffs-trade-war-fair-play",
-      "topic": "tariffs Brazil trade inflation Bolsonaro"
-    },
-    {
-      "date": "2026-07-22",
-      "slug": "iran-war-hegseth-senate-hearing-funding-strategy",
-      "topic": "Iran war Pete Hegseth military spending Senate hearing Middle East conflict"
+      "date": "2026-08-06",
+      "slug": "fbi-election-monitoring-trump-voter-fraud-claims",
+      "topic": "FBI election monitoring voter fraud Trump 2026 primaries"
     }
   ]
 }
