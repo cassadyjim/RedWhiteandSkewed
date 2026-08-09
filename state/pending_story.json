@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-09",
+  "email_sent_at": "2026-08-09T03:48:10.524234",
+  "stories": [
+    {
+      "title": "Confirmation or Corruption? Todd Blanche Becomes Attorney General Despite Bipartisan Concerns",
+      "slug": "todd-blanche-attorney-general-confirmation-controversy",
+      "topic_keywords": [
+        "Todd Blanche",
+        "attorney general",
+        "Trump",
+        "DOJ independence",
+        "Senate confirmation"
+      ],
+      "conservative_headline": "Senate Confirms Blanche as AG, Ending Democrat Obstruction of Qualified Trump Pick",
+      "liberal_headline": "Trump's Former Lawyer Blanche Confirmed as AG Despite IRS Audit Shield Scandal",
+      "poll_question": "Should Todd Blanche have been confirmed as Attorney General?",
+      "poll_option1_label": "Yes, Confirm",
+      "poll_option1_desc": "Blanche is a capable lawyer who deserves to lead Justice Department",
+      "poll_option2_label": "No, Too Political",
+      "poll_option2_desc": "Former Trump attorney will undermine DOJ independence and rule of law",
+      "pexels_search_terms": "justice department building attorney general"
+    },
+    {
+      "title": "Justice or Witch Hunt? Fauci Held in Contempt for Taking the Fifth",
+      "slug": "fauci-contempt-congress-fifth-amendment-covid",
+      "topic_keywords": [
+        "Anthony Fauci",
+        "contempt of Congress",
+        "COVID-19",
+        "Rand Paul",
+        "Fifth Amendment"
+      ],
+      "conservative_headline": "Senate Panel Rightfully Holds Fauci in Contempt After Refusing to Answer COVID Questions",
+      "liberal_headline": "GOP Persecution of Fauci Continues as Committee Votes Contempt Over Fifth Amendment Use",
+      "poll_question": "Was it appropriate to hold Dr. Fauci in contempt of Congress?",
+      "poll_option1_label": "Yes, Accountability",
+      "poll_option1_desc": "Fauci must answer questions about pandemic response despite Biden pardon",
+      "poll_option2_label": "No, Political Attack",
+      "poll_option2_desc": "Republicans pursuing vendetta against scientist who served during pandemic",
+      "pexels_search_terms": "congressional hearing doctor testimony microphone"
+    },
+    {
+      "title": "Efficiency or Exaggeration? GAO Finds DOGE Inflated Savings Claims by Billions",
+      "slug": "doge-musk-gao-spending-cuts-inflated-claims",
+      "topic_keywords": [
+        "DOGE",
+        "Elon Musk",
+        "government spending",
+        "GAO audit",
+        "budget cuts"
+      ],
+      "conservative_headline": "DOGE Still Saves Billions Despite Liberal Watchdog's Nitpicking Over Methodology",
+      "liberal_headline": "Musk's DOGE Caught Fabricating $110 Billion in Savings, GAO Audit Reveals",
+      "poll_question": "Did DOGE successfully reduce government waste?",
+      "poll_option1_label": "Mission Accomplished",
+      "poll_option1_desc": "Musk exposed wasteful spending and saved taxpayers billions of dollars",
+      "poll_option2_label": "Failed Promises",
+      "poll_option2_desc": "DOGE lied about savings and fell far short of goals",
+      "pexels_search_terms": "government building budget calculator efficiency"
+    },
+    {
+      "title": "Historic Preservation or Presidential Overreach? Court Blocks White House Ballroom Construction",
+      "slug": "white-house-ballroom-appeals-court-congress-approval",
+      "topic_keywords": [
+        "White House ballroom",
+        "appeals court",
+        "Congress approval",
+        "historic preservation",
+        "Trump"
+      ],
+      "conservative_headline": "Activist Court Blocks Needed White House Security Upgrades Over Technicality",
+      "liberal_headline": "Appeals Court Halts Trump's Massive White House Ballroom Built Without Congressional Approval",
+      "poll_question": "Should the White House ballroom construction continue?",
+      "poll_option1_label": "Build It",
+      "poll_option1_desc": "President needs modern facilities for security and hosting world leaders",
+      "poll_option2_label": "Stop Construction",
+      "poll_option2_desc": "Massive project requires Congress approval per Constitution and preservationists",
+      "pexels_search_terms": "white house construction building exterior"
+    },
+    {
+      "title": "Diplomacy or Theater? Trump Teases Iran Deal as Markets Soar, Critics Skeptical",
+      "slug": "trump-iran-deal-negotiations-market-reaction",
+      "topic_keywords": [
+        "Iran deal",
+        "Trump diplomacy",
+        "market reaction",
+        "Middle East",
+        "nuclear negotiations"
+      ],
+      "conservative_headline": "Trump's Iran Diplomacy Boosts Markets, Shows Strength Through Peace Strategy",
+      "liberal_headline": "Trump's 'Theater Diplomacy' on Iran Manipulates Markets While Deal Remains Elusive",
+      "poll_question": "Is Trump's approach to Iran negotiations effective?",
+      "poll_option1_label": "Smart Diplomacy",
+      "poll_option1_desc": "Trump negotiating from strength to secure better deal than Obama",
+      "poll_option2_label": "Empty Promises",
+      "poll_option2_desc": "Trump using Iran talks for political theater without real progress",
+      "pexels_search_terms": "diplomacy handshake international flags negotiation"
+    },
+    {
+      "title": "Defending or Firing? Trump Ally Fed Chair Kevin Warsh Faces Rate Hike Pressure",
+      "slug": "kevin-warsh-federal-reserve-rate-hikes-trump",
+      "topic_keywords": [
+        "Kevin Warsh",
+        "Federal Reserve",
+        "interest rates",
+        "inflation",
+        "Trump"
+      ],
+      "conservative_headline": "Fed Chair Warsh Acts Responsibly on Inflation Despite Political Pressure from Left",
+      "liberal_headline": "Trump's Hand-Picked Fed Chair Warsh Weighs Rate Hikes That Could Tank Economy",
+      "poll_question": "Should the Federal Reserve raise interest rates now?",
+      "poll_option1_label": "Raise Rates",
+      "poll_option1_desc": "Fed must fight inflation even if politically unpopular for Trump",
+      "poll_option2_label": "Hold Steady",
+      "poll_option2_desc": "Rate hikes would harm economy and burden working families",
+      "pexels_search_terms": "federal reserve building interest rates economy"
+    },
+    {
+      "title": "Energy Independence or Tax Giveaway? Democrats Propose Ending Overseas Oil Tax Breaks",
+      "slug": "overseas-oil-production-tax-breaks-democrat-proposal",
+      "topic_keywords": [
+        "oil production",
+        "tax breaks",
+        "overseas drilling",
+        "energy policy",
+        "Democrats"
+      ],
+      "conservative_headline": "Democrats Attack American Energy Companies With Job-Killing Tax Hike Proposal",
+      "liberal_headline": "Top Democrat Moves to Kill Tax Breaks for Big Oil's Overseas Pollution",
+      "poll_question": "Should tax breaks for overseas oil production be eliminated?",
+      "poll_option1_label": "Keep Incentives",
+      "poll_option1_desc": "Tax breaks support American energy companies and keep gas affordable",
+      "poll_option2_label": "End Subsidies",
+      "poll_option2_desc": "Stop giving tax breaks to oil companies drilling overseas",
+      "pexels_search_terms": "oil drilling offshore energy production"
+    },
+    {
+      "title": "Free Speech or Fake News? House Republicans Condemn South Korean Media Law",
+      "slug": "south-korea-fake-news-law-house-republicans-alarm",
+      "topic_keywords": [
+        "South Korea",
+        "fake news law",
+        "Jim Jordan",
+        "free speech",
+        "international"
+      ],
+      "conservative_headline": "Jordan Defends Free Speech, Warns Against South Korea's Dangerous Censorship Law",
+      "liberal_headline": "House GOP Attacks South Korea's Disinformation Law While Ignoring Trump's Media Threats",
+      "poll_question": "Should the U.S. oppose South Korea's 'fake news' law?",
+      "poll_option1_label": "Oppose It",
+      "poll_option1_desc": "Fake news laws are censorship and threaten democratic free speech",
+      "poll_option2_label": "Support Sovereignty",
+      "poll_option2_desc": "South Korea can decide own policies on combating disinformation",
+      "pexels_search_terms": "south korea parliament government building protest"
+    },
+    {
+      "title": "Primary Upset or MAGA Mandate? Tennessee GOP Congressman Andy Ogles Defeated",
+      "slug": "andy-ogles-tennessee-primary-defeat-trump-loyalty",
+      "topic_keywords": [
+        "Andy Ogles",
+        "Tennessee primary",
+        "Republican primary",
+        "Trump endorsement",
+        "midterms 2026"
+      ],
+      "conservative_headline": "Tennessee Voters Choose New Conservative Leadership in Competitive GOP Primary",
+      "liberal_headline": "Trump-Aligned Rep. Andy Ogles Loses Primary as GOP Infighting Intensifies",
+      "poll_question": "What does Ogles' primary defeat signal?",
+      "poll_option1_label": "Healthy Competition",
+      "poll_option1_desc": "Voters choosing best candidate through normal democratic primary process",
+      "poll_option2_label": "Party Chaos",
+      "poll_option2_desc": "GOP civil war as Trump loyalists purge perceived disloyal members",
+      "pexels_search_terms": "voting booth election republican primary"
+    },
+    {
+      "title": "Resignation or Witch Hunt? NC Rep. Chuck Edwards Drops Reelection Bid Amid Harassment Claims",
+      "slug": "chuck-edwards-north-carolina-sexual-harassment-resignation",
+      "topic_keywords": [
+        "Chuck Edwards",
+        "North Carolina",
+        "sexual harassment",
+        "censure",
+        "MeToo"
+      ],
+      "conservative_headline": "Rep. Edwards Steps Aside Before Due Process as Cancel Culture Claims Another Victim",
+      "liberal_headline": "GOP Congressman Edwards Quits Reelection After Censure for Sexual Harassment Allegations",
+      "poll_question": "Should Edwards have dropped his reelection bid?",
+      "poll_option1_label": "Premature Exit",
+      "poll_option1_desc": "Edwards entitled to due process before being forced out",
+      "poll_option2_label": "Right Decision",
+      "poll_option2_desc": "Credible harassment allegations require accountability and resignation",
+      "pexels_search_terms": "congress representative resignation capitol building"
+    }
+  ]
+}
