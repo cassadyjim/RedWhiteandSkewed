@@ -213,14 +213,31 @@ def select_story(recent_topics):
 
     user_prompt = f"""TODAY IS {today}. Recent topics already covered (AVOID these): {recent_topics_str}.
 
-STEP 1 — Search for today's breaking US political news. Run these searches:
+STEP 1 — Search broadly across multiple issue areas. Run ALL of these searches:
 - "US political news {today}"
 - "breaking news politics today"
 - "Congress White House news today"
-- "top political story today partisan"
-- "political controversy today"
+- "Supreme Court ruling news today"
+- "economy inflation jobs news today"
+- "immigration border news today"
+- "foreign policy military news today"
+- "culture war education news today"
 
-STEP 2 — From your search results, identify the 10 best stories with strong partisan divide happening RIGHT NOW (today or yesterday at the earliest). Each must be a story that conservatives and liberals are framing very differently. Avoid topics already covered (listed above). Cover a variety of topics — don't pick 10 versions of the same story.
+STEP 2 — From your search results, identify 10 stories with strong partisan divide happening RIGHT NOW (today or yesterday at the earliest). Each must be a story that conservatives and liberals are framing very differently.
+
+MANDATORY DIVERSITY RULES — your 10 stories MUST span at least 6 different issue areas from this list:
+1. Political investigations / legal / DOJ / courts
+2. Economy / inflation / jobs / taxes / budget
+3. Immigration / border / deportation
+4. Foreign policy / military / national security
+5. Culture / education / social issues / DEI
+6. Environment / climate / energy
+7. Healthcare / social programs
+8. Congress / legislation / elections
+9. Supreme Court / judiciary
+10. Tech / AI / regulation / media
+
+Do NOT pick multiple stories from the same issue area. Avoid topics already covered (listed above).
 
 STEP 3 — Return ONLY a valid JSON array of exactly 10 story objects (no markdown, no explanation) with these exact keys per story:
 [
@@ -248,7 +265,7 @@ STEP 3 — Return ONLY a valid JSON array of exactly 10 story objects (no markdo
         response_text = ""
         for iteration in range(12):
             response = client.messages.create(
-                model="claude-sonnet-4-5-20250929",
+                model="claude-opus-5",
                 max_tokens=6000,
                 system=system_prompt,
                 tools=tools,
