@@ -237,6 +237,16 @@ Each row MUST include:
 
 **VERIFICATION REQUIREMENTS:**
 
+0. **PERSON MUST BE ALIVE (NON-NEGOTIABLE)**
+   - Before adding ANY quote from a named individual, search "[person name] death 2025 2026" to confirm they are currently alive.
+   - If the person is deceased, **remove the quote entirely** — do not rephrase, do not reassign, just delete it.
+   - Quoting a dead person as if they are actively commenting is a critical factual error.
+
+0b. **SPEAKER'S NAME MUST APPEAR IN THE SOURCE URL'S CONTENT**
+   - The search result context must contain BOTH the speaker's name AND the quote text.
+   - If the source URL does not mention the speaker's name, the quote is fabricated. Mark ❌ UNVERIFIED and DELETE immediately.
+   - A URL about a related topic is NOT proof that the person said something.
+
 1. **Every quote MUST have a documented WebSearch query**
 
 2. **Search Result Context MUST show actual quote text with 30+ surrounding words**
@@ -374,7 +384,11 @@ If "SINGLE LOW-TRUST" + "UNVERIFIED" > 0, STOP and remove those quotes.
 
 6. FAILURE CONDITIONS (OUTPUT INVALID IF ANY OCCUR)
 
+A quote is attributed to a person who is deceased
+
 A quote appears in the story but not in the Quote Ledger
+
+The source URL does not mention the speaker's name (fabricated attribution)
 
 A quote links to a URL different from its ledger entry
 
