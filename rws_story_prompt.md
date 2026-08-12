@@ -382,6 +382,42 @@ SELF-CHECK BEFORE AUDIT:
 
 If "SINGLE LOW-TRUST" + "UNVERIFIED" > 0, STOP and remove those quotes.
 
+## 5b. FACTS & STATISTICS LEDGER (MANDATORY)
+
+Every factual claim, statistic, or data point in the story — not just direct quotes from people — must be documented and hyperlinked. This includes:
+
+- Economic figures (inflation rates, job numbers, wage growth, GDP, etc.)
+- Government data (unemployment, spending, polling numbers)
+- Event descriptions stated as fact ("the White House said...", "the bill passed...")
+- Any number, percentage, or measurable claim
+
+**Build a Facts Ledger table before writing the story.** Each row must include:
+
+| Field | Description |
+|-------|-------------|
+| **Fact ID** | F001, F002… |
+| **Claim** | The exact statistic or factual assertion as it will appear in the story |
+| **Search Query Used** | Exact search string you ran to find this |
+| **Source** | Publication name |
+| **Source URL** | Direct link to the page containing this data |
+| **Publish Date** | Date of the source |
+| **Anchor Phrase** | The 2-5 word phrase in the story that will be hyperlinked |
+| **Verified?** | ✅ VERIFIED or ❌ REMOVE |
+
+**Rules:**
+1. Every statistic must be searched for and sourced before writing
+2. If you cannot find a source for a claim, **remove the claim entirely** — do not publish unsourced data
+3. Prefer primary sources: BLS, BEA, Census Bureau, Fed, Congressional Budget Office, official government releases
+4. In the HTML story output, every fact in the Facts Ledger must be hyperlinked using its Anchor Phrase, exactly like quotes:
+   `<a href="SOURCE_URL">anchor phrase</a>`
+5. Vague assertions ("experts say," "many believe," "some argue") without a named source must be attributed to a named outlet or removed
+
+**Example — WRONG (no reference):**
+> Core inflation stands at just 2.5% annually, well below the headline number.
+
+**Example — CORRECT (hyperlinked):**
+> Core inflation stands at just <a href="https://www.bls.gov/news.release/cpi.nr0.htm">2.5% annually</a>, well below the headline number.
+
 6. FAILURE CONDITIONS (OUTPUT INVALID IF ANY OCCUR)
 
 A quote is attributed to a person who is deceased
@@ -394,7 +430,11 @@ A quote links to a URL different from its ledger entry
 
 A duplicate quote links to a non-canonical source
 
-Search Query Used field is missing
+A statistic or factual claim appears in the story but not in the Facts Ledger
+
+A statistic or factual claim in the story is not hyperlinked to its source
+
+Search Query Used field is missing from any Quote or Fact Ledger entry
 
 Search Result Context is missing or doesn't contain the actual quote
 
@@ -404,11 +444,13 @@ Verification Status shows ❌ SINGLE LOW-TRUST or ❌ UNVERIFIED
 
 Quote audit is skipped
 
-Any quote without documented search query and search result context
+Facts Ledger is skipped or incomplete
 
 7. OUTPUT ORDER (MANDATORY)
 
 Output in this exact order:
+
+Facts & Statistics Ledger (every statistic and factual claim with source URL)
 
 Quote Ledger table (with all required fields including Source Trust Tier)
 
@@ -416,7 +458,7 @@ Self-Check Results (quote counts by verification status)
 
 Quote Audit table
 
-Final JSON story output (using the uploaded template)
+Final JSON story output (using the uploaded template — all facts and quotes hyperlinked)
 
 ## 8. POLL BUTTON CUSTOMIZATION
 
