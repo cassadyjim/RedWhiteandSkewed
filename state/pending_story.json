@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-15",
+  "email_sent_at": "2026-08-15T02:56:49.508959",
+  "stories": [
+    {
+      "title": "Presidential Prerogative or Imperial Excess? Trump Takes $400 Million Ballroom Fight to the Supreme Court",
+      "slug": "trump-white-house-ballroom-supreme-court-emergency-appeal",
+      "topic_keywords": [
+        "White House ballroom",
+        "Supreme Court emergency appeal",
+        "East Wing demolition",
+        "separation of powers",
+        "executive authority"
+      ],
+      "conservative_headline": "Trump Asks High Court to Stop Activist Judges From Blocking Historic White House Upgrade",
+      "liberal_headline": "Trump Demands Supreme Court Bless $400 Million Vanity Project Courts Already Ruled Illegal",
+      "poll_question": "Can the president build the ballroom without Congress?",
+      "poll_option1_label": "President's Call",
+      "poll_option1_desc": "Law lets the president alter the White House as he determines",
+      "poll_option2_label": "Congress Decides",
+      "poll_option2_desc": "Courts ruled Congress must approve; no executive self-help allowed",
+      "pexels_search_terms": "white house construction architecture washington"
+    },
+    {
+      "title": "Body Cams for Accountability or Surrender to Anti-ICE Pressure? Agency Rushes Camera Rollout After Shootings",
+      "slug": "ice-body-cameras-rollout-field-officers-august-deadline",
+      "topic_keywords": [
+        "ICE body cameras",
+        "immigration enforcement",
+        "officer shootings",
+        "deportation oversight",
+        "DHS accountability"
+      ],
+      "conservative_headline": "ICE Equips Every Field Officer With Body Cams \u2014 Proof Agents Have Nothing to Hide",
+      "liberal_headline": "Only After Deadly Shootings Does ICE Finally Agree to Put Cameras on Its Agents",
+      "poll_question": "Are ICE body cameras about accountability or optics?",
+      "poll_option1_label": "Vindicates Agents",
+      "poll_option1_desc": "Footage will prove officers acted lawfully against violent obstruction",
+      "poll_option2_label": "Overdue Oversight",
+      "poll_option2_desc": "Cameras needed because unrecorded shootings went unchecked for years",
+      "pexels_search_terms": "police body camera law enforcement officer"
+    },
+    {
+      "title": "Rescuing Sailors or Retreat Under Fire? Navy Swaps Carriers Amid Morale Crisis Aboard the USS Abraham Lincoln",
+      "slug": "uss-abraham-lincoln-relief-george-washington-morale-crisis",
+      "topic_keywords": [
+        "USS Abraham Lincoln",
+        "USS George Washington",
+        "Navy morale",
+        "Iran conflict",
+        "extended deployment"
+      ],
+      "conservative_headline": "Pentagon Moves Fast to Relieve Exhausted Crew as Fleet Keeps Pressure on Iran",
+      "liberal_headline": "Endless Iran War Breaks a Carrier Crew: Mental Health and Supply Crisis Forces Swap",
+      "poll_question": "Does the carrier swap show strength or strain?",
+      "poll_option1_label": "Strength",
+      "poll_option1_desc": "Rotating carriers proves America can sustain pressure on Iran",
+      "poll_option2_label": "Strain",
+      "poll_option2_desc": "Broken crews show an open-ended war with no exit plan",
+      "pexels_search_terms": "aircraft carrier navy sailors deployment"
+    },
+    {
+      "title": "Reading the Data or Rooting for Failure? Fed Weighs September Hold as Inflation Cools and Hiring Stalls",
+      "slug": "warsh-fed-september-rate-decision-cooling-inflation-weak-hiring",
+      "topic_keywords": [
+        "Kevin Warsh",
+        "Federal Reserve",
+        "September meeting",
+        "core inflation",
+        "labor force shrinking"
+      ],
+      "conservative_headline": "Warsh Holds the Line: Fed Chair Vows No Retreat Until Inflation Hits 2 Percent",
+      "liberal_headline": "Fed Talks Tough While Workers Vanish \u2014 2.1 Million Have Left the Labor Force",
+      "poll_question": "Should the Fed hold rates steady in September?",
+      "poll_option1_label": "Hold Firm",
+      "poll_option1_desc": "Crushing inflation matters more than short-term hiring softness",
+      "poll_option2_label": "Help Workers",
+      "poll_option2_desc": "Shrinking workforce demands action before the job market collapses",
+      "pexels_search_terms": "federal reserve building economy finance"
+    },
+    {
+      "title": "Sanctions Are Working or Sanctions Are Theater? Senate Passes Iran and Russia Package Named for Lindsey Graham",
+      "slug": "senate-iran-russia-sanctions-bill-lindsey-graham-namesake",
+      "topic_keywords": [
+        "Iran sanctions",
+        "Russia sanctions",
+        "Lindsey Graham bill",
+        "Senate vote",
+        "BRICS alliance"
+      ],
+      "conservative_headline": "Senate Honors Graham With Toughest Iran and Russia Sanctions in a Generation",
+      "liberal_headline": "Senate Passes Sanctions Bill as Iran Simply Deepens Its Economic Ties With BRICS",
+      "poll_question": "Will new sanctions actually change Iran's behavior?",
+      "poll_option1_label": "Maximum Pressure",
+      "poll_option1_desc": "Economic squeeze forces adversaries to the negotiating table",
+      "poll_option2_label": "Empty Gesture",
+      "poll_option2_desc": "Sanctions push Iran toward BRICS while hurting ordinary people",
+      "pexels_search_terms": "senate chamber capitol legislation vote"
+    },
+    {
+      "title": "Stonewalling or Standing Firm? Fauci Declines to Answer 100+ Questions at COVID Hearing",
+      "slug": "fauci-covid-hearing-declines-answer-republicans-oversight",
+      "topic_keywords": [
+        "Anthony Fauci",
+        "COVID hearing",
+        "congressional oversight",
+        "pandemic origins",
+        "public health"
+      ],
+      "conservative_headline": "Fauci Refuses to Answer 100 Times \u2014 What Is He Still Hiding From Americans?",
+      "liberal_headline": "Republicans Turn Covid Hearing Into Another Show Trial of Anthony Fauci",
+      "poll_question": "Is the Fauci hearing legitimate oversight or a spectacle?",
+      "poll_option1_label": "Accountability",
+      "poll_option1_desc": "Americans deserve answers about pandemic decisions that upended their lives",
+      "poll_option2_label": "Political Theater",
+      "poll_option2_desc": "A years-long vendetta against a scientist, not real oversight",
+      "pexels_search_terms": "congressional hearing witness testimony microphone"
+    },
+    {
+      "title": "Cleaning Up Corruption or Poison Pill Politics? Congressional Stock Trading Ban Stalls in the Senate",
+      "slug": "stop-insider-trading-act-congress-stock-ban-senate-stall",
+      "topic_keywords": [
+        "Stop Insider Trading Act",
+        "congressional stock trading",
+        "STOCK Act penalties",
+        "Senate stall",
+        "ethics reform"
+      ],
+      "conservative_headline": "House Passed a Real Stock Trading Ban \u2014 Senate Insiders Are Killing It Quietly",
+      "liberal_headline": "GOP Loaded the Stock Trading Ban With a Poison Pill Designed to Guarantee Failure",
+      "poll_question": "Should members of Congress be banned from trading stocks?",
+      "poll_option1_label": "Ban It All",
+      "poll_option1_desc": "Lawmakers trading on inside information corrupts the entire institution",
+      "poll_option2_label": "Fix the Bill",
+      "poll_option2_desc": "The ban is real but sabotaged by a deliberate poison-pill provision",
+      "pexels_search_terms": "stock market trading capitol dome money"
+    },
+    {
+      "title": "Hemp Crackdown or Family Favoritism? Ban Collides With Business Tied to Chief of Staff's Relatives",
+      "slug": "intoxicating-hemp-ban-susie-wiles-family-business-conflict",
+      "topic_keywords": [
+        "intoxicating hemp ban",
+        "Susie Wiles",
+        "conflict of interest",
+        "THC regulation",
+        "White House ethics"
+      ],
+      "conservative_headline": "Federal Hemp Ban Closes Dangerous Loophole Selling Unregulated THC to Kids",
+      "liberal_headline": "Hemp Ban Hits a Business Run by Chief of Staff's Family \u2014 Who Gets an Exemption?",
+      "poll_question": "Should intoxicating hemp products be federally banned?",
+      "poll_option1_label": "Ban Them",
+      "poll_option1_desc": "Unregulated intoxicating hemp products endanger children and skirt drug laws",
+      "poll_option2_label": "Watch the Conflicts",
+      "poll_option2_desc": "Rules written near White House family business demand independent scrutiny",
+      "pexels_search_terms": "hemp cbd store shelf products"
+    },
+    {
+      "title": "Consumer Protection or Nanny-State Meddling? Supreme Court Faces Scrutiny Over Prediction Market Loopholes",
+      "slug": "supreme-court-prediction-markets-policy-loopholes-scrutiny",
+      "topic_keywords": [
+        "prediction markets",
+        "Supreme Court ethics",
+        "event contracts",
+        "financial regulation",
+        "gambling loopholes"
+      ],
+      "conservative_headline": "Regulators Want to Kill Prediction Markets Because They Tell Inconvenient Truths",
+      "liberal_headline": "Loopholes in Prediction Market Rules Raise Alarms at the Supreme Court Itself",
+      "poll_question": "Should prediction markets face tighter federal regulation?",
+      "poll_option1_label": "Let Markets Work",
+      "poll_option1_desc": "Prediction markets are free speech and better forecasting, not gambling",
+      "poll_option2_label": "Close Loopholes",
+      "poll_option2_desc": "Unregulated betting on politics invites manipulation and conflicts of interest",
+      "pexels_search_terms": "stock ticker screens data trading floor"
+    },
+    {
+      "title": "Working-Class Comeback or Socialist Takeover? Progressives Sweep Primaries as Democrats' Old Guard Falters",
+      "slug": "progressive-primary-wins-democrats-socialism-midterms-realignment",
+      "topic_keywords": [
+        "Peggy Flanagan",
+        "Democratic primaries",
+        "democratic socialism",
+        "midterm elections",
+        "party realignment"
+      ],
+      "conservative_headline": "Socialists Seize the Democratic Party as Progressives Rout Centrists in Primaries",
+      "liberal_headline": "Voters Reject the Old Guard: Working-Class Progressives Surge Ahead of the Midterms",
+      "poll_question": "Is the Democrats' leftward shift a winner in November?",
+      "poll_option1_label": "Fatal Overreach",
+      "poll_option1_desc": "Socialist candidates will alienate swing voters and hand Republicans victory",
+      "poll_option2_label": "Real Energy",
+      "poll_option2_desc": "Economic populism is winning primaries and drawing back Trump voters",
+      "pexels_search_terms": "campaign rally supporters crowd election"
+    }
+  ]
+}
