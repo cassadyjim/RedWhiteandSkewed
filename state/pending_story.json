@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-25",
+  "email_sent_at": "2026-08-25T03:04:17.953197",
+  "stories": [
+    {
+      "title": "Election Integrity or Ballot Sabotage? Supreme Court Green-Lights Trump's Mail-Voting Order",
+      "slug": "scotus-mail-voting-order-midterms",
+      "topic_keywords": [
+        "Supreme Court",
+        "mail-in voting",
+        "executive order",
+        "midterm elections",
+        "Ketanji Brown Jackson"
+      ],
+      "conservative_headline": "SCOTUS Sides With Trump: Court Clears Path to Secure Mail Ballots Before November",
+      "liberal_headline": "Supreme Court Hands Trump Power Over Who Gets a Ballot \u2014 Jackson Warns of 'Chaos'",
+      "poll_question": "Should Trump's executive order restricting mail-in voting take effect before the midterms?",
+      "poll_option1_label": "Secure the ballot",
+      "poll_option1_desc": "Federal standards on mail ballots protect elections from fraud and error.",
+      "poll_option2_label": "Voter suppression",
+      "poll_option2_desc": "A president rewriting ballot rules weeks before an election is unconstitutional.",
+      "pexels_search_terms": "mail ballot envelope voting election"
+    },
+    {
+      "title": "Tough Trade or Grocery-Bill Bomb? Trump Slaps 50% Tariff on Canadian Autos and Steel",
+      "slug": "trump-50-percent-canada-auto-steel-tariff",
+      "topic_keywords": [
+        "tariffs",
+        "Canada",
+        "steel imports",
+        "auto industry",
+        "inflation"
+      ],
+      "conservative_headline": "Trump Puts America First Again With 50% Tariff on Canadian Cars and Steel",
+      "liberal_headline": "Trump's New 50% Canada Tariff Set to Slam Car Prices as Inflation Already Bites",
+      "poll_question": "Is a 50% tariff on Canadian autos and steel good for America?",
+      "poll_option1_label": "Rebuild industry",
+      "poll_option1_desc": "Tariffs bring factories and steel jobs back to American soil.",
+      "poll_option2_label": "Consumer tax",
+      "poll_option2_desc": "Tariffs are a hidden tax paid by families at the dealership.",
+      "pexels_search_terms": "steel factory shipping trade port"
+    },
+    {
+      "title": "Rule of Law or Family Betrayal? Deployed Sailor's Father Detained by ICE at Traffic Stop",
+      "slug": "ice-detains-deployed-sailor-father-florida",
+      "topic_keywords": [
+        "ICE",
+        "deportation",
+        "military family",
+        "Florida",
+        "immigration enforcement"
+      ],
+      "conservative_headline": "ICE Does Its Job: Illegal Alien Detained After Florida Traffic Stop, No Exceptions",
+      "liberal_headline": "While His Son Serves Overseas, ICE Grabs a Sailor's Father Over a Traffic Stop",
+      "poll_question": "Should ICE detain relatives of deployed U.S. service members?",
+      "poll_option1_label": "Law is law",
+      "poll_option1_desc": "Illegal status isn't erased by a relative's military service.",
+      "poll_option2_label": "Honor service",
+      "poll_option2_desc": "Families of deployed troops deserve protection, not enforcement raids.",
+      "pexels_search_terms": "navy sailor deployment family flag"
+    },
+    {
+      "title": "Maximum Pressure or Marching to War? New Iran Sanctions as Pence Calls Action 'Inevitable'",
+      "slug": "iran-sanctions-pence-inevitable-action",
+      "topic_keywords": [
+        "Iran",
+        "sanctions",
+        "Scott Bessent",
+        "Strait of Hormuz",
+        "Mike Pence"
+      ],
+      "conservative_headline": "Bessent Unleashes Crushing New Iran Sanctions as Tehran Threatens Its Neighbors",
+      "liberal_headline": "Economic Warfare and War Talk: Iran Escalation Deepens With No Vote in Congress",
+      "poll_question": "Is the U.S. escalation against Iran the right course?",
+      "poll_option1_label": "Squeeze Tehran",
+      "poll_option1_desc": "Sanctions and pressure are the only language the regime understands.",
+      "poll_option2_label": "Endless war",
+      "poll_option2_desc": "Escalation without congressional authorization risks another forever war.",
+      "pexels_search_terms": "oil tanker strait naval ship"
+    },
+    {
+      "title": "Historic Upgrade or $300 Million Vanity Project? The White House Ballroom Rises",
+      "slug": "white-house-ballroom-east-wing-cost",
+      "topic_keywords": [
+        "White House ballroom",
+        "East Wing",
+        "historic preservation",
+        "taxpayer cost",
+        "Trump"
+      ],
+      "conservative_headline": "Greatest of Its Kind: Trump's Ballroom Moves Forward After Court Clears the Way",
+      "liberal_headline": "He Said Taxpayers Wouldn't Pay: $300M Ballroom Replaces Demolished East Wing",
+      "poll_question": "Is the new White House ballroom worth it?",
+      "poll_option1_label": "Long overdue",
+      "poll_option1_desc": "A modern state venue serves security and national prestige.",
+      "poll_option2_label": "Broken promise",
+      "poll_option2_desc": "Taxpayers are funding a monument he promised would cost them nothing.",
+      "pexels_search_terms": "white house construction ballroom architecture"
+    },
+    {
+      "title": "Border Security or Bulldozing a National Park? Big Bend Construction Halted",
+      "slug": "big-bend-national-park-border-construction-pause",
+      "topic_keywords": [
+        "Big Bend National Park",
+        "border wall",
+        "public lands",
+        "CBP",
+        "environment"
+      ],
+      "conservative_headline": "CBP Pauses Big Bend Work \u2014 But Roads and Surveillance Are Vital to Stop Cartels",
+      "liberal_headline": "After Outcry, Border Construction in Big Bend Paused \u2014 Damage May Be Permanent",
+      "poll_question": "Should border infrastructure be built through Big Bend National Park?",
+      "poll_option1_label": "Seal the gap",
+      "poll_option1_desc": "Remote park land is a smuggling corridor that needs roads and sensors.",
+      "poll_option2_label": "Save the park",
+      "poll_option2_desc": "Irreplaceable public lands shouldn't be sacrificed for barriers and roads.",
+      "pexels_search_terms": "desert canyon national park river"
+    },
+    {
+      "title": "Pro-Family Promise or Empty Pledge? Trump's IVF Vow Stalls in Republican Congress",
+      "slug": "trump-ivf-promise-congress-stalled",
+      "topic_keywords": [
+        "IVF",
+        "fertility treatment",
+        "reproductive health",
+        "Congress",
+        "campaign promise"
+      ],
+      "conservative_headline": "Trump Backs IVF Access While Democrats Distort the Pro-Family Record",
+      "liberal_headline": "Two Years of IVF Promises, Zero Bills: Families Still Waiting on Republicans",
+      "poll_question": "Should Congress expand access to IVF treatment?",
+      "poll_option1_label": "States decide",
+      "poll_option1_desc": "Fertility policy belongs with states and families, not federal mandates.",
+      "poll_option2_label": "Keep the promise",
+      "poll_option2_desc": "Trump pledged IVF access; Republicans must actually pass it.",
+      "pexels_search_terms": "fertility clinic laboratory medical research"
+    },
+    {
+      "title": "MAGA Loyalty Test or Establishment Revolt? South Carolina's Senate Runoff Hits the Polls",
+      "slug": "south-carolina-senate-gop-runoff-graham-norman",
+      "topic_keywords": [
+        "South Carolina",
+        "Senate primary",
+        "runoff",
+        "Ralph Norman",
+        "Trump endorsement"
+      ],
+      "conservative_headline": "Trump's Myrtle Beach Rally Fuels Graham as GOP Voters Pick Their Senate Nominee",
+      "liberal_headline": "Trump Tries to Bigfoot South Carolina's Senate Runoff \u2014 Will Republicans Obey?",
+      "poll_question": "Should Trump's endorsement decide Republican Senate primaries?",
+      "poll_option1_label": "Follow Trump",
+      "poll_option1_desc": "The party's voters back the leader who reshaped the GOP.",
+      "poll_option2_label": "Voters decide",
+      "poll_option2_desc": "Primaries shouldn't be handed down by one man's endorsement.",
+      "pexels_search_terms": "polling place voters campaign rally"
+    },
+    {
+      "title": "Secret Security Court or Star Chamber? Dormant Terror Removal Court Hears First Case in 30 Years",
+      "slug": "terrorist-removal-court-first-hearing-afghan-woman",
+      "topic_keywords": [
+        "terrorist removal court",
+        "due process",
+        "national security",
+        "deportation",
+        "classified evidence"
+      ],
+      "conservative_headline": "Congress Created This Court for a Reason \u2014 Now It's Being Used to Remove Threats",
+      "liberal_headline": "A Secretive Court Nobody Has Used Since the '90s Now Decides an Afghan Woman's Fate",
+      "poll_question": "Should the government remove people using secret evidence courts?",
+      "poll_option1_label": "Protect sources",
+      "poll_option1_desc": "Classified intelligence can't be exposed to remove genuine security threats.",
+      "poll_option2_label": "Due process",
+      "poll_option2_desc": "No one should be deported on evidence they can't see or challenge.",
+      "pexels_search_terms": "courthouse gavel justice hallway"
+    },
+    {
+      "title": "AI Backlash or Anti-Growth Panic? Republicans Turn on the Data Center Boom",
+      "slug": "republicans-data-center-backlash-abbott-zeldin",
+      "topic_keywords": [
+        "data centers",
+        "artificial intelligence",
+        "Greg Abbott",
+        "Lee Zeldin",
+        "electricity prices"
+      ],
+      "conservative_headline": "Zeldin: Banning Data Centers Hands the AI Race to China",
+      "liberal_headline": "Even Abbott Turns on Big Tech: Data Centers 'Dug Their Own Grave' as Bills Soar",
+      "poll_question": "Should communities be able to block new AI data centers?",
+      "poll_option1_label": "Build baby build",
+      "poll_option1_desc": "Blocking data centers surrenders the AI race and jobs to China.",
+      "poll_option2_label": "Local control",
+      "poll_option2_desc": "Residents shouldn't eat higher power bills for Big Tech's servers.",
+      "pexels_search_terms": "data center servers power lines"
+    }
+  ]
+}
