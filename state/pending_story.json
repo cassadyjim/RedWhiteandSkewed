@@ -1,196 +1,196 @@
 {
-  "date": "2026-08-28",
-  "email_sent_at": "2026-08-28T14:13:27.659459",
+  "date": "2026-08-29",
+  "email_sent_at": "2026-08-29T08:50:12.214498",
   "stories": [
     {
-      "title": "Election Integrity or Voter Suppression? Supreme Court Lets Trump's Mail-Ballot Order Take Effect",
-      "slug": "scotus-mail-ballot-executive-order-trump-california",
+      "title": "Election Integrity or Voter Suppression? Trump's Mail-In Ballot Order Takes Effect Amid Court Chaos",
+      "slug": "mail-in-ballot-executive-order-court-battle",
       "topic_keywords": [
-        "Supreme Court",
         "mail-in voting",
-        "Trump v. California",
         "executive order",
-        "midterm elections"
+        "Supreme Court",
+        "2026 midterms",
+        "election integrity"
       ],
-      "conservative_headline": "WIN FOR BALLOT SECURITY: Supreme Court Clears Trump Order as Blue States Vow Defiance",
-      "liberal_headline": "Supreme Court Greenlights Trump's Attack on Mail Voting Months Before the Midterms",
-      "poll_question": "Should the president be able to set national mail-ballot rules by executive order?",
+      "conservative_headline": "Supreme Court Backs Trump: Mail-In Ballot Safeguards Move Forward as Rogue Judge Tries to Block Them Again",
+      "liberal_headline": "Federal Judge Halts Trump's Attack on Mail-In Voting Hours After USPS Begins Enforcing Ballot Restrictions",
+      "poll_question": "Should the president be able to set national mail-in ballot rules?",
       "poll_option1_label": "Secure The Vote",
-      "poll_option1_desc": "Federal standards stop fraud and restore confidence in mail balloting.",
+      "poll_option1_desc": "Uniform standards stop fraud and restore confidence in ballot counting.",
       "poll_option2_label": "States Decide",
-      "poll_option2_desc": "Constitution gives states election authority; this is executive overreach.",
-      "pexels_search_terms": "mail ballot envelope voting supreme court"
+      "poll_option2_desc": "Constitution gives states election authority; this order suppresses lawful voters.",
+      "pexels_search_terms": "mail ballot envelope voting"
     },
     {
-      "title": "Blip or Breakdown? Economy Sheds 23,000 Jobs as Prices Keep Climbing",
-      "slug": "july-jobs-losses-inflation-economy-2026",
+      "title": "Trade Toughness or Trolling an Ally? Trump Renames Lake Ontario 'Lake America' as Canada Feud Escalates",
+      "slug": "lake-america-canada-trade-war-escalation",
       "topic_keywords": [
-        "jobs report",
-        "job losses",
-        "inflation",
-        "Federal Reserve",
-        "Kevin Warsh"
+        "Canada",
+        "trade war",
+        "tariffs",
+        "Lake Ontario",
+        "executive order"
       ],
-      "conservative_headline": "Wages Still Outpacing the 1980s: Trump Boom Hits Speed Bump as Fed Holds Rates",
-      "liberal_headline": "Economy Loses Jobs While Grocery Bills Soar \u2014 Trump's 'Affordability' Promise Collapses",
-      "poll_question": "Is Trump's economic policy working for ordinary Americans?",
-      "poll_option1_label": "Growing Pains",
-      "poll_option1_desc": "Wage gains are real; energy shocks and the Fed caused the slowdown.",
-      "poll_option2_label": "Failing Families",
-      "poll_option2_desc": "Job losses plus high prices show the agenda is hurting workers.",
-      "pexels_search_terms": "job fair unemployment line grocery prices"
+      "conservative_headline": "Trump Puts Canada on Notice: 'They've Been Ripping Us Off for a Long Time'",
+      "liberal_headline": "Trump Renames a Great Lake in Latest Stunt as Trade War With America's Closest Ally Spirals",
+      "poll_question": "Is the escalating trade fight with Canada good policy?",
+      "poll_option1_label": "Leverage Works",
+      "poll_option1_desc": "Hardball pressure forces a fairer deal for American workers.",
+      "poll_option2_label": "Alienating Allies",
+      "poll_option2_desc": "Petty stunts raise prices and wreck a vital partnership.",
+      "pexels_search_terms": "Canada United States border flags"
     },
     {
-      "title": "Public Safety or Human Trafficking by Government? 20 Deportees Flown to West African Nation",
-      "slug": "third-country-deportations-west-africa-deal",
+      "title": "Rule of Law or Political Payback? Trump Ally Milo Yiannopoulos Detained by ICE Over Visa Overstay",
+      "slug": "milo-yiannopoulos-ice-detention-visa",
       "topic_keywords": [
-        "third-country deportation",
         "ICE",
-        "West Africa deal",
-        "immigration enforcement",
-        "removal flights"
+        "visa overstay",
+        "deportation",
+        "Milo Yiannopoulos",
+        "immigration enforcement"
       ],
-      "conservative_headline": "Deal Delivers: 20 Illegal Aliens Removed as Sanctuary Cities Fume Over Third-Country Transfers",
-      "liberal_headline": "Shipped to a Country They've Never Seen: Trump's Largest Third-Country Deportation Yet",
-      "poll_question": "Should the U.S. deport migrants to countries that aren't their own?",
-      "poll_option1_label": "Whatever Works",
-      "poll_option1_desc": "If home countries refuse returns, third-country removals enforce the law.",
-      "poll_option2_label": "Cruel And Illegal",
-      "poll_option2_desc": "Dumping people in unfamiliar nations violates due process and human rights.",
-      "pexels_search_terms": "deportation airplane detainees airport tarmac"
+      "conservative_headline": "ICE Proves Enforcement Is Blind: Even Trump Supporters Face the Law on Visa Violations",
+      "liberal_headline": "MAGA Provocateur Swept Up by the Very Deportation Machine He Cheered On",
+      "poll_question": "Does ICE detaining a Trump ally show fair enforcement?",
+      "poll_option1_label": "Law Is Law",
+      "poll_option1_desc": "Overstaying a visa is illegal regardless of politics or celebrity.",
+      "poll_option2_label": "Cruel Machine",
+      "poll_option2_desc": "Case exposes an indiscriminate system that ruins lives without discretion.",
+      "pexels_search_terms": "immigration detention facility fence"
     },
     {
-      "title": "Peace Through Strength or Endless War? GOP Blocks Democrats' Bid to Rein In Iran Strikes",
-      "slug": "iran-war-powers-vote-congress-strikes",
+      "title": "Victory or Quagmire? US-Iran War Hits Six Months With 6,000 Sailors Stranded in the Gulf",
+      "slug": "iran-war-six-month-mark-hormuz",
       "topic_keywords": [
-        "war powers",
-        "Iran strikes",
-        "Congress vote",
-        "military authorization",
-        "national security"
+        "Iran war",
+        "Strait of Hormuz",
+        "Operation Epic Fury",
+        "shipping",
+        "military"
       ],
-      "conservative_headline": "Congress Backs the Commander in Chief as Democrats Try to Tie Trump's Hands on Iran",
-      "liberal_headline": "Republicans Kill War Powers Check as Trump Bombs an Eighth Country Without Congress",
-      "poll_question": "Does Trump need congressional approval for continued Iran strikes?",
-      "poll_option1_label": "Commander Decides",
-      "poll_option1_desc": "President must act fast; micromanaging strikes endangers troops and deterrence.",
-      "poll_option2_label": "Congress Must Vote",
-      "poll_option2_desc": "Only Congress can declare war; open-ended strikes are unconstitutional.",
-      "pexels_search_terms": "fighter jet aircraft carrier capitol dome"
+      "conservative_headline": "Six Months In: Trump's Iran Campaign Has Crippled the Regime and Kept America Safe",
+      "liberal_headline": "Six Months of War, No Exit Plan: Thousands of Sailors Trapped as Iran Conflict Grinds On",
+      "poll_question": "Has the six-month Iran campaign been worth the cost?",
+      "poll_option1_label": "Necessary Force",
+      "poll_option1_desc": "Strikes dismantled a nuclear threat and restored American deterrence.",
+      "poll_option2_label": "Endless War",
+      "poll_option2_desc": "Open-ended conflict with no strategy, killing civilians and spiking prices.",
+      "pexels_search_terms": "aircraft carrier navy ships ocean"
     },
     {
-      "title": "Save It or Slash It? Social Security's Looming Shortfall Nobody Wants to Talk About",
-      "slug": "social-security-trust-fund-shortfall-2026",
+      "title": "Energy Liberation or Oil Grab? Trump Says US Will Take Control of Venezuela's 65 Billion Barrels",
+      "slug": "venezuela-oil-reserves-trump-control",
+      "topic_keywords": [
+        "Venezuela",
+        "oil reserves",
+        "energy policy",
+        "gas prices",
+        "Maduro"
+      ],
+      "conservative_headline": "Trump Moves to Unlock Venezuela's Oil, Break OPEC's Grip and Crush Prices at the Pump",
+      "liberal_headline": "'We're Taking the Oil': Trump Openly Declares Plan to Seize Another Nation's Resources",
+      "poll_question": "Should the US take control of Venezuela's oil reserves?",
+      "poll_option1_label": "Energy Dominance",
+      "poll_option1_desc": "Securing supply lowers gas prices and weakens hostile regimes.",
+      "poll_option2_label": "Modern Colonialism",
+      "poll_option2_desc": "Seizing another country's resources is lawless and invites another war.",
+      "pexels_search_terms": "oil refinery pipeline energy"
+    },
+    {
+      "title": "Trust Fund Crisis or Manufactured Panic? Social Security Shortfall Barely Discussed as Midterms Near",
+      "slug": "social-security-trust-fund-shortfall-silence",
       "topic_keywords": [
         "Social Security",
-        "trust fund shortfall",
-        "benefit cuts",
-        "payroll tax",
+        "trust fund",
+        "entitlement reform",
+        "benefits",
         "retirement"
       ],
-      "conservative_headline": "Math Doesn't Lie: Democrats Refuse Reform as Social Security Barrels Toward Insolvency",
-      "liberal_headline": "Republicans Eye Your Retirement: Benefit Cuts Loom While Billionaires Skip Payroll Taxes",
-      "poll_question": "How should Washington fix Social Security's shortfall?",
-      "poll_option1_label": "Reform Benefits",
-      "poll_option1_desc": "Raise retirement age and adjust formulas before the fund runs dry.",
+      "conservative_headline": "Democrats Refuse to Fix Social Security as Trust Fund Barrels Toward Insolvency",
+      "liberal_headline": "Experts Warn Americans Are Being Kept in the Dark While Republicans Eye Benefit Cuts",
+      "poll_question": "How should Washington fix the Social Security shortfall?",
+      "poll_option1_label": "Restructure Now",
+      "poll_option1_desc": "Adjust eligibility and growth rates before the fund runs dry.",
       "poll_option2_label": "Tax The Rich",
-      "poll_option2_desc": "Lift the payroll cap on high earners and protect every benefit.",
-      "pexels_search_terms": "senior citizen protest sign capitol retirement"
+      "poll_option2_desc": "Lift the payroll cap on high earners; don't touch earned benefits.",
+      "pexels_search_terms": "senior citizens social security card"
     },
     {
-      "title": "Free Market Wisdom or Rigged Casino? Fake Polls Spark Panic Over Election Betting Markets",
-      "slug": "kalshi-prediction-markets-election-betting-midterms",
+      "title": "Soft Landing or Stagflation? Economy Sheds 23,000 Jobs as Inflation Stays Stuck at 3.5%",
+      "slug": "jobs-losses-inflation-stagflation-fed",
       "topic_keywords": [
-        "Kalshi",
-        "prediction markets",
-        "election betting",
-        "fake polls",
-        "regulation"
+        "jobs report",
+        "inflation",
+        "Federal Reserve",
+        "unemployment",
+        "economy"
       ],
-      "conservative_headline": "Let People Bet: Democrats Want to Kill Prediction Markets That Beat the Legacy Pollsters",
-      "liberal_headline": "Gamblers Are Manipulating Polls to Move Election Odds \u2014 and Regulators Are Asleep",
-      "poll_question": "Should betting on U.S. elections be legal?",
-      "poll_option1_label": "Let Markets Work",
-      "poll_option1_desc": "Prediction markets forecast better than media polls; adults can wager freely.",
-      "poll_option2_label": "Ban Election Bets",
-      "poll_option2_desc": "Wagering invites fake polls and manipulation that corrupt our elections.",
-      "pexels_search_terms": "smartphone trading app stock chart betting"
+      "conservative_headline": "Job Dip Reflects Federal Downsizing, Not Weakness \u2014 Private Sector Poised to Rebound",
+      "liberal_headline": "Economy Loses Jobs While Prices Keep Climbing: Trump's Stagflation Arrives",
+      "poll_question": "Who is responsible for the current economy?",
+      "poll_option1_label": "Growing Pains",
+      "poll_option1_desc": "Trimming government bloat causes short-term dips before real growth.",
+      "poll_option2_label": "Failed Policy",
+      "poll_option2_desc": "Tariffs and chaos delivered stagnant jobs plus painful inflation.",
+      "pexels_search_terms": "grocery store prices shopping cart"
     },
     {
-      "title": "Fair Maps or Rigged Maps? Court Ruling Hands GOP a Redistricting Lifeline in House Fight",
+      "title": "Voter Verdict or Blip? Florida's Culture-War School Board Loses Its Conservative Majority",
+      "slug": "sarasota-school-board-conservative-majority-flips",
+      "topic_keywords": [
+        "school board",
+        "book bans",
+        "culture war",
+        "Florida education",
+        "parental rights"
+      ],
+      "conservative_headline": "One Board Flips, But Parents' Rights Movement Still Winning Across Florida",
+      "liberal_headline": "Voters Reject Book Bans: Florida's Most Notorious School Board Flips Away From the Right",
+      "poll_question": "Do voters still want culture-war fights in schools?",
+      "poll_option1_label": "Parents Decide",
+      "poll_option1_desc": "Families deserve control over curriculum and library content for kids.",
+      "poll_option2_label": "Back To Basics",
+      "poll_option2_desc": "Voters want teaching, not censorship and ideological battles in classrooms.",
+      "pexels_search_terms": "school library books classroom"
+    },
+    {
+      "title": "Fair Maps or Rigged Lines? Court Ruling Hands GOP a Redistricting Win With House Majority on the Line",
       "slug": "redistricting-ruling-house-majority-midterms",
       "topic_keywords": [
         "redistricting",
         "gerrymandering",
         "House majority",
-        "court ruling",
-        "state supreme court"
+        "midterms",
+        "congressional maps"
       ],
-      "conservative_headline": "Court Upholds Legislature's Map as Democrats Race to Judges They Hope Will Redraw It",
-      "liberal_headline": "Judges Bless Rigged Districts Designed to Hand Republicans the House Before a Vote Is Cast",
-      "poll_question": "Who should draw congressional district lines?",
-      "poll_option1_label": "Elected Legislators",
-      "poll_option1_desc": "Voters' representatives draw maps; unelected judges shouldn't rewrite them.",
-      "poll_option2_label": "Independent Panels",
-      "poll_option2_desc": "Partisan gerrymanders steal seats; nonpartisan commissions should draw maps.",
-      "pexels_search_terms": "map redistricting district lines statehouse"
+      "conservative_headline": "Court Upholds Legislature's Map, Dealing Blow to Democrats' Lawsuit Strategy",
+      "liberal_headline": "Courts Green-Light Gerrymandered Maps as GOP Tries to Draw Its Way to a House Majority",
+      "poll_question": "Are the new congressional maps legitimate?",
+      "poll_option1_label": "Legislatures Rule",
+      "poll_option1_desc": "Elected lawmakers, not judges, have constitutional power to draw districts.",
+      "poll_option2_label": "Rigged Districts",
+      "poll_option2_desc": "Partisan map-drawing lets politicians pick voters instead of the reverse.",
+      "pexels_search_terms": "congressional district map capitol"
     },
     {
-      "title": "Moral Foundation or State Religion? Ten Commandments Classroom Mandate Heads to the Supreme Court",
-      "slug": "ten-commandments-schools-texas-scotus-appeal",
+      "title": "National Security Threat or Water Crisis Ignored? Seven States Report Cyberattacks on Water Systems",
+      "slug": "water-system-cyberattack-seven-states",
       "topic_keywords": [
-        "Ten Commandments",
-        "public schools",
-        "Texas law",
-        "religious liberty",
-        "church and state"
+        "cyberattack",
+        "water infrastructure",
+        "critical infrastructure",
+        "national security",
+        "hackers"
       ],
-      "conservative_headline": "Families Fight to Keep God in the Classroom as Activists Sue Over Ten Commandments Law",
-      "liberal_headline": "Texas Forces Scripture on Every Classroom Wall \u2014 Families Beg Supreme Court to Stop It",
-      "poll_question": "Should public schools be required to post the Ten Commandments?",
-      "poll_option1_label": "Historic Values",
-      "poll_option1_desc": "The Commandments shaped American law and belong in the classroom.",
-      "poll_option2_label": "Separate Church",
-      "poll_option2_desc": "Government cannot impose one religion's text on captive students.",
-      "pexels_search_terms": "empty classroom wall school chalkboard"
-    },
-    {
-      "title": "Border Security or Bulldozing a National Treasure? Big Bend Wall Construction Slams to a Halt",
-      "slug": "big-bend-national-park-border-construction-pause",
-      "topic_keywords": [
-        "Big Bend National Park",
-        "border wall",
-        "public lands",
-        "environment",
-        "CBP construction"
-      ],
-      "conservative_headline": "Green Groups Win a Pause: Cartel Corridor Through Big Bend Left Wide Open",
-      "liberal_headline": "Sacred Sites and Canyon Art Spared \u2014 For Now \u2014 as Border Bulldozers Stand Down at Big Bend",
-      "poll_question": "Should border barriers be built inside national parks?",
-      "poll_option1_label": "Secure The Gap",
-      "poll_option1_desc": "Parks shouldn't be smuggling corridors; roads and sensors save lives.",
-      "poll_option2_label": "Protect The Park",
-      "poll_option2_desc": "Irreplaceable canyons, ruins and sacred sites outweigh symbolic barrier projects.",
-      "pexels_search_terms": "big bend desert canyon rio grande"
-    },
-    {
-      "title": "Justice Delayed or Justice Denied? 9/11 Mastermind's Trial Pushed to 2028 After 22 Years",
-      "slug": "khalid-sheikh-mohammed-guantanamo-trial-2028",
-      "topic_keywords": [
-        "Khalid Sheikh Mohammed",
-        "Guantanamo Bay",
-        "military commissions",
-        "9/11 trial",
-        "torture evidence"
-      ],
-      "conservative_headline": "Two Decades, No Verdict: Lawyers and Judges Stall Justice for 9/11 Victims Yet Again",
-      "liberal_headline": "Torture Broke the Case: Guant\u00e1namo's Endless Trial Proves the System Never Worked",
-      "poll_question": "How should the 9/11 defendants be handled now?",
-      "poll_option1_label": "Try Them Now",
-      "poll_option1_desc": "Military commissions must convict and sentence; victims waited long enough.",
-      "poll_option2_label": "Close Guant\u00e1namo",
-      "poll_option2_desc": "Torture-tainted commissions can't deliver justice; use federal courts instead.",
-      "pexels_search_terms": "guantanamo prison fence courtroom military"
+      "conservative_headline": "Foreign Hackers Hit American Water Systems \u2014 Trump Vows Swift Retaliation",
+      "liberal_headline": "Water Systems Breached in Seven States After Administration Gutted Cybersecurity Staff",
+      "poll_question": "What's the right response to infrastructure cyberattacks?",
+      "poll_option1_label": "Strike Back",
+      "poll_option1_desc": "Answer hostile hackers with offensive cyber operations and hard consequences.",
+      "poll_option2_label": "Rebuild Defenses",
+      "poll_option2_desc": "Restore gutted cyber agencies and fund local utility protections first.",
+      "pexels_search_terms": "water treatment plant infrastructure"
     }
   ]
 }
