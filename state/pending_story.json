@@ -1,196 +1,196 @@
 {
-  "date": "2026-08-29",
-  "email_sent_at": "2026-08-29T08:50:12.214498",
+  "date": "2026-08-30",
+  "email_sent_at": "2026-08-30T08:08:30.526028",
   "stories": [
     {
-      "title": "Election Integrity or Voter Suppression? Trump's Mail-In Ballot Order Takes Effect Amid Court Chaos",
-      "slug": "mail-in-ballot-executive-order-court-battle",
+      "title": "Election Integrity or Voter Suppression? SCOTUS Greenlights Trump's Mail Voting Crackdown",
+      "slug": "scotus-trump-mail-voting-crackdown-election-order",
       "topic_keywords": [
-        "mail-in voting",
-        "executive order",
         "Supreme Court",
-        "2026 midterms",
-        "election integrity"
+        "Trump v California",
+        "mail voting",
+        "election executive order",
+        "voting rights"
       ],
-      "conservative_headline": "Supreme Court Backs Trump: Mail-In Ballot Safeguards Move Forward as Rogue Judge Tries to Block Them Again",
-      "liberal_headline": "Federal Judge Halts Trump's Attack on Mail-In Voting Hours After USPS Begins Enforcing Ballot Restrictions",
-      "poll_question": "Should the president be able to set national mail-in ballot rules?",
+      "conservative_headline": "SCOTUS Sides With Trump: Court Clears Way for Election Integrity Order Democrats Fought to Kill",
+      "liberal_headline": "Supreme Court Hands Trump Power Over Elections as Justice Warns of 'Nightmare' Ruling",
+      "poll_question": "Should the president be able to set national mail voting rules by executive order?",
       "poll_option1_label": "Secure The Vote",
-      "poll_option1_desc": "Uniform standards stop fraud and restore confidence in ballot counting.",
+      "poll_option1_desc": "Federal standards stop fraud and restore confidence in American elections",
       "poll_option2_label": "States Decide",
-      "poll_option2_desc": "Constitution gives states election authority; this order suppresses lawful voters.",
-      "pexels_search_terms": "mail ballot envelope voting"
+      "poll_option2_desc": "Presidents can't rewrite election law; this disenfranchises millions of voters",
+      "pexels_search_terms": "supreme court building mail ballot voting"
     },
     {
-      "title": "Trade Toughness or Trolling an Ally? Trump Renames Lake Ontario 'Lake America' as Canada Feud Escalates",
-      "slug": "lake-america-canada-trade-war-escalation",
-      "topic_keywords": [
-        "Canada",
-        "trade war",
-        "tariffs",
-        "Lake Ontario",
-        "executive order"
-      ],
-      "conservative_headline": "Trump Puts Canada on Notice: 'They've Been Ripping Us Off for a Long Time'",
-      "liberal_headline": "Trump Renames a Great Lake in Latest Stunt as Trade War With America's Closest Ally Spirals",
-      "poll_question": "Is the escalating trade fight with Canada good policy?",
-      "poll_option1_label": "Leverage Works",
-      "poll_option1_desc": "Hardball pressure forces a fairer deal for American workers.",
-      "poll_option2_label": "Alienating Allies",
-      "poll_option2_desc": "Petty stunts raise prices and wreck a vital partnership.",
-      "pexels_search_terms": "Canada United States border flags"
-    },
-    {
-      "title": "Rule of Law or Political Payback? Trump Ally Milo Yiannopoulos Detained by ICE Over Visa Overstay",
-      "slug": "milo-yiannopoulos-ice-detention-visa",
-      "topic_keywords": [
-        "ICE",
-        "visa overstay",
-        "deportation",
-        "Milo Yiannopoulos",
-        "immigration enforcement"
-      ],
-      "conservative_headline": "ICE Proves Enforcement Is Blind: Even Trump Supporters Face the Law on Visa Violations",
-      "liberal_headline": "MAGA Provocateur Swept Up by the Very Deportation Machine He Cheered On",
-      "poll_question": "Does ICE detaining a Trump ally show fair enforcement?",
-      "poll_option1_label": "Law Is Law",
-      "poll_option1_desc": "Overstaying a visa is illegal regardless of politics or celebrity.",
-      "poll_option2_label": "Cruel Machine",
-      "poll_option2_desc": "Case exposes an indiscriminate system that ruins lives without discretion.",
-      "pexels_search_terms": "immigration detention facility fence"
-    },
-    {
-      "title": "Victory or Quagmire? US-Iran War Hits Six Months With 6,000 Sailors Stranded in the Gulf",
-      "slug": "iran-war-six-month-mark-hormuz",
-      "topic_keywords": [
-        "Iran war",
-        "Strait of Hormuz",
-        "Operation Epic Fury",
-        "shipping",
-        "military"
-      ],
-      "conservative_headline": "Six Months In: Trump's Iran Campaign Has Crippled the Regime and Kept America Safe",
-      "liberal_headline": "Six Months of War, No Exit Plan: Thousands of Sailors Trapped as Iran Conflict Grinds On",
-      "poll_question": "Has the six-month Iran campaign been worth the cost?",
-      "poll_option1_label": "Necessary Force",
-      "poll_option1_desc": "Strikes dismantled a nuclear threat and restored American deterrence.",
-      "poll_option2_label": "Endless War",
-      "poll_option2_desc": "Open-ended conflict with no strategy, killing civilians and spiking prices.",
-      "pexels_search_terms": "aircraft carrier navy ships ocean"
-    },
-    {
-      "title": "Energy Liberation or Oil Grab? Trump Says US Will Take Control of Venezuela's 65 Billion Barrels",
-      "slug": "venezuela-oil-reserves-trump-control",
-      "topic_keywords": [
-        "Venezuela",
-        "oil reserves",
-        "energy policy",
-        "gas prices",
-        "Maduro"
-      ],
-      "conservative_headline": "Trump Moves to Unlock Venezuela's Oil, Break OPEC's Grip and Crush Prices at the Pump",
-      "liberal_headline": "'We're Taking the Oil': Trump Openly Declares Plan to Seize Another Nation's Resources",
-      "poll_question": "Should the US take control of Venezuela's oil reserves?",
-      "poll_option1_label": "Energy Dominance",
-      "poll_option1_desc": "Securing supply lowers gas prices and weakens hostile regimes.",
-      "poll_option2_label": "Modern Colonialism",
-      "poll_option2_desc": "Seizing another country's resources is lawless and invites another war.",
-      "pexels_search_terms": "oil refinery pipeline energy"
-    },
-    {
-      "title": "Trust Fund Crisis or Manufactured Panic? Social Security Shortfall Barely Discussed as Midterms Near",
-      "slug": "social-security-trust-fund-shortfall-silence",
-      "topic_keywords": [
-        "Social Security",
-        "trust fund",
-        "entitlement reform",
-        "benefits",
-        "retirement"
-      ],
-      "conservative_headline": "Democrats Refuse to Fix Social Security as Trust Fund Barrels Toward Insolvency",
-      "liberal_headline": "Experts Warn Americans Are Being Kept in the Dark While Republicans Eye Benefit Cuts",
-      "poll_question": "How should Washington fix the Social Security shortfall?",
-      "poll_option1_label": "Restructure Now",
-      "poll_option1_desc": "Adjust eligibility and growth rates before the fund runs dry.",
-      "poll_option2_label": "Tax The Rich",
-      "poll_option2_desc": "Lift the payroll cap on high earners; don't touch earned benefits.",
-      "pexels_search_terms": "senior citizens social security card"
-    },
-    {
-      "title": "Soft Landing or Stagflation? Economy Sheds 23,000 Jobs as Inflation Stays Stuck at 3.5%",
-      "slug": "jobs-losses-inflation-stagflation-fed",
+      "title": "Stagflation or Soft Landing? Weak Jobs Numbers Collide With Stubborn 3.5% Inflation",
+      "slug": "jobs-losses-inflation-warsh-fed-economy-fight",
       "topic_keywords": [
         "jobs report",
         "inflation",
         "Federal Reserve",
-        "unemployment",
-        "economy"
+        "Kevin Warsh",
+        "interest rates"
       ],
-      "conservative_headline": "Job Dip Reflects Federal Downsizing, Not Weakness \u2014 Private Sector Poised to Rebound",
-      "liberal_headline": "Economy Loses Jobs While Prices Keep Climbing: Trump's Stagflation Arrives",
-      "poll_question": "Who is responsible for the current economy?",
-      "poll_option1_label": "Growing Pains",
-      "poll_option1_desc": "Trimming government bloat causes short-term dips before real growth.",
-      "poll_option2_label": "Failed Policy",
-      "poll_option2_desc": "Tariffs and chaos delivered stagnant jobs plus painful inflation.",
-      "pexels_search_terms": "grocery store prices shopping cart"
+      "conservative_headline": "Fed Bureaucrats, Not Trump, to Blame as Warsh Stalls While Main Street Waits for Rate Relief",
+      "liberal_headline": "Economy Sheds Jobs as Prices Keep Climbing \u2014 Trump's 'Boom' Narrative Collapses",
+      "poll_question": "Who's responsible for the jobs-and-prices squeeze?",
+      "poll_option1_label": "Fed's Fault",
+      "poll_option1_desc": "Rate policy and old Biden spending drive prices; growth agenda still works",
+      "poll_option2_label": "Trump's Fault",
+      "poll_option2_desc": "Tariffs, cuts and chaos produced weak hiring and elevated inflation",
+      "pexels_search_terms": "grocery store prices worried shopper economy"
     },
     {
-      "title": "Voter Verdict or Blip? Florida's Culture-War School Board Loses Its Conservative Majority",
-      "slug": "sarasota-school-board-conservative-majority-flips",
+      "title": "Justice Served or Political Persecution? Trump Loses Bid to Erase Hush Money Conviction",
+      "slug": "trump-loses-bid-erase-hush-money-conviction",
       "topic_keywords": [
-        "school board",
-        "book bans",
-        "culture war",
-        "Florida education",
-        "parental rights"
+        "hush money conviction",
+        "Trump legal",
+        "Manhattan court",
+        "appeal",
+        "prosecution"
       ],
-      "conservative_headline": "One Board Flips, But Parents' Rights Movement Still Winning Across Florida",
-      "liberal_headline": "Voters Reject Book Bans: Florida's Most Notorious School Board Flips Away From the Right",
-      "poll_question": "Do voters still want culture-war fights in schools?",
-      "poll_option1_label": "Parents Decide",
-      "poll_option1_desc": "Families deserve control over curriculum and library content for kids.",
-      "poll_option2_label": "Back To Basics",
-      "poll_option2_desc": "Voters want teaching, not censorship and ideological battles in classrooms.",
-      "pexels_search_terms": "school library books classroom"
+      "conservative_headline": "Rigged From Day One: Court Refuses to Undo Manhattan's Political Hit on President Trump",
+      "liberal_headline": "Court Rejects Trump's Longshot Attempt to Wipe Away His Felony Conviction",
+      "poll_question": "Should Trump's New York conviction be erased?",
+      "poll_option1_label": "Wipe It Out",
+      "poll_option1_desc": "A partisan DA's novel theory should never have reached a jury",
+      "poll_option2_label": "Let It Stand",
+      "poll_option2_desc": "A jury convicted him; no one is above the law",
+      "pexels_search_terms": "courthouse gavel legal documents justice"
     },
     {
-      "title": "Fair Maps or Rigged Lines? Court Ruling Hands GOP a Redistricting Win With House Majority on the Line",
-      "slug": "redistricting-ruling-house-majority-midterms",
+      "title": "Rule of Law or Cruelty? Deportation Flights to Haiti Begin After TPS Ends for 350,000",
+      "slug": "haiti-deportation-flights-tps-ended-350000",
+      "topic_keywords": [
+        "Haiti deportations",
+        "Temporary Protected Status",
+        "ICE removal flights",
+        "immigration enforcement",
+        "TPS ruling"
+      ],
+      "conservative_headline": "Promises Kept: Removal Flights Resume as Trump Ends Biden's Never-Ending 'Temporary' Amnesty",
+      "liberal_headline": "US Begins Deporting Haitians Into Chaos After Supreme Court Stripped Their Protections",
+      "poll_question": "Should Haitians who lost TPS be deported now?",
+      "poll_option1_label": "Enforce Law",
+      "poll_option1_desc": "Temporary status was never permanent; removals restore immigration integrity",
+      "poll_option2_label": "Halt Flights",
+      "poll_option2_desc": "Sending people into a collapsed, violent state is inhumane",
+      "pexels_search_terms": "airport deportation plane tarmac passengers"
+    },
+    {
+      "title": "Peace Through Strength or Abandoning Allies? Trump Scales Back Korea Drills, Courts Kim Jong Un",
+      "slug": "trump-scales-back-south-korea-drills-kim-summit",
+      "topic_keywords": [
+        "South Korea drills",
+        "Kim Jong Un",
+        "North Korea diplomacy",
+        "military exercises",
+        "Indo-Pacific"
+      ],
+      "conservative_headline": "Only Trump Can Do It: President Reopens Diplomacy With Kim as War Games Wind Down",
+      "liberal_headline": "Trump Cuts Allied Defenses and Dangles a Kim Summit \u2014 For Nothing in Return",
+      "poll_question": "Was scaling back US-South Korea military drills the right call?",
+      "poll_option1_label": "Smart Diplomacy",
+      "poll_option1_desc": "Lowering tensions opens the door to a real denuclearization deal",
+      "poll_option2_label": "Dangerous Gift",
+      "poll_option2_desc": "Weakens deterrence and rewards a dictator with nothing gained",
+      "pexels_search_terms": "military exercise soldiers korea flag"
+    },
+    {
+      "title": "Merit or Loyalty Oath? McMahon Demands Universities Sign On to Trump Higher-Ed Priorities",
+      "slug": "mcmahon-universities-loyalty-letter-dei-accreditation",
+      "topic_keywords": [
+        "Linda McMahon",
+        "higher education",
+        "DEI rollback",
+        "accreditation overhaul",
+        "university funding"
+      ],
+      "conservative_headline": "Accountability at Last: Education Department Forces Woke Universities to Prove Merit Comes First",
+      "liberal_headline": "Sign or Lose Funding: Trump's Education Chief Demands Ideological Pledges From Colleges",
+      "poll_question": "Should federal funding hinge on universities endorsing administration priorities?",
+      "poll_option1_label": "Restore Merit",
+      "poll_option1_desc": "Taxpayers shouldn't fund racial preferences and ideological gatekeeping on campus",
+      "poll_option2_label": "Academic Freedom",
+      "poll_option2_desc": "Government-mandated statements are coercion, not reform, of independent universities",
+      "pexels_search_terms": "university campus students graduation building"
+    },
+    {
+      "title": "Rigged Maps or Fair Fight? Court Ruling Hands GOP a Redistricting Win Before November",
+      "slug": "redistricting-court-ruling-gop-house-maps-midterms",
       "topic_keywords": [
         "redistricting",
         "gerrymandering",
         "House majority",
-        "midterms",
-        "congressional maps"
+        "midterm elections",
+        "state supreme court"
       ],
-      "conservative_headline": "Court Upholds Legislature's Map, Dealing Blow to Democrats' Lawsuit Strategy",
-      "liberal_headline": "Courts Green-Light Gerrymandered Maps as GOP Tries to Draw Its Way to a House Majority",
-      "poll_question": "Are the new congressional maps legitimate?",
+      "conservative_headline": "Court Upholds GOP Map as Democrats Scramble to Sue Their Way to a House Majority",
+      "liberal_headline": "Republicans Win Round in Redistricting War That Could Decide the House Before Votes Are Cast",
+      "poll_question": "Are mid-decade redistricting fights legitimate politics?",
       "poll_option1_label": "Legislatures Rule",
-      "poll_option1_desc": "Elected lawmakers, not judges, have constitutional power to draw districts.",
-      "poll_option2_label": "Rigged Districts",
-      "poll_option2_desc": "Partisan map-drawing lets politicians pick voters instead of the reverse.",
-      "pexels_search_terms": "congressional district map capitol"
+      "poll_option1_desc": "Elected lawmakers draw maps; courts shouldn't override the political branches",
+      "poll_option2_label": "Stop The Rig",
+      "poll_option2_desc": "Partisan map-drawing lets politicians pick voters and cancels competitive elections",
+      "pexels_search_terms": "congressional district map voting precinct"
     },
     {
-      "title": "National Security Threat or Water Crisis Ignored? Seven States Report Cyberattacks on Water Systems",
-      "slug": "water-system-cyberattack-seven-states",
+      "title": "Critical Infrastructure Crisis or Overhyped Panic? Seven States Report Water System Cyberattacks",
+      "slug": "water-system-cyberattack-seven-states-infrastructure",
       "topic_keywords": [
         "cyberattack",
-        "water infrastructure",
+        "water systems",
         "critical infrastructure",
-        "national security",
-        "hackers"
+        "CISA",
+        "cybersecurity policy"
       ],
-      "conservative_headline": "Foreign Hackers Hit American Water Systems \u2014 Trump Vows Swift Retaliation",
-      "liberal_headline": "Water Systems Breached in Seven States After Administration Gutted Cybersecurity Staff",
-      "poll_question": "What's the right response to infrastructure cyberattacks?",
-      "poll_option1_label": "Strike Back",
-      "poll_option1_desc": "Answer hostile hackers with offensive cyber operations and hard consequences.",
-      "poll_option2_label": "Rebuild Defenses",
-      "poll_option2_desc": "Restore gutted cyber agencies and fund local utility protections first.",
-      "pexels_search_terms": "water treatment plant infrastructure"
+      "conservative_headline": "Foreign Hackers Hit American Water: Trump Team Vows Retaliation as Blue States Point Fingers",
+      "liberal_headline": "Water Systems Attacked in Seven States After Trump Gutted Federal Cyber Defenses",
+      "poll_question": "Who should lead defense of America's water and power systems?",
+      "poll_option1_label": "Hit Back Hard",
+      "poll_option1_desc": "Go on offense against hostile hackers; local utilities must harden themselves",
+      "poll_option2_label": "Rebuild Defense",
+      "poll_option2_desc": "Slashed federal cyber agencies left utilities exposed; restore funding now",
+      "pexels_search_terms": "water treatment plant infrastructure cybersecurity"
+    },
+    {
+      "title": "Qualified Pick or Loyalty Hire? Trump Taps White House Aide Heidi Overton to Run the FDA",
+      "slug": "heidi-overton-fda-nomination-trump-health-agency",
+      "topic_keywords": [
+        "FDA nominee",
+        "Heidi Overton",
+        "public health",
+        "drug approvals",
+        "Senate confirmation"
+      ],
+      "conservative_headline": "Trump Picks Reform-Minded Doctor to Clean Up an FDA Captured by Big Pharma",
+      "liberal_headline": "Trump Hands the FDA to a White House Aide as Public Health Experts Sound Alarm",
+      "poll_question": "Is a White House aide the right choice to lead the FDA?",
+      "poll_option1_label": "Shake It Up",
+      "poll_option1_desc": "The agency needs an outsider willing to break bureaucratic capture",
+      "poll_option2_label": "Science First",
+      "poll_option2_desc": "Drug safety demands independence, not a political loyalist at the helm",
+      "pexels_search_terms": "medicine pharmacy pills laboratory health"
+    },
+    {
+      "title": "Climate Accountability or Lawfare Against Energy? SCOTUS Takes Up Suncor v. Boulder County",
+      "slug": "suncor-boulder-county-scotus-climate-lawsuits-energy",
+      "topic_keywords": [
+        "Suncor Energy",
+        "Boulder County",
+        "climate lawsuits",
+        "oil companies",
+        "Supreme Court energy"
+      ],
+      "conservative_headline": "Supreme Court Finally Takes On Blue-County Climate Lawsuits Designed to Bankrupt US Energy",
+      "liberal_headline": "SCOTUS Steps In to Shield Big Oil From Communities Suing Over Climate Damage",
+      "poll_question": "Should local governments be able to sue oil companies over climate damage?",
+      "poll_option1_label": "Stop Lawfare",
+      "poll_option1_desc": "Climate policy belongs in Congress, not county courtrooms punishing energy producers",
+      "poll_option2_label": "Make Them Pay",
+      "poll_option2_desc": "Communities deserve their day in court against polluters who knew",
+      "pexels_search_terms": "oil refinery smokestacks wildfire landscape"
     }
   ]
 }
