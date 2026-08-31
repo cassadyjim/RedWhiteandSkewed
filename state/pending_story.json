@@ -1,196 +1,196 @@
 {
-  "date": "2026-08-30",
-  "email_sent_at": "2026-08-30T08:08:30.526028",
+  "date": "2026-08-31",
+  "email_sent_at": "2026-08-31T08:28:09.624065",
   "stories": [
     {
-      "title": "Election Integrity or Voter Suppression? SCOTUS Greenlights Trump's Mail Voting Crackdown",
-      "slug": "scotus-trump-mail-voting-crackdown-election-order",
+      "title": "Liberation or Looting? Trump's Venezuela Oil Deal Splits Washington",
+      "slug": "venezuela-oil-deal-trump-partisan-divide",
+      "topic_keywords": [
+        "Venezuela oil deal",
+        "Maduro capture",
+        "Delcy Rodriguez",
+        "Tim Kaine",
+        "energy security"
+      ],
+      "conservative_headline": "HISTORIC WIN: Trump Frees Venezuela From Maduro and Unlocks Oil Kept From China",
+      "liberal_headline": "A Private Oil Grab: Democrats Say Troops Were Risked to Enrich Trump's Billionaire Allies",
+      "poll_question": "Was the Venezuela oil deal a foreign policy win or a corrupt oil grab?",
+      "poll_option1_label": "Historic Win",
+      "poll_option1_desc": "Ousting a dictator and securing oil strengthens America and Venezuela alike.",
+      "poll_option2_label": "Oil Grab",
+      "poll_option2_desc": "Troops were risked so oil companies and Trump allies could profit.",
+      "pexels_search_terms": "oil rig Venezuela refinery pipeline"
+    },
+    {
+      "title": "Election Integrity or Voter Suppression? SCOTUS Clears Path for Trump's Mail Ballot Rules",
+      "slug": "supreme-court-mail-voting-order-midterms",
       "topic_keywords": [
         "Supreme Court",
-        "Trump v California",
         "mail voting",
-        "election executive order",
-        "voting rights"
+        "executive order",
+        "USPS",
+        "2026 midterms"
       ],
-      "conservative_headline": "SCOTUS Sides With Trump: Court Clears Way for Election Integrity Order Democrats Fought to Kill",
-      "liberal_headline": "Supreme Court Hands Trump Power Over Elections as Justice Warns of 'Nightmare' Ruling",
-      "poll_question": "Should the president be able to set national mail voting rules by executive order?",
-      "poll_option1_label": "Secure The Vote",
-      "poll_option1_desc": "Federal standards stop fraud and restore confidence in American elections",
-      "poll_option2_label": "States Decide",
-      "poll_option2_desc": "Presidents can't rewrite election law; this disenfranchises millions of voters",
-      "pexels_search_terms": "supreme court building mail ballot voting"
+      "conservative_headline": "SCOTUS Sides With Trump: Court Lifts Injunction Blocking Mail Ballot Safeguards",
+      "liberal_headline": "Jackson Dissents: Court Green-Lights an Order No Judge Has Called Constitutional",
+      "poll_question": "Should the president be able to reshape mail voting rules before the midterms?",
+      "poll_option1_label": "Secure Ballots",
+      "poll_option1_desc": "Federal standards stop fraud and restore confidence in mail voting.",
+      "poll_option2_label": "Power Grab",
+      "poll_option2_desc": "States run elections; an unlawful order will block legitimate voters.",
+      "pexels_search_terms": "mail ballot envelope voting drop box"
     },
     {
-      "title": "Stagflation or Soft Landing? Weak Jobs Numbers Collide With Stubborn 3.5% Inflation",
-      "slug": "jobs-losses-inflation-warsh-fed-economy-fight",
+      "title": "Deterrence or Endless War? U.S. Strikes Iranian Launchers at the Strait of Hormuz",
+      "slug": "us-strikes-iran-launchers-hormuz",
       "topic_keywords": [
-        "jobs report",
+        "Iran strikes",
+        "Strait of Hormuz",
+        "war powers",
+        "military readiness",
+        "oil exports"
+      ],
+      "conservative_headline": "Peace Through Strength: U.S. Takes Out Iranian Launchers Threatening Global Shipping",
+      "liberal_headline": "Classified Warning Ignored: Endless Mideast Strikes Are Draining U.S. Readiness",
+      "poll_question": "Are continued strikes on Iran keeping America safe or dragging us deeper in?",
+      "poll_option1_label": "Necessary Force",
+      "poll_option1_desc": "Striking launchers protects shipping lanes and deters Iranian aggression.",
+      "poll_option2_label": "Quagmire",
+      "poll_option2_desc": "Open-ended war weakens readiness elsewhere and raises energy prices.",
+      "pexels_search_terms": "navy destroyer warship missile ocean"
+    },
+    {
+      "title": "Rescued or Ransacked? ICE's Record Deportation Surge Hits a New Peak",
+      "slug": "ice-deportation-surge-record-data",
+      "topic_keywords": [
+        "ICE arrests",
+        "deportations",
+        "interior enforcement",
+        "DHS Mullin",
+        "street arrests"
+      ],
+      "conservative_headline": "Promises Kept: ICE Removes Murderers, Rapists and Arsonists Week After Week",
+      "liberal_headline": "New Data: ICE Street Arrests Up Elevenfold as Enforcement Sweeps Beyond Criminals",
+      "poll_question": "Is the deportation surge making communities safer or going too far?",
+      "poll_option1_label": "Law and Order",
+      "poll_option1_desc": "Removing criminal illegal aliens is common sense and broadly popular.",
+      "poll_option2_label": "Overreach",
+      "poll_option2_desc": "Mass street arrests sweep up neighbors, workers and families indiscriminately.",
+      "pexels_search_terms": "immigration enforcement officers detention facility"
+    },
+    {
+      "title": "Soft Landing or Stagflation? The Fed, Tariffs and a Job Market Losing Steam",
+      "slug": "fed-inflation-jobs-stagflation-debate",
+      "topic_keywords": [
         "inflation",
+        "jobs report",
         "Federal Reserve",
-        "Kevin Warsh",
-        "interest rates"
+        "tariffs",
+        "stagflation"
       ],
-      "conservative_headline": "Fed Bureaucrats, Not Trump, to Blame as Warsh Stalls While Main Street Waits for Rate Relief",
-      "liberal_headline": "Economy Sheds Jobs as Prices Keep Climbing \u2014 Trump's 'Boom' Narrative Collapses",
-      "poll_question": "Who's responsible for the jobs-and-prices squeeze?",
-      "poll_option1_label": "Fed's Fault",
-      "poll_option1_desc": "Rate policy and old Biden spending drive prices; growth agenda still works",
-      "poll_option2_label": "Trump's Fault",
-      "poll_option2_desc": "Tariffs, cuts and chaos produced weak hiring and elevated inflation",
-      "pexels_search_terms": "grocery store prices worried shopper economy"
+      "conservative_headline": "Inflation Cooling: Trump Economy Holds Steady as Unemployment Rate Falls Again",
+      "liberal_headline": "Economy Shed Jobs While Workers Quit Looking \u2014 Tariff Prices Are Squeezing Families",
+      "poll_question": "Is the economy stabilizing or sliding toward stagflation?",
+      "poll_option1_label": "On Track",
+      "poll_option1_desc": "Inflation is easing and unemployment remains low despite doom predictions.",
+      "poll_option2_label": "Stagflation Risk",
+      "poll_option2_desc": "Tariffs raise prices while job growth stalls and workers exit.",
+      "pexels_search_terms": "grocery store prices shopping cart receipt"
     },
     {
-      "title": "Justice Served or Political Persecution? Trump Loses Bid to Erase Hush Money Conviction",
-      "slug": "trump-loses-bid-erase-hush-money-conviction",
+      "title": "Executive Power or Taxpayer Bill? Trump's $300 Million Ballroom Moves Ahead",
+      "slug": "white-house-ballroom-construction-court-fight",
       "topic_keywords": [
-        "hush money conviction",
-        "Trump legal",
-        "Manhattan court",
-        "appeal",
-        "prosecution"
+        "White House ballroom",
+        "East Wing",
+        "Supreme Court",
+        "government spending",
+        "congressional approval"
       ],
-      "conservative_headline": "Rigged From Day One: Court Refuses to Undo Manhattan's Political Hit on President Trump",
-      "liberal_headline": "Court Rejects Trump's Longshot Attempt to Wipe Away His Felony Conviction",
-      "poll_question": "Should Trump's New York conviction be erased?",
-      "poll_option1_label": "Wipe It Out",
-      "poll_option1_desc": "A partisan DA's novel theory should never have reached a jury",
-      "poll_option2_label": "Let It Stand",
-      "poll_option2_desc": "A jury convicted him; no one is above the law",
-      "pexels_search_terms": "courthouse gavel legal documents justice"
+      "conservative_headline": "Court Clears the Way: Trump's White House Upgrade Proceeds Over Democrat Objections",
+      "liberal_headline": "Taxpayers Foot $300M for a Ballroom Trump Swore Wouldn't Cost Them a Dime",
+      "poll_question": "Should the president build the ballroom without congressional approval?",
+      "poll_option1_label": "His Call",
+      "poll_option1_desc": "The president can improve the residence without Congress micromanaging construction.",
+      "poll_option2_label": "Congress Decides",
+      "poll_option2_desc": "A $300 million taxpayer project demands congressional approval and oversight.",
+      "pexels_search_terms": "White House construction scaffolding Washington"
     },
     {
-      "title": "Rule of Law or Cruelty? Deportation Flights to Haiti Begin After TPS Ends for 350,000",
-      "slug": "haiti-deportation-flights-tps-ended-350000",
+      "title": "Fairness or Fearmongering? Trans Issues Take Center Stage in 2026 Campaigns",
+      "slug": "transgender-issues-2026-campaigns-wedge",
       "topic_keywords": [
-        "Haiti deportations",
-        "Temporary Protected Status",
-        "ICE removal flights",
-        "immigration enforcement",
-        "TPS ruling"
+        "transgender athletes",
+        "school policy",
+        "midterm ads",
+        "parental rights",
+        "LGBTQ politics"
       ],
-      "conservative_headline": "Promises Kept: Removal Flights Resume as Trump Ends Biden's Never-Ending 'Temporary' Amnesty",
-      "liberal_headline": "US Begins Deporting Haitians Into Chaos After Supreme Court Stripped Their Protections",
-      "poll_question": "Should Haitians who lost TPS be deported now?",
-      "poll_option1_label": "Enforce Law",
-      "poll_option1_desc": "Temporary status was never permanent; removals restore immigration integrity",
-      "poll_option2_label": "Halt Flights",
-      "poll_option2_desc": "Sending people into a collapsed, violent state is inhumane",
-      "pexels_search_terms": "airport deportation plane tarmac passengers"
+      "conservative_headline": "Voters Agree With Us: GOP Runs on Protecting Girls' Sports and Parental Rights",
+      "liberal_headline": "Republicans Bet Millions on Anti-Trans Ads Targeting a Tiny Group of Kids",
+      "poll_question": "Are transgender policy fights a legitimate issue or a political distraction?",
+      "poll_option1_label": "Real Issue",
+      "poll_option1_desc": "Voters want fairness in sports and honesty with parents about schools.",
+      "poll_option2_label": "Wedge Politics",
+      "poll_option2_desc": "Manufactured outrage scapegoats children to distract from cost-of-living failures.",
+      "pexels_search_terms": "school hallway students classroom protest"
     },
     {
-      "title": "Peace Through Strength or Abandoning Allies? Trump Scales Back Korea Drills, Courts Kim Jong Un",
-      "slug": "trump-scales-back-south-korea-drills-kim-summit",
+      "title": "Accountability or Interference? Minnesota Demands Texas Hand Over Officer in Shooting",
+      "slug": "minnesota-texas-extradition-officer-shooting",
       "topic_keywords": [
-        "South Korea drills",
-        "Kim Jong Un",
-        "North Korea diplomacy",
-        "military exercises",
-        "Indo-Pacific"
+        "extradition fight",
+        "federal officer charged",
+        "state sovereignty",
+        "immigration shooting",
+        "prosecutorial politics"
       ],
-      "conservative_headline": "Only Trump Can Do It: President Reopens Diplomacy With Kim as War Games Wind Down",
-      "liberal_headline": "Trump Cuts Allied Defenses and Dangles a Kim Summit \u2014 For Nothing in Return",
-      "poll_question": "Was scaling back US-South Korea military drills the right call?",
-      "poll_option1_label": "Smart Diplomacy",
-      "poll_option1_desc": "Lowering tensions opens the door to a real denuclearization deal",
-      "poll_option2_label": "Dangerous Gift",
-      "poll_option2_desc": "Weakens deterrence and rewards a dictator with nothing gained",
-      "pexels_search_terms": "military exercise soldiers korea flag"
+      "conservative_headline": "Blue State Persecution: Minnesota Wants to Prosecute an Officer for Doing His Job",
+      "liberal_headline": "Texas Stonewalls a Routine Extradition to Shield an Officer From a Shooting Charge",
+      "poll_question": "Should the charged officer be extradited to face state prosecution?",
+      "poll_option1_label": "Shield Officers",
+      "poll_option1_desc": "Officers shouldn't face politicized state charges for federal enforcement duties.",
+      "poll_option2_label": "Equal Justice",
+      "poll_option2_desc": "No badge exempts anyone from a routine extradition and fair trial.",
+      "pexels_search_terms": "police badge courthouse steps handcuffs"
     },
     {
-      "title": "Merit or Loyalty Oath? McMahon Demands Universities Sign On to Trump Higher-Ed Priorities",
-      "slug": "mcmahon-universities-loyalty-letter-dei-accreditation",
+      "title": "Public Safety or Surveillance State? License Plate Readers Face Bipartisan Backlash",
+      "slug": "license-plate-readers-surveillance-backlash",
       "topic_keywords": [
-        "Linda McMahon",
-        "higher education",
-        "DEI rollback",
-        "accreditation overhaul",
-        "university funding"
+        "automated license plate readers",
+        "Flock cameras",
+        "police surveillance",
+        "privacy rights",
+        "data sharing"
       ],
-      "conservative_headline": "Accountability at Last: Education Department Forces Woke Universities to Prove Merit Comes First",
-      "liberal_headline": "Sign or Lose Funding: Trump's Education Chief Demands Ideological Pledges From Colleges",
-      "poll_question": "Should federal funding hinge on universities endorsing administration priorities?",
-      "poll_option1_label": "Restore Merit",
-      "poll_option1_desc": "Taxpayers shouldn't fund racial preferences and ideological gatekeeping on campus",
-      "poll_option2_label": "Academic Freedom",
-      "poll_option2_desc": "Government-mandated statements are coercion, not reform, of independent universities",
-      "pexels_search_terms": "university campus students graduation building"
+      "conservative_headline": "Big Brother on Every Corner: Americans Revolt Against Warrantless Camera Dragnets",
+      "liberal_headline": "Plate Reader Networks Feed Immigration and Abortion Dragnets With No Oversight",
+      "poll_question": "Are automated license plate readers a crime-fighting tool or mass surveillance?",
+      "poll_option1_label": "Solves Crimes",
+      "poll_option1_desc": "Cameras help police catch fugitives, car thieves and missing-person suspects fast.",
+      "poll_option2_label": "Mass Surveillance",
+      "poll_option2_desc": "Warrantless tracking of every driver invites abuse and chills freedom.",
+      "pexels_search_terms": "traffic camera highway surveillance city street"
     },
     {
-      "title": "Rigged Maps or Fair Fight? Court Ruling Hands GOP a Redistricting Win Before November",
-      "slug": "redistricting-court-ruling-gop-house-maps-midterms",
+      "title": "Reform or Rigging? Trump's Accreditation Overhaul Puts $130 Billion in Play",
+      "slug": "college-accreditation-overhaul-federal-aid",
       "topic_keywords": [
-        "redistricting",
-        "gerrymandering",
-        "House majority",
-        "midterm elections",
-        "state supreme court"
+        "college accreditation",
+        "federal student aid",
+        "Education Department",
+        "higher education reform",
+        "campus politics"
       ],
-      "conservative_headline": "Court Upholds GOP Map as Democrats Scramble to Sue Their Way to a House Majority",
-      "liberal_headline": "Republicans Win Round in Redistricting War That Could Decide the House Before Votes Are Cast",
-      "poll_question": "Are mid-decade redistricting fights legitimate politics?",
-      "poll_option1_label": "Legislatures Rule",
-      "poll_option1_desc": "Elected lawmakers draw maps; courts shouldn't override the political branches",
-      "poll_option2_label": "Stop The Rig",
-      "poll_option2_desc": "Partisan map-drawing lets politicians pick voters and cancels competitive elections",
-      "pexels_search_terms": "congressional district map voting precinct"
-    },
-    {
-      "title": "Critical Infrastructure Crisis or Overhyped Panic? Seven States Report Water System Cyberattacks",
-      "slug": "water-system-cyberattack-seven-states-infrastructure",
-      "topic_keywords": [
-        "cyberattack",
-        "water systems",
-        "critical infrastructure",
-        "CISA",
-        "cybersecurity policy"
-      ],
-      "conservative_headline": "Foreign Hackers Hit American Water: Trump Team Vows Retaliation as Blue States Point Fingers",
-      "liberal_headline": "Water Systems Attacked in Seven States After Trump Gutted Federal Cyber Defenses",
-      "poll_question": "Who should lead defense of America's water and power systems?",
-      "poll_option1_label": "Hit Back Hard",
-      "poll_option1_desc": "Go on offense against hostile hackers; local utilities must harden themselves",
-      "poll_option2_label": "Rebuild Defense",
-      "poll_option2_desc": "Slashed federal cyber agencies left utilities exposed; restore funding now",
-      "pexels_search_terms": "water treatment plant infrastructure cybersecurity"
-    },
-    {
-      "title": "Qualified Pick or Loyalty Hire? Trump Taps White House Aide Heidi Overton to Run the FDA",
-      "slug": "heidi-overton-fda-nomination-trump-health-agency",
-      "topic_keywords": [
-        "FDA nominee",
-        "Heidi Overton",
-        "public health",
-        "drug approvals",
-        "Senate confirmation"
-      ],
-      "conservative_headline": "Trump Picks Reform-Minded Doctor to Clean Up an FDA Captured by Big Pharma",
-      "liberal_headline": "Trump Hands the FDA to a White House Aide as Public Health Experts Sound Alarm",
-      "poll_question": "Is a White House aide the right choice to lead the FDA?",
-      "poll_option1_label": "Shake It Up",
-      "poll_option1_desc": "The agency needs an outsider willing to break bureaucratic capture",
-      "poll_option2_label": "Science First",
-      "poll_option2_desc": "Drug safety demands independence, not a political loyalist at the helm",
-      "pexels_search_terms": "medicine pharmacy pills laboratory health"
-    },
-    {
-      "title": "Climate Accountability or Lawfare Against Energy? SCOTUS Takes Up Suncor v. Boulder County",
-      "slug": "suncor-boulder-county-scotus-climate-lawsuits-energy",
-      "topic_keywords": [
-        "Suncor Energy",
-        "Boulder County",
-        "climate lawsuits",
-        "oil companies",
-        "Supreme Court energy"
-      ],
-      "conservative_headline": "Supreme Court Finally Takes On Blue-County Climate Lawsuits Designed to Bankrupt US Energy",
-      "liberal_headline": "SCOTUS Steps In to Shield Big Oil From Communities Suing Over Climate Damage",
-      "poll_question": "Should local governments be able to sue oil companies over climate damage?",
-      "poll_option1_label": "Stop Lawfare",
-      "poll_option1_desc": "Climate policy belongs in Congress, not county courtrooms punishing energy producers",
-      "poll_option2_label": "Make Them Pay",
-      "poll_option2_desc": "Communities deserve their day in court against polluters who knew",
-      "pexels_search_terms": "oil refinery smokestacks wildfire landscape"
+      "conservative_headline": "Trump's Secret Weapon: Breaking the Accreditation Cartel That Protects Woke Colleges",
+      "liberal_headline": "$130 Billion Lever: Administration Moves to Control Which Colleges Get Federal Aid",
+      "poll_question": "Is rewriting accreditation rules reforming colleges or politicizing them?",
+      "poll_option1_label": "Overdue Reform",
+      "poll_option1_desc": "Accreditors enforce ideology and shield failing schools from real accountability.",
+      "poll_option2_label": "Political Control",
+      "poll_option2_desc": "Washington shouldn't decide which schools survive based on politics.",
+      "pexels_search_terms": "university campus graduation lecture hall"
     }
   ]
 }
