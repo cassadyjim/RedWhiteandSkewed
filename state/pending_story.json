@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-01",
+  "email_sent_at": "2026-09-01T07:35:22.824015",
+  "stories": [
+    {
+      "title": "Presidential Prerogative or Imperial Overreach? Supreme Court Greenlights Trump's White House Ballroom",
+      "slug": "scotus-white-house-ballroom-ruling",
+      "topic_keywords": [
+        "Supreme Court",
+        "White House ballroom",
+        "East Wing",
+        "National Trust",
+        "separation of powers"
+      ],
+      "conservative_headline": "SCOTUS Delivers Trump Another Win: Activist Preservationists Had No Standing to Halt White House Project",
+      "liberal_headline": "5-4 Court Lets Trump Bulldoze the East Wing \u2014 Even Roberts Says the Construction Is 'Likely Unlawful'",
+      "poll_question": "Should the president need Congress's approval to rebuild the White House?",
+      "poll_option1_label": "Executive Authority",
+      "poll_option1_desc": "The president manages the White House; nonprofits shouldn't dictate federal projects.",
+      "poll_option2_label": "Congress Decides",
+      "poll_option2_desc": "A $300M taxpayer demolition of a historic wing demands congressional approval.",
+      "pexels_search_terms": "White House construction scaffolding Washington"
+    },
+    {
+      "title": "Shutdown Showdown or Election-Year Blackmail? House Returns to a Funding Cliff",
+      "slug": "house-returns-shutdown-vote-funding-fight",
+      "topic_keywords": [
+        "government shutdown",
+        "House vote",
+        "appropriations",
+        "midterms",
+        "continuing resolution"
+      ],
+      "conservative_headline": "House GOP Moves Fast to Keep Government Open \u2014 Will Democrats Shut It Down for Political Points?",
+      "liberal_headline": "Republicans Return From Five-Week Vacation and Demand Democrats Rubber-Stamp Their Cuts",
+      "poll_question": "Who's to blame if the government shuts down before the midterms?",
+      "poll_option1_label": "Democrat Obstruction",
+      "poll_option1_desc": "Democrats are holding funding hostage to score points before November.",
+      "poll_option2_label": "GOP Mismanagement",
+      "poll_option2_desc": "The majority controls the calendar and waited until the last minute.",
+      "pexels_search_terms": "US Capitol building dome empty"
+    },
+    {
+      "title": "Rate Hike or Recession Trigger? Warsh's Fed Signals Tightening as Jobs Sputter",
+      "slug": "fed-warsh-rate-hike-jobs-losses",
+      "topic_keywords": [
+        "Federal Reserve",
+        "Kevin Warsh",
+        "interest rates",
+        "inflation",
+        "jobs report"
+      ],
+      "conservative_headline": "Fed Finally Gets Serious on Inflation as Warsh Warns He'll Hike to Protect the Dollar",
+      "liberal_headline": "Economy Shed 23,000 Jobs and Trump's Fed Pick Wants to Raise Rates Anyway",
+      "poll_question": "Should the Fed hike rates with the labor market weakening?",
+      "poll_option1_label": "Kill Inflation",
+      "poll_option1_desc": "Prices must come down first; short-term pain beats permanent inflation.",
+      "poll_option2_label": "Protect Jobs",
+      "poll_option2_desc": "Hiking into job losses risks a recession working families can't afford.",
+      "pexels_search_terms": "Federal Reserve building money interest"
+    },
+    {
+      "title": "Third-Country Removals or Human Rearranging? Deportees Land in West Africa",
+      "slug": "third-country-deportation-deals-west-africa",
+      "topic_keywords": [
+        "deportation",
+        "third country removals",
+        "ICE",
+        "immigration enforcement",
+        "asylum"
+      ],
+      "conservative_headline": "Trump Admin Finds a Way: Nations Step Up to Take Deportees Their Home Countries Won't",
+      "liberal_headline": "Sent to a Country They've Never Seen: Inside Trump's Expanding Third-Country Deportation Pipeline",
+      "poll_question": "Is deporting migrants to countries they're not from acceptable?",
+      "poll_option1_label": "Enforce the Law",
+      "poll_option1_desc": "Removal orders must be carried out even when home countries refuse cooperation.",
+      "poll_option2_label": "Cruel and Lawless",
+      "poll_option2_desc": "Dumping people in unfamiliar nations violates due process and basic decency.",
+      "pexels_search_terms": "airplane tarmac deportation departure"
+    },
+    {
+      "title": "Strength or Spiral? Trump Downplays Escalation After Tit-for-Tat Strikes on Iran",
+      "slug": "iran-strikes-escalation-trump-response",
+      "topic_keywords": [
+        "Iran",
+        "military strikes",
+        "escalation",
+        "national security",
+        "Larak Island"
+      ],
+      "conservative_headline": "Peace Through Strength: Trump Keeps Tehran Guessing While Refusing to Be Dragged Into Endless War",
+      "liberal_headline": "Tit-for-Tat Strikes Keep Coming and Trump Shrugs \u2014 Is There Any Strategy at All?",
+      "poll_question": "How should the U.S. respond to continued exchanges with Iran?",
+      "poll_option1_label": "Keep Pressure",
+      "poll_option1_desc": "Military and economic pressure is the only language Tehran understands.",
+      "poll_option2_label": "De-escalate Now",
+      "poll_option2_desc": "Open-ended strikes risk another forever war with no congressional authorization.",
+      "pexels_search_terms": "naval warship Persian Gulf military"
+    },
+    {
+      "title": "Data Integrity or Political Cover? Commerce Strips Anti-Interference Language From Science Policy",
+      "slug": "census-commerce-scientific-integrity-language",
+      "topic_keywords": [
+        "Census Bureau",
+        "Commerce Department",
+        "scientific integrity",
+        "statistics",
+        "political interference"
+      ],
+      "conservative_headline": "Bureaucratic Boilerplate Cleanup: Commerce Streamlines Policy as Left Cries Wolf Over Census Report",
+      "liberal_headline": "After a Think-Tank-Tied Census Report, Commerce Quietly Deletes Its Ban on Political Interference",
+      "poll_question": "Can Americans still trust federal economic and census statistics?",
+      "poll_option1_label": "Overblown Panic",
+      "poll_option1_desc": "Agencies update internal policies constantly; the data itself is unchanged.",
+      "poll_option2_label": "Alarming Erosion",
+      "poll_option2_desc": "Removing interference safeguards invites manipulation of the nation's official numbers.",
+      "pexels_search_terms": "government statistics charts data office"
+    },
+    {
+      "title": "Ballot Security or Voter Suppression? SCOTUS Lets Trump's Mail Voting Order Take Effect",
+      "slug": "supreme-court-mail-voting-executive-order",
+      "topic_keywords": [
+        "mail ballots",
+        "elections executive order",
+        "Supreme Court",
+        "voting rights",
+        "state attorneys general"
+      ],
+      "conservative_headline": "Court Clears the Way: Trump's Election Integrity Order Can Finally Be Enforced Before November",
+      "liberal_headline": "Weeks Before the Midterms, SCOTUS Hands Trump Power Over How States Count Mail Ballots",
+      "poll_question": "Should the president set national rules for mail-in voting?",
+      "poll_option1_label": "Secure Elections",
+      "poll_option1_desc": "Uniform standards stop late and unverified ballots from tainting results.",
+      "poll_option2_label": "States Run Elections",
+      "poll_option2_desc": "The Constitution gives states election authority; this is federal power grab.",
+      "pexels_search_terms": "mail ballot envelope voting drop box"
+    },
+    {
+      "title": "Loyalty or Cronyism? Trump's Donor-Heavy Ambassador Corps Sidelines Career Diplomats",
+      "slug": "trump-donor-ambassadors-state-department",
+      "topic_keywords": [
+        "ambassadors",
+        "State Department",
+        "political donors",
+        "foreign service",
+        "Brazil"
+      ],
+      "conservative_headline": "Trump Sends Loyal Envoys Who Actually Represent America \u2014 Not the Striped-Pants Blob",
+      "liberal_headline": "Analysis: Trump Is Handing Embassies to Donors at a Record Pace While Diplomats Head for the Exits",
+      "poll_question": "Should ambassadorships go to donors or career diplomats?",
+      "poll_option1_label": "President's Team",
+      "poll_option1_desc": "Envoys should share the president's agenda, not the bureaucracy's preferences.",
+      "poll_option2_label": "Career Experts",
+      "poll_option2_desc": "Selling embassies to donors weakens American credibility and endangers diplomacy.",
+      "pexels_search_terms": "embassy flag diplomatic building ceremony"
+    },
+    {
+      "title": "Patriotic Priority or Militarizing Youth? Trump's New 'Space Academy' Plan Divides Washington",
+      "slug": "trump-space-academy-military-plan",
+      "topic_keywords": [
+        "Space Force",
+        "Space Academy",
+        "defense budget",
+        "military education",
+        "Pentagon"
+      ],
+      "conservative_headline": "America Builds the Next West Point for Space as China Races to Militarize Orbit",
+      "liberal_headline": "A Brand-New Service Academy? Critics Ask Why Pentagon Vanity Projects Beat Basic Readiness",
+      "poll_question": "Is a dedicated Space Force academy worth the money?",
+      "poll_option1_label": "Space Is Next",
+      "poll_option1_desc": "Dedicated training keeps America ahead in the decisive military domain.",
+      "poll_option2_label": "Costly Vanity",
+      "poll_option2_desc": "Existing academies suffice; this is spectacle while troops face shortfalls.",
+      "pexels_search_terms": "satellite space military rocket launch"
+    },
+    {
+      "title": "Free Market or Fixed Game? Student Loan Fight Becomes a $130B Campus Culture Battle",
+      "slug": "student-loan-higher-education-culture-war",
+      "topic_keywords": [
+        "student loans",
+        "higher education",
+        "college costs",
+        "federal aid",
+        "universities"
+      ],
+      "conservative_headline": "Taxpayers Shouldn't Bankroll Woke Universities Cashing In on $130 Billion in Federal Loans",
+      "liberal_headline": "Students Caught in the Crossfire as Washington Turns College Aid Into a Culture War Weapon",
+      "poll_question": "Should federal student aid be tied to university politics?",
+      "poll_option1_label": "Accountability First",
+      "poll_option1_desc": "Schools taking federal billions must answer for costs and ideological capture.",
+      "poll_option2_label": "Hands Off Students",
+      "poll_option2_desc": "Punishing colleges politically only raises costs and hurts working-class students.",
+      "pexels_search_terms": "college campus students graduation tuition"
+    }
+  ]
+}
