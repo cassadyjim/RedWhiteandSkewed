@@ -2,26 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-08-12",
-      "slug": "trump-supreme-court-mail-voting-order",
-      "topic": "mail-in voting Supreme Court executive order election law 2026 midterms"
-    },
-    {
-      "date": "2026-08-12",
-      "slug": "july-cpi-inflation-report-jobs-losses-fed",
-      "topic": "CPI report inflation 3.4 percent job losses July Federal Reserve rates tariff prices"
-    },
-    {
-      "date": "2026-08-13",
-      "slug": "education-department-medical-school-dei-investigations",
-      "topic": "DEI investigations medical school admissions Office for Civil Rights race conscious admissions higher education"
-    },
-    {
-      "date": "2026-08-17",
-      "slug": "trump-executive-order-vaccine-schedule-rollback",
-      "topic": "vaccine schedule executive order CDC recommendations public health childhood immunization"
-    },
-    {
       "date": "2026-08-20",
       "slug": "heidi-overton-fda-nomination",
       "topic": "Heidi Overton FDA nomination drug approvals agency layoffs Senate confirmation"
@@ -30,6 +10,11 @@
       "date": "2026-08-24",
       "slug": "trump-cnn-case-supreme-court-press-freedom",
       "topic": "Trump v CNN defamation law press freedom First Amendment media accountability"
+    },
+    {
+      "date": "2026-09-03",
+      "slug": "jobs-inflation-fed-warsh-midterm-economy",
+      "topic": "jobs report inflation Federal Reserve Kevin Warsh interest rates"
     }
   ]
 }
