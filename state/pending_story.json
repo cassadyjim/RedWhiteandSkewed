@@ -1,196 +1,196 @@
 {
-  "date": "2026-09-04",
-  "email_sent_at": "2026-09-04T07:07:21.687975",
+  "date": "2026-09-05",
+  "email_sent_at": "2026-09-05T06:50:40.499939",
   "stories": [
     {
-      "title": "Federal Enforcement or Funding Blackmail? DOJ Tells States to Report Undocumented Immigrants or Lose Money",
-      "slug": "doj-states-report-undocumented-immigrants-funding",
+      "title": "Colorblind Justice or Backdoor Ban? Trump Moves to Strip Tax-Exempt Status From Colleges With DEI Programs",
+      "slug": "dei-tax-exempt-status-colleges-rule",
+      "topic_keywords": [
+        "DEI",
+        "tax-exempt status",
+        "universities",
+        "IRS rule",
+        "race-conscious policies"
+      ],
+      "conservative_headline": "Trump Ends the Gravy Train: Taxpayers Won't Subsidize Racial Discrimination on Campus",
+      "liberal_headline": "Trump Weaponizes the IRS to Punish Universities That Won't Bend to His Ideology",
+      "poll_question": "Should colleges with DEI programs lose tax-exempt status?",
+      "poll_option1_label": "Strip It",
+      "poll_option1_desc": "Tax exemptions shouldn't subsidize race-based programs at private institutions.",
+      "poll_option2_label": "Hands Off",
+      "poll_option2_desc": "Using the IRS to punish disfavored schools is political retaliation.",
+      "pexels_search_terms": "university campus college students graduation"
+    },
+    {
+      "title": "Ballot Integrity or Voter Suppression? Supreme Court Lets Trump's Mail-Ballot Restrictions Move Forward",
+      "slug": "supreme-court-mail-ballot-order-midterms",
+      "topic_keywords": [
+        "mail-in voting",
+        "Supreme Court",
+        "emergency order",
+        "midterms",
+        "election rules"
+      ],
+      "conservative_headline": "SCOTUS Clears the Way: Trump's Mail Ballot Cleanup Survives Democrat Lawfare",
+      "liberal_headline": "Supreme Court Greenlights Chaos: Millions of Mail Voters Left in Limbo Weeks Before Election",
+      "poll_question": "Should the mail-ballot restrictions take effect before November?",
+      "poll_option1_label": "Secure Ballots",
+      "poll_option1_desc": "Uniform mail rules protect election integrity and public confidence.",
+      "poll_option2_label": "Block It",
+      "poll_option2_desc": "Late rule changes will disenfranchise voters and create election chaos.",
+      "pexels_search_terms": "mail ballot envelope voting drop box"
+    },
+    {
+      "title": "Rule of Law or Political Payback? DOJ Charges Federal Immigration Officer in First-Ever Prosecution",
+      "slug": "doj-charges-ice-agent-prosecution",
       "topic_keywords": [
         "DOJ",
-        "sanctuary states",
-        "federal funding",
-        "undocumented immigrants",
-        "DHS reporting"
+        "ICE agent",
+        "prosecution",
+        "immigration enforcement",
+        "accountability"
       ],
-      "conservative_headline": "DOJ Puts Sanctuary States on Notice: Report Illegal Aliens or Lose Federal Dollars",
-      "liberal_headline": "Trump DOJ Threatens to Starve States of Funding Unless They Become Deportation Agents",
-      "poll_question": "Should states lose federal funding if they don't report undocumented immigrants to DHS?",
-      "poll_option1_label": "Enforce the law",
-      "poll_option1_desc": "Federal money shouldn't subsidize states that shield illegal immigration.",
-      "poll_option2_label": "Unconstitutional coercion",
-      "poll_option2_desc": "Washington can't commandeer states or hold hostage funds Congress approved.",
-      "pexels_search_terms": "state capitol building government funding documents"
+      "conservative_headline": "Agent Thrown to the Wolves: Feds Prosecute Officer for Doing His Job",
+      "liberal_headline": "Finally: Justice Department Charges an Immigration Officer After Years of Impunity",
+      "poll_question": "Was charging the federal immigration officer justified?",
+      "poll_option1_label": "Overreach",
+      "poll_option1_desc": "Prosecuting agents for enforcement decisions chills law enforcement everywhere.",
+      "poll_option2_label": "Accountability",
+      "poll_option2_desc": "No badge puts anyone above the law, including federal agents.",
+      "pexels_search_terms": "courthouse justice gavel federal building"
     },
     {
-      "title": "Congressional Oversight or Political Witch Hunt? Billionaire Sues House Panel Over Epstein Subpoenas",
-      "slug": "leon-black-sues-house-oversight-epstein-subpoenas",
+      "title": "Fair Maps or Judicial Coup? Missouri Supreme Court Blocks GOP Redistricting Plan",
+      "slug": "missouri-supreme-court-redistricting-map-blocked",
       "topic_keywords": [
-        "Leon Black",
-        "House Oversight",
-        "Epstein",
-        "subpoena",
-        "congressional investigation"
+        "redistricting",
+        "Missouri",
+        "congressional map",
+        "gerrymandering",
+        "midterms"
       ],
-      "conservative_headline": "Billionaire Defies Congress, Runs to Court Rather Than Answer Epstein Questions",
-      "liberal_headline": "Epstein Money Man Sues to Block Oversight as Republicans Slow-Walk Full Disclosure",
-      "poll_question": "Can Congress compel private citizens to testify in the Epstein probe?",
-      "poll_option1_label": "Limit the subpoena",
-      "poll_option1_desc": "Congress is overreaching into private records with no legislative purpose.",
-      "poll_option2_label": "Full transparency",
-      "poll_option2_desc": "Epstein's financiers must answer to Congress and the public, no exceptions.",
-      "pexels_search_terms": "congressional hearing room subpoena gavel"
+      "conservative_headline": "Activist Judges Torch Missouri's Map to Save Democrat Seats",
+      "liberal_headline": "Court Halts Trump's Mid-Decade Gerrymander, Sends Map to the Voters",
+      "poll_question": "Should voters or the legislature decide Missouri's map?",
+      "poll_option1_label": "Legislature",
+      "poll_option1_desc": "Elected lawmakers, not judges, hold the constitutional power to draw maps.",
+      "poll_option2_label": "Let Voters Decide",
+      "poll_option2_desc": "A power grab this big belongs on the ballot, not backrooms.",
+      "pexels_search_terms": "state capitol building map voting district"
     },
     {
-      "title": "Restoring Order or Fortifying the People's House? Trump Moves to Permanently Fence Lafayette Square",
-      "slug": "trump-lafayette-square-permanent-fence",
+      "title": "Hunger Crisis or Bloated Program? SNAP Cuts Take Effect as School Meal Access Wobbles",
+      "slug": "snap-cuts-school-meals-fallout",
       "topic_keywords": [
-        "Lafayette Square",
-        "White House security",
-        "public access",
-        "Trump construction",
-        "protest"
+        "SNAP",
+        "food stamps",
+        "school meals",
+        "safety net",
+        "budget cuts"
       ],
-      "conservative_headline": "Trump Secures the White House Perimeter After Years of Mob Violence Downtown",
-      "liberal_headline": "Trump Walls Off the People's House, Sealing Off Historic Protest Grounds for Good",
-      "poll_question": "Should Lafayette Square be permanently fenced off?",
-      "poll_option1_label": "Security first",
-      "poll_option1_desc": "Presidential security outweighs symbolic access to one downtown park.",
-      "poll_option2_label": "Keep it open",
-      "poll_option2_desc": "Fencing off protest space walls the public out of its own democracy.",
-      "pexels_search_terms": "white house fence washington protest barrier"
+      "conservative_headline": "Common-Sense Reform: SNAP Rolls Shrink as Work Requirements Finally Bite",
+      "liberal_headline": "Kids Go Hungry: SNAP Cuts Hit Families and Threaten Free School Meals Nationwide",
+      "poll_question": "Are the SNAP benefit cuts the right call?",
+      "poll_option1_label": "Right-Size It",
+      "poll_option1_desc": "Trimming a bloated program restores work incentives and saves taxpayers billions.",
+      "poll_option2_label": "Restore Benefits",
+      "poll_option2_desc": "Cutting food aid punishes children and working families for nothing.",
+      "pexels_search_terms": "grocery store cart food shopping family"
     },
     {
-      "title": "Monument to Greatness or Vanity Project? Trump's 250-Foot Arch Clears Review Despite Historic Harm Findings",
-      "slug": "trump-250-foot-arch-arlington-approval",
-      "topic_keywords": [
-        "Trump arch",
-        "Arlington National Cemetery",
-        "historic preservation",
-        "federal construction",
-        "adverse effects"
-      ],
-      "conservative_headline": "Trump's Triumphal Arch Gets Green Light as Bureaucrats' Objections Are Overruled",
-      "liberal_headline": "Reviewers Warned of 'Adverse Effects' on Historic Sites. Trump's Arch Was Approved Anyway.",
-      "poll_question": "Should Trump's 250-foot arch near Arlington be built?",
-      "poll_option1_label": "Build it",
-      "poll_option1_desc": "America deserves grand monuments instead of endless preservation red tape.",
-      "poll_option2_label": "Stop the arch",
-      "poll_option2_desc": "A self-glorifying monument shouldn't desecrate sacred and historic ground.",
-      "pexels_search_terms": "monumental arch construction memorial architecture"
-    },
-    {
-      "title": "Peace Through Strength or Endless Escalation? Trump Vows to 'Hit Them Hard' After Iran Targets US Forces in Jordan",
-      "slug": "trump-iran-strikes-us-forces-jordan",
+      "title": "War or Not a War? Vance Refuses to Call the Escalating Iran Conflict a War",
+      "slug": "vance-iran-conflict-not-a-war",
       "topic_keywords": [
         "Iran",
-        "US forces Jordan",
-        "military strikes",
+        "JD Vance",
         "war powers",
-        "escalation"
+        "military escalation",
+        "Congress"
       ],
-      "conservative_headline": "Trump Warns Iran: Attack Our Troops and We Hit Back Harder Than You Can Imagine",
-      "liberal_headline": "Troops Under Fire in Jordan as Trump's Unauthorized Iran War Spirals With No Exit Plan",
-      "poll_question": "How should the US respond to Iranian attacks on forces in Jordan?",
-      "poll_option1_label": "Hit back hard",
-      "poll_option1_desc": "Overwhelming retaliation is the only language Tehran understands.",
-      "poll_option2_label": "Congress must vote",
-      "poll_option2_desc": "No wider war without a war powers vote and an exit strategy.",
-      "pexels_search_terms": "military base desert soldiers airfield"
+      "conservative_headline": "Vance Sets the Record Straight: Targeted Strikes Aren't a War, They're Deterrence",
+      "liberal_headline": "Semantics While Bombs Fall: Vance Dodges the War Label as Iran Vows New Strategy",
+      "poll_question": "Is the U.S. conflict with Iran a war requiring Congress?",
+      "poll_option1_label": "Not a War",
+      "poll_option1_desc": "Limited strikes fall within the president's authority to defend Americans.",
+      "poll_option2_label": "It's a War",
+      "poll_option2_desc": "Sustained strikes demand a congressional authorization, not White House word games.",
+      "pexels_search_terms": "military aircraft carrier navy warship"
     },
     {
-      "title": "Election Integrity or Voter Suppression? Officials Say They Can't Comply With Trump's Mail Ballot Rules",
-      "slug": "election-officials-trump-mail-ballot-rules",
-      "topic_keywords": [
-        "mail ballots",
-        "election officials",
-        "Supreme Court",
-        "voting rules",
-        "midterms 2026"
-      ],
-      "conservative_headline": "Supreme Court Backs Trump on Mail Ballots as Bureaucrats Whine About Deadlines",
-      "liberal_headline": "Election Officials Sound Alarm: Trump's Mail Ballot Order Is Impossible Before November",
-      "poll_question": "Are Trump's new mail ballot rules workable for the midterms?",
-      "poll_option1_label": "Secure the vote",
-      "poll_option1_desc": "Tighter mail ballot standards restore confidence in election results.",
-      "poll_option2_label": "Chaos by design",
-      "poll_option2_desc": "Impossible rules mid-cycle will throw out legitimate votes nationwide.",
-      "pexels_search_terms": "mail ballot envelope election drop box"
-    },
-    {
-      "title": "Reining In Redistricting or Rigging the Map? Maryland Court Clears Vote to Erase a GOP Seat",
-      "slug": "maryland-court-redistricting-gop-seat-ballot",
-      "topic_keywords": [
-        "Maryland redistricting",
-        "gerrymandering",
-        "ballot measure",
-        "congressional map",
-        "state court"
-      ],
-      "conservative_headline": "Maryland Democrats Get Court Blessing to Wipe Out the State's Last Republican Seat",
-      "liberal_headline": "Maryland Voters Will Decide on New Map After GOP States Gerrymandered First",
-      "poll_question": "Should Maryland voters be able to eliminate a Republican-held district?",
-      "poll_option1_label": "Stop the rig",
-      "poll_option1_desc": "Erasing an opposition seat by referendum disenfranchises millions of voters.",
-      "poll_option2_label": "Fight fire with fire",
-      "poll_option2_desc": "Democrats can't unilaterally disarm while red states redraw maps aggressively.",
-      "pexels_search_terms": "maryland map redistricting voting district"
-    },
-    {
-      "title": "Powering America or Corporate Handout? Judge Refuses to Block Reporting on Google Data Center's Energy Deal",
-      "slug": "arkansas-google-data-center-energy-documents",
+      "title": "Energy Dominance or Grid Gouging? Texas Forces Audits of AI Data Centers Straining the Power Grid",
+      "slug": "texas-data-center-grid-audit-energy",
       "topic_keywords": [
         "data centers",
-        "Google",
-        "Arkansas",
-        "energy costs",
-        "press freedom"
+        "ERCOT",
+        "electricity prices",
+        "AI energy",
+        "grid reliability"
       ],
-      "conservative_headline": "Court Sides With Openness as AI Boom Brings Jobs and Power Investment to Arkansas",
-      "liberal_headline": "Judge Won't Gag Reporters Exposing How Much Ratepayers Subsidize Big Tech's Data Centers",
-      "poll_question": "Are AI data centers worth their energy costs to local ratepayers?",
-      "poll_option1_label": "Build the grid",
-      "poll_option1_desc": "Data centers bring investment and justify new American energy generation.",
-      "poll_option2_label": "Ratepayers pay",
-      "poll_option2_desc": "Families face higher bills so tech giants can run AI server farms.",
+      "conservative_headline": "Texas Builds the AI Future While Blue States Beg for Power",
+      "liberal_headline": "Your Power Bill Pays for Big Tech: Data Centers Swallow the Grid as Regulators Scramble",
+      "poll_question": "Who should pay for the grid strain from AI data centers?",
+      "poll_option1_label": "Build Baby Build",
+      "poll_option1_desc": "Data centers bring jobs and investment; expand generation instead of blocking them.",
+      "poll_option2_label": "Make Tech Pay",
+      "poll_option2_desc": "Big Tech should cover grid costs, not ordinary ratepayers.",
       "pexels_search_terms": "data center servers power lines electricity"
     },
     {
-      "title": "Restraint or Retreat? Trump Scales Back Korea Military Drills 'In Deference' to Kim Jong Un",
-      "slug": "trump-scales-back-south-korea-military-exercises",
+      "title": "AGI Breakthrough or Unregulated Gamble? GPT-6 Launch Collides With a Congressional Crackdown",
+      "slug": "gpt6-agi-launch-congress-ai-limits",
       "topic_keywords": [
-        "South Korea",
-        "military exercises",
-        "Kim Jong Un",
-        "North Korea",
-        "alliance"
+        "OpenAI",
+        "GPT-6",
+        "AGI",
+        "AI regulation",
+        "Congress"
       ],
-      "conservative_headline": "Trump's Diplomacy Pays Off Again: Pausing Drills to Bring Kim Back to the Table",
-      "liberal_headline": "Trump Cancels Drills to Please Kim Jong Un, Leaving Seoul Blindsided and Exposed",
-      "poll_question": "Was scaling back joint exercises with South Korea the right call?",
-      "poll_option1_label": "Smart diplomacy",
-      "poll_option1_desc": "Goodwill gestures open talks and save money on provocative war games.",
-      "poll_option2_label": "Ally betrayal",
-      "poll_option2_desc": "Trading readiness for a dictator's approval weakens deterrence in Asia.",
-      "pexels_search_terms": "military exercise korea soldiers training"
+      "conservative_headline": "America Wins the AI Race \u2014 Now Washington Wants to Slow It Down",
+      "liberal_headline": "Silicon Valley Declares AGI While Congress Struggles to Track Rogue AI Agents",
+      "poll_question": "Should Congress impose hard limits on advanced AI now?",
+      "poll_option1_label": "Let It Rip",
+      "poll_option1_desc": "Regulation now hands the AI race to China and kills innovation.",
+      "poll_option2_label": "Rein It In",
+      "poll_option2_desc": "Unchecked AGI deployment risks jobs, safety, and democracy itself.",
+      "pexels_search_terms": "artificial intelligence robot technology computer"
     },
     {
-      "title": "Compassion or Cruelty? Army Sergeant's Wife Deported Over Hearing She Says She Never Knew About",
-      "slug": "army-sergeant-wife-deported-missed-hearing",
+      "title": "Historic Restoration or Vanity Demolition? Roberts Lets Trump's Ballroom and Arch Construction Continue",
+      "slug": "white-house-ballroom-arch-roberts-stay",
       "topic_keywords": [
-        "deportation",
-        "military family",
-        "immigration court",
-        "due process",
-        "ICE"
+        "White House ballroom",
+        "triumphal arch",
+        "John Roberts",
+        "historic preservation",
+        "construction"
       ],
-      "conservative_headline": "Missed Immigration Hearing Means Removal \u2014 No Exceptions, No Special Treatment",
-      "liberal_headline": "A Soldier's Wife Deported Over a Notice She Never Received as Due Process Collapses",
-      "poll_question": "Should military families get relief from deportation over missed hearings?",
-      "poll_option1_label": "Rules are rules",
-      "poll_option1_desc": "Skipping immigration court carries consequences regardless of a spouse's job.",
-      "poll_option2_label": "Due process",
-      "poll_option2_desc": "Deporting a soldier's wife without real notice is government cruelty.",
-      "pexels_search_terms": "soldier family reunion airport goodbye"
+      "conservative_headline": "Roberts Stops the Preservationist Mob From Halting Trump's Historic Build",
+      "liberal_headline": "Bulldozers Win: Chief Justice Lets Trump's $400 Million Vanity Project Race Ahead",
+      "poll_question": "Should construction proceed while lawsuits are pending?",
+      "poll_option1_label": "Keep Building",
+      "poll_option1_desc": "A privately funded upgrade shouldn't be hostage to endless activist litigation.",
+      "poll_option2_label": "Stop the Work",
+      "poll_option2_desc": "Irreversible demolition of national landmarks demands review before, not after.",
+      "pexels_search_terms": "white house construction crane monument"
+    },
+    {
+      "title": "Grounded by Politics or Held Hostage? Senators Accuse FAA Chief of Blocking Controller Pay Raises",
+      "slug": "faa-chief-air-traffic-controller-pay-fight",
+      "topic_keywords": [
+        "FAA",
+        "air traffic controllers",
+        "pay raises",
+        "aviation safety",
+        "Senate oversight"
+      ],
+      "conservative_headline": "Democrats Side With the Union as FAA Chief Demands Accountability First",
+      "liberal_headline": "Safety on the Line: FAA Boss Holds Exhausted Controllers' Raises Hostage, Senators Say",
+      "poll_question": "Should controller pay raises be tied to workforce reforms?",
+      "poll_option1_label": "Reform First",
+      "poll_option1_desc": "Raises should follow staffing and performance reforms taxpayers can verify.",
+      "poll_option2_label": "Pay Them Now",
+      "poll_option2_desc": "Withholding earned raises from overworked controllers endangers every passenger.",
+      "pexels_search_terms": "air traffic control tower airport airplane"
     }
   ]
 }
