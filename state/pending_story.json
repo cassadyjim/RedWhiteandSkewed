@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-06",
+  "email_sent_at": "2026-09-06T07:01:04.110783",
+  "stories": [
+    {
+      "title": "Ballot Integrity or Federal Voter Registry? Trump's Unprecedented National Citizen List Sparks Firestorm",
+      "slug": "federal-citizen-voter-list-2026",
+      "topic_keywords": [
+        "voter rolls",
+        "citizenship list",
+        "election integrity",
+        "federal database",
+        "midterms"
+      ],
+      "conservative_headline": "Finally: Trump Administration Moves to Verify Only Citizens Are Voting in November",
+      "liberal_headline": "Trump Builds First-Ever Federal List of Americans as States Lose Control of Elections",
+      "poll_question": "Should the federal government build a national list of eligible voters?",
+      "poll_option1_label": "Verify Citizenship",
+      "poll_option1_desc": "Only citizens should vote; federal verification protects election integrity",
+      "poll_option2_label": "States Decide",
+      "poll_option2_desc": "Constitution gives states election authority; federal registry invites abuse",
+      "pexels_search_terms": "voting booth polling place ballot"
+    },
+    {
+      "title": "Election Security or Voter Suppression? SCOTUS Green-Lights Trump's Mail-Ballot Crackdown Weeks Before Midterms",
+      "slug": "supreme-court-mail-voting-order",
+      "topic_keywords": [
+        "Supreme Court",
+        "mail-in voting",
+        "emergency docket",
+        "USPS",
+        "midterm elections"
+      ],
+      "conservative_headline": "Supreme Court Backs Trump Order to Clean Up Chaotic Mail-In Voting System",
+      "liberal_headline": "Supreme Court's Shadow Docket Lets Trump Rewrite Voting Rules Weeks Before Election",
+      "poll_question": "Was the Supreme Court right to let mail-ballot restrictions proceed?",
+      "poll_option1_label": "Restore Confidence",
+      "poll_option1_desc": "Tightening mail rules reduces fraud risk and speeds accurate counts",
+      "poll_option2_label": "Rigging The Rules",
+      "poll_option2_desc": "Changing voting rules mid-election disenfranchises millions of legitimate voters",
+      "pexels_search_terms": "supreme court building mail ballot envelope"
+    },
+    {
+      "title": "Worst of the Worst or Record Dragnet? ICE Hits 51,000 Arrests in a Single Month",
+      "slug": "ice-record-arrests-august-2026",
+      "topic_keywords": [
+        "ICE arrests",
+        "deportation",
+        "Markwayne Mullin",
+        "immigration enforcement",
+        "detention"
+      ],
+      "conservative_headline": "RECORD: ICE Arrests Nearly 51,000 Illegal Aliens in August as Crime Rates Plummet",
+      "liberal_headline": "ICE Detention Hits All-Time High as Arrest Quotas Sweep Up Non-Criminals",
+      "poll_question": "Is ICE's record-breaking enforcement pace the right approach?",
+      "poll_option1_label": "Enforce The Law",
+      "poll_option1_desc": "Removing criminal aliens makes American communities measurably safer",
+      "poll_option2_label": "Reckless Quotas",
+      "poll_option2_desc": "Arrest targets sweep up families and workers with no criminal record",
+      "pexels_search_terms": "immigration enforcement agents detention facility"
+    },
+    {
+      "title": "Rogue Agent or Political Prosecution? DOJ Charges an ICE Officer for the First Time",
+      "slug": "doj-prosecutes-ice-officer",
+      "topic_keywords": [
+        "Justice Department",
+        "ICE officer",
+        "prosecution",
+        "accountability",
+        "federal charges"
+      ],
+      "conservative_headline": "DOJ Turns on Its Own: Frontline ICE Officer Charged for Doing His Job",
+      "liberal_headline": "First-Ever Federal Prosecution of an ICE Agent Signals Cracks in Enforcement Impunity",
+      "poll_question": "Should federal immigration officers face criminal charges for on-duty conduct?",
+      "poll_option1_label": "Back The Badge",
+      "poll_option1_desc": "Second-guessing officers in split-second situations destroys enforcement morale",
+      "poll_option2_label": "No One Above Law",
+      "poll_option2_desc": "Agents who break the law must be prosecuted like anyone else",
+      "pexels_search_terms": "courthouse justice gavel law enforcement"
+    },
+    {
+      "title": "Endless Boat War or Necessary Force? Southern Spear Strikes Face New Congressional Reckoning",
+      "slug": "southern-spear-boat-strikes-war-powers",
+      "topic_keywords": [
+        "Operation Southern Spear",
+        "boat strikes",
+        "war powers",
+        "Venezuela",
+        "cartels"
+      ],
+      "conservative_headline": "Trump's Cartel Crackdown Works: Narco-Terror Pipelines Shattered at Sea",
+      "liberal_headline": "Hundreds Killed in Strikes Congress Never Authorized \u2014 And Still No Legal Justification",
+      "poll_question": "Are the military strikes on suspected drug boats justified?",
+      "poll_option1_label": "War On Cartels",
+      "poll_option1_desc": "Cartels are terrorists; lethal force saves American lives from fentanyl",
+      "poll_option2_label": "Illegal Killings",
+      "poll_option2_desc": "Extrajudicial strikes without congressional authorization violate US and international law",
+      "pexels_search_terms": "navy warship caribbean sea military"
+    },
+    {
+      "title": "Ending Discrimination or Gutting Scholarships? Trump Rule Would Strip Tax-Exempt Status Over Race-Based Aid",
+      "slug": "tax-exempt-status-race-based-aid",
+      "topic_keywords": [
+        "tax-exempt status",
+        "DEI",
+        "colleges",
+        "scholarships",
+        "civil rights"
+      ],
+      "conservative_headline": "Trump Moves to End Race-Based Handouts at Taxpayer-Subsidized Schools",
+      "liberal_headline": "White House Threatens Schools' Tax Status to Kill Minority Scholarships Nationwide",
+      "poll_question": "Should schools lose tax-exempt status for race-targeted student programs?",
+      "poll_option1_label": "Colorblind Law",
+      "poll_option1_desc": "Taxpayer-subsidized institutions must not sort students by race",
+      "poll_option2_label": "Punishing Access",
+      "poll_option2_desc": "Rule destroys scholarships that open doors for underrepresented students",
+      "pexels_search_terms": "college campus graduation students classroom"
+    },
+    {
+      "title": "Ranchers First or Wolves Wiped Out? Trump Orders End to Gray Wolf Protections",
+      "slug": "gray-wolf-endangered-species-delisting",
+      "topic_keywords": [
+        "gray wolves",
+        "Endangered Species Act",
+        "ranchers",
+        "conservation",
+        "Interior Department"
+      ],
+      "conservative_headline": "Trump Sides With Ranchers, Ends Federal Overreach on Gray Wolf Protections",
+      "liberal_headline": "Trump Strips Wolf Protections, Reversing Decades of Hard-Won Species Recovery",
+      "poll_question": "Should gray wolves keep federal Endangered Species Act protection?",
+      "poll_option1_label": "Protect Livestock",
+      "poll_option1_desc": "Wolves have recovered; ranchers deserve relief from federal restrictions",
+      "poll_option2_label": "Save The Wolves",
+      "poll_option2_desc": "Delisting invites slaughter and undoes a landmark conservation success",
+      "pexels_search_terms": "gray wolf wilderness ranch landscape"
+    },
+    {
+      "title": "Surveillance State or Safer Streets? DeSantis Blocks License Plate Readers as Both Parties Revolt on Flock Cameras",
+      "slug": "flock-license-plate-reader-backlash",
+      "topic_keywords": [
+        "Flock cameras",
+        "license plate readers",
+        "surveillance",
+        "DeSantis",
+        "privacy"
+      ],
+      "conservative_headline": "DeSantis Kicks Big Brother Off Florida Roads, Banning Mass Plate-Reader Surveillance",
+      "liberal_headline": "Flock's Camera Network Feeds ICE and Police Dragnets With No Warrant Required",
+      "poll_question": "Should police use automated license plate reader networks?",
+      "poll_option1_label": "Ban The Cameras",
+      "poll_option1_desc": "Warrantless mass tracking of drivers violates basic constitutional privacy",
+      "poll_option2_label": "Solve Crimes",
+      "poll_option2_desc": "Plate readers help police find suspects, missing children, and stolen cars",
+      "pexels_search_terms": "traffic camera surveillance highway city"
+    },
+    {
+      "title": "Rigged Map or Judicial Overreach? Missouri Supreme Court Kills GOP Redistricting Before Midterms",
+      "slug": "missouri-supreme-court-congressional-map",
+      "topic_keywords": [
+        "Missouri",
+        "redistricting",
+        "congressional map",
+        "state supreme court",
+        "midterms"
+      ],
+      "conservative_headline": "Activist Missouri Judges Toss Legally Passed Map, Hand Democrats a Seat",
+      "liberal_headline": "Court Blocks Missouri GOP's Mid-Decade Gerrymander Designed to Erase a Democratic District",
+      "poll_question": "Was the court right to block Missouri's new congressional map?",
+      "poll_option1_label": "Legislature Decides",
+      "poll_option1_desc": "Elected lawmakers, not judges, should draw congressional district lines",
+      "poll_option2_label": "Stop Gerrymanders",
+      "poll_option2_desc": "Mid-decade partisan map rigging deserved to be struck down",
+      "pexels_search_terms": "state capitol building map redistricting"
+    },
+    {
+      "title": "Oversight or Obstruction? Epstein Financier Sues House Committee to Block Its Subpoena",
+      "slug": "leon-black-epstein-oversight-lawsuit",
+      "topic_keywords": [
+        "Leon Black",
+        "Epstein files",
+        "House Oversight",
+        "subpoena",
+        "congressional investigation"
+      ],
+      "conservative_headline": "Billionaire Fights Back Against Democrats' Fishing Expedition Disguised as Epstein Probe",
+      "liberal_headline": "Epstein's Billionaire Client Sues Congress to Keep His Records Hidden From the Public",
+      "poll_question": "Should Congress be able to force Epstein-linked financiers to turn over records?",
+      "poll_option1_label": "Limit Congress",
+      "poll_option1_desc": "Committees can't use subpoenas to smear private citizens without limits",
+      "poll_option2_label": "Full Disclosure",
+      "poll_option2_desc": "Epstein's enablers must answer to Congress and the public",
+      "pexels_search_terms": "capitol hearing room documents subpoena"
+    }
+  ]
+}
