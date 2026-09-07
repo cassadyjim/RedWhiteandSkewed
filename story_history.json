@@ -2,11 +2,6 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-08-20",
-      "slug": "heidi-overton-fda-nomination",
-      "topic": "Heidi Overton FDA nomination drug approvals agency layoffs Senate confirmation"
-    },
-    {
       "date": "2026-08-24",
       "slug": "trump-cnn-case-supreme-court-press-freedom",
       "topic": "Trump v CNN defamation law press freedom First Amendment media accountability"
@@ -15,6 +10,11 @@
       "date": "2026-09-03",
       "slug": "jobs-inflation-fed-warsh-midterm-economy",
       "topic": "jobs report inflation Federal Reserve Kevin Warsh interest rates"
+    },
+    {
+      "date": "2026-09-07",
+      "slug": "democrats-probe-trump-net-worth-business",
+      "topic": "Trump finances congressional oversight conflicts of interest crypto subpoenas"
     }
   ]
 }
