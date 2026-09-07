@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-07",
+  "email_sent_at": "2026-09-07T07:11:58.409629",
+  "stories": [
+    {
+      "title": "Election Integrity or Voter Suppression? Supreme Court Lets Trump's Mail-Ballot Order Move Forward",
+      "slug": "supreme-court-mail-ballot-order-midterms",
+      "topic_keywords": [
+        "mail-in voting",
+        "Supreme Court",
+        "midterms",
+        "USPS",
+        "election rules"
+      ],
+      "conservative_headline": "SCOTUS Hands Trump a Win: Court Clears Path to Secure Mail Ballots Before Midterms",
+      "liberal_headline": "Supreme Court Greenlights Trump's Mail Ballot Power Grab Weeks Before Voters Get Ballots",
+      "poll_question": "Should Trump's administration be able to impose new federal mail-ballot rules?",
+      "poll_option1_label": "Secure The Vote",
+      "poll_option1_desc": "Uniform federal standards stop fraud and restore confidence in mail ballots.",
+      "poll_option2_label": "States Decide",
+      "poll_option2_desc": "Constitution gives states election authority; this invites chaos and disenfranchisement.",
+      "pexels_search_terms": "mail ballot envelope voting postal"
+    },
+    {
+      "title": "Redistricting Justice or Judicial Sabotage? Missouri's GOP Map Blocked, Then Rushed to SCOTUS",
+      "slug": "missouri-congressional-map-supreme-court-fight",
+      "topic_keywords": [
+        "Missouri redistricting",
+        "congressional map",
+        "gerrymandering",
+        "state supreme court",
+        "midterms"
+      ],
+      "conservative_headline": "Activist Judges Steal a Seat: Missouri Asks SCOTUS to Restore Legislature's Lawful Map",
+      "liberal_headline": "Missouri Court Blocks Mid-Decade Gerrymander \u2014 Now Republicans Want SCOTUS to Override It",
+      "poll_question": "Should Missouri's new GOP-drawn map be used in November?",
+      "poll_option1_label": "Legislature Rules",
+      "poll_option1_desc": "Elected lawmakers draw maps; courts shouldn't rewrite them before an election.",
+      "poll_option2_label": "Map Is Rigged",
+      "poll_option2_desc": "A mid-decade partisan redraw violates state law and voters' rights.",
+      "pexels_search_terms": "state capitol map district statehouse"
+    },
+    {
+      "title": "Deterrence or Escalation? US Strikes Iranian Oil Carriers After Attacks on Navy Warships",
+      "slug": "us-strikes-iranian-oil-carriers-retaliation",
+      "topic_keywords": [
+        "Iran",
+        "retaliatory strikes",
+        "Navy warships",
+        "Strait of Hormuz",
+        "war powers"
+      ],
+      "conservative_headline": "Peace Through Strength: Trump Hits Back Hard After Iran Attacks American Warships",
+      "liberal_headline": "Trump Escalates Iran Conflict With New Strikes \u2014 Where Is Congress on War Powers?",
+      "poll_question": "Were the retaliatory strikes on Iranian oil carriers the right call?",
+      "poll_option1_label": "Hit Back Hard",
+      "poll_option1_desc": "Attacks on US sailors demand swift retaliation to restore deterrence.",
+      "poll_option2_label": "Endless War",
+      "poll_option2_desc": "Unauthorized escalation risks a wider war Congress never voted for.",
+      "pexels_search_terms": "navy warship oil tanker sea"
+    },
+    {
+      "title": "Loyalty Screening or Purge by Polygraph? Pentagon Lie-Detector Tests on Senior Officials",
+      "slug": "pentagon-polygraph-tests-leak-hunt",
+      "topic_keywords": [
+        "Pentagon",
+        "polygraph",
+        "leak investigation",
+        "Hegseth",
+        "civil service"
+      ],
+      "conservative_headline": "Hegseth Cracks Down: Pentagon Uses Polygraphs to Root Out Damaging Leakers",
+      "liberal_headline": "Pentagon Straps Top Officials to Lie Detectors in Chilling Hunt for Leakers",
+      "poll_question": "Is polygraphing senior Pentagon officials to find leakers justified?",
+      "poll_option1_label": "Stop The Leaks",
+      "poll_option1_desc": "Leaks endanger troops and operations; aggressive vetting is common sense.",
+      "poll_option2_label": "Loyalty Test",
+      "poll_option2_desc": "Junk-science intimidation used to punish dissent and silence whistleblowers.",
+      "pexels_search_terms": "pentagon building interrogation office security"
+    },
+    {
+      "title": "Ranchers' Rights or Wildlife Rollback? Trump Order Lets Herd Owners Kill Wolves",
+      "slug": "trump-order-ranchers-kill-wolves",
+      "topic_keywords": [
+        "wolves",
+        "endangered species",
+        "executive order",
+        "ranchers",
+        "wildlife policy"
+      ],
+      "conservative_headline": "Trump Sides With Ranchers: New Order Lets Families Protect Livestock From Wolf Packs",
+      "liberal_headline": "Trump Signs Order Opening Season on Wolves, Gutting Decades of Species Protection",
+      "poll_question": "Should ranchers be allowed to kill wolves threatening their herds?",
+      "poll_option1_label": "Protect Herds",
+      "poll_option1_desc": "Ranchers deserve to defend livelihoods from predators without federal red tape.",
+      "poll_option2_label": "Save Wolves",
+      "poll_option2_desc": "Recovered wolf populations will collapse again under open-season killing.",
+      "pexels_search_terms": "gray wolf cattle ranch wilderness"
+    },
+    {
+      "title": "Energy Abundance or Arctic Giveaway? Interior Fast-Tracks Alaska Drilling as Diesel Hits Record",
+      "slug": "alaska-drilling-fast-track-diesel-prices",
+      "topic_keywords": [
+        "Alaska drilling",
+        "oil permits",
+        "diesel prices",
+        "offshore wind settlement",
+        "energy policy"
+      ],
+      "conservative_headline": "Drill Now: Trump Fast-Tracks Alaska Oil as Record Diesel Prices Punish Truckers",
+      "liberal_headline": "Trump Pays Off a Wind Developer to Kill Turbines While Rushing Arctic Drilling",
+      "poll_question": "Is fast-tracking Alaska oil drilling the right answer to high fuel prices?",
+      "poll_option1_label": "Drill Baby Drill",
+      "poll_option1_desc": "More domestic supply lowers fuel costs and boosts energy independence.",
+      "poll_option2_label": "Climate Betrayal",
+      "poll_option2_desc": "Arctic drilling won't cut prices but will lock in decades of emissions.",
+      "pexels_search_terms": "oil drilling arctic pipeline tundra"
+    },
+    {
+      "title": "Accountability or Vendetta? Democrats Vow to Probe Trump's $4 Billion Net Worth Surge",
+      "slug": "democrats-probe-trump-net-worth-business",
+      "topic_keywords": [
+        "Trump finances",
+        "congressional oversight",
+        "conflicts of interest",
+        "crypto",
+        "subpoenas"
+      ],
+      "conservative_headline": "Here We Go Again: Democrats Promise Endless Investigations Instead of Fixing Prices",
+      "liberal_headline": "Democrats Ready Subpoenas Over Trump's $4 Billion Windfall and His Sons' Deals",
+      "poll_question": "Should Congress investigate the growth of Trump's personal fortune in office?",
+      "poll_option1_label": "Political Circus",
+      "poll_option1_desc": "A partisan fishing expedition designed to smear ahead of the midterms.",
+      "poll_option2_label": "Follow The Money",
+      "poll_option2_desc": "Presidents profiting off the office demands full congressional scrutiny.",
+      "pexels_search_terms": "gold skyscraper money documents subpoena"
+    },
+    {
+      "title": "Law Enforcement or Voter Intimidation? DHS Says Agents May Enter Polling Places",
+      "slug": "dhs-federal-agents-polling-places",
+      "topic_keywords": [
+        "ICE",
+        "polling places",
+        "DHS",
+        "voter intimidation",
+        "election security"
+      ],
+      "conservative_headline": "DHS Chief: Federal Agents Will Respond to Threats and Warrants \u2014 Even at Polls",
+      "liberal_headline": "DHS Floats Sending Armed Agents Into Polling Places, Alarming Election Officials",
+      "poll_question": "Should federal immigration agents be allowed inside polling places?",
+      "poll_option1_label": "Enforce The Law",
+      "poll_option1_desc": "Agents must respond to threats and valid warrants anywhere, including polls.",
+      "poll_option2_label": "Hands Off Polls",
+      "poll_option2_desc": "Agents at polling sites scare eligible voters away and taint elections.",
+      "pexels_search_terms": "polling place voters line officers"
+    },
+    {
+      "title": "Ready to Serve or Readiness Risk? Trump Asks SCOTUS to Uphold Transgender Military Ban",
+      "slug": "supreme-court-transgender-military-ban",
+      "topic_keywords": [
+        "transgender troops",
+        "military ban",
+        "Supreme Court",
+        "Pentagon policy",
+        "LGBTQ rights"
+      ],
+      "conservative_headline": "Trump to SCOTUS: Restore Military Standards, Uphold the Transgender Service Ban",
+      "liberal_headline": "Trump Asks Supreme Court to Bless Purge of Transgender Americans From the Military",
+      "poll_question": "Should the military's transgender service ban be upheld?",
+      "poll_option1_label": "Readiness First",
+      "poll_option1_desc": "Deployability and medical standards, not identity politics, must govern service.",
+      "poll_option2_label": "Let Them Serve",
+      "poll_option2_desc": "Qualified volunteers are being fired for who they are, weakening the force.",
+      "pexels_search_terms": "military uniform soldier flag salute"
+    },
+    {
+      "title": "Innovation or Invasion? New Poll Shows Bipartisan Dread of AI as Washington Stalls",
+      "slug": "ai-anxiety-poll-regulation-fight",
+      "topic_keywords": [
+        "artificial intelligence",
+        "AI regulation",
+        "polling",
+        "jobs automation",
+        "big tech"
+      ],
+      "conservative_headline": "Voters Uneasy on AI \u2014 But Heavy-Handed Rules Would Hand the Future to China",
+      "liberal_headline": "Americans Across Party Lines Fear AI While Washington Lets Big Tech Write the Rules",
+      "poll_question": "How should Washington handle artificial intelligence?",
+      "poll_option1_label": "Let It Build",
+      "poll_option1_desc": "Light-touch rules keep America ahead of China and grow the economy.",
+      "poll_option2_label": "Rein It In",
+      "poll_option2_desc": "Strong federal guardrails needed now to protect jobs, privacy, and truth.",
+      "pexels_search_terms": "artificial intelligence server data center"
+    }
+  ]
+}
