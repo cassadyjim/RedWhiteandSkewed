@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-12",
+  "email_sent_at": "2026-09-12T07:02:28.414194",
+  "stories": [
+    {
+      "title": "Inflation Fighter or Trump Saboteur? Fed Poised for Rate Hike as Prices Climb",
+      "slug": "fed-rate-hike-warsh-trump-collision",
+      "topic_keywords": [
+        "Federal Reserve",
+        "rate hike",
+        "Kevin Warsh",
+        "core CPI",
+        "inflation"
+      ],
+      "conservative_headline": "Fed Set to Hike Rates and Choke Off Growth as Trump Warns Against Economic Self-Sabotage",
+      "liberal_headline": "Inflation Surges Under Trump \u2014 Even His Own Fed Pick May Be Forced to Raise Rates",
+      "poll_question": "Should the Fed raise interest rates this week?",
+      "poll_option1_label": "Cut Rates",
+      "poll_option1_desc": "Hikes strangle growth; Fed should cut and let the economy expand.",
+      "poll_option2_label": "Hike Rates",
+      "poll_option2_desc": "Inflation is accelerating; the Fed must act independently of politics.",
+      "pexels_search_terms": "federal reserve building money inflation"
+    },
+    {
+      "title": "Watchdogs or Wreckers? Lawsuit Says Feds Are Surveilling People Who Film ICE",
+      "slug": "ice-observers-surveillance-lawsuit",
+      "topic_keywords": [
+        "ICE observers",
+        "Common Cause lawsuit",
+        "immigration enforcement",
+        "surveillance",
+        "First Amendment"
+      ],
+      "conservative_headline": "Activist Group Sues to Shield Mobs That Harass and Doxx ICE Officers Doing Their Jobs",
+      "liberal_headline": "Lawsuit: Trump Administration Is Spying on Americans Who Dare to Watch ICE Raids",
+      "poll_question": "Is filming ICE operations protected speech or interference?",
+      "poll_option1_label": "Interference",
+      "poll_option1_desc": "Filming agents endangers officers and obstructs lawful enforcement operations.",
+      "poll_option2_label": "Protected Speech",
+      "poll_option2_desc": "Watching government agents is a core First Amendment right.",
+      "pexels_search_terms": "protest camera police street"
+    },
+    {
+      "title": "Small Potatoes or Endless War? Trump Says Iran Conflict Ends After the Midterms",
+      "slug": "trump-iran-war-ends-after-midterms",
+      "topic_keywords": [
+        "Iran war",
+        "Strait of Hormuz",
+        "oil tankers",
+        "war powers",
+        "gas prices"
+      ],
+      "conservative_headline": "Trump's Pressure Campaign Is Crushing Tehran's Economy \u2014 Victory Is Within Reach",
+      "liberal_headline": "Trump Ties an Unpopular, Unauthorized War to Election Day as Gas Prices Soar",
+      "poll_question": "Is the Iran campaign working?",
+      "poll_option1_label": "Peace Through Strength",
+      "poll_option1_desc": "Pressure on Tehran is working and will end the threat permanently.",
+      "poll_option2_label": "Endless War",
+      "poll_option2_desc": "An illegal, open-ended war costing lives and spiking gas prices.",
+      "pexels_search_terms": "navy warship ocean military"
+    },
+    {
+      "title": "Ballot Integrity or Voter Blockade? Judge Halts Trump's Mail-In Voting Rule",
+      "slug": "judge-blocks-usps-mail-ballot-rule",
+      "topic_keywords": [
+        "mail-in voting",
+        "Postal Service",
+        "election rules",
+        "federal judge",
+        "midterms"
+      ],
+      "conservative_headline": "Activist Judge Blocks Common-Sense Mail Ballot Safeguards Weeks Before Election Day",
+      "liberal_headline": "Court Halts Trump's Scheme to Seize Control of Mail Ballots Ahead of the Midterms",
+      "poll_question": "Should the president set national mail-ballot rules?",
+      "poll_option1_label": "Secure Ballots",
+      "poll_option1_desc": "Uniform federal standards are needed to stop mail ballot fraud.",
+      "poll_option2_label": "States Decide",
+      "poll_option2_desc": "The president has no power to rewrite election rules by decree.",
+      "pexels_search_terms": "mailbox ballot envelope voting"
+    },
+    {
+      "title": "Fair Maps or Stolen Seats? Missouri's Congressional Map Left in Legal Chaos",
+      "slug": "missouri-congressional-map-legal-chaos",
+      "topic_keywords": [
+        "Missouri redistricting",
+        "congressional map",
+        "gerrymandering",
+        "state supreme court",
+        "midterms"
+      ],
+      "conservative_headline": "Missouri Voters Left in Limbo as Courts Overrule the Legislature's Lawful Map",
+      "liberal_headline": "Courts Reject GOP Mid-Decade Gerrymander as Missouri Map Descends Into Chaos",
+      "poll_question": "Should Missouri's new GOP-drawn map be used in November?",
+      "poll_option1_label": "Legislature Rules",
+      "poll_option1_desc": "Elected lawmakers, not judges, have authority to draw district lines.",
+      "poll_option2_label": "Block the Map",
+      "poll_option2_desc": "A mid-decade power grab designed to rig House seats.",
+      "pexels_search_terms": "map state capitol building"
+    },
+    {
+      "title": "Polluters Pay or Lawfare on Energy? SCOTUS Takes Up Boulder's Climate Damages Suit",
+      "slug": "supreme-court-boulder-exxon-suncor-climate",
+      "topic_keywords": [
+        "Suncor",
+        "Exxon Mobil",
+        "climate lawsuit",
+        "Boulder County",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Supreme Court Weighs Whether Local Courts Can Hijack National Energy Policy",
+      "liberal_headline": "High Court Could Give Big Oil Immunity for Decades of Climate Deception",
+      "poll_question": "Can local governments sue oil companies over climate change?",
+      "poll_option1_label": "Toss the Suits",
+      "poll_option1_desc": "Climate policy belongs to Congress, not county courtrooms and trial lawyers.",
+      "poll_option2_label": "Let Them Sue",
+      "poll_option2_desc": "Companies that misled the public should pay for the damage.",
+      "pexels_search_terms": "oil refinery smokestack climate"
+    },
+    {
+      "title": "Campus Rescue or Federal Takeover? Trump Touts 300 Colleges Scrapping DEI",
+      "slug": "trump-dei-rollback-colleges-milestone",
+      "topic_keywords": [
+        "DEI rollback",
+        "higher education",
+        "Title IX",
+        "Department of Education",
+        "campus policy"
+      ],
+      "conservative_headline": "Merit Is Back: Hundreds of Universities Dismantle Divisive DEI Bureaucracies",
+      "liberal_headline": "Washington Strong-Arms Universities Into Erasing Diversity Programs Under Funding Threats",
+      "poll_question": "Are the DEI rollbacks on campus good for students?",
+      "poll_option1_label": "Restore Merit",
+      "poll_option1_desc": "Ending DEI returns colleges to fairness, standards, and academic excellence.",
+      "poll_option2_label": "Coerced Erasure",
+      "poll_option2_desc": "Federal funding threats are forcing schools to abandon vulnerable students.",
+      "pexels_search_terms": "college campus students university"
+    },
+    {
+      "title": "Defamation or Intimidation? Musk Lawyers Target Oscar-Winning Documentary Filmmaker",
+      "slug": "musk-legal-threat-alex-gibney-documentary",
+      "topic_keywords": [
+        "Elon Musk",
+        "Alex Gibney",
+        "defamation",
+        "press freedom",
+        "documentary"
+      ],
+      "conservative_headline": "Musk Fights Back Against Hit-Piece Documentary Built on Smears and Innuendo",
+      "liberal_headline": "World's Richest Man Deploys Lawyers to Silence a Filmmaker Before Release",
+      "poll_question": "Is Musk's legal threat justified?",
+      "poll_option1_label": "Fight Smears",
+      "poll_option1_desc": "Public figures deserve recourse when filmmakers spread false, damaging claims.",
+      "poll_option2_label": "Chilling Press",
+      "poll_option2_desc": "Billionaire lawsuits exist to intimidate journalists out of doing their jobs.",
+      "pexels_search_terms": "film camera documentary studio"
+    },
+    {
+      "title": "Vote-Buying or Tax Relief? Trump Pitches $5,000 Checks If GOP Holds Congress",
+      "slug": "trump-5000-dollar-payment-midterm-pitch",
+      "topic_keywords": [
+        "tariff dividend",
+        "5000 payment",
+        "midterms",
+        "Congress",
+        "fiscal policy"
+      ],
+      "conservative_headline": "Trump Promises to Return Tariff Windfall Directly to Hardworking American Families",
+      "liberal_headline": "Trump Dangles $5,000 Checks for Votes in Plan Even Republicans Call Fantasy",
+      "poll_question": "Should the government send $5,000 checks to citizens?",
+      "poll_option1_label": "Send the Checks",
+      "poll_option1_desc": "Americans deserve a share of tariff revenue they helped generate.",
+      "poll_option2_label": "Cheap Stunt",
+      "poll_option2_desc": "An unworkable election bribe that would blow up the deficit.",
+      "pexels_search_terms": "stimulus check cash dollars"
+    },
+    {
+      "title": "Probe Purge or Overdue Exit? Investigator of Trump's Opponents Breaks Silence",
+      "slug": "investigator-trump-opponents-abrupt-exit",
+      "topic_keywords": [
+        "Justice Department",
+        "prosecutor resignation",
+        "political investigations",
+        "DOJ independence",
+        "Trump critics"
+      ],
+      "conservative_headline": "Disgruntled Prosecutor Goes Public After Failing to Deliver on a Weak Case",
+      "liberal_headline": "Investigator Pushed Out of Probe Into Trump's Enemies Speaks Out on Political Pressure",
+      "poll_question": "Was the investigator's exit political interference?",
+      "poll_option1_label": "Routine Exit",
+      "poll_option1_desc": "Prosecutors come and go; this is sour grapes, not scandal.",
+      "poll_option2_label": "Clear Interference",
+      "poll_option2_desc": "DOJ is being weaponized to punish the president's political opponents.",
+      "pexels_search_terms": "justice department courthouse washington"
+    }
+  ]
+}
