@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-17",
+  "email_sent_at": "2026-09-17T07:26:50.717514",
+  "stories": [
+    {
+      "title": "Judicial Restraint or Rubber Stamp? Supreme Court blocks Trump's mail ballot rules for the midterms",
+      "slug": "supreme-court-mail-ballot-rules-midterms",
+      "topic_keywords": [
+        "Supreme Court",
+        "mail-in voting",
+        "USPS",
+        "midterms",
+        "election rules"
+      ],
+      "conservative_headline": "Court Sides With Bureaucracy: Justices Alito, Thomas Warn Ruling Leaves Mail Ballot Fraud Unchecked in November",
+      "liberal_headline": "Supreme Court Rebuffs Trump's Attempt to Rewrite Mail Voting Rules Weeks Before Ballots Go Out",
+      "poll_question": "Should the courts have blocked the new mail ballot restrictions before the midterms?",
+      "poll_option1_label": "Secure The Vote",
+      "poll_option1_desc": "Mail ballot rules were needed; courts overrode legitimate executive authority.",
+      "poll_option2_label": "Protect Access",
+      "poll_option2_desc": "Rushed rules would have caused chaos and disenfranchised millions of voters.",
+      "pexels_search_terms": "mail ballot envelope voting"
+    },
+    {
+      "title": "Inflation Fighter or Trump Saboteur? Fed hikes rates and defies the White House",
+      "slug": "fed-raises-rates-defies-trump",
+      "topic_keywords": [
+        "Federal Reserve",
+        "interest rates",
+        "inflation",
+        "rate hike",
+        "Trump economy"
+      ],
+      "conservative_headline": "Fed Pumps the Brakes on Trump's Boom: President Says Strong Job Growth Proves Rate Hike Was Unnecessary",
+      "liberal_headline": "Fed Defies Trump Pressure and Raises Rates as Inflation Refuses to Cool Under His Watch",
+      "poll_question": "Was the Fed right to raise interest rates?",
+      "poll_option1_label": "Cut Rates",
+      "poll_option1_desc": "Strong job growth means the Fed is needlessly choking off the economy.",
+      "poll_option2_label": "Fight Inflation",
+      "poll_option2_desc": "Independent Fed must curb prices, not bend to presidential pressure.",
+      "pexels_search_terms": "federal reserve building money"
+    },
+    {
+      "title": "Record Enforcement or Cages the Size of Phone Booths? Watchdog report on 'Alligator Alcatraz'",
+      "slug": "alligator-alcatraz-watchdog-report-detention",
+      "topic_keywords": [
+        "Alligator Alcatraz",
+        "ICE detention",
+        "DHS inspector general",
+        "deportation",
+        "immigration enforcement"
+      ],
+      "conservative_headline": "Detention Works: Record 50,925 ICE Arrests in August as Crossings Hit 55-Year Low, Left Cries Over Conditions",
+      "liberal_headline": "Watchdog Finds Immigrants Held in Cages the Size of Phone Booths at Florida Detention Camp",
+      "poll_question": "Is aggressive immigration detention justified by the results?",
+      "poll_option1_label": "It's Working",
+      "poll_option1_desc": "Record arrests and historic low crossings prove tough detention deters illegal entry.",
+      "poll_option2_label": "Human Rights",
+      "poll_option2_desc": "Caging people in inhumane conditions is indefensible regardless of enforcement statistics.",
+      "pexels_search_terms": "detention fence chain link"
+    },
+    {
+      "title": "Necessary War or $38 Billion Hole? CBO puts a price tag on the Iran conflict",
+      "slug": "cbo-iran-war-cost-38-billion",
+      "topic_keywords": [
+        "Iran war",
+        "CBO",
+        "military spending",
+        "munitions",
+        "national security"
+      ],
+      "conservative_headline": "Price of Peace Through Strength: Iran Neutralized and Hormuz Reopened, CBO Tally Ignores Strategic Payoff",
+      "liberal_headline": "Trump's Iran War Has Cost Americans Over $38 Billion So Far \u2014 And the Bill Doesn't Include the Casualties",
+      "poll_question": "Has the Iran war been worth the cost to America?",
+      "poll_option1_label": "Worth It",
+      "poll_option1_desc": "Neutralizing Iran's threat and reopening shipping lanes protected American security.",
+      "poll_option2_label": "Costly Blunder",
+      "poll_option2_desc": "Billions burned on an endless war with no clear strategy or exit.",
+      "pexels_search_terms": "fighter jet aircraft carrier"
+    },
+    {
+      "title": "Overdue Repairs or MAGA Takeover of the Arts? Fencing goes up around a shuttered Kennedy Center",
+      "slug": "kennedy-center-closure-fencing-board",
+      "topic_keywords": [
+        "Kennedy Center",
+        "arts funding",
+        "Trump board",
+        "culture war",
+        "performing arts"
+      ],
+      "conservative_headline": "Crumbling Monument to Elite Waste Finally Gets Fixed as Trump-Aligned Board Orders Long-Delayed Repairs",
+      "liberal_headline": "Fences Rise Around the Kennedy Center as Trump's Board Shutters America's Premier Arts Venue",
+      "poll_question": "Is the Kennedy Center closure about repairs or politics?",
+      "poll_option1_label": "Fix The Building",
+      "poll_option1_desc": "Deferred maintenance is real; critics are manufacturing outrage over basic upkeep.",
+      "poll_option2_label": "Political Purge",
+      "poll_option2_desc": "A loyalist board is dismantling a cultural institution it never liked.",
+      "pexels_search_terms": "concert hall theater construction"
+    },
+    {
+      "title": "Cutting Waste or Punishing Blue States? $177 billion in federal grants frozen nationwide",
+      "slug": "federal-grants-frozen-177-billion",
+      "topic_keywords": [
+        "federal grants",
+        "funding freeze",
+        "budget cuts",
+        "states",
+        "spending"
+      ],
+      "conservative_headline": "Taxpayers Win: Administration Halts $177 Billion in Grants Larded With Woke Pet Projects",
+      "liberal_headline": "Analysis Shows Trump Has Cut or Frozen $177 Billion in Grants Hitting Every Single State",
+      "poll_question": "Are the frozen federal grants waste or vital funding?",
+      "poll_option1_label": "Stop The Waste",
+      "poll_option1_desc": "Executive has every right to halt spending on ideological boondoggles.",
+      "poll_option2_label": "Illegal Freeze",
+      "poll_option2_desc": "Congress appropriated this money; withholding it guts services in every state.",
+      "pexels_search_terms": "government building budget documents"
+    },
+    {
+      "title": "Hoax or Existential Risk? Trump dismisses AI safety warnings as fearmongering",
+      "slug": "trump-ai-safety-hoax-regulation",
+      "topic_keywords": [
+        "artificial intelligence",
+        "AI regulation",
+        "tech policy",
+        "AI safety",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Refuses to Let Doomsday Bureaucrats Strangle American AI in the Race Against China",
+      "liberal_headline": "Trump Calls AI Risk a 'Hoax' as Experts Warn Deregulation Leaves Americans Unprotected",
+      "poll_question": "Does AI need federal safety regulation now?",
+      "poll_option1_label": "Innovate Freely",
+      "poll_option1_desc": "Regulation would hand the AI race to China and kill American jobs.",
+      "poll_option2_label": "Guardrails Now",
+      "poll_option2_desc": "Unchecked AI threatens jobs, privacy and safety without binding federal rules.",
+      "pexels_search_terms": "artificial intelligence server technology"
+    },
+    {
+      "title": "Accountability or Partisan Theater? House holds billionaire Leon Black in contempt over Epstein subpoenas",
+      "slug": "leon-black-contempt-epstein-subpoenas",
+      "topic_keywords": [
+        "Leon Black",
+        "contempt of Congress",
+        "Epstein",
+        "House Oversight",
+        "DOJ referral"
+      ],
+      "conservative_headline": "Oversight Committee Delivers: Wall Street Billionaire Referred to DOJ for Stonewalling Epstein Probe",
+      "liberal_headline": "House Votes to Hold Epstein-Linked Billionaire in Contempt \u2014 Will Trump's DOJ Actually Prosecute?",
+      "poll_question": "Will the Epstein contempt referral lead to real accountability?",
+      "poll_option1_label": "Enforce Subpoenas",
+      "poll_option1_desc": "Congress must compel testimony; the wealthy don't get to ignore subpoenas.",
+      "poll_option2_label": "Follow The Money",
+      "poll_option2_desc": "DOJ will bury it to protect powerful men tied to Epstein's network.",
+      "pexels_search_terms": "congressional hearing gavel capitol"
+    },
+    {
+      "title": "Judicial Chaos or GOP Power Grab? Missouri's congressional map thrown into limbo before Election Day",
+      "slug": "missouri-congressional-map-limbo-midterms",
+      "topic_keywords": [
+        "Missouri redistricting",
+        "congressional map",
+        "gerrymandering",
+        "midterms",
+        "court ruling"
+      ],
+      "conservative_headline": "Activist Judges Torch Missouri's Legally Drawn Map Weeks Before Voters Head to the Polls",
+      "liberal_headline": "Missouri GOP's Mid-Decade Gerrymander Collapses Into Legal Chaos Two Months From Election Day",
+      "poll_question": "Should Missouri's redrawn map be used in November?",
+      "poll_option1_label": "State's Right",
+      "poll_option1_desc": "Legislatures draw maps; courts shouldn't override them at the last minute.",
+      "poll_option2_label": "Block The Map",
+      "poll_option2_desc": "A rigged mid-decade redraw shouldn't decide seats voters already started voting on.",
+      "pexels_search_terms": "state capitol map redistricting"
+    },
+    {
+      "title": "Polluters Held Liable or Climate Lawfare? Boulder's damages case against Exxon and Suncor reaches the high court",
+      "slug": "boulder-exxon-suncor-climate-case",
+      "topic_keywords": [
+        "climate lawsuit",
+        "Exxon Mobil",
+        "Suncor Energy",
+        "Boulder County",
+        "energy policy"
+      ],
+      "conservative_headline": "Climate Lawfare Reaches SCOTUS: Local Officials Try to Set National Energy Policy Through Damage Suits",
+      "liberal_headline": "Boulder Takes Oil Giants to the Supreme Court, Arguing They Intentionally Misled the Public on Climate",
+      "poll_question": "Should cities be able to sue oil companies for climate damages?",
+      "poll_option1_label": "Not In Court",
+      "poll_option1_desc": "Energy policy belongs to Congress, not local judges and trial lawyers.",
+      "poll_option2_label": "Make Them Pay",
+      "poll_option2_desc": "Companies that misled the public should cover the costs communities now bear.",
+      "pexels_search_terms": "oil refinery smokestack emissions"
+    }
+  ]
+}
