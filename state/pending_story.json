@@ -1,181 +1,105 @@
 {
-  "date": "2026-09-19",
-  "email_sent_at": "2026-09-19T07:12:55.415895",
+  "date": "2026-09-20",
+  "email_sent_at": "2026-09-20T07:37:39.666041",
   "stories": [
     {
-      "title": "Press Accountability or Press Purge? Trump Bans CNN, MS NOW and Politico From the White House",
+      "title": "Press Accountability or Press Purge? Trump Bars CNN, MS NOW and Politico From the White House",
       "slug": "trump-bans-cnn-msnow-politico-white-house",
       "topic_keywords": [
-        "press ban",
-        "White House press corps",
+        "White House press ban",
         "CNN",
+        "MS NOW",
         "Politico",
-        "First Amendment"
+        "press freedom"
       ],
-      "conservative_headline": "Trump Revokes Access for Outlets That Peddled Years of Fake News",
-      "liberal_headline": "Trump Bans Three News Outlets From White House in Authoritarian Escalation",
+      "conservative_headline": "Trump Ends the Fake News Free Ride: Hostile Outlets Lose White House Access",
+      "liberal_headline": "Authoritarian Retaliation: Trump Locks Journalists Out for Coverage He Dislikes",
       "poll_question": "Should a president be able to ban news outlets from the White House?",
-      "poll_option1_label": "Earned It",
-      "poll_option1_desc": "Access is a privilege; biased outlets shouldn't get taxpayer-funded seats.",
-      "poll_option2_label": "Press Freedom",
-      "poll_option2_desc": "Punishing outlets for coverage is unconstitutional retaliation against the free press.",
-      "pexels_search_terms": "press briefing room microphones reporters"
+      "poll_option1_label": "Earned Consequence",
+      "poll_option1_desc": "Access is a privilege, not a right for biased activist outlets",
+      "poll_option2_label": "First Amendment",
+      "poll_option2_desc": "Punishing critical coverage is government retaliation against a free press",
+      "pexels_search_terms": "white house press briefing microphones reporters"
     },
     {
-      "title": "Election Integrity or Voter Suppression? Court Halts Trump's Mail Ballot Rule as Postal Service Stops Work",
-      "slug": "mail-ballot-rule-blocked-postal-service",
+      "title": "Election Integrity or Voter Suppression? Trump's Mail-Ballot Push Hits a Supreme Court Wall",
+      "slug": "supreme-court-mail-ballot-rules-blocked",
       "topic_keywords": [
         "mail ballots",
-        "Postal Service",
-        "executive order",
         "Supreme Court",
+        "Postal Service rule",
+        "executive order",
         "midterms"
       ],
-      "conservative_headline": "Activist Judge Blocks Trump's Common-Sense Effort to Secure Mail Ballots",
-      "liberal_headline": "Courts Slam Brakes on Trump Scheme to Restrict Mail Voting Before Midterms",
-      "poll_question": "Should the president be able to set new rules for mail ballots?",
-      "poll_option1_label": "Secure Ballots",
-      "poll_option1_desc": "Uniform standards stop fraud and restore confidence in mail voting.",
-      "poll_option2_label": "Hands Off",
-      "poll_option2_desc": "States run elections; this is a federal power grab to suppress votes.",
-      "pexels_search_terms": "mail ballot envelope voting drop box"
+      "conservative_headline": "Activist Courts Block Common-Sense Safeguards on Mail Ballots Weeks Before Midterms",
+      "liberal_headline": "Court Halts Trump's Last-Minute Scheme to Choke Off Mail Voting Before Election Day",
+      "poll_question": "Was blocking the new mail-ballot rule the right call?",
+      "poll_option1_label": "Secure the Vote",
+      "poll_option1_desc": "Mail ballots need tighter federal standards to prevent fraud",
+      "poll_option2_label": "Protect Access",
+      "poll_option2_desc": "Rewriting voting rules mid-election disenfranchises millions of voters",
+      "pexels_search_terms": "mail ballot envelope voting election"
     },
     {
-      "title": "Detention or Cages? Watchdog Finds 'Alligator Alcatraz' Held Migrants in Phone-Booth-Sized Enclosures",
-      "slug": "alligator-alcatraz-watchdog-report-cages",
-      "topic_keywords": [
-        "ICE detention",
-        "Alligator Alcatraz",
-        "watchdog report",
-        "immigration enforcement",
-        "detainee conditions"
-      ],
-      "conservative_headline": "Watchdog Nitpicks Detention Facility While Illegal Crossings Hit 55-Year Low",
-      "liberal_headline": "Federal Watchdog: Migrants Caged in Spaces the Size of Phone Booths",
-      "poll_question": "Are conditions at ICE detention facilities acceptable?",
-      "poll_option1_label": "Deterrence Works",
-      "poll_option1_desc": "Detention isn't a hotel; enforcement delivered record-low border crossings.",
-      "poll_option2_label": "Human Rights",
-      "poll_option2_desc": "Caging people in tiny enclosures is cruel and un-American.",
-      "pexels_search_terms": "detention facility fence chain link"
-    },
-    {
-      "title": "Strength or Recklessness? Trump Weighs 'Annihilating' Iran's Leadership After Hormuz Tanker Attacks",
-      "slug": "trump-iran-hormuz-annihilate-decision",
-      "topic_keywords": [
-        "Iran",
-        "Strait of Hormuz",
-        "tanker attacks",
-        "war powers",
-        "drones downed"
-      ],
-      "conservative_headline": "Trump Vows Decisive Action as Iran Downs US Drones and Attacks Tankers",
-      "liberal_headline": "Trump Threatens to 'Annihilate' Iran's Leaders With No Congressional Authorization",
-      "poll_question": "Should the US escalate militarily against Iran's leadership?",
-      "poll_option1_label": "Hit Back Hard",
-      "poll_option1_desc": "Iran attacked US drones and shipping; weakness invites more aggression.",
-      "poll_option2_label": "Stop the War",
-      "poll_option2_desc": "Another Middle East escalation without Congress means endless war and higher gas prices.",
-      "pexels_search_terms": "oil tanker ship strait naval"
-    },
-    {
-      "title": "Ending Indoctrination or Gutting Schools? Education Dept Cancels Teacher Grants Over 'Divisive Ideologies'",
-      "slug": "education-department-cancels-teacher-grants-dei",
-      "topic_keywords": [
-        "Education Department",
-        "teacher shortage",
-        "DEI",
-        "grant cancellations",
-        "K-12 schools"
-      ],
-      "conservative_headline": "Education Dept Cuts Off Taxpayer Cash Funding DEI Ideology in Classrooms",
-      "liberal_headline": "Trump Administration Kills Teacher-Shortage Grants, Calling Them 'Divisive'",
-      "poll_question": "Was canceling the teacher training grants the right call?",
-      "poll_option1_label": "Cut the Woke",
-      "poll_option1_desc": "Taxpayers shouldn't bankroll DEI ideology disguised as teacher training.",
-      "poll_option2_label": "Kids Lose",
-      "poll_option2_desc": "Schools are short on teachers and this defunds the fix over politics.",
-      "pexels_search_terms": "empty classroom teacher desk school"
-    },
-    {
-      "title": "Affordability Crisis or Trump Boom? Gas Above $4 and 2026-High Mortgage Rates Shadow the Midterms",
+      "title": "Affordability Crisis or Trump Boom? Gas Above $4 and Record Mortgage Rates Collide With the Midterms",
       "slug": "gas-prices-mortgage-rates-midterm-economy",
       "topic_keywords": [
         "inflation",
         "gas prices",
         "mortgage rates",
-        "Federal Reserve",
-        "cost of living"
+        "cost of living",
+        "Federal Reserve"
       ],
-      "conservative_headline": "Fed's Rate Stubbornness and Iran War Are Squeezing Families, Trump Says",
-      "liberal_headline": "Trump Promised a Boom. Voters Got $4 Gas and Record Mortgage Rates",
-      "poll_question": "Who's to blame for rising prices right now?",
-      "poll_option1_label": "The Fed",
-      "poll_option1_desc": "High rates and global conflict, not Trump policy, are driving costs up.",
-      "poll_option2_label": "Trump's Policies",
-      "poll_option2_desc": "Tariffs, chaos, and war choices made everyday life more expensive.",
-      "pexels_search_terms": "gas station price sign fuel"
+      "conservative_headline": "Strong Jobs, Strong America: Trump Economy Powers Through Global Energy Shock",
+      "liberal_headline": "$4 Gas, Record Mortgage Rates: Trump's War Economy Is Crushing Family Budgets",
+      "poll_question": "Who's responsible for today's cost-of-living squeeze?",
+      "poll_option1_label": "Global Shock",
+      "poll_option1_desc": "Middle East war and Fed policy drove prices, not Trump",
+      "poll_option2_label": "Trump's Doing",
+      "poll_option2_desc": "Tariffs and a foreign war he started sent costs soaring",
+      "pexels_search_terms": "gas station price sign fuel pump"
     },
     {
-      "title": "Guarding the Ballot or Intimidating Voters? Lawsuit Targets Federal Officers at Polling Sites",
-      "slug": "federal-officers-polling-places-lawsuit",
+      "title": "Restoring Order or Occupying Cities? 200 Border Patrol Agents Head to New Orleans",
+      "slug": "border-patrol-surge-new-orleans",
       "topic_keywords": [
-        "voter intimidation",
-        "polling places",
-        "federal agents",
-        "lawsuit",
-        "2026 midterms"
+        "ICE",
+        "Border Patrol",
+        "New Orleans",
+        "immigration enforcement",
+        "deportation"
       ],
-      "conservative_headline": "Democrats Sue to Keep Federal Law Enforcement Away From Polling Places",
-      "liberal_headline": "Lawsuit: Trump's Threat to Put Federal Agents at Polls Is Illegal Intimidation",
-      "poll_question": "Should federal officers be stationed at polling places?",
-      "poll_option1_label": "Keep Order",
-      "poll_option1_desc": "Law enforcement presence deters fraud and protects voters and workers.",
-      "poll_option2_label": "Intimidation",
-      "poll_option2_desc": "Armed federal agents at polls scare voters away \u2014 that's the point.",
-      "pexels_search_terms": "polling place voting booth american flag"
+      "conservative_headline": "Feds Bring Law and Order to New Orleans as Crossings Hit 55-Year Low",
+      "liberal_headline": "Federal Agents Descend on New Orleans in Trump's Expanding Crackdown on Cities",
+      "poll_question": "Should federal agents surge into American cities for immigration sweeps?",
+      "poll_option1_label": "Enforce the Law",
+      "poll_option1_desc": "Sanctuary cities left criminals free; federal agents must fill the gap",
+      "poll_option2_label": "Federal Overreach",
+      "poll_option2_desc": "Masked agents sweeping neighborhoods terrorize families and communities",
+      "pexels_search_terms": "federal agents city street enforcement"
     },
     {
-      "title": "Innovation or Recklessness? Newsom and Governors Demand AI Rules as Trump's Tech Allies Dine at the White House",
-      "slug": "ai-regulation-newsom-governors-trump-tech",
+      "title": "Arctic Shield or Colonial Land Grab? Trump's Greenland Security Deal With Denmark",
+      "slug": "trump-greenland-denmark-military-deal",
       "topic_keywords": [
-        "artificial intelligence",
-        "AI regulation",
-        "Newsom",
-        "tech CEOs",
-        "Congress"
+        "Greenland",
+        "Denmark",
+        "military presence",
+        "Arctic security",
+        "NATO allies"
       ],
-      "conservative_headline": "Democrats Want to Strangle American AI While China Races Ahead",
-      "liberal_headline": "Governors Sound Alarm as Trump Dines With AI Billionaires and Blocks Guardrails",
-      "poll_question": "Does AI need federal regulation now?",
-      "poll_option1_label": "Let It Build",
-      "poll_option1_desc": "Heavy-handed rules hand the AI race to China and kill jobs.",
-      "poll_option2_label": "Guardrails Now",
-      "poll_option2_desc": "Unchecked AI threatens workers, kids, and elections \u2014 regulate it today.",
-      "pexels_search_terms": "artificial intelligence server data center"
+      "conservative_headline": "Trump Secures the Arctic: Historic Greenland Deal Locks Out Russia and China",
+      "liberal_headline": "'Permanent Control': Trump Strong-Arms an Ally Into Handing Over Greenland",
+      "poll_question": "Is a permanent U.S. military presence in Greenland a win?",
+      "poll_option1_label": "Strategic Win",
+      "poll_option1_desc": "Arctic dominance keeps Russia and China away from our doorstep",
+      "poll_option2_label": "Bullying Allies",
+      "poll_option2_desc": "Coercing Denmark over Greenland wrecks alliances and sovereignty norms",
+      "pexels_search_terms": "greenland arctic ice coastline"
     },
     {
-      "title": "Fair Maps or Stolen Seats? Missouri Redistricting Chaos Lands Back at the Supreme Court",
-      "slug": "missouri-redistricting-supreme-court-chaos",
-      "topic_keywords": [
-        "redistricting",
-        "Missouri map",
-        "gerrymandering",
-        "Supreme Court",
-        "congressional seats"
-      ],
-      "conservative_headline": "Missouri Fights for Legislature's Map as Courts Overrule Elected Lawmakers",
-      "liberal_headline": "SCOTUS Rejects GOP Map Grab \u2014 But Another Judge Orders It Used Anyway",
-      "poll_question": "Should Missouri's redrawn GOP map be used in November?",
-      "poll_option1_label": "States Decide",
-      "poll_option1_desc": "Elected legislatures draw maps; unelected judges shouldn't rewrite them.",
-      "poll_option2_label": "Block the Map",
-      "poll_option2_desc": "Mid-decade redraws to manufacture seats rig elections before a vote is cast.",
-      "pexels_search_terms": "map district lines capitol building"
-    },
-    {
-      "title": "Accountability or Election Stunt? House GOP Punts Hegseth Impeachment Vote Until After Election Day",
-      "slug": "hegseth-impeachment-vote-punted-house",
+      "title": "Accountability or Election-Year Stunt? House GOP Punts the Hegseth Impeachment Vote to November",
+      "slug": "house-punts-hegseth-impeachment-vote",
       "topic_keywords": [
         "Pete Hegseth",
         "impeachment resolution",
@@ -183,14 +107,90 @@
         "House Republicans",
         "Pentagon"
       ],
-      "conservative_headline": "House Leaders Shelve Massie's Publicity-Stunt Impeachment of Hegseth",
-      "liberal_headline": "Republicans Flee Washington Rather Than Vote on Impeaching Hegseth",
-      "poll_question": "Should the House vote on impeaching the Defense Secretary?",
-      "poll_option1_label": "No Circus",
-      "poll_option1_desc": "A doomed impeachment vote is theater that distracts from real priorities.",
-      "poll_option2_label": "Vote Now",
-      "poll_option2_desc": "Members are dodging accountability by hiding the vote until after Election Day.",
-      "pexels_search_terms": "pentagon building capitol dome congress"
+      "conservative_headline": "House Rejects Massie's Grandstanding Push to Impeach a Wartime Defense Secretary",
+      "liberal_headline": "GOP Flees Washington to Bury Hegseth Impeachment Until After Voters Weigh In",
+      "poll_question": "Should the House have voted on impeaching Hegseth before the election?",
+      "poll_option1_label": "Political Theater",
+      "poll_option1_desc": "A distraction stunt aimed at a defense secretary doing his job",
+      "poll_option2_label": "Duck and Cover",
+      "poll_option2_desc": "Republicans hid a tough accountability vote from their own voters",
+      "pexels_search_terms": "pentagon capitol building congress hearing"
+    },
+    {
+      "title": "Innovation or Recklessness? Newsom's AI Executive Order Sets Up a Showdown With Washington",
+      "slug": "newsom-ai-executive-order-showdown",
+      "topic_keywords": [
+        "artificial intelligence",
+        "Gavin Newsom",
+        "AI regulation",
+        "chatbots",
+        "tech policy"
+      ],
+      "conservative_headline": "Newsom's AI Power Grab Threatens to Strangle America's Lead Over China",
+      "liberal_headline": "With Congress Paralyzed, Newsom Acts to Rein In AI 'Before It's Too Late'",
+      "poll_question": "Who should set the rules for AI?",
+      "poll_option1_label": "Let It Build",
+      "poll_option1_desc": "Heavy-handed state rules hand the AI race to Beijing",
+      "poll_option2_label": "Guardrails Now",
+      "poll_option2_desc": "Unregulated chatbots are already harming kids and families",
+      "pexels_search_terms": "artificial intelligence technology computer code"
+    },
+    {
+      "title": "Corporate Scapegoating or Climate Justice? Boulder's Exxon Lawsuit Lands at the Supreme Court",
+      "slug": "boulder-exxon-suncor-climate-supreme-court",
+      "topic_keywords": [
+        "climate lawsuit",
+        "Exxon Mobil",
+        "Suncor Energy",
+        "Boulder County",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Blue Cities Try to Sue American Energy Out of Existence in Radical Climate Gambit",
+      "liberal_headline": "Boulder Takes Big Oil to the High Court Over Decades of Deceiving the Public",
+      "poll_question": "Should cities be able to sue oil companies for climate damages?",
+      "poll_option1_label": "Lawfare",
+      "poll_option1_desc": "Courts can't set energy policy; this is a shakedown of producers",
+      "poll_option2_label": "Pay Up",
+      "poll_option2_desc": "Companies that misled the public should cover the damage they caused",
+      "pexels_search_terms": "oil refinery smokestack courthouse"
+    },
+    {
+      "title": "Fiscal Discipline or Cruelty? DOJ Tells States to Report Undocumented Immigrants or Lose Welfare Funds",
+      "slug": "doj-tanf-funds-immigrant-reporting-rule",
+      "topic_keywords": [
+        "TANF",
+        "welfare funding",
+        "Justice Department",
+        "undocumented immigrants",
+        "state mandates"
+      ],
+      "conservative_headline": "Taxpayer Dollars Aren't for Illegal Aliens: DOJ Demands States Follow Federal Law",
+      "liberal_headline": "DOJ Threatens to Starve Needy Families Unless States Turn Informant",
+      "poll_question": "Should welfare funds be tied to reporting undocumented immigrants?",
+      "poll_option1_label": "Follow the Law",
+      "poll_option1_desc": "Federal aid shouldn't subsidize states that shield illegal immigration",
+      "poll_option2_label": "Hostage Taking",
+      "poll_option2_desc": "Holding poor kids' assistance hostage to force immigration snitching",
+      "pexels_search_terms": "government building social services family"
+    },
+    {
+      "title": "Preserving Heritage or Bulldozing It? Trump's Kennedy Center Closure and White House Demolition Fight",
+      "slug": "kennedy-center-closure-east-wing-demolition",
+      "topic_keywords": [
+        "Kennedy Center",
+        "East Wing",
+        "historic preservation",
+        "arts funding",
+        "Trump arch"
+      ],
+      "conservative_headline": "Trump Ends Taxpayer Subsidies for Elite Woke Arts, Builds a Monument to America",
+      "liberal_headline": "Unlawful and Unchecked: Trump Shutters the Kennedy Center and Razes History",
+      "poll_question": "Is Trump's remaking of Washington's landmarks justified?",
+      "poll_option1_label": "Overdue Reform",
+      "poll_option1_desc": "Public arts institutions became partisan; the president can reshape them",
+      "poll_option2_label": "Lawless Vandalism",
+      "poll_option2_desc": "Destroying national landmarks without approval is abuse of power",
+      "pexels_search_terms": "washington dc monument architecture construction"
     }
   ]
 }
