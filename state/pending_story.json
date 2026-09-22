@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-22",
+  "email_sent_at": "2026-09-22T07:33:09.286143",
+  "stories": [
+    {
+      "title": "Press Freedom Fight or Media Accountability? Trump's White House Ban on CNN, MS NOW and Politico Heads to Court",
+      "slug": "white-house-press-ban-lawsuit-first-amendment",
+      "topic_keywords": [
+        "White House press ban",
+        "First Amendment lawsuit",
+        "CNN MS NOW Politico",
+        "press credentials",
+        "Trump media"
+      ],
+      "conservative_headline": "Trump Ends Taxpayer-Funded Access for Fake News Outlets \u2014 Networks Run to Court Demanding Special Privileges",
+      "liberal_headline": "Unprecedented Assault on the Free Press: Networks Sue After Trump Bars Reporters From White House Grounds",
+      "poll_question": "Can a president ban news outlets from the White House?",
+      "poll_option1_label": "No Entitlement",
+      "poll_option1_desc": "No outlet has a constitutional right to White House access or press passes.",
+      "poll_option2_label": "First Amendment",
+      "poll_option2_desc": "Punishing outlets for coverage is unconstitutional viewpoint retaliation.",
+      "pexels_search_terms": "press briefing microphones reporters podium"
+    },
+    {
+      "title": "Necessary Medicine or Midterm Disaster? Fed Hikes Rates as Gas Tops $4 and Diesel Hits Record",
+      "slug": "fed-rate-hike-inflation-gas-prices-midterms",
+      "topic_keywords": [
+        "Fed rate hike",
+        "inflation 3.4 percent",
+        "gas prices",
+        "Kevin Warsh",
+        "cost of living"
+      ],
+      "conservative_headline": "Warsh Fed Takes Inflation Seriously at Last as Strong Economy and Low Unemployment Power Through Energy Shock",
+      "liberal_headline": "Voters Squeezed at the Pump and the Register as Trump Shrugs: 'Inexpensive Price to Pay'",
+      "poll_question": "Who's to blame for rising prices right now?",
+      "poll_option1_label": "Global Shock",
+      "poll_option1_desc": "Middle East war and energy costs are driving prices, not Trump policy.",
+      "poll_option2_label": "Trump's Tariffs",
+      "poll_option2_desc": "Tariffs and chaotic policy are fueling inflation households can't absorb.",
+      "pexels_search_terms": "gas station price sign fuel pump"
+    },
+    {
+      "title": "Officer Under Fire or Agent Under Attack? ICE Shooting of Venezuelan DoorDash Driver in Austin Sparks Protests",
+      "slug": "austin-ice-shooting-venezuelan-driver-protests",
+      "topic_keywords": [
+        "Austin ICE shooting",
+        "Wilber Garces Perez",
+        "immigration enforcement",
+        "DHS investigation",
+        "ICE protests"
+      ],
+      "conservative_headline": "Anti-ICE Mobs Shut Down Austin Streets After Agent Defends Himself During Vehicle Pursuit",
+      "liberal_headline": "Shot in the Back and Denied Pain Meds: Austin ICE Shooting Exposes Trump's Out-of-Control Deportation Machine",
+      "poll_question": "Are ICE tactics in American cities justified?",
+      "poll_option1_label": "Back the Badge",
+      "poll_option1_desc": "Agents face danger enforcing the law; wait for the investigation's findings.",
+      "poll_option2_label": "Out of Control",
+      "poll_option2_desc": "Nearly 30 shootings show reckless enforcement needing independent oversight.",
+      "pexels_search_terms": "protest crowd police tape street"
+    },
+    {
+      "title": "Ballot Integrity or Voter Suppression? Trump Asks Supreme Court to Rewrite Mail Ballot Rules Before Midterms",
+      "slug": "supreme-court-mail-ballot-rules-midterms",
+      "topic_keywords": [
+        "mail ballots",
+        "Supreme Court",
+        "election rules",
+        "Trump executive order",
+        "midterm voting"
+      ],
+      "conservative_headline": "Trump Takes Mail Ballot Chaos to the Supreme Court to Restore Confidence in American Elections",
+      "liberal_headline": "Trump Asks Supreme Court to Throw Out Millions of Mail Ballots Six Weeks Before the Midterms",
+      "poll_question": "Should mail ballot rules change before November?",
+      "poll_option1_label": "Secure Votes",
+      "poll_option1_desc": "Uniform deadlines and ID rules protect the integrity of every ballot.",
+      "poll_option2_label": "Hands Off",
+      "poll_option2_desc": "Changing rules mid-election disenfranchises voters already casting ballots.",
+      "pexels_search_terms": "mail ballot envelope voting box"
+    },
+    {
+      "title": "Merit Restored or Shakedown? IRS Plan Would Strip Tax-Exempt Status From Schools Over DEI",
+      "slug": "irs-tax-exempt-status-dei-schools-colleges",
+      "topic_keywords": [
+        "DEI",
+        "tax-exempt status",
+        "Treasury regulations",
+        "private colleges",
+        "civil rights"
+      ],
+      "conservative_headline": "Treasury Puts Schools on Notice: Rebranding Racial Preferences Won't Save Your Tax Break",
+      "liberal_headline": "Trump's IRS Threatens Any College That Promotes Equality With Financial Ruin",
+      "poll_question": "Should DEI programs cost schools their tax exemption?",
+      "poll_option1_label": "End Preferences",
+      "poll_option1_desc": "Taxpayer-subsidized institutions shouldn't practice race-based discrimination under new labels.",
+      "poll_option2_label": "Political Weapon",
+      "poll_option2_desc": "Using the tax code to punish ideology is government coercion of education.",
+      "pexels_search_terms": "university campus graduation students building"
+    },
+    {
+      "title": "Guardrails or Government Overreach? Newsom's AI Order Collides With GOP's Hands-Off Congress",
+      "slug": "ai-regulation-newsom-order-congress-standoff",
+      "topic_keywords": [
+        "AI regulation",
+        "Newsom executive order",
+        "Congress AI bill",
+        "tech oversight",
+        "Chip Roy"
+      ],
+      "conservative_headline": "Newsom's AI Power Grab Would Strangle the Innovation Race America Is Winning Against China",
+      "liberal_headline": "As Congress Does Nothing on AI, Newsom Acts 'Before It's Too Late' \u2014 And Even GOP Candidates Are Breaking Ranks",
+      "poll_question": "Who should set the rules for artificial intelligence?",
+      "poll_option1_label": "Let It Build",
+      "poll_option1_desc": "Heavy regulation kills American innovation and hands the lead to China.",
+      "poll_option2_label": "Rein It In",
+      "poll_option2_desc": "Unchecked AI threatens jobs, safety, and democracy; act now.",
+      "pexels_search_terms": "artificial intelligence server data center"
+    },
+    {
+      "title": "Liberation or Illegal War? Nine Months After Maduro's Capture, Congress Still Hasn't Voted",
+      "slug": "venezuela-intervention-war-powers-congress-vote",
+      "topic_keywords": [
+        "Venezuela intervention",
+        "Maduro capture",
+        "war powers",
+        "boat strikes",
+        "Rubio"
+      ],
+      "conservative_headline": "Trump Ended a Narco-Terror Regime Without a Quagmire \u2014 Democrats Still Can't Say Thank You",
+      "liberal_headline": "An Illegal War With No Vote: Lawmakers Demand Answers on Strikes That Killed Over 100",
+      "poll_question": "Did Trump need Congress's approval for Venezuela?",
+      "poll_option1_label": "Commander Acted",
+      "poll_option1_desc": "Presidents can strike narco-terrorists threatening America without a war declaration.",
+      "poll_option2_label": "Unconstitutional",
+      "poll_option2_desc": "Only Congress can authorize war; strikes were extrajudicial and illegal.",
+      "pexels_search_terms": "navy warship caribbean military aircraft"
+    },
+    {
+      "title": "Fair Maps or Rigged Maps? Missouri Redistricting Chaos Boomerangs Back to the Supreme Court",
+      "slug": "missouri-redistricting-supreme-court-midterm-maps",
+      "topic_keywords": [
+        "Missouri redistricting",
+        "congressional map",
+        "Supreme Court",
+        "gerrymandering",
+        "midterm seats"
+      ],
+      "conservative_headline": "Missouri Voters' Legislature Drew a Legal Map \u2014 Activist Judges Keep Trying to Erase It",
+      "liberal_headline": "Republicans Race to Rig One More Seat as Courts Send Missouri's Map Into Total Chaos",
+      "poll_question": "Should Missouri's new GOP-drawn map be used in November?",
+      "poll_option1_label": "States Decide",
+      "poll_option1_desc": "Legislatures draw maps; courts shouldn't override elected lawmakers weeks before voting.",
+      "poll_option2_label": "Stop the Grab",
+      "poll_option2_desc": "Mid-decade redistricting to manufacture seats is an attack on fair elections.",
+      "pexels_search_terms": "state capitol building map district"
+    },
+    {
+      "title": "Overdue Cleanup or Trump's Wrecking Ball? Judge Blocks Kennedy Center Demolition Plans",
+      "slug": "kennedy-center-closure-demolition-court-fight",
+      "topic_keywords": [
+        "Kennedy Center",
+        "Trump arts",
+        "demolition lawsuit",
+        "historic preservation",
+        "Joyce Beatty"
+      ],
+      "conservative_headline": "Trump Reclaims a Crumbling, Woke Arts Palace and Builds Something Americans Will Actually Visit",
+      "liberal_headline": "'Unlawful': Trump Shutters the Kennedy Center and Eyes Demolition as Judge Slams On the Brakes",
+      "poll_question": "Can Trump close and rebuild national arts landmarks?",
+      "poll_option1_label": "Presidential Right",
+      "poll_option1_desc": "The executive manages federal property; taxpayers deserve better than bloated arts bureaucracies.",
+      "poll_option2_label": "Lawless Vandalism",
+      "poll_option2_desc": "Destroying public landmarks without Congress is unlawful and culturally reckless.",
+      "pexels_search_terms": "concert hall theater architecture washington"
+    },
+    {
+      "title": "Climate Accountability or Lawfare? Supreme Court Weighs Boulder's Damages Suit Against Exxon and Suncor",
+      "slug": "boulder-exxon-suncor-climate-supreme-court",
+      "topic_keywords": [
+        "Suncor Boulder case",
+        "Exxon Mobil",
+        "climate litigation",
+        "Supreme Court",
+        "energy policy"
+      ],
+      "conservative_headline": "One Colorado County Tries to Set National Energy Policy by Suing the Companies That Fuel America",
+      "liberal_headline": "Big Oil Lied for Decades \u2014 Now the Supreme Court Decides If Communities Can Make Them Pay",
+      "poll_question": "Should local governments sue oil companies over climate change?",
+      "poll_option1_label": "Courtroom Abuse",
+      "poll_option1_desc": "Energy policy belongs in Congress, not local courts chasing corporate payouts.",
+      "poll_option2_label": "Make Them Pay",
+      "poll_option2_desc": "Companies that misled the public should cover the damage they caused.",
+      "pexels_search_terms": "oil refinery smokestack climate wildfire"
+    }
+  ]
+}
