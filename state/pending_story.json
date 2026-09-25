@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-25",
+  "email_sent_at": "2026-09-25T07:27:08.192003",
+  "stories": [
+    {
+      "title": "Political Interference or Bureaucratic Housekeeping? Census Bureau Scientific Integrity Rules Quietly Rewritten",
+      "slug": "census-bureau-scientific-integrity-policy-change",
+      "topic_keywords": [
+        "Census Bureau",
+        "scientific integrity",
+        "Elizabeth Warren",
+        "Commerce Department",
+        "political interference"
+      ],
+      "conservative_headline": "Warren Manufactures New Hoax: Democrats Panic Over Routine Policy Update at Census Bureau",
+      "liberal_headline": "Trump Administration Strips Political Interference Ban From Census Rules Weeks Before Midterms",
+      "poll_question": "Was removing the political interference ban from Census policy appropriate?",
+      "poll_option1_label": "Routine Update",
+      "poll_option1_desc": "Agencies can revise internal guidance; no evidence of data manipulation exists.",
+      "poll_option2_label": "Red Alert",
+      "poll_option2_desc": "Deleting interference bans invites partisan tampering with official government data.",
+      "pexels_search_terms": "census forms government data office"
+    },
+    {
+      "title": "Inflation Crisis or Growing Pains? Fed Hikes Rates as Gas Tops $4 and Mortgages Hit 2026 High",
+      "slug": "fed-rate-hike-gas-prices-inflation-midterms",
+      "topic_keywords": [
+        "Federal Reserve",
+        "interest rate hike",
+        "inflation",
+        "gas prices",
+        "mortgage rates"
+      ],
+      "conservative_headline": "Temporary Pain, Permanent Gain: Trump Says Energy Squeeze Is Small Price for American Strength",
+      "liberal_headline": "Voters Squeezed: Fed Raises Rates for First Time in Three Years as Trump Dismisses Price Pain",
+      "poll_question": "Who do you trust to fix rising prices?",
+      "poll_option1_label": "Stay The Course",
+      "poll_option1_desc": "Short-term pain from energy shocks; Trump's agenda will bring prices down.",
+      "poll_option2_label": "Failed Policy",
+      "poll_option2_desc": "Tariffs and war pushed inflation up; working families pay the bill.",
+      "pexels_search_terms": "gas station prices grocery receipt"
+    },
+    {
+      "title": "Border Success or Human Cost? Crossings Hit 55-Year Low as GOP Congresswoman Says Crackdown 'Went Too Far'",
+      "slug": "border-crossings-record-low-gop-crackdown-backlash",
+      "topic_keywords": [
+        "border crossings",
+        "ICE enforcement",
+        "Maria Elvira Salazar",
+        "deportation",
+        "immigration crackdown"
+      ],
+      "conservative_headline": "Mission Accomplished: Illegal Crossings Plunge to Lowest Level in 55 Years Under Trump",
+      "liberal_headline": "Even Republicans Break Ranks as ICE Raids Sweep Up Immigrants With Only Traffic Tickets",
+      "poll_question": "Has the immigration crackdown gone too far?",
+      "poll_option1_label": "It's Working",
+      "poll_option1_desc": "Record-low crossings prove enforcement works; keep the pressure on.",
+      "poll_option2_label": "Gone Too Far",
+      "poll_option2_desc": "Raids target minor offenders and terrorize communities for political theater.",
+      "pexels_search_terms": "border fence desert patrol vehicle"
+    },
+    {
+      "title": "Peace Through Strength or Endless War? Trump Threatens Iran With 'Annihilation' as Tehran Warns of New Front",
+      "slug": "trump-iran-annihilation-threat-new-front-warning",
+      "topic_keywords": [
+        "Iran war",
+        "Trump UN speech",
+        "Pezeshkian",
+        "Strait of Hormuz",
+        "oil prices"
+      ],
+      "conservative_headline": "Trump Reopens Hormuz and Puts Tehran on Notice: Strength, Not Weakness, Ends Wars",
+      "liberal_headline": "Trump Threatens 'Annihilation' From UN Podium as Iran Vows New Front and Oil Spikes Again",
+      "poll_question": "Is Trump's Iran escalation the right approach?",
+      "poll_option1_label": "Peace Through Strength",
+      "poll_option1_desc": "Only overwhelming pressure forces Iran to the negotiating table.",
+      "poll_option2_label": "Reckless War",
+      "poll_option2_desc": "Escalation risks a wider war Congress never authorized or debated.",
+      "pexels_search_terms": "oil tanker strait naval ship"
+    },
+    {
+      "title": "Guardrails or Government Overreach? Newsom's AI Order Collides With GOP Push to Keep Washington Out",
+      "slug": "newsom-ai-executive-order-vs-congress-regulation-fight",
+      "topic_keywords": [
+        "artificial intelligence",
+        "Gavin Newsom",
+        "AI regulation",
+        "Chip Roy",
+        "tech policy"
+      ],
+      "conservative_headline": "Newsom's AI Power Grab: California Governor Moves to Strangle America's Biggest Tech Advantage",
+      "liberal_headline": "Newsom Acts 'Before It's Too Late' While Congress Goes Home Without Touching AI Safety",
+      "poll_question": "Should government regulate AI now?",
+      "poll_option1_label": "Hands Off",
+      "poll_option1_desc": "Heavy rules kill innovation and hand the AI race to China.",
+      "poll_option2_label": "Regulate Now",
+      "poll_option2_desc": "Unchecked AI threatens jobs, privacy, and elections without urgent guardrails.",
+      "pexels_search_terms": "artificial intelligence server data center"
+    },
+    {
+      "title": "State Visit Triumph or Sellout? Trump Hails 'Friendship' With Xi as GOP Senator Blasts the Welcome",
+      "slug": "trump-xi-state-visit-taiwan-republican-criticism",
+      "topic_keywords": [
+        "Xi Jinping",
+        "state visit",
+        "Taiwan",
+        "China trade",
+        "rare earths"
+      ],
+      "conservative_headline": "Dealmaker in Chief: Trump Brings Xi to Washington and Puts Taiwan, Trade and AI on the Table",
+      "liberal_headline": "Red Carpet for Beijing: Even Republicans Recoil as Trump Toasts Xi With Bank CEOs at His Side",
+      "poll_question": "Was hosting Xi's state visit a win for America?",
+      "poll_option1_label": "Strategic Win",
+      "poll_option1_desc": "Direct talks reopen trade and rare earths while defusing military risk.",
+      "poll_option2_label": "Legitimizing Xi",
+      "poll_option2_desc": "Pageantry rewards an authoritarian rival and undercuts Taiwan's security.",
+      "pexels_search_terms": "diplomatic handshake flags state dinner"
+    },
+    {
+      "title": "Patient Protection or Partisan Panic? GOP Launches 'Keep Your Care' as Democrats Lead Healthcare by 22 Points",
+      "slug": "gop-keep-your-care-medicaid-rules-healthcare-gap",
+      "topic_keywords": [
+        "Medicaid",
+        "Keep Your Care",
+        "healthcare polling",
+        "coverage rules",
+        "midterms"
+      ],
+      "conservative_headline": "Republicans Step Up: New Push Helps Eligible Medicaid Recipients Keep Coverage Under Reformed Rules",
+      "liberal_headline": "Damage Control: GOP Scrambles on Healthcare After Writing Rules That Strip Medicaid Coverage",
+      "poll_question": "Are new Medicaid rules protecting or cutting coverage?",
+      "poll_option1_label": "Protecting Care",
+      "poll_option1_desc": "Rules stop waste and keep Medicaid solvent for the truly eligible.",
+      "poll_option2_label": "Coverage Cuts",
+      "poll_option2_desc": "Paperwork traps will push millions of eligible Americans off health coverage.",
+      "pexels_search_terms": "hospital waiting room insurance paperwork"
+    },
+    {
+      "title": "Mail Ballot Integrity or Voter Suppression? Trump Blasts Supreme Court as GOP AGs Push Rules Officials Call Unworkable",
+      "slug": "supreme-court-mail-voting-rules-trump-attack",
+      "topic_keywords": [
+        "mail-in voting",
+        "Supreme Court",
+        "Postal Service rule",
+        "election integrity",
+        "Republican attorneys general"
+      ],
+      "conservative_headline": "Activist Judges Block Common-Sense Safeguards on Mail Ballots Weeks Before Election Day",
+      "liberal_headline": "Trump Attacks Supreme Court After Justices Halt His Bid to Restrict Mail-In Voting",
+      "poll_question": "Should new federal restrictions apply to mail ballots?",
+      "poll_option1_label": "Secure Ballots",
+      "poll_option1_desc": "Mail voting needs federal safeguards to prevent fraud and errors.",
+      "poll_option2_label": "Suppression Play",
+      "poll_option2_desc": "Last-minute rules election officials can't implement are designed to block votes.",
+      "pexels_search_terms": "mail ballot envelope drop box"
+    },
+    {
+      "title": "Polluter Accountability or Lawfare? Supreme Court Weighs Boulder's Climate Damages Case Against Exxon and Suncor",
+      "slug": "supreme-court-boulder-exxon-suncor-climate-case",
+      "topic_keywords": [
+        "Boulder County",
+        "Exxon Mobil",
+        "Suncor Energy",
+        "climate litigation",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Climate Lawfare Reaches SCOTUS: Local Officials Try to Set National Energy Policy in Court",
+      "liberal_headline": "Boulder's Day in Court: Colorado Officials Say Oil Giants Intentionally Misled Public on Climate",
+      "poll_question": "Should cities be able to sue oil companies for climate damages?",
+      "poll_option1_label": "Dismiss It",
+      "poll_option1_desc": "Local courts can't regulate global emissions; this is politics, not law.",
+      "poll_option2_label": "Hold Them Liable",
+      "poll_option2_desc": "Companies that misled the public should pay for the damage they caused.",
+      "pexels_search_terms": "oil refinery smokestack courthouse"
+    },
+    {
+      "title": "Preserving History or Erasing It? Fight Erupts Over Moving Chinese Exclusion and Japanese Internment Records Out of California",
+      "slug": "chinese-exclusion-japanese-internment-records-relocation-fight",
+      "topic_keywords": [
+        "National Archives",
+        "Chinese Exclusion Act",
+        "Japanese American incarceration",
+        "historical records",
+        "California"
+      ],
+      "conservative_headline": "Democrats Manufacture Outrage Over Routine Federal Records Consolidation",
+      "liberal_headline": "Activists Race to Stop Trump Administration From Shipping Civil Rights History Out of California",
+      "poll_question": "Should these historical records be moved out of California?",
+      "poll_option1_label": "Just Logistics",
+      "poll_option1_desc": "Archives routinely consolidate records; documents remain public and preserved.",
+      "poll_option2_label": "Erasing History",
+      "poll_option2_desc": "Removing records from affected communities cuts them off from their own history.",
+      "pexels_search_terms": "archive boxes historical documents library"
+    }
+  ]
+}
