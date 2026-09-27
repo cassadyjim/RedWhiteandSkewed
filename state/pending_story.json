@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-27",
+  "email_sent_at": "2026-09-27T02:28:08.024022",
+  "stories": [
+    {
+      "title": "Election Integrity or Voter Purge? Supreme Court Revives Citizenship Database Weeks Before Midterms",
+      "slug": "scotus-save-citizenship-database-voter-rolls",
+      "topic_keywords": [
+        "Supreme Court",
+        "SAVE database",
+        "voter rolls",
+        "citizenship verification",
+        "midterms"
+      ],
+      "conservative_headline": "SCOTUS Hands Trump Major Win: States Can Finally Scrub Noncitizens From Voter Rolls",
+      "liberal_headline": "Supreme Court Greenlights Mass Voter Purge Tool Two Months Before the Midterms",
+      "poll_question": "Should states use the federal SAVE database to check voter rolls for citizenship?",
+      "poll_option1_label": "Verify Voters",
+      "poll_option1_desc": "Only citizens should vote; states need tools to confirm eligibility.",
+      "poll_option2_label": "Purge Risk",
+      "poll_option2_desc": "Faulty data will strip eligible citizens of their right to vote.",
+      "pexels_search_terms": "voting booth ballot election polling place"
+    },
+    {
+      "title": "Fair Maps or Rigged Maps? Appeals Court Orders Missouri to Use Trump-Backed Congressional Map",
+      "slug": "missouri-redistricting-map-appeals-court-midterms",
+      "topic_keywords": [
+        "Missouri redistricting",
+        "congressional map",
+        "gerrymandering",
+        "appeals court",
+        "House control"
+      ],
+      "conservative_headline": "Court Restores Missouri's Legal Map After Democrats' Endless Litigation Games",
+      "liberal_headline": "Appeals Court Forces Rigged Missouri Map on Voters Over State Supreme Court's Objection",
+      "poll_question": "Should Missouri's new congressional map be used in November?",
+      "poll_option1_label": "Legislature Decides",
+      "poll_option1_desc": "Elected lawmakers, not judges, have authority to draw district lines.",
+      "poll_option2_label": "Power Grab",
+      "poll_option2_desc": "Mid-decade redraw is a naked attempt to steal House seats.",
+      "pexels_search_terms": "state capitol building map protest"
+    },
+    {
+      "title": "Strong Economy or Squeezed Households? Jobs Up, But Gas Tops $4 and Mortgage Rates Hit 2026 High",
+      "slug": "jobs-inflation-gas-prices-mortgage-rates-midterms",
+      "topic_keywords": [
+        "inflation",
+        "jobs report",
+        "gas prices",
+        "mortgage rates",
+        "Federal Reserve"
+      ],
+      "conservative_headline": "Trump Economy Keeps Adding Jobs as Wall Street Bets on American Strength",
+      "liberal_headline": "Families Crushed by $4 Gas and Record Mortgage Rates as Trump Touts 'Boom'",
+      "poll_question": "Is the Trump economy working for ordinary Americans?",
+      "poll_option1_label": "Growth Working",
+      "poll_option1_desc": "Job gains beat expectations; energy and tax policies are paying off.",
+      "poll_option2_label": "Cost Crisis",
+      "poll_option2_desc": "Wages can't keep up with gas, housing, and grocery prices.",
+      "pexels_search_terms": "gas station prices grocery shopping receipt"
+    },
+    {
+      "title": "Law and Order or State Violence? ICE Shooting of Venezuelan Man Ignites Deportation Fight",
+      "slug": "ice-shooting-venezuelan-witness-deportation-fight",
+      "topic_keywords": [
+        "ICE shooting",
+        "deportation",
+        "immigration enforcement",
+        "Venezuelan immigrant",
+        "due process"
+      ],
+      "conservative_headline": "Agents Under Assault: ICE Defends Officers as Activists Rush to Shield Illegal Alien",
+      "liberal_headline": "Shot by ICE, Now Facing Deportation: Lawmakers Demand Answers on Key Witness",
+      "poll_question": "Should the man shot by ICE be deported or allowed to stay as a witness?",
+      "poll_option1_label": "Enforce Law",
+      "poll_option1_desc": "Illegal status is illegal status; agents acted to protect themselves.",
+      "poll_option2_label": "Investigate First",
+      "poll_option2_desc": "Deporting a shooting witness buries evidence against federal agents.",
+      "pexels_search_terms": "immigration enforcement protest detention"
+    },
+    {
+      "title": "Master Dealmaker or Reckless Gamble? Trump's China Summit and Arctic Security Pact",
+      "slug": "trump-xi-state-visit-greenland-arctic-deal",
+      "topic_keywords": [
+        "Trump Xi summit",
+        "China state visit",
+        "Greenland deal",
+        "Arctic security",
+        "trade"
+      ],
+      "conservative_headline": "Trump Cements Dealmaker Legacy: Xi Comes to Washington, Greenland Pact Signed",
+      "liberal_headline": "Tea and Photo Ops With Xi: Trump's Summit Yields Praise, No Breakthroughs",
+      "poll_question": "Did Trump's China summit and Arctic deal strengthen America?",
+      "poll_option1_label": "Peace Through Strength",
+      "poll_option1_desc": "Direct talks and hard bargaining beat decades of failed diplomacy.",
+      "poll_option2_label": "All Show",
+      "poll_option2_desc": "Flattery and ceremony produced no real concessions from Beijing.",
+      "pexels_search_terms": "diplomatic summit handshake flags white house"
+    },
+    {
+      "title": "Constitutional Duty or Rubber Stamp? Congress Splits Again Over Trump's Iran Strikes",
+      "slug": "congress-war-powers-vote-iran-strikes",
+      "topic_keywords": [
+        "war powers",
+        "Iran strikes",
+        "Congress vote",
+        "military authorization",
+        "Hegseth"
+      ],
+      "conservative_headline": "Republicans Back Commander-in-Chief as Democrats Try to Tie His Hands on Iran",
+      "liberal_headline": "Congress Surrenders Again: GOP Crushes Effort to Rein In Trump's Endless Iran War",
+      "poll_question": "Does Trump need congressional approval to continue strikes on Iran?",
+      "poll_option1_label": "President Decides",
+      "poll_option1_desc": "The commander-in-chief must act fast against threats to Americans.",
+      "poll_option2_label": "Congress Must Vote",
+      "poll_option2_desc": "Only Congress can declare war; this is an unauthorized conflict.",
+      "pexels_search_terms": "capitol congress vote military aircraft"
+    },
+    {
+      "title": "Healthcare Reform or Broken Promise? Voters Trust Democrats by 22 Points as GOP Touts 'Great Plan'",
+      "slug": "healthcare-poll-democrats-advantage-gop-plan",
+      "topic_keywords": [
+        "healthcare",
+        "NBC poll",
+        "insurance premiums",
+        "midterms",
+        "Great Healthcare Plan"
+      ],
+      "conservative_headline": "White House Rolls Out Great Healthcare Plan to Slash Costs Democrats Inflated",
+      "liberal_headline": "Poll Disaster for GOP: Voters Trust Democrats on Health Care by 22 Points",
+      "poll_question": "Which party do you trust more on health care?",
+      "poll_option1_label": "Republicans",
+      "poll_option1_desc": "Market competition and price transparency will lower costs for families.",
+      "poll_option2_label": "Democrats",
+      "poll_option2_desc": "Only Democrats will protect coverage and cap out-of-pocket costs.",
+      "pexels_search_terms": "hospital doctor patient insurance paperwork"
+    },
+    {
+      "title": "Innovation or Surrender? Congress Moves Aggressive AI Bill as US Battles China for Global Tech",
+      "slug": "congress-ai-regulation-bill-china-competition",
+      "topic_keywords": [
+        "AI regulation",
+        "artificial intelligence bill",
+        "China tech race",
+        "Congress legislation",
+        "Big Tech"
+      ],
+      "conservative_headline": "Regulate AI and China Wins: Lawmakers Push Rules That Could Cripple US Innovation",
+      "liberal_headline": "Finally: Congress Takes On Unaccountable AI Giants With Toughest Bill Yet",
+      "poll_question": "Should Congress impose strict rules on AI companies now?",
+      "poll_option1_label": "Let It Build",
+      "poll_option1_desc": "Heavy regulation hands the AI race to China and kills jobs.",
+      "poll_option2_label": "Rules Now",
+      "poll_option2_desc": "Unchecked AI threatens workers, privacy, and democracy itself.",
+      "pexels_search_terms": "artificial intelligence server data center technology"
+    },
+    {
+      "title": "Corruption Crackdown or Political Hit? Probe Into Contracts and Contributions Rocks Senate Race",
+      "slug": "federal-contracts-contributions-probe-senate-race",
+      "topic_keywords": [
+        "federal probe",
+        "campaign contributions",
+        "government contracts",
+        "DOJ investigation",
+        "Senate race"
+      ],
+      "conservative_headline": "Pay-to-Play Exposed: Investigators Eye Contributions Tied to Fat Federal Contracts",
+      "liberal_headline": "Timed for the Midterms: DOJ Probe Lands on a Top Democratic Target Weeks From Election",
+      "poll_question": "Is this investigation legitimate or politically timed?",
+      "poll_option1_label": "Follow Evidence",
+      "poll_option1_desc": "Corruption should be prosecuted regardless of the election calendar.",
+      "poll_option2_label": "Election Interference",
+      "poll_option2_desc": "Weaponized DOJ is smearing candidates right before voters decide.",
+      "pexels_search_terms": "courthouse justice department investigation documents"
+    },
+    {
+      "title": "Preserving History or Erasing It? Fight Erupts Over Moving Japanese Incarceration and Chinese Exclusion Records",
+      "slug": "national-archives-records-relocation-fight",
+      "topic_keywords": [
+        "National Archives",
+        "Japanese American incarceration",
+        "Chinese Exclusion Act",
+        "historical records",
+        "civil rights history"
+      ],
+      "conservative_headline": "Routine Records Move Sparks Latest Manufactured Outrage From the Left",
+      "liberal_headline": "Activists Race to Stop Trump From Hauling Off Records of America's Darkest Chapters",
+      "poll_question": "Should these civil rights-era records be moved out of California?",
+      "poll_option1_label": "Just Logistics",
+      "poll_option1_desc": "Agencies routinely relocate archives; nothing is being destroyed or hidden.",
+      "poll_option2_label": "Keep Them Local",
+      "poll_option2_desc": "Removing records from affected communities erases access to painful history.",
+      "pexels_search_terms": "archives historical documents library boxes"
+    }
+  ]
+}
