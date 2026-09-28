@@ -2,14 +2,14 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-09-10",
-      "slug": "aca-subsidies-expired-premium-spike-midterms",
-      "topic": "ACA subsidies health insurance premiums Obamacare healthcare costs Congress"
-    },
-    {
       "date": "2026-09-24",
       "slug": "white-house-media-ban-court-ruling",
       "topic": "White House media ban press freedom CNN MS NOW Politico First Amendment lawsuit Trump press access"
+    },
+    {
+      "date": "2026-09-28",
+      "slug": "tariffs-gas-prices-midterm-economy",
+      "topic": "tariffs gas prices inflation cost of living midterms"
     }
   ]
 }
