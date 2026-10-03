@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-03",
+  "email_sent_at": "2026-10-03T02:25:45.214468",
+  "stories": [
+    {
+      "title": "Power Grab or Fiscal Discipline? Trump's $810 Million Pocket Rescission Ignites Constitutional Showdown",
+      "slug": "pocket-rescission-810-million-appropriations-fight",
+      "topic_keywords": [
+        "pocket rescission",
+        "appropriations",
+        "power of the purse",
+        "impoundment",
+        "Susan Collins"
+      ],
+      "conservative_headline": "Trump Takes Historic Action to Kill Wasteful Spending as Swamp Screams",
+      "liberal_headline": "Trump Illegally Seizes Congress's Power of the Purse, Even Republicans Say",
+      "poll_question": "Can the president cancel funding Congress already approved?",
+      "poll_option1_label": "Cut the Waste",
+      "poll_option1_desc": "President should have power to stop wasteful spending Congress rubber-stamped.",
+      "poll_option2_label": "Unconstitutional",
+      "poll_option2_desc": "Only Congress controls spending; this is lawless impoundment of approved funds.",
+      "pexels_search_terms": "US Capitol dome money budget"
+    },
+    {
+      "title": "Vindication or Witch Hunt? Jack Smith Faces Senate Republicans Over Trump Prosecutions",
+      "slug": "jack-smith-senate-judiciary-testimony-trump-probes",
+      "topic_keywords": [
+        "Jack Smith",
+        "Senate Judiciary",
+        "special counsel",
+        "Trump prosecution",
+        "DOJ"
+      ],
+      "conservative_headline": "Jack Smith Squirms as Senators Expose His Partisan Crusade Against Trump",
+      "liberal_headline": "Jack Smith Stands Firm as Republicans Gaslight America About Jan. 6",
+      "poll_question": "Were the Jack Smith prosecutions of Trump legitimate?",
+      "poll_option1_label": "Political Hit",
+      "poll_option1_desc": "Smith weaponized DOJ to take down a political opponent.",
+      "poll_option2_label": "Rule of Law",
+      "poll_option2_desc": "Smith followed evidence and did his job without fear or favor.",
+      "pexels_search_terms": "senate hearing room microphone testimony"
+    },
+    {
+      "title": "Securing Removals or Shipping People to Danger? SCOTUS Greenlights Third-Country Deportations",
+      "slug": "supreme-court-third-country-deportations-greenlight",
+      "topic_keywords": [
+        "third country deportation",
+        "Supreme Court",
+        "DHS",
+        "immigration enforcement",
+        "emergency docket"
+      ],
+      "conservative_headline": "Supreme Court Hands Trump Major Win: Bad Day for Criminal Illegals",
+      "liberal_headline": "Supreme Court Lets Trump Deport People to Countries They've Never Seen",
+      "poll_question": "Should migrants be deportable to countries they have no ties to?",
+      "poll_option1_label": "Deport Them",
+      "poll_option1_desc": "Removal orders must be enforced; destination shopping is a loophole.",
+      "poll_option2_label": "Due Process",
+      "poll_option2_desc": "People deserve a hearing before being sent somewhere dangerous and unfamiliar.",
+      "pexels_search_terms": "airplane tarmac detention fence"
+    },
+    {
+      "title": "Worker Shortage or Trump Slowdown? Economy Adds Just 29,000 Jobs as Unemployment Climbs",
+      "slug": "september-jobs-report-29000-unemployment-42",
+      "topic_keywords": [
+        "jobs report",
+        "unemployment rate",
+        "wage growth",
+        "labor market",
+        "Federal Reserve"
+      ],
+      "conservative_headline": "Wages Steady, Jobs Added as Trump Economy Powers Through Global Energy Shock",
+      "liberal_headline": "Hiring Collapses to 29,000 as Wage Growth Hits Five-Year Low Under Trump",
+      "poll_question": "Who is responsible for the slowing job market?",
+      "poll_option1_label": "External Forces",
+      "poll_option1_desc": "Global energy shocks and labor supply limits, not White House policy.",
+      "poll_option2_label": "Trump's Fault",
+      "poll_option2_desc": "Tariffs and chaos crushed hiring while paychecks lost ground to prices.",
+      "pexels_search_terms": "job fair unemployment office workers"
+    },
+    {
+      "title": "Ending It Fast or Forever War? Trump Sends 9,000 More Troops to the Middle East",
+      "slug": "iran-war-9000-troops-middle-east-escalation",
+      "topic_keywords": [
+        "Iran war",
+        "troop deployment",
+        "aircraft carrier",
+        "Middle East",
+        "war powers"
+      ],
+      "conservative_headline": "Trump Projects Strength: Iran War Will End 'Very Quickly' as Forces Surge",
+      "liberal_headline": "Trump Admits He's Timing the Iran War Around the Midterm Elections",
+      "poll_question": "Is escalating in Iran the right call?",
+      "poll_option1_label": "Peace Through Strength",
+      "poll_option1_desc": "Overwhelming force is the fastest path to ending the conflict.",
+      "poll_option2_label": "Endless Quagmire",
+      "poll_option2_desc": "Another open-ended war with no congressional authorization or exit plan.",
+      "pexels_search_terms": "aircraft carrier navy deployment"
+    },
+    {
+      "title": "Protecting Elections or Purging Voters? SCOTUS Clears Trump's Voter Database as Judge Strikes Noncitizen Ban",
+      "slug": "voter-database-purge-noncitizen-voting-ruling",
+      "topic_keywords": [
+        "voter roll purge",
+        "noncitizen voting",
+        "election integrity",
+        "voter database",
+        "federal judge"
+      ],
+      "conservative_headline": "Judge Says Banning Noncitizen Voting Is Unconstitutional \u2014 Let That Sink In",
+      "liberal_headline": "Trump Gets Green Light for Mass Voter Purges Weeks Before the Midterms",
+      "poll_question": "Is the new federal voter verification push legitimate?",
+      "poll_option1_label": "Election Integrity",
+      "poll_option1_desc": "Verifying citizenship protects every legal vote from being cancelled out.",
+      "poll_option2_label": "Voter Suppression",
+      "poll_option2_desc": "Faulty databases will strip eligible Americans from the rolls.",
+      "pexels_search_terms": "voting booth polling place ballot"
+    },
+    {
+      "title": "Big Oil Accountability or Lawfare Shakedown? Supreme Court Takes Up Climate Liability Suits",
+      "slug": "supreme-court-climate-liability-energy-companies",
+      "topic_keywords": [
+        "climate lawsuits",
+        "energy companies",
+        "Supreme Court",
+        "climate liability",
+        "fossil fuels"
+      ],
+      "conservative_headline": "SCOTUS May Finally End Blue-State Lawfare Campaign Against American Energy",
+      "liberal_headline": "Supreme Court Could Hand Big Oil Blanket Immunity for Climate Destruction",
+      "poll_question": "Should oil companies face lawsuits over climate damage?",
+      "poll_option1_label": "Dismiss Them",
+      "poll_option1_desc": "Climate policy belongs in Congress, not in activist courtrooms.",
+      "poll_option2_label": "Make Them Pay",
+      "poll_option2_desc": "Companies that misled the public should cover the damages they caused.",
+      "pexels_search_terms": "oil refinery smokestack courthouse"
+    },
+    {
+      "title": "Obamacare Rebate or Election-Year Bribe? Treasury Starts Mailing $500 Checks",
+      "slug": "obamacare-500-refund-checks-treasury",
+      "topic_keywords": [
+        "Obamacare refund",
+        "health insurance",
+        "ACA subsidies",
+        "Treasury checks",
+        "healthcare costs"
+      ],
+      "conservative_headline": "Trump Delivers: $500 Checks Returning Obamacare Cash to Working Families",
+      "liberal_headline": "Trump Dangles $500 Checks After Gutting the Health Coverage Americans Rely On",
+      "poll_question": "Are the $500 Obamacare refund checks good policy?",
+      "poll_option1_label": "Money Back",
+      "poll_option1_desc": "Returning cash beats funneling premiums into a broken insurance scheme.",
+      "poll_option2_label": "Election Stunt",
+      "poll_option2_desc": "One-time checks can't replace the coverage and subsidies being cut.",
+      "pexels_search_terms": "government check mailbox healthcare"
+    },
+    {
+      "title": "Innovation First or Corporate Capture? Trump Renames AI 'Super Intelligence' and Picks Jay Clayton as Czar",
+      "slug": "trump-super-intelligence-executive-order-ai-czar",
+      "topic_keywords": [
+        "artificial intelligence",
+        "Super Intelligence",
+        "Jay Clayton",
+        "AI czar",
+        "tech regulation"
+      ],
+      "conservative_headline": "Trump Unleashes American Super Intelligence, Rejects Europe-Style Red Tape",
+      "liberal_headline": "Trump Lets AI Giants Write Their Own Rules \u2014 and Rebrands the Technology for Them",
+      "poll_question": "Should AI companies regulate themselves?",
+      "poll_option1_label": "Let It Build",
+      "poll_option1_desc": "Heavy regulation hands the AI race to China and kills innovation.",
+      "poll_option2_label": "Rein It In",
+      "poll_option2_desc": "Self-regulation by trillion-dollar firms is no regulation at all.",
+      "pexels_search_terms": "artificial intelligence server data center"
+    },
+    {
+      "title": "Protecting National Security or Punishing Dissent? Visa Crackdown Freezes Columbia Journalism Admissions",
+      "slug": "columbia-journalism-visa-policy-admissions-pause",
+      "topic_keywords": [
+        "Columbia University",
+        "student visas",
+        "higher education",
+        "campus politics",
+        "international students"
+      ],
+      "conservative_headline": "Columbia Feels the Heat as Trump Ends Visa Pipeline for Radical Activist Campuses",
+      "liberal_headline": "Trump's Visa War Shutters a Storied Journalism Program's Admissions",
+      "poll_question": "Are the visa restrictions on universities justified?",
+      "poll_option1_label": "Vet Them",
+      "poll_option1_desc": "Visas are a privilege; elite schools shouldn't import agitators on taxpayer goodwill.",
+      "poll_option2_label": "Academic Freedom",
+      "poll_option2_desc": "Punishing universities over politics guts American research and press freedom.",
+      "pexels_search_terms": "university campus students library"
+    }
+  ]
+}
