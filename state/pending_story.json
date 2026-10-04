@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-04",
+  "email_sent_at": "2026-10-04T03:03:06.553830",
+  "stories": [
+    {
+      "title": "Justice Served or Political Payback? Jack Smith Faces Senate Grilling Over Trump Prosecutions",
+      "slug": "jack-smith-senate-hearing-trump-probes",
+      "topic_keywords": [
+        "Jack Smith",
+        "Senate Judiciary",
+        "special counsel",
+        "Trump prosecution",
+        "DOJ oversight"
+      ],
+      "conservative_headline": "Jack Smith Squirms as Senators Expose His Partisan Witch Hunt Against Trump",
+      "liberal_headline": "Jack Smith Stands Firm as Republicans Launch Revenge Hearing Over Lawful Probes",
+      "poll_question": "Were the special counsel's Trump prosecutions legitimate?",
+      "poll_option1_label": "Political Witch Hunt",
+      "poll_option1_desc": "Prosecutors weaponized DOJ to take down Trump before the election.",
+      "poll_option2_label": "Rule Of Law",
+      "poll_option2_desc": "Smith followed evidence; no one is above the law.",
+      "pexels_search_terms": "senate hearing testimony capitol microphone"
+    },
+    {
+      "title": "Cutting Waste or Breaking the Law? White House Claws Back $810 Million Congress Already Approved",
+      "slug": "pocket-rescission-810-million-health-education",
+      "topic_keywords": [
+        "pocket rescission",
+        "appropriations",
+        "power of the purse",
+        "Susan Collins",
+        "federal funding"
+      ],
+      "conservative_headline": "Trump Axes $810 Million in Wasteful Health and Education Spending",
+      "liberal_headline": "Trump Illegally Seizes Power of the Purse, Gutting Health and Education Funds",
+      "poll_question": "Can a president cancel funding Congress already approved?",
+      "poll_option1_label": "Cut The Waste",
+      "poll_option1_desc": "Presidents should stop spending on bloated, ineffective programs.",
+      "poll_option2_label": "Unconstitutional Grab",
+      "poll_option2_desc": "Only Congress controls spending; this is lawless impoundment.",
+      "pexels_search_terms": "capitol dome money budget documents"
+    },
+    {
+      "title": "Border Security or Lethal Overreach? ICE Shootings Spark Lawsuits and New Use-of-Force Rules",
+      "slug": "ice-shootings-lawsuits-use-of-force-rules",
+      "topic_keywords": [
+        "ICE shooting",
+        "immigration enforcement",
+        "use of force",
+        "wrongful death lawsuit",
+        "deportation raids"
+      ],
+      "conservative_headline": "Agents Under Siege: ICE Officers Defend Themselves as Activists Launch Lawfare",
+      "liberal_headline": "Families Sue After ICE Agents Shoot Civilians, Forcing Agency to Rewrite Rules",
+      "poll_question": "Are ICE agents using appropriate force?",
+      "poll_option1_label": "Backing The Badge",
+      "poll_option1_desc": "Agents face violent resistance and deserve the benefit of the doubt.",
+      "poll_option2_label": "Out Of Control",
+      "poll_option2_desc": "Unaccountable agents are shooting civilians with no body cameras.",
+      "pexels_search_terms": "police tape street enforcement vehicle"
+    },
+    {
+      "title": "Peace Through Strength or Endless Quagmire? Troops Leave Iraq as Iran War Death Toll Grows",
+      "slug": "iraq-withdrawal-iran-war-casualties",
+      "topic_keywords": [
+        "Iraq withdrawal",
+        "Iran war",
+        "troop casualties",
+        "Pentagon",
+        "Middle East"
+      ],
+      "conservative_headline": "Trump Brings Troops Home from Iraq After Crushing Iran's Military Threat",
+      "liberal_headline": "Pentagon Accused of Hiding True Death Toll as Iran War Drags Past Six Months",
+      "poll_question": "Is the administration handling the Iran conflict well?",
+      "poll_option1_label": "Strength Works",
+      "poll_option1_desc": "Decisive force deterred Iran and let us bring troops home.",
+      "poll_option2_label": "Hidden Costs",
+      "poll_option2_desc": "An undeclared war with undisclosed American casualties and no exit plan.",
+      "pexels_search_terms": "military soldiers deployment flag"
+    },
+    {
+      "title": "Super Intelligence or Super Smokescreen? Trump Renames AI and Lets Companies Police Themselves",
+      "slug": "trump-super-intelligence-ai-self-regulation",
+      "topic_keywords": [
+        "artificial intelligence",
+        "super intelligence",
+        "executive order",
+        "tech regulation",
+        "AI companies"
+      ],
+      "conservative_headline": "Trump Unleashes American Super Intelligence, Rejecting EU-Style Red Tape",
+      "liberal_headline": "Trump Hands AI Giants a Blank Check and a Rebrand Instead of Real Rules",
+      "poll_question": "Should AI companies regulate themselves?",
+      "poll_option1_label": "Innovation First",
+      "poll_option1_desc": "Heavy regulation would hand the AI race to China.",
+      "poll_option2_label": "Guardrails Now",
+      "poll_option2_desc": "Self-regulation is a giveaway to the richest companies on earth.",
+      "pexels_search_terms": "artificial intelligence server data center"
+    },
+    {
+      "title": "Election Integrity or Voter Purge? Supreme Court Greenlights Citizenship Database for Voter Rolls",
+      "slug": "supreme-court-voter-database-purge-ruling",
+      "topic_keywords": [
+        "Supreme Court",
+        "voter rolls",
+        "citizenship database",
+        "voter purge",
+        "election law"
+      ],
+      "conservative_headline": "Supreme Court Hands Trump Win, Lets States Verify Citizenship of Voters",
+      "liberal_headline": "Supreme Court Opens Door to Purging Eligible Citizens Weeks Before Midterms",
+      "poll_question": "Should states use federal citizenship data to audit voter rolls?",
+      "poll_option1_label": "Verify Voters",
+      "poll_option1_desc": "Only citizens should vote; checking the rolls is common sense.",
+      "poll_option2_label": "Purge Risk",
+      "poll_option2_desc": "Flawed data will strip eligible Americans of their right to vote.",
+      "pexels_search_terms": "voting booth ballot polling place"
+    },
+    {
+      "title": "Senior Relief or Election-Year Bribe? Trump Sends $90 Medicare Checks and Obamacare Refunds",
+      "slug": "trump-medicare-payments-obamacare-refunds",
+      "topic_keywords": [
+        "Medicare premiums",
+        "Obamacare refunds",
+        "seniors",
+        "healthcare costs",
+        "Medicare Improvement Fund"
+      ],
+      "conservative_headline": "Trump Delivers Direct Relief to Seniors Crushed by Healthcare Costs",
+      "liberal_headline": "Trump Dangles $90 Checks After Slashing the Health Programs Seniors Rely On",
+      "poll_question": "Are the new healthcare payments real relief?",
+      "poll_option1_label": "Money Back",
+      "poll_option1_desc": "Returning dollars directly to seniors beats bureaucratic middlemen.",
+      "poll_option2_label": "Pre-Election Stunt",
+      "poll_option2_desc": "Small checks can't offset massive cuts to health coverage.",
+      "pexels_search_terms": "senior citizen doctor medical clinic"
+    },
+    {
+      "title": "Accountability or Lawfare? Supreme Court Weighs Whether Oil Giants Can Be Sued for Climate Change",
+      "slug": "supreme-court-climate-liability-energy-companies",
+      "topic_keywords": [
+        "climate lawsuits",
+        "oil companies",
+        "Supreme Court",
+        "Alito recusal",
+        "energy liability"
+      ],
+      "conservative_headline": "Justices Eye End to Blue-State Climate Lawfare Targeting American Energy",
+      "liberal_headline": "Big Oil Asks a Friendly Court to Kill Climate Suits as Alito Bows Out Over Stocks",
+      "poll_question": "Should energy companies face lawsuits over climate damage?",
+      "poll_option1_label": "Dismiss The Suits",
+      "poll_option1_desc": "Courts shouldn't set energy policy through activist litigation.",
+      "poll_option2_label": "Make Them Pay",
+      "poll_option2_desc": "Polluters who deceived the public should answer in court.",
+      "pexels_search_terms": "oil refinery smokestack industrial climate"
+    },
+    {
+      "title": "Protecting Standards or Punishing Scholars? Visa Crackdown Freezes Columbia Journalism Admissions",
+      "slug": "columbia-journalism-visa-policy-admissions-pause",
+      "topic_keywords": [
+        "student visas",
+        "Columbia University",
+        "higher education",
+        "international students",
+        "campus politics"
+      ],
+      "conservative_headline": "Columbia Finally Faces Consequences for Years of Radicalism on Campus",
+      "liberal_headline": "Trump Visa Crackdown Shutters a Storied Journalism Program's Admissions",
+      "poll_question": "Are the administration's student visa restrictions justified?",
+      "poll_option1_label": "Vet The Visas",
+      "poll_option1_desc": "Universities abused visas; tighter screening protects national interests.",
+      "poll_option2_label": "Attack On Press",
+      "poll_option2_desc": "Targeting journalism students is censorship dressed up as security.",
+      "pexels_search_terms": "university campus students library"
+    },
+    {
+      "title": "Hiring Freeze or Trump Slump? Economy Adds Just 29,000 Jobs as Unemployment Climbs",
+      "slug": "september-jobs-report-29000-unemployment-4-2",
+      "topic_keywords": [
+        "jobs report",
+        "unemployment rate",
+        "labor market",
+        "wage growth",
+        "Federal Reserve"
+      ],
+      "conservative_headline": "Labor Market Tightens as Trump Policies Reshape Hiring Ahead of Boom",
+      "liberal_headline": "Hiring Collapses to 29,000 as Wage Growth Hits a Five-Year Low",
+      "poll_question": "Who's responsible for the weakening job market?",
+      "poll_option1_label": "Fed's Fault",
+      "poll_option1_desc": "High interest rates, not White House policy, are choking hiring.",
+      "poll_option2_label": "Policy Failure",
+      "poll_option2_desc": "Trump's agenda stalled hiring while paychecks lose to prices.",
+      "pexels_search_terms": "job fair office workers hiring"
+    }
+  ]
+}
