@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-08",
+  "email_sent_at": "2026-10-08T02:31:27.558128",
+  "stories": [
+    {
+      "title": "Propaganda or PSA? Trump's Taxpayer-Funded TV Ads Spark DNC Lawsuit",
+      "slug": "taxpayer-funded-trump-ads-dnc-lawsuit",
+      "topic_keywords": [
+        "taxpayer-funded ads",
+        "DNC lawsuit",
+        "Trump PSA",
+        "government propaganda",
+        "midterm advertising"
+      ],
+      "conservative_headline": "Trump Shuts Down Fake Outrage, Says He'll Pay for Ads Himself as Democrats Sue Over Public Service Messages",
+      "liberal_headline": "DNC Sues Trump Administration for Using Taxpayer Dollars on Campaign-Style Ads Weeks Before Midterms",
+      "poll_question": "Were Trump's government-funded TV ads illegal propaganda?",
+      "poll_option1_label": "Legitimate PSA",
+      "poll_option1_desc": "Routine government messaging; Democrats manufactured outrage for midterm headlines.",
+      "poll_option2_label": "Illegal Propaganda",
+      "poll_option2_desc": "Public money funded campaign ads, violating federal anti-propaganda spending laws.",
+      "pexels_search_terms": "television advertisement broadcast studio politics"
+    },
+    {
+      "title": "Relief Checks or Election Bribe? Trump's $5,000 Payments and Medicare Rebates",
+      "slug": "trump-5000-checks-medicare-rebates-midterms",
+      "topic_keywords": [
+        "$5000 checks",
+        "Medicare rebate",
+        "tariff dividend",
+        "inflation",
+        "midterm economy"
+      ],
+      "conservative_headline": "Trump Delivers: $5,000 Checks and Medicare Rebates Headed to Americans as Economy Roars Back",
+      "liberal_headline": "Trump Dangles Cash Payments to Seniors and Voters Weeks Before an Election He's Losing",
+      "poll_question": "Are Trump's direct payments good policy or vote-buying?",
+      "poll_option1_label": "Earned Relief",
+      "poll_option1_desc": "Returning tariff revenue to families squeezed by years of inflation.",
+      "poll_option2_label": "Election Bribe",
+      "poll_option2_desc": "Timed cash giveaways distract from weak hiring and rising prices.",
+      "pexels_search_terms": "government check mailbox money envelope"
+    },
+    {
+      "title": "Record Enforcement or Record Cruelty? ICE Arrests Hit All-Time High",
+      "slug": "ice-arrests-record-high-october-2026",
+      "topic_keywords": [
+        "ICE arrests",
+        "mass deportation",
+        "detention",
+        "immigration enforcement",
+        "DHS"
+      ],
+      "conservative_headline": "ICE Smashes Arrest Records, Removes Murderers and Child Abusers as Crime Falls to Historic Lows",
+      "liberal_headline": "ICE Arrests Hit Record High as Agents Grab Parents at Colleges and Courthouses",
+      "poll_question": "Is record-high ICE enforcement making America safer?",
+      "poll_option1_label": "Law Restored",
+      "poll_option1_desc": "Removing criminal aliens protects communities and finally enforces existing immigration law.",
+      "poll_option2_label": "Terror Campaign",
+      "poll_option2_desc": "Indiscriminate arrests sweep up workers, students and families without due process.",
+      "pexels_search_terms": "immigration enforcement detention protest crowd"
+    },
+    {
+      "title": "Peace Through Strength or Endless War? Trump Weighs New Strikes on Iran",
+      "slug": "iran-war-escalation-strikes-debate",
+      "topic_keywords": [
+        "Iran war",
+        "Strait of Hormuz",
+        "Vance enrichment",
+        "Camp David",
+        "military escalation"
+      ],
+      "conservative_headline": "Rubio: Iran Has Lost Control of Hormuz as Trump Keeps All Options on the Table",
+      "liberal_headline": "Seven Months In, Trump's Iran War Grinds On With No Exit \u2014 and Officials Plan More Strikes",
+      "poll_question": "Should the U.S. resume major combat operations against Iran?",
+      "poll_option1_label": "Finish the Job",
+      "poll_option1_desc": "Only military pressure stops Iranian nukes and reopens global shipping lanes.",
+      "poll_option2_label": "Negotiate Now",
+      "poll_option2_desc": "Bombing failed for seven months; diplomacy is the only real off-ramp.",
+      "pexels_search_terms": "naval warship strait oil tanker"
+    },
+    {
+      "title": "Judicial Restraint or Climate Giveaway? Supreme Court Weighs Big Oil Liability Suits",
+      "slug": "supreme-court-big-oil-climate-liability",
+      "topic_keywords": [
+        "Supreme Court",
+        "climate lawsuits",
+        "Big Oil",
+        "Alito recusal",
+        "state tort claims"
+      ],
+      "conservative_headline": "Justices Signal Skepticism of Blue-State Lawfare Trying to Bankrupt American Energy Producers",
+      "liberal_headline": "Supreme Court Could Shield Oil Giants From Accountability as Alito Steps Aside Over Stock Holdings",
+      "poll_question": "Should states be allowed to sue oil companies over climate change?",
+      "poll_option1_label": "Block Lawfare",
+      "poll_option1_desc": "Energy policy belongs in Congress, not activist state courtrooms and juries.",
+      "poll_option2_label": "Let Juries Decide",
+      "poll_option2_desc": "Companies that misled the public should face the same liability as anyone.",
+      "pexels_search_terms": "supreme court building oil refinery"
+    },
+    {
+      "title": "Rooting Out Radicals or Weaponizing the FBI? Whistleblower Alleges Trump Ordered Protester Probe",
+      "slug": "fbi-whistleblower-protester-investigation",
+      "topic_keywords": [
+        "FBI whistleblower",
+        "Kash Patel",
+        "protester investigation",
+        "DOJ weaponization",
+        "First Amendment"
+      ],
+      "conservative_headline": "Disgruntled Ex-Agent's Claims Recycled by Media as Patel Refocuses FBI on Crime and Illegal Immigration",
+      "liberal_headline": "Whistleblower: Trump Demanded FBI Investigate Protesters Over a TikTok Video He Watched",
+      "poll_question": "Did the White House abuse the FBI by targeting protesters?",
+      "poll_option1_label": "Lawful Oversight",
+      "poll_option1_desc": "Presidents may flag threats; agents investigate violence, not opinions or speech.",
+      "poll_option2_label": "Unconstitutional Abuse",
+      "poll_option2_desc": "Ordering probes of critics over a video is textbook authoritarian retaliation.",
+      "pexels_search_terms": "FBI headquarters federal agent investigation"
+    },
+    {
+      "title": "Accountability or Censorship? White House Boots Politico and CNN From Press Pool",
+      "slug": "white-house-press-pool-ban-politico-cnn",
+      "topic_keywords": [
+        "press pool ban",
+        "Politico",
+        "CNN lawsuit",
+        "press freedom",
+        "media access"
+      ],
+      "conservative_headline": "White House Ends Special Treatment for Outlets That Traded Journalism for Activism",
+      "liberal_headline": "Trump Expands Press Purge, Removing Politico From Pool as Outlets Battle Ban in Court",
+      "poll_question": "Can the White House bar news outlets it dislikes?",
+      "poll_option1_label": "No Entitlement",
+      "poll_option1_desc": "Access is a privilege; biased outlets have no constitutional right to it.",
+      "poll_option2_label": "Press Retaliation",
+      "poll_option2_desc": "Punishing critical coverage is viewpoint discrimination that chills a free press.",
+      "pexels_search_terms": "press briefing room microphones journalists"
+    },
+    {
+      "title": "Local Control or Gutting Standards? Trump Admin Moves to Roll Back Education Rules",
+      "slug": "education-standards-rollback-fight",
+      "topic_keywords": [
+        "education standards",
+        "Department of Education",
+        "local control",
+        "DEI rollback",
+        "school accountability"
+      ],
+      "conservative_headline": "Education Department Returns Power to Parents and States, Scrapping Washington's Failed Mandates",
+      "liberal_headline": "Democrats Blast 'Brazen' Trump Plan to Dismantle Federal Education Standards for America's Schools",
+      "poll_question": "Should Washington stop setting K-12 education standards?",
+      "poll_option1_label": "Empower States",
+      "poll_option1_desc": "Federal mandates failed students; parents and local boards know best.",
+      "poll_option2_label": "Protect Students",
+      "poll_option2_desc": "Gutting standards abandons poor and disabled kids to unequal schooling.",
+      "pexels_search_terms": "classroom students teacher school desks"
+    },
+    {
+      "title": "Fair Maps or Gutted Voting Rights? SCOTUS Tosses Latino Vote Dilution Finding",
+      "slug": "voting-rights-act-washington-map-ruling",
+      "topic_keywords": [
+        "Voting Rights Act",
+        "Louisiana v. Callais",
+        "redistricting",
+        "Latino voters",
+        "Section 2"
+      ],
+      "conservative_headline": "Supreme Court Reaffirms Race-Neutral Maps, Rejecting Racial Gerrymandering by Left-Wing Groups",
+      "liberal_headline": "Supreme Court Erases Finding That Washington Map Diluted Latino Votes, Deepening VRA Rollback",
+      "poll_question": "Should plaintiffs have to prove intentional racial discrimination in maps?",
+      "poll_option1_label": "Colorblind Law",
+      "poll_option1_desc": "Districts shouldn't be drawn by race; intent standard restores equal treatment.",
+      "poll_option2_label": "Rights Gutted",
+      "poll_option2_desc": "An impossible burden of proof effectively ends minority voting protections.",
+      "pexels_search_terms": "voting booth ballot election map"
+    },
+    {
+      "title": "Cheaper Drugs or Hollow Hype? Trump's Drug Pricing Claims Get a Reality Check",
+      "slug": "trumprx-drug-prices-mixed-bag-report",
+      "topic_keywords": [
+        "TrumpRx",
+        "drug prices",
+        "prescription costs",
+        "Medicare",
+        "healthcare policy"
+      ],
+      "conservative_headline": "Trump Delivers Lowest Drug Prices in the World After Decades of Washington Failure",
+      "liberal_headline": "Report Finds TrumpRx Discounts a 'Mixed Bag' as President Oversells Drug Price Wins",
+      "poll_question": "Has Trump actually lowered Americans' prescription drug costs?",
+      "poll_option1_label": "Historic Win",
+      "poll_option1_desc": "Deals with manufacturers cut prices no previous administration could touch.",
+      "poll_option2_label": "Mostly Spin",
+      "poll_option2_desc": "Savings are narrow and inconsistent; most patients see little change.",
+      "pexels_search_terms": "pharmacy prescription pills medication counter"
+    }
+  ]
+}
