@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-10",
+  "email_sent_at": "2026-10-10T02:31:38.497475",
+  "stories": [
+    {
+      "title": "Energy Lifeline or Putin Payday? Trump's Russian Diesel Deal Splits Washington",
+      "slug": "trump-russia-diesel-deal-midterms",
+      "topic_keywords": [
+        "Russia diesel deal",
+        "Putin phone call",
+        "gas prices",
+        "energy sanctions",
+        "midterms"
+      ],
+      "conservative_headline": "Trump Delivers: President Strikes Deal to Flood U.S. With Cheap Diesel, Crushing Prices at the Pump",
+      "liberal_headline": "Trump Hands Putin a Sanctions Lifeline to Buy Lower Gas Prices Before the Midterms",
+      "poll_question": "Was the Russia diesel deal the right call?",
+      "poll_option1_label": "Smart Deal",
+      "poll_option1_desc": "Lower fuel costs for families beat symbolic pressure on Moscow.",
+      "poll_option2_label": "Putin Payoff",
+      "poll_option2_desc": "Rewarding Russia with sanctions relief for a pre-election price stunt.",
+      "pexels_search_terms": "oil refinery diesel fuel tanker"
+    },
+    {
+      "title": "Self-Defense or Street Execution? ICE Shooting of Bronx Father Ignites New York",
+      "slug": "ice-shooting-bronx-father-court-order",
+      "topic_keywords": [
+        "ICE shooting",
+        "Bronx",
+        "Mamdani",
+        "deportation block",
+        "immigration enforcement"
+      ],
+      "conservative_headline": "Obama Judge Blocks Removal of Criminal Illegal Alien Shot While Endangering ICE Officers",
+      "liberal_headline": "ICE Agent Shoots Father in the Neck With His 5-Year-Old in the Car as Protests Erupt",
+      "poll_question": "Who's at fault in the Bronx ICE shooting?",
+      "poll_option1_label": "Agents Justified",
+      "poll_option1_desc": "Officers faced a dangerous suspect with a violent criminal record.",
+      "poll_option2_label": "Excessive Force",
+      "poll_option2_desc": "Shooting a father beside his child is never acceptable enforcement.",
+      "pexels_search_terms": "police lights city street night"
+    },
+    {
+      "title": "Hiring Freeze or Trump Slump? 29,000 Jobs and Rising Prices Before the Vote",
+      "slug": "september-jobs-report-29000-inflation",
+      "topic_keywords": [
+        "jobs report",
+        "unemployment 4.2%",
+        "wage growth",
+        "inflation",
+        "Federal Reserve"
+      ],
+      "conservative_headline": "Unemployment Still Historically Low as Trump Economy Absorbs Fed Rate Hikes",
+      "liberal_headline": "Economy Stalls: Just 29,000 Jobs Added as Wage Growth Hits 5-Year Low and Prices Climb",
+      "poll_question": "How healthy is the economy right now?",
+      "poll_option1_label": "Still Strong",
+      "poll_option1_desc": "Low unemployment and growth continue despite Fed tightening and global shocks.",
+      "poll_option2_label": "Stalling Out",
+      "poll_option2_desc": "Hiring collapsed, revisions turned negative, and inflation is eating paychecks.",
+      "pexels_search_terms": "job fair hiring sign workers"
+    },
+    {
+      "title": "Accountability or Intimidation? Trump Launches Committee to Probe Fed's Lisa Cook",
+      "slug": "trump-committee-investigate-fed-lisa-cook",
+      "topic_keywords": [
+        "Lisa Cook",
+        "Federal Reserve",
+        "investigation",
+        "central bank independence",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Orders Investigation Into Fed Governor Cook as Questions Mount Over Her Conduct",
+      "liberal_headline": "Trump Escalates War on the Fed With Investigative Committee Targeting Lisa Cook",
+      "poll_question": "Is investigating Fed Governor Cook legitimate?",
+      "poll_option1_label": "Fair Scrutiny",
+      "poll_option1_desc": "No official, including Fed governors, should be above investigation.",
+      "poll_option2_label": "Political Hit",
+      "poll_option2_desc": "Pressuring the Fed to bend rates destroys central bank independence.",
+      "pexels_search_terms": "federal reserve building currency washington"
+    },
+    {
+      "title": "Strategic Patience or Election Timing? Trump Says No Iran Strike Before Midterms",
+      "slug": "trump-no-iran-attack-before-midterms",
+      "topic_keywords": [
+        "Iran",
+        "Strait of Hormuz",
+        "military strike",
+        "midterms",
+        "Houthi attacks"
+      ],
+      "conservative_headline": "Trump Keeps Iran Guessing: No Strike for Now as Maximum Pressure Squeezes Tehran",
+      "liberal_headline": "Trump Admits War Timing Is About Elections, Announcing Iran Strikes Will Wait Until After Nov. 3",
+      "poll_question": "Should Iran policy be tied to the election calendar?",
+      "poll_option1_label": "Keep Leverage",
+      "poll_option1_desc": "Strategic ambiguity and restraint protect troops and strengthen negotiating position.",
+      "poll_option2_label": "Politicizing War",
+      "poll_option2_desc": "Scheduling military action around votes puts politics above national security.",
+      "pexels_search_terms": "naval warship aircraft carrier sea"
+    },
+    {
+      "title": "Transparency or Spectacle? Livestreaming the Fort Hood Shooter's Execution",
+      "slug": "nidal-hasan-execution-livestream-debate",
+      "topic_keywords": [
+        "Nidal Hasan",
+        "execution livestream",
+        "firing squad",
+        "Hegseth",
+        "Vance"
+      ],
+      "conservative_headline": "Justice in the Open: Pentagon Says Americans Deserve to See the Fort Hood Terrorist Face Justice",
+      "liberal_headline": "Vance Breaks With Hegseth as Pentagon's Plan to Livestream a Firing Squad Draws Legal Alarm",
+      "poll_question": "Should the execution be livestreamed?",
+      "poll_option1_label": "Show It",
+      "poll_option1_desc": "Victims and the public deserve full transparency in capital punishment.",
+      "poll_option2_label": "Grotesque Theater",
+      "poll_option2_desc": "Broadcasting a killing degrades justice and turns death into entertainment.",
+      "pexels_search_terms": "military base american flag memorial"
+    },
+    {
+      "title": "Judicial Overreach or Constitutional Check? SCOTUS Weighs Climate Suits Against Big Oil",
+      "slug": "supreme-court-climate-case-boulder-exxon",
+      "topic_keywords": [
+        "Supreme Court",
+        "climate lawsuit",
+        "Exxon Mobil",
+        "Boulder Colorado",
+        "Suncor"
+      ],
+      "conservative_headline": "Activist Cities Try to Set National Energy Policy Through Courtrooms, Justices Told",
+      "liberal_headline": "Supreme Court Could Slam the Courthouse Door on Communities Suing Big Oil for Climate Damage",
+      "poll_question": "Should cities be able to sue oil companies over climate change?",
+      "poll_option1_label": "Not In Court",
+      "poll_option1_desc": "Energy policy belongs to Congress, not local juries and trial lawyers.",
+      "poll_option2_label": "Let Them Sue",
+      "poll_option2_desc": "Communities harmed by deception deserve their day in court.",
+      "pexels_search_terms": "oil refinery smokestacks climate"
+    },
+    {
+      "title": "Press Accountability or Payback? White House Boots Politico From Trump's Travel Pool",
+      "slug": "white-house-press-pool-politico-cnn-ban",
+      "topic_keywords": [
+        "press pool",
+        "Politico",
+        "CNN",
+        "MS NOW",
+        "First Amendment lawsuit"
+      ],
+      "conservative_headline": "White House Decides Who Gets Access, Sidelines Partisan Outlets Posing as Reporters",
+      "liberal_headline": "Retaliation Watch: White House Strips Politico From Press Pool as Judge Questions Media Bans",
+      "poll_question": "Can the White House pick which outlets cover the president?",
+      "poll_option1_label": "Its Call",
+      "poll_option1_desc": "Access is a privilege; no outlet has a constitutional right to it.",
+      "poll_option2_label": "Press Retaliation",
+      "poll_option2_desc": "Punishing critical coverage is textbook government retaliation against a free press.",
+      "pexels_search_terms": "press briefing microphones journalists podium"
+    },
+    {
+      "title": "Hiring Reform or Lowered Bar? Durbin Demands Probe of FBI's New Standards",
+      "slug": "fbi-hiring-standards-durbin-ig-probe",
+      "topic_keywords": [
+        "FBI hiring",
+        "Dick Durbin",
+        "inspector general",
+        "disqualifications",
+        "DOJ"
+      ],
+      "conservative_headline": "Democrats Attack FBI for Modernizing Outdated Hiring Rules That Shrank the Applicant Pool",
+      "liberal_headline": "FBI Quietly Drops Theft and Bestiality From Automatic Disqualifiers; Durbin Demands Investigation",
+      "poll_question": "Were the FBI's relaxed hiring rules appropriate?",
+      "poll_option1_label": "Sensible Update",
+      "poll_option1_desc": "Case-by-case review beats rigid blanket bans on qualified applicants.",
+      "poll_option2_label": "Standards Gutted",
+      "poll_option2_desc": "The nation's top law enforcement agency should not lower its integrity bar.",
+      "pexels_search_terms": "FBI headquarters building badge"
+    },
+    {
+      "title": "Protecting Workers or Choking Talent? U.S. Suspends Microsoft and Adobe From Green Card Program",
+      "slug": "microsoft-adobe-green-card-labor-suspension",
+      "topic_keywords": [
+        "green card labor",
+        "Microsoft",
+        "Adobe",
+        "H-1B crackdown",
+        "tech workers"
+      ],
+      "conservative_headline": "America First Wins: Administration Suspends Big Tech Giants From Foreign Labor Pipeline",
+      "liberal_headline": "Trump Targets Microsoft and Adobe in Immigration Crackdown Economists Say Will Backfire on Innovation",
+      "poll_question": "Was suspending big tech from the green card program right?",
+      "poll_option1_label": "Hire Americans",
+      "poll_option1_desc": "Companies laying off Americans shouldn't get cheaper foreign labor pipelines.",
+      "poll_option2_label": "Self-Sabotage",
+      "poll_option2_desc": "Blocking skilled immigrants hands global tech leadership to competitors.",
+      "pexels_search_terms": "tech office workers computers campus"
+    }
+  ]
+}
