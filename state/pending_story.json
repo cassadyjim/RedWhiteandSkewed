@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-11",
+  "email_sent_at": "2026-10-11T02:34:33.671139",
+  "stories": [
+    {
+      "title": "Equal Rights or Weaponized Justice? DOJ Loosens Rules Letting Top Appointees Hit the Campaign Trail",
+      "slug": "doj-appointees-campaign-activity-memo",
+      "topic_keywords": [
+        "Justice Department",
+        "Todd Blanche",
+        "Hatch Act",
+        "political appointees",
+        "campaign activity"
+      ],
+      "conservative_headline": "DOJ Restores Free Speech Rights to Appointees Long Silenced by Bureaucratic Overreach",
+      "liberal_headline": "Justice Department Shreds Guardrails, Clearing Trump's Lawyers to Campaign Before Midterms",
+      "poll_question": "Should senior DOJ officials be allowed to campaign for candidates?",
+      "poll_option1_label": "Free Speech",
+      "poll_option1_desc": "Appointees are political by nature and shouldn't lose their civic rights",
+      "poll_option2_label": "Keep DOJ Neutral",
+      "poll_option2_desc": "Prosecutors campaigning destroys public trust in impartial law enforcement",
+      "pexels_search_terms": "justice department building courthouse columns"
+    },
+    {
+      "title": "AI Boom or Household Bust? Consumer Confidence Craters to a Record Low",
+      "slug": "consumer-sentiment-record-low-inflation",
+      "topic_keywords": [
+        "consumer sentiment",
+        "inflation",
+        "Michigan survey",
+        "cost of living",
+        "Federal Reserve"
+      ],
+      "conservative_headline": "Markets Surge and Layoffs Stay Low as Media Talks Down a Growing Trump Economy",
+      "liberal_headline": "Americans' View of the Economy Hits Worst Level Ever Recorded as Prices Keep Climbing",
+      "poll_question": "Is the economy working for ordinary Americans right now?",
+      "poll_option1_label": "Still Growing",
+      "poll_option1_desc": "Low layoffs and strong investment show the fundamentals remain solid",
+      "poll_option2_label": "Households Squeezed",
+      "poll_option2_desc": "Record-low confidence proves prices and weak hiring are crushing families",
+      "pexels_search_terms": "grocery shopping receipt prices"
+    },
+    {
+      "title": "Resisting Arrest or Reckless Shooting? Judge Blocks Deportation of Man Shot by ICE in the Bronx",
+      "slug": "bronx-ice-shooting-judge-blocks-deportation",
+      "topic_keywords": [
+        "ICE",
+        "Bronx shooting",
+        "deportation order",
+        "sanctuary city",
+        "federal judge"
+      ],
+      "conservative_headline": "Activist Judge Shields Suspect Who Fled ICE Agents From Lawful Removal",
+      "liberal_headline": "Court Steps In After ICE Agent Opens Fire During NYC Traffic Stop",
+      "poll_question": "Was the ICE shooting justified?",
+      "poll_option1_label": "Justified",
+      "poll_option1_desc": "He refused commands and drove at agents who feared for their lives",
+      "poll_option2_label": "Excessive Force",
+      "poll_option2_desc": "Shooting into a vehicle over a civil immigration arrest is indefensible",
+      "pexels_search_terms": "police lights city street night"
+    },
+    {
+      "title": "Defending an Ally or Another Forever War? Trump Weighs Joining the Fight Against the Houthis",
+      "slug": "trump-houthis-saudi-airport-strike-decision",
+      "topic_keywords": [
+        "Houthis",
+        "Saudi Arabia",
+        "Riyadh airport",
+        "Iran",
+        "war powers"
+      ],
+      "conservative_headline": "Americans Killed in Terror Strike on Riyadh as Trump Weighs Decisive Response",
+      "liberal_headline": "Trump Edges Toward Yemen War With No Congressional Authorization in Sight",
+      "poll_question": "Should the U.S. join Saudi strikes against the Houthis?",
+      "poll_option1_label": "Strike Back",
+      "poll_option1_desc": "Terrorists killing civilians and Americans must face overwhelming force",
+      "poll_option2_label": "Stay Out",
+      "poll_option2_desc": "Another Middle East war without a vote in Congress is unacceptable",
+      "pexels_search_terms": "military aircraft desert airbase"
+    },
+    {
+      "title": "Transparency or Televised Barbarism? Pentagon Weighs Livestreaming the Hasan Execution",
+      "slug": "hasan-execution-livestream-debate",
+      "topic_keywords": [
+        "Nidal Hasan",
+        "execution livestream",
+        "Fort Hood",
+        "death penalty",
+        "Pentagon"
+      ],
+      "conservative_headline": "Fort Hood Families Finally Get Justice as Pentagon Considers Public Accountability",
+      "liberal_headline": "Broadcasting an Execution Would Turn State Killing Into Entertainment, Critics Warn",
+      "poll_question": "Should the execution be livestreamed to the public?",
+      "poll_option1_label": "Show It",
+      "poll_option1_desc": "Victims' families and the public deserve to see justice carried out",
+      "poll_option2_label": "Don't Air It",
+      "poll_option2_desc": "Streaming a death turns punishment into a grotesque public spectacle",
+      "pexels_search_terms": "prison corridor bars institutional"
+    },
+    {
+      "title": "Cheaper Fuel or Caving to Putin? Trump Strikes a Russian Diesel Deal Before the Midterms",
+      "slug": "trump-russia-diesel-deal-energy-prices",
+      "topic_keywords": [
+        "Russia diesel",
+        "energy prices",
+        "sanctions relief",
+        "Putin",
+        "gas prices"
+      ],
+      "conservative_headline": "Trump Delivers Relief at the Pump With Deal to Flood U.S. Market With Diesel",
+      "liberal_headline": "Trump Eases Pressure on Moscow for Pre-Election Fuel Prices as Russian Strikes Kill Ukrainians",
+      "poll_question": "Is buying Russian diesel worth the price relief?",
+      "poll_option1_label": "Lower Prices",
+      "poll_option1_desc": "Americans need affordable fuel more than symbolic sanctions gestures",
+      "poll_option2_label": "Don't Fund Putin",
+      "poll_option2_desc": "Rewarding Russia mid-invasion betrays Ukraine for a political quick fix",
+      "pexels_search_terms": "oil refinery fuel tanker pipeline"
+    },
+    {
+      "title": "Union Overreach or Patients at Risk? Thousands of Nurses Launch an Indefinite Strike",
+      "slug": "brigham-nurses-indefinite-strike",
+      "topic_keywords": [
+        "nurses strike",
+        "hospital staffing",
+        "labor union",
+        "healthcare workers",
+        "patient safety"
+      ],
+      "conservative_headline": "Union Bosses Walk Out on Patients in Election-Season Power Play",
+      "liberal_headline": "Nurses Say Dangerous Staffing Levels Left Them No Choice but to Strike",
+      "poll_question": "Are the striking nurses justified?",
+      "poll_option1_label": "Patients First",
+      "poll_option1_desc": "Walking off the job puts vulnerable patients at serious risk",
+      "poll_option2_label": "Staffing Crisis",
+      "poll_option2_desc": "Understaffed nurses are protecting patients by forcing real change",
+      "pexels_search_terms": "nurses hospital picket line protest"
+    },
+    {
+      "title": "Red Wave or Blue Backlash? Both Parties Call the Midterms a Razor's-Edge Fight",
+      "slug": "midterm-senate-control-razor-edge",
+      "topic_keywords": [
+        "2026 midterms",
+        "Senate control",
+        "Obama fundraising",
+        "Trump rallies",
+        "battleground states"
+      ],
+      "conservative_headline": "Trump Rallies the Base as Democrats Panic Over Collapsing Midterm Map",
+      "liberal_headline": "Obama Warns Donors Democracy Is on the Line in Races Decided by Inches",
+      "poll_question": "Who benefits more from Trump's campaign push?",
+      "poll_option1_label": "Helps GOP",
+      "poll_option1_desc": "Trump turns out voters Republicans can't reach any other way",
+      "poll_option2_label": "Hurts GOP",
+      "poll_option2_desc": "His rallies energize Democrats and alienate the suburban swing voters",
+      "pexels_search_terms": "campaign rally crowd american flags"
+    },
+    {
+      "title": "Accountability or Vendetta? Trump Asks the Supreme Court to Revive His Hillary Clinton Lawsuit",
+      "slug": "trump-supreme-court-clinton-lawsuit",
+      "topic_keywords": [
+        "Supreme Court",
+        "Hillary Clinton",
+        "2016 election lawsuit",
+        "sanctions",
+        "Trump litigation"
+      ],
+      "conservative_headline": "Trump Takes the Russia Hoax to the High Court Seeking Long-Denied Accountability",
+      "liberal_headline": "Trump Asks Justices to Resurrect a Lawsuit Judges Called Frivolous and Sanctionable",
+      "poll_question": "Should the Supreme Court revive the lawsuit?",
+      "poll_option1_label": "Hear the Case",
+      "poll_option1_desc": "The 2016 dossier operation was never fully answered for in court",
+      "poll_option2_label": "Toss It",
+      "poll_option2_desc": "Lower courts already ruled it baseless; this is personal retribution",
+      "pexels_search_terms": "supreme court building steps washington"
+    },
+    {
+      "title": "Credentialing Standards or Press Purge? Court Weighs Trump's Ban on CNN, MS NOW and Politico",
+      "slug": "white-house-press-ban-court-fight",
+      "topic_keywords": [
+        "press freedom",
+        "White House ban",
+        "CNN",
+        "Politico",
+        "First Amendment"
+      ],
+      "conservative_headline": "White House Defends Right to Decide Which Activist Outlets Get Prime Access",
+      "liberal_headline": "Trump's Blacklist of News Outlets Heads to Court in Major First Amendment Test",
+      "poll_question": "Can the White House bar specific news outlets?",
+      "poll_option1_label": "Its Call",
+      "poll_option1_desc": "No outlet has a constitutional right to a West Wing desk",
+      "poll_option2_label": "Unconstitutional",
+      "poll_option2_desc": "Punishing critical coverage is textbook government retaliation against the press",
+      "pexels_search_terms": "press briefing room microphones reporters"
+    }
+  ]
+}
