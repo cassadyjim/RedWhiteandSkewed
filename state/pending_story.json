@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-12",
+  "email_sent_at": "2026-10-12T02:42:13.313965",
+  "stories": [
+    {
+      "title": "Peace Breakthrough or Putin Payday? Trump's Russia Fuel Deal Splits Washington",
+      "slug": "trump-putin-fuel-deal-sanctions-divide",
+      "topic_keywords": [
+        "Trump Putin deal",
+        "Russia sanctions",
+        "diesel prices",
+        "Ukraine war",
+        "energy ceasefire"
+      ],
+      "conservative_headline": "Trump Delivers: Diesel Relief at Home, Energy Ceasefire Abroad as Dealmaker-in-Chief Moves to End Ukraine War",
+      "liberal_headline": "Trump Rewards Putin: Senators Say Russia Fuel Deal May Violate Sanctions Law as Ukraine Is Left Hanging",
+      "poll_question": "Is Trump's fuel deal with Putin a smart move or a giveaway?",
+      "poll_option1_label": "Smart Dealmaking",
+      "poll_option1_desc": "Lower fuel costs and a path to ending the war in Ukraine",
+      "poll_option2_label": "Rewarding Putin",
+      "poll_option2_desc": "Undercuts sanctions law and abandons Ukraine to an aggressor",
+      "pexels_search_terms": "oil refinery pipeline diplomacy handshake"
+    },
+    {
+      "title": "Heroes or Reckless Gunfire? ICE Shooting in the Bronx Explodes Into National Fight",
+      "slug": "ice-bronx-shooting-sanctuary-city-showdown",
+      "topic_keywords": [
+        "ICE shooting",
+        "Bronx",
+        "Mamdani",
+        "sanctuary cities",
+        "immigration enforcement"
+      ],
+      "conservative_headline": "Trump Calls ICE Agents 'Heroes' After Driver Refuses Lawful Orders \u2014 DHS Refuses to Bow to Sanctuary City Mob",
+      "liberal_headline": "ICE Shot a Father With His 5-Year-Old in the Back Seat \u2014 and Mullin Says 'I'm Not Sorry'",
+      "poll_question": "Should ICE pause enforcement operations in New York?",
+      "poll_option1_label": "No Pause",
+      "poll_option1_desc": "Agents acted in self-defense; sanctuary policies caused the confrontation",
+      "poll_option2_label": "Halt Operations",
+      "poll_option2_desc": "Masked agents shooting near children demand immediate independent investigation",
+      "pexels_search_terms": "protest police barricade city street"
+    },
+    {
+      "title": "Tariff Victory or Tariff Tax? NY Fed Says Your Grocery Bill Is the Receipt",
+      "slug": "ny-fed-tariff-inflation-report-fight",
+      "topic_keywords": [
+        "NY Fed report",
+        "tariffs",
+        "inflation",
+        "consumer prices",
+        "CPI"
+      ],
+      "conservative_headline": "Factories Are Coming Home: Trump Touts Manufacturing Boom as Economists Nitpick Price Models",
+      "liberal_headline": "NY Fed Confirms It: Inflation on Everyday Goods Was Caused Entirely by Trump's Tariffs",
+      "poll_question": "Are tariffs mainly raising prices or rebuilding US industry?",
+      "poll_option1_label": "Rebuilding Industry",
+      "poll_option1_desc": "Short-term costs are worth reviving American factories and jobs",
+      "poll_option2_label": "Hidden Tax",
+      "poll_option2_desc": "Tariffs are a consumer tax driving up prices with no job payoff",
+      "pexels_search_terms": "grocery store prices shopping cart"
+    },
+    {
+      "title": "Accountability or Fed Takeover? Trump's Inquiry Committee Targets Lisa Cook",
+      "slug": "trump-committee-inquiry-fed-lisa-cook",
+      "topic_keywords": [
+        "Lisa Cook",
+        "Federal Reserve",
+        "committee of inquiry",
+        "Trump",
+        "central bank independence"
+      ],
+      "conservative_headline": "No One Is Above the Law: Trump Orders Inquiry Into Fed Governor's Alleged False Statements",
+      "liberal_headline": "Trump Builds His Own Tribunal to Purge a Fed Governor \u2014 Central Bank Independence on the Chopping Block",
+      "poll_question": "Is the Lisa Cook inquiry legitimate oversight or a political purge?",
+      "poll_option1_label": "Legitimate Oversight",
+      "poll_option1_desc": "Fed officials must answer for alleged false statements like anyone else",
+      "poll_option2_label": "Political Purge",
+      "poll_option2_desc": "A pretext to seize control of an independent Federal Reserve",
+      "pexels_search_terms": "federal reserve building washington columns"
+    },
+    {
+      "title": "Press Freedom or Press Cartel? DOJ Probes Networks Over Trump Pool Coverage Blackout",
+      "slug": "doj-investigation-tv-networks-pool-coverage",
+      "topic_keywords": [
+        "DOJ investigation",
+        "TV networks",
+        "press pool",
+        "White House press",
+        "media collusion"
+      ],
+      "conservative_headline": "Networks Colluded to Black Out the President \u2014 DOJ Opens Antitrust-Style Probe Into Coordinated Boycott",
+      "liberal_headline": "Trump's Justice Department Investigates Broadcasters for Covering Him the Wrong Way",
+      "poll_question": "Should DOJ investigate networks over suspended pool coverage?",
+      "poll_option1_label": "Probe Collusion",
+      "poll_option1_desc": "Coordinated blackout of a president deserves federal scrutiny",
+      "poll_option2_label": "First Amendment",
+      "poll_option2_desc": "Government cannot punish news outlets for editorial decisions",
+      "pexels_search_terms": "television camera press briefing microphones"
+    },
+    {
+      "title": "Big Oil Shield or Climate Reckoning? SCOTUS Weighs the Suncor Case",
+      "slug": "supreme-court-suncor-climate-liability",
+      "topic_keywords": [
+        "Suncor",
+        "Supreme Court",
+        "climate lawsuits",
+        "Boulder County",
+        "energy liability"
+      ],
+      "conservative_headline": "Activist Judges Beware: Justices Signal Skepticism of State Lawsuits Blaming Oil Firms for Global Climate",
+      "liberal_headline": "Supreme Court Could Slam the Courthouse Door on Communities Suing Big Oil Over Climate Damage",
+      "poll_question": "Should states be able to sue energy companies over climate damage?",
+      "poll_option1_label": "Federal Preemption",
+      "poll_option1_desc": "Global emissions aren't a matter for state tort courts",
+      "poll_option2_label": "Let Suits Proceed",
+      "poll_option2_desc": "Communities deserve their day in court against polluters who misled them",
+      "pexels_search_terms": "courthouse oil refinery smokestack"
+    },
+    {
+      "title": "Vindication or Anti-Vax Theater? RFK Jr.'s New Vaccine Injury Clinic Splits the Country",
+      "slug": "rfk-vaccine-injury-clinic-nih-divide",
+      "topic_keywords": [
+        "RFK Jr",
+        "vaccine injury clinic",
+        "NIH",
+        "MAHA",
+        "vaccine safety"
+      ],
+      "conservative_headline": "Finally Listened To: RFK Jr. Opens NIH Clinic for Americans Doctors Dismissed for Years",
+      "liberal_headline": "Kennedy Launches Taxpayer-Funded Anti-Vax Project as Measles Spreads and MAHA Allies Turn on Him",
+      "poll_question": "Is the new NIH vaccine injury program good science or bad politics?",
+      "poll_option1_label": "Overdue Research",
+      "poll_option1_desc": "Patients reporting vaccine harm deserve real study and treatment",
+      "poll_option2_label": "Junk Science",
+      "poll_option2_desc": "Manufactures doubt about vaccines during an active measles crisis",
+      "pexels_search_terms": "medical research laboratory vaccine vial"
+    },
+    {
+      "title": "Mob Justice or Justice Denied? The 'Cornell 7' Case Tears Campuses Apart",
+      "slug": "cornell-seven-case-campus-divide",
+      "topic_keywords": [
+        "Cornell 7",
+        "Title IX",
+        "campus sexual assault",
+        "fraternity",
+        "Letitia James"
+      ],
+      "conservative_headline": "Presumption of Innocence Is Dead: Seven Students Convicted by Social Media Without a Single Charge Filed",
+      "liberal_headline": "Thousands Rally for Jane Doe as Cornell Let Accused Men Stay in Class \u2014 Hochul Orders New Probe",
+      "poll_question": "Is the Cornell 7 backlash justice or a rush to judgment?",
+      "poll_option1_label": "Due Process",
+      "poll_option1_desc": "No charges were filed; public shaming isn't a substitute for trial",
+      "poll_option2_label": "Survivor Justice",
+      "poll_option2_desc": "Universities protect accused men and bury sexual assault complaints",
+      "pexels_search_terms": "university campus student protest crowd"
+    },
+    {
+      "title": "Bloodbath Warning or Blue Mirage? Tillis Breaks Ranks 23 Days From the Midterms",
+      "slug": "tillis-electoral-bloodbath-midterm-warning",
+      "topic_keywords": [
+        "Thom Tillis",
+        "midterm elections",
+        "Republican warning",
+        "presidential power",
+        "Congress control"
+      ],
+      "conservative_headline": "Another Retiring Republican Trashes His Own Party \u2014 Base Says Tillis Speaks Only for the Swamp",
+      "liberal_headline": "GOP Senator Warns of 'Electoral Bloodbath' and Admits Mistake Confirming Hegseth as Party Fractures",
+      "poll_question": "Are Republican warnings about November credible or sour grapes?",
+      "poll_option1_label": "Sour Grapes",
+      "poll_option1_desc": "Retiring critics don't speak for voters backing the president's agenda",
+      "poll_option2_label": "Real Alarm",
+      "poll_option2_desc": "Even Republicans see backlash building over prices and executive overreach",
+      "pexels_search_terms": "capitol building voting booth election"
+    },
+    {
+      "title": "Golden Age or Corporate Giveaway? Trump's AI Science Summit Draws Billions and Backlash",
+      "slug": "trump-ai-science-summit-golden-age",
+      "topic_keywords": [
+        "AI summit",
+        "Nvidia investment",
+        "science initiatives",
+        "data centers",
+        "tech policy"
+      ],
+      "conservative_headline": "America Wins the AI Race: Trump Unveils Most Ambitious Science Push of the Century With $1B Nvidia Commitment",
+      "liberal_headline": "Billionaires Toast a 'Golden Age' While Trump Guts Research Agencies and Ratepayers Foot the Data Center Bill",
+      "poll_question": "Is the AI science push a national win or a corporate handout?",
+      "poll_option1_label": "Innovation Win",
+      "poll_option1_desc": "Private investment keeps America ahead of China on AI and science",
+      "poll_option2_label": "Crony Payout",
+      "poll_option2_desc": "Tech billionaires get favors while public research and power bills suffer",
+      "pexels_search_terms": "data center servers artificial intelligence technology"
+    }
+  ]
+}
