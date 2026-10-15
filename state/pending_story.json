@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-15",
+  "email_sent_at": "2026-10-15T02:23:40.244409",
+  "stories": [
+    {
+      "title": "Press Freedom Win or Judicial Overreach? Judge Blocks Trump's White House Media Ban",
+      "slug": "white-house-media-ban-injunction-ruling",
+      "topic_keywords": [
+        "White House media ban",
+        "press freedom",
+        "First Amendment",
+        "CNN MS NOW Politico",
+        "Judge Timothy Kelly"
+      ],
+      "conservative_headline": "Unelected Judge Forces Trump to Seat Hostile 'Fake News' Reporters in the Oval Office",
+      "liberal_headline": "Trump-Appointed Judge Rules President Illegally Punished Journalists for Coverage He Disliked",
+      "poll_question": "Can a president ban news outlets from the White House?",
+      "poll_option1_label": "President Decides",
+      "poll_option1_desc": "Access to the Oval Office is a privilege, not a constitutional right.",
+      "poll_option2_label": "Free Press",
+      "poll_option2_desc": "Punishing outlets for coverage is unconstitutional viewpoint retaliation.",
+      "pexels_search_terms": "white house press briefing journalists cameras"
+    },
+    {
+      "title": "Trump Tax Pain or Iran War Fallout? Inflation Jumps to 3.7% Weeks Before Midterms",
+      "slug": "september-inflation-37-percent-midterms",
+      "topic_keywords": [
+        "inflation",
+        "CPI report",
+        "gas prices",
+        "Federal Reserve",
+        "midterm economy"
+      ],
+      "conservative_headline": "Wartime Energy Spike Drives Prices Up \u2014 Fed's Slow Response, Not Trump, to Blame",
+      "liberal_headline": "Inflation Hits Four-Month High as Tariffs and Trump's Iran War Squeeze Families",
+      "poll_question": "Who's responsible for rising prices?",
+      "poll_option1_label": "Global Forces",
+      "poll_option1_desc": "War-driven energy costs and Fed policy are pushing prices higher.",
+      "poll_option2_label": "Trump's Policies",
+      "poll_option2_desc": "Tariffs and a reckless war are driving the cost of living up.",
+      "pexels_search_terms": "grocery store prices shopping receipt"
+    },
+    {
+      "title": "Cash for Kids or Coerced Exile? Trump Offers Migrant Children $3,000 to Self-Deport",
+      "slug": "migrant-children-3000-self-deport-offer",
+      "topic_keywords": [
+        "self-deportation",
+        "migrant children",
+        "DHS",
+        "immigration enforcement",
+        "unaccompanied minors"
+      ],
+      "conservative_headline": "Humane Alternative: Administration Offers Migrant Kids a Safe, Paid Trip Home",
+      "liberal_headline": "Trump Administration Dangles Cash to Push Migrant Children Out of the Country",
+      "poll_question": "Is paying migrant children to self-deport acceptable?",
+      "poll_option1_label": "Humane Option",
+      "poll_option1_desc": "Voluntary return beats detention and costly removal proceedings.",
+      "poll_option2_label": "Exploiting Kids",
+      "poll_option2_desc": "Children can't meaningfully consent to waiving their legal rights.",
+      "pexels_search_terms": "border fence child shadow immigration"
+    },
+    {
+      "title": "Peace Through Trade or Putin Payday? Bipartisan Senators Demand Trump Scrap Russian Diesel Deal",
+      "slug": "senators-demand-trump-rescind-russia-diesel-deal",
+      "topic_keywords": [
+        "Russia diesel deal",
+        "Putin",
+        "sanctions",
+        "Senate bipartisan letter",
+        "energy imports"
+      ],
+      "conservative_headline": "Trump Stands Firm on Diesel Deal: 'I Made the Right Choice' to Lower Pump Prices",
+      "liberal_headline": "Twelve Senators From Both Parties Beg Trump to Stop Funding Putin's War Machine",
+      "poll_question": "Should Trump cancel the Russian diesel agreement?",
+      "poll_option1_label": "Keep the Deal",
+      "poll_option1_desc": "Cheaper fuel for Americans matters more than symbolic sanctions.",
+      "poll_option2_label": "Rescind Now",
+      "poll_option2_desc": "Buying Russian fuel bankrolls Putin and betrays Ukraine.",
+      "pexels_search_terms": "oil refinery pipeline fuel tanker"
+    },
+    {
+      "title": "Equal Justice or Election Interference? FBI Raid on Ilhan Omar's Home Breaks DOJ Norms",
+      "slug": "ilhan-omar-home-raid-doj-norms",
+      "topic_keywords": [
+        "Ilhan Omar",
+        "FBI raid",
+        "Justice Department",
+        "60-day rule",
+        "political investigations"
+      ],
+      "conservative_headline": "No One Is Above the Law: Federal Agents Execute Warrant at Ilhan Omar's Home",
+      "liberal_headline": "DOJ Shatters Decades-Old Rule With Pre-Election Raid on Trump's Loudest Critic",
+      "poll_question": "Was the pre-election raid on Rep. Omar justified?",
+      "poll_option1_label": "Follow Evidence",
+      "poll_option1_desc": "Investigations shouldn't pause because a politician is on the ballot.",
+      "poll_option2_label": "Political Hit",
+      "poll_option2_desc": "Timing a raid weeks before an election weaponizes law enforcement.",
+      "pexels_search_terms": "fbi agents federal investigation house"
+    },
+    {
+      "title": "Roll Cleanup or Voter Purge? Trump Admin Threatens California Election Officials",
+      "slug": "trump-voter-roll-fight-california-officials",
+      "topic_keywords": [
+        "voter rolls",
+        "California election officials",
+        "DOJ threats",
+        "election integrity",
+        "midterms 2026"
+      ],
+      "conservative_headline": "California Stonewalls Federal Request to Clean Dirty Voter Rolls Before Midterms",
+      "liberal_headline": "Trump Administration Threatens State Election Officials in Escalating Voter Purge Push",
+      "poll_question": "Should Washington force states to hand over voter data?",
+      "poll_option1_label": "Clean Rolls",
+      "poll_option1_desc": "Accurate voter lists are basic election integrity, not intimidation.",
+      "poll_option2_label": "Hands Off",
+      "poll_option2_desc": "Federal threats against local officials are intimidation before an election.",
+      "pexels_search_terms": "voting booth ballot election polling place"
+    },
+    {
+      "title": "Modest Raise or Rigged Formula? Social Security COLA Set at 3.6% as Inflation Outpaces Seniors",
+      "slug": "social-security-cola-2027-36-percent",
+      "topic_keywords": [
+        "Social Security",
+        "COLA 2027",
+        "seniors benefits",
+        "retirement",
+        "cost of living"
+      ],
+      "conservative_headline": "Seniors Get 3.6% Boost \u2014 Biggest Bump in Years Under Trump's Economy",
+      "liberal_headline": "3.6% COLA Won't Cover It: Seniors Fall Further Behind as Drug and Energy Costs Soar",
+      "poll_question": "Is the 2027 Social Security increase enough?",
+      "poll_option1_label": "Fair Bump",
+      "poll_option1_desc": "The formula works and benefits track real measured inflation.",
+      "poll_option2_label": "Falling Behind",
+      "poll_option2_desc": "Seniors' real costs rise faster than the official inflation index.",
+      "pexels_search_terms": "senior citizen pharmacy bills budget"
+    },
+    {
+      "title": "Chainsaw Vandalism or Routine Maintenance? Judge Halts Trump Tree Removal at D.C. Golf Course",
+      "slug": "east-potomac-golf-course-tree-removal-blocked",
+      "topic_keywords": [
+        "East Potomac Golf Links",
+        "tree removal",
+        "Interior Department",
+        "federal judge",
+        "public land"
+      ],
+      "conservative_headline": "Judge Stops Routine Course Upgrade as Activists Turn Tree Trimming Into a Federal Case",
+      "liberal_headline": "Judge Blocks Trump From Clearing More Trees After 400 Felled at Historic D.C. Park",
+      "poll_question": "Was clearing 400 trees on public land defensible?",
+      "poll_option1_label": "Just Landscaping",
+      "poll_option1_desc": "Agencies manage federal land; courts shouldn't micromanage groundskeeping.",
+      "poll_option2_label": "Environmental Abuse",
+      "poll_option2_desc": "Destroying historic public green space without review is lawless.",
+      "pexels_search_terms": "felled trees stumps urban park"
+    },
+    {
+      "title": "Protecting Kids or Censoring Them? Appeals Court Lets Florida Enforce Teen Social Media Ban",
+      "slug": "florida-teen-social-media-ban-eleventh-circuit",
+      "topic_keywords": [
+        "Florida HB3",
+        "teen social media ban",
+        "11th Circuit",
+        "First Amendment",
+        "tech regulation"
+      ],
+      "conservative_headline": "Court Sides With Parents: Florida Can Shield Kids From Addictive Social Media",
+      "liberal_headline": "Appeals Court Green-Lights Florida Law That Could Force ID Checks on Every User",
+      "poll_question": "Should states be able to ban social media for minors?",
+      "poll_option1_label": "Protect Minors",
+      "poll_option1_desc": "States can limit addictive platforms designed to hook children.",
+      "poll_option2_label": "Free Speech",
+      "poll_option2_desc": "Age gates mean ID checks and government control of online access.",
+      "pexels_search_terms": "teenager smartphone social media screen"
+    },
+    {
+      "title": "Pay-to-Play Scandal or Smear Job? Kimberly Guilfoyle Forced Out as Ambassador to Greece",
+      "slug": "kimberly-guilfoyle-ambassador-resignation",
+      "topic_keywords": [
+        "Kimberly Guilfoyle",
+        "ambassador to Greece",
+        "resignation",
+        "donor allegations",
+        "Trump administration ethics"
+      ],
+      "conservative_headline": "Guilfoyle Steps Down on Her Own Terms After 'Honor of a Lifetime' Serving in Athens",
+      "liberal_headline": "White House Dumps Guilfoyle Amid Report She Asked a Trump Donor for $100,000",
+      "poll_question": "Does Guilfoyle's exit reflect a broader ethics problem?",
+      "poll_option1_label": "Isolated Case",
+      "poll_option1_desc": "One resignation proves the administration polices its own quickly.",
+      "poll_option2_label": "Culture of Grift",
+      "poll_option2_desc": "Loyalty appointments keep producing self-dealing scandals abroad.",
+      "pexels_search_terms": "embassy diplomat flags official podium"
+    }
+  ]
+}
