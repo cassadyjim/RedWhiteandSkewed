@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-17",
+  "email_sent_at": "2026-10-17T02:22:49.389337",
+  "stories": [
+    {
+      "title": "Witch Hunt or Accountability? Federal Raid on Rep. Ilhan Omar Splits Washington",
+      "slug": "ilhan-omar-federal-raid-immigration-fraud-probe",
+      "topic_keywords": [
+        "Ilhan Omar",
+        "federal raid",
+        "immigration fraud",
+        "DOJ investigation",
+        "Kristi Noem"
+      ],
+      "conservative_headline": "Justice Finally Catches Up: Feds Raid Ilhan Omar's Home in Immigration Fraud Probe",
+      "liberal_headline": "Trump Turns Federal Agents on a Critic: Omar Raid Is Political Retribution, Democrats Warn",
+      "poll_question": "Is the federal raid on Rep. Ilhan Omar's home legitimate law enforcement?",
+      "poll_option1_label": "Equal Justice",
+      "poll_option1_desc": "No one is above the law, including members of Congress",
+      "poll_option2_label": "Political Payback",
+      "poll_option2_desc": "Administration weaponizing DOJ against an outspoken critic weeks before midterms",
+      "pexels_search_terms": "federal agents capitol investigation"
+    },
+    {
+      "title": "Trump Economy or Trump Inflation? Prices Jump to 3.7% in Final Report Before Midterms",
+      "slug": "september-inflation-37-percent-midterm-economy",
+      "topic_keywords": [
+        "inflation",
+        "CPI report",
+        "gas prices",
+        "Federal Reserve",
+        "midterm economy"
+      ],
+      "conservative_headline": "Energy Shock From Iran War Drives Temporary Price Bump as Trump Tax Relief Powers Growth",
+      "liberal_headline": "Paychecks Fall Behind for Third Straight Month as Trump Inflation Hits Four-Month High",
+      "poll_question": "Who is responsible for rising prices right now?",
+      "poll_option1_label": "Global Forces",
+      "poll_option1_desc": "War-driven energy costs, not Trump policy, are pushing prices higher",
+      "poll_option2_label": "Trump's Doing",
+      "poll_option2_desc": "Tariffs and chaotic policy fueled inflation while wages stagnate",
+      "pexels_search_terms": "grocery store prices receipt shopping"
+    },
+    {
+      "title": "Safe California or Fear by Quota? ICE Surge Sweeps Through Communities Weeks Before Election",
+      "slug": "operation-safe-california-ice-surge-arrests",
+      "topic_keywords": [
+        "ICE raids",
+        "Operation Safe California",
+        "deportation",
+        "sanctuary",
+        "immigration enforcement"
+      ],
+      "conservative_headline": "ICE Surge Nets Criminal Illegal Aliens Sanctuary Politicians Set Free",
+      "liberal_headline": "'Told to Go After Anybody': Indiscriminate ICE Sweeps Terrorize Families Before the Vote",
+      "poll_question": "Is the 45-day ICE surge keeping communities safer?",
+      "poll_option1_label": "Law and Order",
+      "poll_option1_desc": "Enforcing immigration law protects citizens from crime and cartels",
+      "poll_option2_label": "Racial Profiling",
+      "poll_option2_desc": "Dragnet arrests of workers and citizens spread fear, not safety",
+      "pexels_search_terms": "immigration enforcement protest street"
+    },
+    {
+      "title": "Deterrence or Madness? Pentagon Weighs 'Mother of All Bombs' for Iran Strikes",
+      "slug": "mother-of-all-bombs-iran-strike-options",
+      "topic_keywords": [
+        "Iran war",
+        "MOAB",
+        "Pentagon",
+        "airstrikes",
+        "Strait of Hormuz"
+      ],
+      "conservative_headline": "Trump Keeps Every Option on the Table as Iran Vows to Fight On \u2014 Except Nukes and Ground Troops",
+      "liberal_headline": "Pentagon Eyes Largest Non-Nuclear Bomb in Arsenal as Trump Escalates an Endless War",
+      "poll_question": "Should the U.S. escalate strikes on Iran?",
+      "poll_option1_label": "Finish It",
+      "poll_option1_desc": "Maximum pressure is the only language the regime understands",
+      "poll_option2_label": "Stop the War",
+      "poll_option2_desc": "More bombing means more dead civilians, higher gas prices, no exit",
+      "pexels_search_terms": "military aircraft bomber desert"
+    },
+    {
+      "title": "Parents' Rights or State-Sanctioned Discrimination? Ten States Put School Culture Wars on the Ballot",
+      "slug": "school-prayer-trans-athlete-ballot-measures-2026",
+      "topic_keywords": [
+        "school prayer",
+        "transgender athletes",
+        "ballot measures",
+        "parental rights",
+        "education"
+      ],
+      "conservative_headline": "Voters Get Their Say: States Move to Enshrine School Prayer and Protect Girls' Sports",
+      "liberal_headline": "Culture Warriors Try to Lock Anti-Trans Rules Into State Constitutions Where Courts Can't Reach",
+      "poll_question": "Should these school culture-war issues be settled by constitutional amendment?",
+      "poll_option1_label": "Let Voters Decide",
+      "poll_option1_desc": "Communities, not judges or bureaucrats, should set school policy",
+      "poll_option2_label": "Rights Aren't Votable",
+      "poll_option2_desc": "Permanent amendments targeting kids strip away protections from vulnerable students",
+      "pexels_search_terms": "school classroom students voting booth"
+    },
+    {
+      "title": "Transparency or Executive Privilege? Court Battle Erupts Over Who Owns the President's Papers",
+      "slug": "presidential-papers-ownership-appeals-court-fight",
+      "topic_keywords": [
+        "presidential records",
+        "appeals court",
+        "transparency",
+        "executive privilege",
+        "Trump documents"
+      ],
+      "conservative_headline": "Trump Team Fights Back Against Records Fishing Expedition by Left-Wing Activists",
+      "liberal_headline": "Administration Claims White House Papers Belong to Trump Personally, Not the American People",
+      "poll_question": "Who owns documents created in the White House?",
+      "poll_option1_label": "The President",
+      "poll_option1_desc": "Executive deliberations deserve protection from endless partisan records demands",
+      "poll_option2_label": "The Public",
+      "poll_option2_desc": "Government records belong to citizens, period \u2014 this is a power grab",
+      "pexels_search_terms": "government archives documents files"
+    },
+    {
+      "title": "Fixing a Mistake or Covering a Scandal? 760,000 Booted Off ACA Plans, Some Quietly Added Back",
+      "slug": "aca-coverage-cancellations-760000-reinstated",
+      "topic_keywords": [
+        "Affordable Care Act",
+        "health coverage",
+        "enrollment purge",
+        "CMS",
+        "healthcare"
+      ],
+      "conservative_headline": "Administration Purges Ineligible Enrollees From Bloated Obamacare Rolls, Restores Legitimate Cases",
+      "liberal_headline": "Trump Cancelled Health Coverage for 760,000 Americans \u2014 Then Quietly Admitted It Got It Wrong",
+      "poll_question": "Was the mass ACA coverage cancellation justified?",
+      "poll_option1_label": "Fraud Cleanup",
+      "poll_option1_desc": "Removing ineligible enrollees protects taxpayers and lowers premiums",
+      "poll_option2_label": "Cruel Purge",
+      "poll_option2_desc": "Hundreds of thousands lost care with no notice and no due process",
+      "pexels_search_terms": "health insurance doctor patient clinic"
+    },
+    {
+      "title": "Leveling the Field or Rigging It? Supreme Court Hands GOP a Win on Campaign Ad Rates",
+      "slug": "supreme-court-fcc-political-ad-rates-ruling",
+      "topic_keywords": [
+        "Supreme Court",
+        "FCC",
+        "campaign ads",
+        "election law",
+        "Fourth Circuit"
+      ],
+      "conservative_headline": "Supreme Court Slaps Down 'Inappropriate' Fourth Circuit Overreach in 7-2 FCC Victory",
+      "liberal_headline": "Just Before Midterms, Court's Conservative Majority Clears Cheap Ad Rates for Party Committees",
+      "poll_question": "Should parties and committees get candidate-level discount ad rates?",
+      "poll_option1_label": "Court Got It Right",
+      "poll_option1_desc": "Judges shouldn't micromanage agency timelines with extraordinary writs",
+      "poll_option2_label": "Thumb on Scale",
+      "poll_option2_desc": "Discounted rates were written for candidates alone, not party cash machines",
+      "pexels_search_terms": "supreme court building columns washington"
+    },
+    {
+      "title": "Election Protection or Partisan Mobilization? 'No Kings: Vote Early' Hits Streets Nationwide",
+      "slug": "no-kings-vote-early-day-of-action-midterms",
+      "topic_keywords": [
+        "No Kings",
+        "early voting",
+        "protest movement",
+        "midterm turnout",
+        "election integrity"
+      ],
+      "conservative_headline": "Left-Wing 'No Kings' Machine Floods Streets in Bid to Pressure Election Officials",
+      "liberal_headline": "Massive 'No Kings' Turnout Day Mobilizes Voters and Election Defenders Against Authoritarianism",
+      "poll_question": "What is the No Kings early-vote mobilization really about?",
+      "poll_option1_label": "Organized Pressure",
+      "poll_option1_desc": "Activist groups staging theater to delegitimize results they may lose",
+      "poll_option2_label": "Democracy Defense",
+      "poll_option2_desc": "Peaceful citizens turning out early and guarding against election interference",
+      "pexels_search_terms": "protest crowd american flags rally"
+    },
+    {
+      "title": "National Security Threat or AI Panic? Saudi Bugging Case at OpenAI Rocks Washington",
+      "slug": "openai-saudi-national-bugging-case-ai-security",
+      "topic_keywords": [
+        "OpenAI",
+        "espionage",
+        "AI regulation",
+        "national security",
+        "DNI Clayton"
+      ],
+      "conservative_headline": "Foreign Spies Target American AI: Case Proves Need for Tougher Vetting and Export Controls",
+      "liberal_headline": "Security Breach at OpenAI Exposes How Little Oversight Governs America's AI Giants",
+      "poll_question": "What's the right response to the AI espionage case?",
+      "poll_option1_label": "Lock It Down",
+      "poll_option1_desc": "Tighter foreign vetting and export limits to keep AI lead American",
+      "poll_option2_label": "Regulate Big AI",
+      "poll_option2_desc": "Unaccountable AI firms need real government oversight, not just spy hunts",
+      "pexels_search_terms": "data center servers cybersecurity technology"
+    }
+  ]
+}
