@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-18",
+  "email_sent_at": "2026-10-18T02:22:31.846112",
+  "stories": [
+    {
+      "title": "Election Integrity or Voter Intimidation? DOJ Warns California Ballot Processors They Could Face Prosecution",
+      "slug": "doj-warns-california-ballot-processors-prosecution",
+      "topic_keywords": [
+        "DOJ",
+        "California ballots",
+        "noncitizen voting",
+        "midterms",
+        "election integrity"
+      ],
+      "conservative_headline": "DOJ Puts California Officials on Notice: Count Noncitizen Ballots, Face Charges",
+      "liberal_headline": "Trump's DOJ Threatens to Prosecute Local Election Workers Weeks Before Midterms",
+      "poll_question": "Is the DOJ warning to California ballot processors law enforcement or intimidation?",
+      "poll_option1_label": "Enforcing Law",
+      "poll_option1_desc": "Only citizens may vote; officials who ignore that should face consequences.",
+      "poll_option2_label": "Intimidation",
+      "poll_option2_desc": "Federal threats against election workers are meant to chill voting.",
+      "pexels_search_terms": "ballot box election official voting"
+    },
+    {
+      "title": "Price Pain or Progress? Inflation Hits 3.7% as Gas Costs Surge Before the Midterms",
+      "slug": "inflation-37-percent-gas-prices-midterms",
+      "topic_keywords": [
+        "inflation",
+        "CPI",
+        "gas prices",
+        "Federal Reserve",
+        "cost of living"
+      ],
+      "conservative_headline": "Foreign Wars and Biden-Era Spending Drive Pump Prices \u2014 Trump Acting to Bring Energy Costs Down",
+      "liberal_headline": "Inflation Spikes to Four-Month High as Trump's Economy Squeezes Families at the Pump",
+      "poll_question": "Who is responsible for today's rising prices?",
+      "poll_option1_label": "Global Forces",
+      "poll_option1_desc": "War-driven energy costs and past spending are the real drivers.",
+      "poll_option2_label": "Trump's Policies",
+      "poll_option2_desc": "Tariffs and chaotic economic management are raising costs for families.",
+      "pexels_search_terms": "gas station prices grocery shopping receipt"
+    },
+    {
+      "title": "Record Security or Human Cost? DHS Touts Historic Border Lows as ICE Incidents Mount",
+      "slug": "dhs-record-border-lows-ice-incidents",
+      "topic_keywords": [
+        "DHS",
+        "border crossings",
+        "ICE",
+        "deportation",
+        "Mullin"
+      ],
+      "conservative_headline": "Promise Kept: DHS Announces Lowest Border Crossings in American History",
+      "liberal_headline": "DHS Victory Lap Comes as ICE Shootings and Vehicle Strikes Pile Up Across the Country",
+      "poll_question": "Do record-low border numbers justify current enforcement tactics?",
+      "poll_option1_label": "Mission Accomplished",
+      "poll_option1_desc": "Historic border security proves aggressive enforcement works.",
+      "poll_option2_label": "Too Far",
+      "poll_option2_desc": "Shootings and raids show enforcement has spun out of control.",
+      "pexels_search_terms": "border wall patrol desert fence"
+    },
+    {
+      "title": "Deterrence or Disaster? Trump Weighs 'Mother of All Bombs' as Iran War Drags On",
+      "slug": "trump-weighs-moab-iran-war",
+      "topic_keywords": [
+        "Iran war",
+        "MOAB",
+        "Strait of Hormuz",
+        "Pentagon",
+        "war powers"
+      ],
+      "conservative_headline": "Trump Keeps All Options on Table to Finish the Job in Iran",
+      "liberal_headline": "Trump Floats Dropping 'Mother of All Bombs' on Iran With No Congressional Authorization",
+      "poll_question": "Should Trump escalate militarily against Iran?",
+      "poll_option1_label": "Finish It",
+      "poll_option1_desc": "Overwhelming force ends the war faster and saves American lives.",
+      "poll_option2_label": "Stop Escalating",
+      "poll_option2_desc": "Unauthorized escalation risks a forever war and global oil chaos.",
+      "pexels_search_terms": "military aircraft bomber jet sky"
+    },
+    {
+      "title": "Faith or Force? Ten States Put School Prayer and Trans Athletes on the Ballot",
+      "slug": "school-prayer-trans-athletes-ballot-measures",
+      "topic_keywords": [
+        "school prayer",
+        "trans athletes",
+        "ballot measures",
+        "education",
+        "state constitutions"
+      ],
+      "conservative_headline": "Voters Finally Get a Say: States Move to Restore Prayer and Protect Girls' Sports",
+      "liberal_headline": "GOP Puts Culture War on the Ballot, Targeting Trans Kids and Church-State Separation",
+      "poll_question": "Should school prayer and trans athlete rules be decided by ballot measure?",
+      "poll_option1_label": "Let Voters Decide",
+      "poll_option1_desc": "Parents and voters, not bureaucrats, should set school policy.",
+      "poll_option2_label": "Rights Aren't Votable",
+      "poll_option2_desc": "Constitutional protections shouldn't hinge on majority referendums.",
+      "pexels_search_terms": "school classroom students flag"
+    },
+    {
+      "title": "Transparency or Harassment? Supreme Court Takes Up Trump's Fight to Hide DOGE Records",
+      "slug": "supreme-court-doge-documents-case",
+      "topic_keywords": [
+        "Supreme Court",
+        "DOGE",
+        "FOIA",
+        "CREW",
+        "executive privilege"
+      ],
+      "conservative_headline": "Supreme Court Agrees to Hear Trump Bid to Shield Executive Branch From Activist Fishing Expedition",
+      "liberal_headline": "Trump Asks Supreme Court to Keep DOGE's Mass Firings and Funding Cuts in the Dark",
+      "poll_question": "Should DOGE records be released to the public?",
+      "poll_option1_label": "Protect Privilege",
+      "poll_option1_desc": "Presidential advisers need confidentiality to do their jobs.",
+      "poll_option2_label": "Open the Books",
+      "poll_option2_desc": "An agency that fired thousands owes the public full transparency.",
+      "pexels_search_terms": "supreme court building columns documents"
+    },
+    {
+      "title": "Megadonor Muscle or Bought Election? Musk Pours a Quarter-Billion Into the Midterms",
+      "slug": "musk-quarter-billion-midterm-spending",
+      "topic_keywords": [
+        "Elon Musk",
+        "campaign finance",
+        "super PAC",
+        "midterms",
+        "FEC"
+      ],
+      "conservative_headline": "Musk Bankrolls GOP Push as Democrats Rake In Bloomberg and Hollywood Cash",
+      "liberal_headline": "One Billionaire, $250 Million: Musk Tries to Buy the Midterms as the FEC Sits Paralyzed",
+      "poll_question": "Is billionaire megadonor spending free speech or corruption?",
+      "poll_option1_label": "Free Speech",
+      "poll_option1_desc": "Donors on both sides have a right to fund candidates they support.",
+      "poll_option2_label": "Legalized Bribery",
+      "poll_option2_desc": "A single billionaire shouldn't outspend entire political parties.",
+      "pexels_search_terms": "money campaign donation politics cash"
+    },
+    {
+      "title": "Spy Scandal or Scare Tactic? OpenAI Bugging Case Ignites Fight Over AI Regulation",
+      "slug": "openai-bugging-case-ai-regulation-fight",
+      "topic_keywords": [
+        "OpenAI",
+        "AI regulation",
+        "espionage",
+        "DNI Clayton",
+        "tech policy"
+      ],
+      "conservative_headline": "Spying on OpenAI Proves America Must Race Ahead, Not Regulate Itself Into Second Place",
+      "liberal_headline": "OpenAI Bugging Scandal Shows Why Unregulated AI Giants Are a National Security Risk",
+      "poll_question": "What's the right response to the OpenAI security breach?",
+      "poll_option1_label": "Build Faster",
+      "poll_option1_desc": "Red tape helps rivals; America must win the AI race.",
+      "poll_option2_label": "Regulate Now",
+      "poll_option2_desc": "AI firms are too powerful and too exposed to operate unsupervised.",
+      "pexels_search_terms": "artificial intelligence server data center"
+    },
+    {
+      "title": "Judicial Bias or Stonewalling? Trump Team Moves to Remove Judge in DC Golf Course Case",
+      "slug": "trump-seeks-remove-judge-golf-course-case",
+      "topic_keywords": [
+        "federal judge",
+        "DOJ",
+        "East Potomac",
+        "judicial recusal",
+        "Trump administration"
+      ],
+      "conservative_headline": "Administration Calls Out Rogue Judge's 'Egregious' Conduct in DC Land Fight",
+      "liberal_headline": "Trump Lawyers Try to Boot Another Judge Who Ruled Against Them",
+      "poll_question": "Is seeking the judge's removal justified?",
+      "poll_option1_label": "Biased Bench",
+      "poll_option1_desc": "Judges who overstep should be removed from cases they've prejudged.",
+      "poll_option2_label": "Judge Shopping",
+      "poll_option2_desc": "Attacking judges who rule against you undermines the courts.",
+      "pexels_search_terms": "courtroom gavel judge bench"
+    },
+    {
+      "title": "Fraud Crackdown or Payback Tour? Trump's Election Task Force Targets His Own Investigators",
+      "slug": "election-fraud-task-force-targets-investigators",
+      "topic_keywords": [
+        "election fraud task force",
+        "DOJ",
+        "retribution",
+        "prosecutors",
+        "Trump investigations"
+      ],
+      "conservative_headline": "Task Force Finally Investigates the Investigators Who Weaponized Government Against Trump",
+      "liberal_headline": "Trump's 'Fraud' Task Force Is Really a Revenge Operation Against the People Who Probed Him",
+      "poll_question": "Is the election fraud task force pursuing accountability or revenge?",
+      "poll_option1_label": "Accountability",
+      "poll_option1_desc": "Officials who abused their power deserve scrutiny too.",
+      "poll_option2_label": "Retribution",
+      "poll_option2_desc": "Using DOJ to punish critics is authoritarian, not justice.",
+      "pexels_search_terms": "justice department seal investigation files"
+    }
+  ]
+}
