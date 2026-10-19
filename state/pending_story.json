@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-19",
+  "email_sent_at": "2026-10-19T02:26:34.780377",
+  "stories": [
+    {
+      "title": "Political Persecution or Overdue Accountability? DOJ Pursuit of Rep. Ilhan Omar Ignites Firestorm",
+      "slug": "doj-ilhan-omar-investigation-firestorm",
+      "topic_keywords": [
+        "Ilhan Omar",
+        "DOJ investigation",
+        "Obama",
+        "political prosecution",
+        "house search"
+      ],
+      "conservative_headline": "No One Is Above the Law: Federal Investigators Finally Scrutinize Rep. Ilhan Omar",
+      "liberal_headline": "Obama Warns: Trump's Pursuit of Ilhan Omar Should 'Outrage All Americans'",
+      "poll_question": "Is the federal investigation of Rep. Ilhan Omar legitimate?",
+      "poll_option1_label": "Equal Justice",
+      "poll_option1_desc": "Lawmakers must face the same scrutiny as every other citizen.",
+      "poll_option2_label": "Political Revenge",
+      "poll_option2_desc": "DOJ is being weaponized against the president's critics before midterms.",
+      "pexels_search_terms": "justice department building congress investigation"
+    },
+    {
+      "title": "Energy Shock or Failed Presidency? Inflation Hits 3.7% as Paychecks Fall Behind",
+      "slug": "inflation-37-percent-paychecks-falling-behind",
+      "topic_keywords": [
+        "inflation",
+        "CPI",
+        "cost of living",
+        "gas prices",
+        "Bessent"
+      ],
+      "conservative_headline": "Global Energy Shock Drives Prices Up \u2014 Trump Says Ending the War Will Bring Them 'Tumbling Down'",
+      "liberal_headline": "Third Straight Month: Workers' Paychecks Can't Keep Up With Trump's Inflation",
+      "poll_question": "Who is responsible for rising consumer prices?",
+      "poll_option1_label": "Energy Shock",
+      "poll_option1_desc": "Global energy disruption, not White House policy, is driving prices up.",
+      "poll_option2_label": "Trump's Economy",
+      "poll_option2_desc": "Tariffs and chaos pushed inflation to 3.7% with wages lagging.",
+      "pexels_search_terms": "grocery store shopping receipt prices"
+    },
+    {
+      "title": "Protection or Loophole? Ukrainian and Sudanese TPS Protections Hang in Limbo Past Deadline",
+      "slug": "ukraine-sudan-tps-deadline-limbo",
+      "topic_keywords": [
+        "TPS",
+        "Ukraine",
+        "Sudan",
+        "DHS",
+        "deportation protections"
+      ],
+      "conservative_headline": "'Temporary' Means Temporary: DHS Weighs Ending Another Open-Ended Migrant Program",
+      "liberal_headline": "100,000 Ukrainians Left in Limbo as Trump's DHS Blows Past TPS Deadline",
+      "poll_question": "Should TPS for Ukrainians and Sudanese be extended?",
+      "poll_option1_label": "End It",
+      "poll_option1_desc": "Temporary status was never meant to become permanent residency.",
+      "poll_option2_label": "Extend It",
+      "poll_option2_desc": "Sending people back to active war zones is indefensible.",
+      "pexels_search_terms": "refugee family immigration documents"
+    },
+    {
+      "title": "Strength or Recklessness? Trump Weighs 'Mother of All Bombs' as Iran Touts New War Plan",
+      "slug": "trump-moab-iran-new-operational-plan",
+      "topic_keywords": [
+        "Iran",
+        "MOAB",
+        "military strikes",
+        "Vance town hall",
+        "escalation"
+      ],
+      "conservative_headline": "Peace Through Strength: Trump Keeps Every Option on the Table as Iran Threatens U.S. Forces",
+      "liberal_headline": "Vance Grilled on Iran War as Trump Floats Dropping the 'Mother of All Bombs'",
+      "poll_question": "Should the U.S. escalate military action against Iran?",
+      "poll_option1_label": "Project Strength",
+      "poll_option1_desc": "Only overwhelming force deters Tehran from attacking Americans.",
+      "poll_option2_label": "No New War",
+      "poll_option2_desc": "Escalation risks another endless Middle East war without congressional approval.",
+      "pexels_search_terms": "military aircraft bomber desert runway"
+    },
+    {
+      "title": "Protecting Girls or Erasing Kids? Ten States Put School Culture Wars on the Ballot",
+      "slug": "school-culture-war-ballot-measures-2026",
+      "topic_keywords": [
+        "ballot measures",
+        "school prayer",
+        "transgender athletes",
+        "Nebraska",
+        "Alabama"
+      ],
+      "conservative_headline": "Voters Finally Get a Say: States Move to Enshrine School Prayer and Protect Girls' Sports",
+      "liberal_headline": "Culture War on the Ballot: Activists Push to Lock Anti-Trans Rules Into State Constitutions",
+      "poll_question": "Should school culture-war rules be written into state constitutions?",
+      "poll_option1_label": "Let Voters Decide",
+      "poll_option1_desc": "Permanent protections keep activist courts and legislatures from reversing them.",
+      "poll_option2_label": "Targeting Kids",
+      "poll_option2_desc": "Amendments punish a tiny group of students for political gain.",
+      "pexels_search_terms": "school classroom students voting ballot"
+    },
+    {
+      "title": "Fraud Cleanup or Coverage Purge? 760K Dropped From ACA Plans, Some Quietly Added Back",
+      "slug": "aca-760k-dropped-coverage-added-back",
+      "topic_keywords": [
+        "Affordable Care Act",
+        "health coverage",
+        "enrollment purge",
+        "CMS",
+        "fraud"
+      ],
+      "conservative_headline": "War on Fraud: Administration Removes Hundreds of Thousands of Improper ACA Enrollments",
+      "liberal_headline": "They Booted 760,000 Off Health Plans \u2014 Now They're Quietly Putting People Back",
+      "poll_question": "Was the ACA enrollment purge justified?",
+      "poll_option1_label": "Stop Fraud",
+      "poll_option1_desc": "Taxpayers shouldn't subsidize fraudulent or duplicate insurance enrollments.",
+      "poll_option2_label": "Coverage Grab",
+      "poll_option2_desc": "Real patients lost insurance with no notice and no process.",
+      "pexels_search_terms": "health insurance paperwork doctor patient"
+    },
+    {
+      "title": "Election Integrity or Intimidation? Feds Threaten to Prosecute California Election Workers",
+      "slug": "doj-threat-california-election-workers",
+      "topic_keywords": [
+        "election workers",
+        "California",
+        "prosecution threat",
+        "midterms",
+        "voting"
+      ],
+      "conservative_headline": "Justice Department Puts California on Notice Over Election Law Violations",
+      "liberal_headline": "Trump Administration Threatens to Prosecute Local Election Workers Weeks Before Midterms",
+      "poll_question": "Is federal pressure on local election officials appropriate?",
+      "poll_option1_label": "Enforce the Law",
+      "poll_option1_desc": "Federal oversight is needed where states flout election statutes.",
+      "poll_option2_label": "Voter Intimidation",
+      "poll_option2_desc": "Threatening poll workers is an attempt to chill the vote.",
+      "pexels_search_terms": "polling place ballot box election worker"
+    },
+    {
+      "title": "Judicial Restraint or Thumb on the Scale? SCOTUS Hands GOP a 7-2 Win on Political Ad Rates",
+      "slug": "scotus-fcc-political-ad-rates-ruling",
+      "topic_keywords": [
+        "Supreme Court",
+        "FCC v. Brown",
+        "political ads",
+        "Sotomayor dissent",
+        "midterms"
+      ],
+      "conservative_headline": "Supreme Court Slaps Down 'Flagrant Abuse' by Fourth Circuit in Ad Rate Fight",
+      "liberal_headline": "7-2 Court Clears the Way for Party Committees to Flood Airwaves Before the Midterms",
+      "poll_question": "Did the Supreme Court get the political ad rate case right?",
+      "poll_option1_label": "Proper Limits",
+      "poll_option1_desc": "Courts can't order an agency to decide cases in 48 hours.",
+      "poll_option2_label": "Tilted Playing Field",
+      "poll_option2_desc": "Ruling benefits party committees and big money right before Election Day.",
+      "pexels_search_terms": "supreme court building columns washington"
+    },
+    {
+      "title": "Free Speech or Spoils System? Trump Appeals Ruling Against White House Ban on CNN, Politico, MS NOW",
+      "slug": "white-house-press-ban-appeal-cnn-politico",
+      "topic_keywords": [
+        "press access",
+        "White House press corps",
+        "CNN",
+        "Politico",
+        "First Amendment"
+      ],
+      "conservative_headline": "The President Picks His Own Press Pool \u2014 White House Appeals Judge's Overreach",
+      "liberal_headline": "Punishing Coverage He Dislikes: Trump Fights Court Order Restoring Banned Outlets",
+      "poll_question": "Can the White House bar specific news outlets?",
+      "poll_option1_label": "Presidential Discretion",
+      "poll_option1_desc": "Access to the president is a privilege, not a constitutional right.",
+      "poll_option2_label": "Press Retaliation",
+      "poll_option2_desc": "Banning critical outlets is unconstitutional viewpoint discrimination.",
+      "pexels_search_terms": "press briefing room microphones reporters"
+    },
+    {
+      "title": "Pay-to-Play or Private Generosity? Nvidia and Cisco Confirm Millions for Trump's Ballroom",
+      "slug": "nvidia-cisco-donations-trump-ballroom",
+      "topic_keywords": [
+        "Nvidia",
+        "Cisco",
+        "White House ballroom",
+        "corporate donations",
+        "ethics"
+      ],
+      "conservative_headline": "Not a Dime of Taxpayer Money: Private Donors Fund White House Ballroom Project",
+      "liberal_headline": "Regulated Tech Giants Are Writing Checks for Trump's Ballroom \u2014 and Record GOP Numbers Say He's Enriching Himself",
+      "poll_question": "Are corporate donations to the ballroom a conflict of interest?",
+      "poll_option1_label": "Private Funding",
+      "poll_option1_desc": "Better corporations pay for it than taxpayers footing the bill.",
+      "poll_option2_label": "Buying Access",
+      "poll_option2_desc": "Companies the government regulates shouldn't be funding presidential vanity projects.",
+      "pexels_search_terms": "white house construction luxury ballroom"
+    }
+  ]
+}
