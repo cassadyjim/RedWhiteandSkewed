@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-20",
+  "email_sent_at": "2026-10-20T02:23:01.759560",
+  "stories": [
+    {
+      "title": "Political Hit Job or Justified Probe? The DOJ Raid on Ilhan Omar Divides Washington",
+      "slug": "ilhan-omar-doj-search-warrant-fight",
+      "topic_keywords": [
+        "Ilhan Omar",
+        "DOJ investigation",
+        "home search",
+        "judge restrictions",
+        "political prosecution"
+      ],
+      "conservative_headline": "No One Is Above the Law: Feds Move on Omar as Democrats Rush to Her Defense",
+      "liberal_headline": "DOJ Veterans 'Astounded' as Trump's Justice Department Targets a Sitting Democratic Congresswoman Weeks Before the Midterms",
+      "poll_question": "Is the federal investigation of Rep. Ilhan Omar legitimate law enforcement or political retribution?",
+      "poll_option1_label": "Equal Justice",
+      "poll_option1_desc": "Members of Congress must face the same scrutiny as everyone else.",
+      "poll_option2_label": "Political Payback",
+      "poll_option2_desc": "Timing and tactics suggest Trump is weaponizing DOJ against critics.",
+      "pexels_search_terms": "justice department building federal investigation capitol"
+    },
+    {
+      "title": "Growing Pains or Failed Promises? Inflation Hits 3.7% in the Last Report Before Voters Decide",
+      "slug": "inflation-37-percent-midterm-economy-fight",
+      "topic_keywords": [
+        "inflation",
+        "CPI report",
+        "gas prices",
+        "wages",
+        "midterm economy"
+      ],
+      "conservative_headline": "Energy Shock Drives Prices Up as Trump Moves to Unlock Supply and Cut Costs for Families",
+      "liberal_headline": "Sixth Straight Month: Paychecks Fall Behind Prices as Trump's Economy Squeezes Working Americans",
+      "poll_question": "Who is responsible for rising prices heading into the midterms?",
+      "poll_option1_label": "Global Forces",
+      "poll_option1_desc": "Energy shocks and foreign wars are driving prices, not White House policy.",
+      "poll_option2_label": "Trump's Economy",
+      "poll_option2_desc": "Tariffs and chaos raised costs while wages stayed flat.",
+      "pexels_search_terms": "grocery store prices gas pump receipt"
+    },
+    {
+      "title": "Record Removals or Shackled Families? ICE Hits Deportation Highs as Flights Shift Cities",
+      "slug": "ice-record-deportations-flight-protests",
+      "topic_keywords": [
+        "ICE deportations",
+        "deportation flights",
+        "Tom Homan",
+        "immigration enforcement",
+        "detention"
+      ],
+      "conservative_headline": "Homan: ICE Smashes Single-Day Deportation Record Removing Killers and Predators",
+      "liberal_headline": "'Horror in Plain Sight': Activists Document Shackled Families as ICE Quietly Relocates Deportation Flights",
+      "poll_question": "Are record ICE deportations making America safer or going too far?",
+      "poll_option1_label": "Law Restored",
+      "poll_option1_desc": "Removing illegal entrants, especially criminals, protects American communities.",
+      "poll_option2_label": "Cruel Overreach",
+      "poll_option2_desc": "Shackling families and sweeping raids betray basic due process.",
+      "pexels_search_terms": "airport tarmac detention fence immigration"
+    },
+    {
+      "title": "Peace Broker or Putin's Partner? Trump's Russia Sanctions Waiver Splits His Own Party",
+      "slug": "trump-russia-sanctions-waiver-gop-backlash",
+      "topic_keywords": [
+        "Russia sanctions waiver",
+        "Mike Johnson",
+        "Ukraine",
+        "Zelenskyy",
+        "executive order"
+      ],
+      "conservative_headline": "Trump Keeps Leverage on the Table to End the War While Congress Plays Armchair Diplomat",
+      "liberal_headline": "Trump Torches a Veto-Proof Bipartisan Sanctions Law \u2014 and Even Mike Johnson Is Warning Him",
+      "poll_question": "Was waiving the Russia sanctions a smart negotiating move or a gift to Putin?",
+      "poll_option1_label": "Deal Leverage",
+      "poll_option1_desc": "Flexibility is needed to end the war and lower energy costs.",
+      "poll_option2_label": "Putin's Win",
+      "poll_option2_desc": "Trump overrode Congress and abandoned Ukraine for nothing.",
+      "pexels_search_terms": "kremlin white house diplomacy flags"
+    },
+    {
+      "title": "Prayer and Protection or Discrimination on the Ballot? 17 School Culture-War Measures Face Voters",
+      "slug": "school-prayer-trans-athlete-ballot-measures-2026",
+      "topic_keywords": [
+        "school prayer",
+        "transgender athletes",
+        "ballot measures",
+        "education",
+        "state constitutions"
+      ],
+      "conservative_headline": "Voters in 10 States Get Their Say on School Prayer, the Pledge and Protecting Girls' Sports",
+      "liberal_headline": "GOP Puts Trans Kids and Mandatory Prayer on the Ballot in a Last-Minute Culture-War Blitz",
+      "poll_question": "Should school prayer and trans athlete rules be decided by constitutional amendment?",
+      "poll_option1_label": "Let Voters Decide",
+      "poll_option1_desc": "Parents and voters, not bureaucrats, should set school standards.",
+      "poll_option2_label": "Targeting Kids",
+      "poll_option2_desc": "Amendments enshrine discrimination against a tiny group of students.",
+      "pexels_search_terms": "classroom school students voting ballot"
+    },
+    {
+      "title": "Breakthrough for Women or Press-Release Politics? Trump's New NIH Women's Health Division",
+      "slug": "trump-womens-health-executive-order-nih",
+      "topic_keywords": [
+        "women's health",
+        "executive order",
+        "NIH",
+        "Melania Trump",
+        "RFK Jr"
+      ],
+      "conservative_headline": "Trump and First Lady Launch Historic Push to Close the Women's Health Research Gap",
+      "liberal_headline": "Rose Garden Optics: Trump Touts Women's Health After Gutting Research Budgets \u2014 and No One Can Say How It's Funded",
+      "poll_question": "Is the new women's health initiative real progress or election-season messaging?",
+      "poll_option1_label": "Real Progress",
+      "poll_option1_desc": "Long-neglected women's diseases finally get dedicated federal focus.",
+      "poll_option2_label": "Empty Gesture",
+      "poll_option2_desc": "No funding, no details, just a photo-op before the midterms.",
+      "pexels_search_terms": "medical research laboratory doctor woman"
+    },
+    {
+      "title": "Executive Power Restored or Agency Independence Dead? SCOTUS Lets Trump's NLRB Firing Stand",
+      "slug": "supreme-court-nlrb-firing-trump-power",
+      "topic_keywords": [
+        "Supreme Court",
+        "NLRB",
+        "removal power",
+        "independent agencies",
+        "executive authority"
+      ],
+      "conservative_headline": "Court Affirms the Obvious: The President Runs the Executive Branch, Not Entrenched Bureaucrats",
+      "liberal_headline": "Supreme Court Quietly Hands Trump the Power to Purge Every Independent Watchdog in Washington",
+      "poll_question": "Should presidents be able to fire members of independent agencies at will?",
+      "poll_option1_label": "One Executive",
+      "poll_option1_desc": "Unelected board members must answer to the elected president.",
+      "poll_option2_label": "Guardrails Gone",
+      "poll_option2_desc": "Independent agencies protect workers and markets from political retaliation.",
+      "pexels_search_terms": "supreme court columns gavel washington"
+    },
+    {
+      "title": "Election Integrity or Rigging the Airwaves? Schumer Fights FCC Move on AI Robocalls",
+      "slug": "schumer-fcc-ai-robocall-rules-midterms",
+      "topic_keywords": [
+        "FCC",
+        "AI robocalls",
+        "Chuck Schumer",
+        "election disinformation",
+        "tech regulation"
+      ],
+      "conservative_headline": "Schumer Panics Over FCC Deregulation as Democrats Demand Washington Police Political Speech",
+      "liberal_headline": "Weeks Before the Vote, Trump's FCC Moves to Unleash AI Robocalls on American Voters",
+      "poll_question": "Should the FCC loosen AI robocall restrictions before the midterms?",
+      "poll_option1_label": "Free Speech",
+      "poll_option1_desc": "Outdated rules burden campaigns; voters can judge messages themselves.",
+      "poll_option2_label": "Stop the Fakes",
+      "poll_option2_desc": "AI voice calls can deceive voters and must stay tightly restricted.",
+      "pexels_search_terms": "smartphone call artificial intelligence voice technology"
+    },
+    {
+      "title": "Trump's Map or a Racial Gerrymander? Texas Redistricting Chaos Reaches Election Day",
+      "slug": "texas-redistricting-gerrymander-midterm-maps",
+      "topic_keywords": [
+        "Texas redistricting",
+        "gerrymander",
+        "House control",
+        "voting rights",
+        "midterms"
+      ],
+      "conservative_headline": "Texas Republicans Defend Legally Drawn Maps as Activist Judges Try to Flip the House",
+      "liberal_headline": "Court Called It an Unconstitutional Racial Gerrymander \u2014 and Republicans Still Want to Use It",
+      "poll_question": "Was the Texas mid-decade redistricting legitimate or a racial gerrymander?",
+      "poll_option1_label": "Legislature's Right",
+      "poll_option1_desc": "Elected state lawmakers draw maps; both parties have always done it.",
+      "poll_option2_label": "Rigged Map",
+      "poll_option2_desc": "Maps diluted minority voting power to manufacture a House majority.",
+      "pexels_search_terms": "texas capitol map voting district"
+    },
+    {
+      "title": "Justice for 9/11 Families or a Cover-Up of Torture? SCOTUS Backs Scrapping Guant\u00e1namo Plea Deals",
+      "slug": "supreme-court-911-plea-deals-guantanamo",
+      "topic_keywords": [
+        "9/11 trials",
+        "Guantanamo",
+        "plea deals",
+        "Khalid Sheikh Mohammed",
+        "military commissions"
+      ],
+      "conservative_headline": "No Sweetheart Deals for 9/11 Masterminds: Court Clears the Way for Full Trials",
+      "liberal_headline": "Endless Limbo: Court Blesses Pentagon Move That Pushes 9/11 Justice Past 2028 \u2014 If It Ever Comes",
+      "poll_question": "Was scrapping the 9/11 plea deals the right call?",
+      "poll_option1_label": "No Deals",
+      "poll_option1_desc": "Mass murderers should face trial, not negotiated sentences.",
+      "poll_option2_label": "Justice Denied",
+      "poll_option2_desc": "Torture-tainted cases will never reach trial; deals gave families closure.",
+      "pexels_search_terms": "memorial september 11 courtroom military"
+    }
+  ]
+}
