@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-23",
+  "email_sent_at": "2026-10-23T02:24:43.729277",
+  "stories": [
+    {
+      "title": "Election Integrity or Voter Intimidation? Judge Halts DHS Noncitizen Voter Hunt in 9 States",
+      "slug": "dhs-noncitizen-voter-investigation-blocked",
+      "topic_keywords": [
+        "noncitizen voters",
+        "DHS",
+        "Voting Rights Act",
+        "voter intimidation",
+        "midterms"
+      ],
+      "conservative_headline": "Activist Judge Blocks Trump From Rooting Out Illegal Voting Weeks Before Midterms",
+      "liberal_headline": "Court Halts Trump's DHS Voter Intimidation Campaign as Democrats Sue Over Election Interference",
+      "poll_question": "Was the DHS field operation targeting noncitizen voters legitimate?",
+      "poll_option1_label": "Clean Elections",
+      "poll_option1_desc": "Verifying voter rolls protects legal votes from being canceled out",
+      "poll_option2_label": "Voter Intimidation",
+      "poll_option2_desc": "Federal agents at doorsteps scare lawful voters away from the polls",
+      "pexels_search_terms": "voting booth polling place election"
+    },
+    {
+      "title": "Justice or Payback? DOJ Indicts Virginia Democrat Louise Lucas",
+      "slug": "doj-indicts-louise-lucas-virginia",
+      "topic_keywords": [
+        "Louise Lucas",
+        "indictment",
+        "DOJ",
+        "Todd Blanche",
+        "Kash Patel"
+      ],
+      "conservative_headline": "DOJ Charges Powerful Virginia Democrat as Blanche, Patel Vow No One Is Above the Law",
+      "liberal_headline": "Trump's DOJ Indicts Another Democrat Days Before the Midterms in Escalating Revenge Campaign",
+      "poll_question": "Is the indictment of a Democratic state senator legitimate law enforcement?",
+      "poll_option1_label": "Equal Justice",
+      "poll_option1_desc": "Corrupt politicians should face charges regardless of party label",
+      "poll_option2_label": "Political Hit",
+      "poll_option2_desc": "Timing and targets show DOJ weaponized against Trump's opponents",
+      "pexels_search_terms": "courthouse gavel justice department"
+    },
+    {
+      "title": "Peace Through Strength or Endless War? US and Israel Draw Up Post-Election Iran Strikes",
+      "slug": "iran-strikes-after-midterms-plans",
+      "topic_keywords": [
+        "Iran strikes",
+        "Israel",
+        "Hegseth",
+        "Netanyahu",
+        "war powers"
+      ],
+      "conservative_headline": "Trump Keeps Pressure on Tehran as US, Israel Prepare to Finish the Job on Iran's Nuclear Program",
+      "liberal_headline": "Reports: White House Delayed Iran Strikes Until After Election to Protect GOP at the Pump",
+      "poll_question": "Should the US launch renewed strikes on Iran after the midterms?",
+      "poll_option1_label": "Finish It",
+      "poll_option1_desc": "Only force stops Iran's nuclear program and attacks on shipping",
+      "poll_option2_label": "No New War",
+      "poll_option2_desc": "Congress never authorized this; strikes mean endless war and higher gas prices",
+      "pexels_search_terms": "fighter jet military aircraft carrier"
+    },
+    {
+      "title": "Enforcing the Law or Terrorizing Citizens? Report Finds Hundreds of US Citizens Detained by ICE",
+      "slug": "us-citizens-detained-by-ice-investigation",
+      "topic_keywords": [
+        "ICE detention",
+        "US citizens",
+        "immigration enforcement",
+        "deportation",
+        "DHS"
+      ],
+      "conservative_headline": "ICE Agents Face Smears While Removing Criminal Illegal Aliens From American Streets",
+      "liberal_headline": "Investigation: Hundreds of US Citizens Swept Up and Detained by Trump's ICE Dragnet",
+      "poll_question": "Has ICE enforcement gone too far?",
+      "poll_option1_label": "Enforce the Law",
+      "poll_option1_desc": "Mistakes are rare; agents are removing dangerous illegal immigrants",
+      "poll_option2_label": "Out of Control",
+      "poll_option2_desc": "Citizens detained and injured prove the crackdown lacks any accountability",
+      "pexels_search_terms": "immigration enforcement agents detention"
+    },
+    {
+      "title": "Protecting Women or Punishing Patients? SCOTUS Blocks Trump's Transgender Inmate Care Policy",
+      "slug": "supreme-court-transgender-inmate-care",
+      "topic_keywords": [
+        "Supreme Court",
+        "transgender inmates",
+        "Bureau of Prisons",
+        "gender-affirming care",
+        "Thomas Alito"
+      ],
+      "conservative_headline": "Supreme Court Forces Taxpayers to Keep Funding Transgender Treatments for Federal Inmates",
+      "liberal_headline": "Even This Supreme Court Rejects Trump's Cruel Ban on Medical Care for Trans Prisoners",
+      "poll_question": "Should federal prisons provide gender-affirming medical care?",
+      "poll_option1_label": "Stop Funding",
+      "poll_option1_desc": "Taxpayers shouldn't pay for elective transition treatments behind bars",
+      "poll_option2_label": "Medical Care",
+      "poll_option2_desc": "Denying prescribed treatment to inmates is unconstitutional cruelty",
+      "pexels_search_terms": "supreme court building protest flags"
+    },
+    {
+      "title": "Merit or Resegregation? Supreme Court Takes Up Race and School Admissions Again",
+      "slug": "supreme-court-race-school-admissions-case",
+      "topic_keywords": [
+        "school admissions",
+        "race-conscious",
+        "Supreme Court",
+        "affirmative action",
+        "magnet schools"
+      ],
+      "conservative_headline": "Supreme Court to End Backdoor Racial Quotas in Elite Public School Admissions",
+      "liberal_headline": "Conservative Court Takes Aim at the Last Tools Schools Use to Keep Classrooms Integrated",
+      "poll_question": "Should schools be allowed to consider race in admissions policies?",
+      "poll_option1_label": "Colorblind Merit",
+      "poll_option1_desc": "Admissions should rest on test scores and merit, not racial categories",
+      "poll_option2_label": "Keep Integration",
+      "poll_option2_desc": "Diverse classrooms require tools to counter segregated housing patterns",
+      "pexels_search_terms": "high school classroom students diverse"
+    },
+    {
+      "title": "MAHA Betrayed or MAHA Exposed? Top RFK Jr. Adviser Calley Means Quits the White House",
+      "slug": "calley-means-resigns-maha-rfk",
+      "topic_keywords": [
+        "Calley Means",
+        "RFK Jr",
+        "MAHA",
+        "HHS",
+        "resignation"
+      ],
+      "conservative_headline": "MAHA Warrior Quits, Blames DC Bureaucracy for Blocking Kennedy's Health Reforms",
+      "liberal_headline": "Kennedy's Inner Circle Cracks as Top Adviser Bails Amid MAHA Agenda's Collapse",
+      "poll_question": "Is the MAHA health agenda succeeding or failing?",
+      "poll_option1_label": "Swamp Blocked It",
+      "poll_option1_desc": "Entrenched bureaucrats and industry sabotaged real public health reform",
+      "poll_option2_label": "Doomed Agenda",
+      "poll_option2_desc": "The movement was never serious policy and is now imploding",
+      "pexels_search_terms": "health department pharmacy medicine government"
+    },
+    {
+      "title": "Free Press or Lawfare? Judge Orders Trump to Sit for Deposition in BBC Defamation Suit",
+      "slug": "trump-bbc-defamation-deposition-order",
+      "topic_keywords": [
+        "BBC lawsuit",
+        "defamation",
+        "deposition",
+        "press freedom",
+        "media"
+      ],
+      "conservative_headline": "Trump Takes On Foreign Media Giant That Deceptively Edited His Words",
+      "liberal_headline": "Judge Won't Let Trump Dodge Testimony in His Own Lawsuit Against the BBC",
+      "poll_question": "Is Trump's defamation suit against the BBC legitimate?",
+      "poll_option1_label": "Hold Media Accountable",
+      "poll_option1_desc": "Deceptive editing of a president's words deserves real legal consequences",
+      "poll_option2_label": "Chilling the Press",
+      "poll_option2_desc": "Presidents suing newsrooms is intimidation that threatens press freedom",
+      "pexels_search_terms": "television news camera broadcast studio"
+    },
+    {
+      "title": "Gerrymander Payoff or Voter Backlash? Trump's Mid-Decade Redistricting Faces Its First Test",
+      "slug": "trump-redistricting-midterm-test",
+      "topic_keywords": [
+        "redistricting",
+        "gerrymandering",
+        "midterms",
+        "House majority",
+        "Texas map"
+      ],
+      "conservative_headline": "Trump's Redistricting Push Gives GOP the Firewall to Hold the House",
+      "liberal_headline": "Trump Rigged the Maps to Save His Majority \u2014 Now Voters Get the Final Say",
+      "poll_question": "Was the mid-decade redistricting push legitimate?",
+      "poll_option1_label": "Fair Game",
+      "poll_option1_desc": "States legally redraw maps; Democrats have done it for decades",
+      "poll_option2_label": "Rigged Maps",
+      "poll_option2_desc": "Mid-decade racial gerrymanders steal seats voters never got to decide",
+      "pexels_search_terms": "congressional district map united states"
+    },
+    {
+      "title": "Oil Shock or Trump Shock? Inflation Hits Four-Month High as Hiring Stalls",
+      "slug": "inflation-four-month-high-hiring-stalls",
+      "topic_keywords": [
+        "inflation",
+        "gas prices",
+        "jobs report",
+        "Federal Reserve",
+        "consumer sentiment"
+      ],
+      "conservative_headline": "Jobless Claims Hit Lowest Level Since July as Economy Powers Through War-Driven Fuel Costs",
+      "liberal_headline": "Prices Surge and Hiring Collapses to 29,000 Jobs as Americans Lose Ground on Wages",
+      "poll_question": "Who's to blame for rising prices and stalled hiring?",
+      "poll_option1_label": "The Iran War",
+      "poll_option1_desc": "Global oil disruption, not policy, is driving gas and grocery costs",
+      "poll_option2_label": "Trump's Economy",
+      "poll_option2_desc": "Tariffs and chaos crushed wage growth and killed job creation",
+      "pexels_search_terms": "gas station prices grocery shopping"
+    }
+  ]
+}
