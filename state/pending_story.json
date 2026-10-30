@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-30",
+  "email_sent_at": "2026-10-30T02:18:10.388772",
+  "stories": [
+    {
+      "title": "Booming or Breaking? Pre-Midterm Economic Data Shows Strong Growth and 3.6% Inflation",
+      "slug": "pce-inflation-gdp-pre-midterm-economy-2026",
+      "topic_keywords": [
+        "PCE inflation",
+        "GDP growth",
+        "consumer spending",
+        "Federal Reserve",
+        "midterm economy"
+      ],
+      "conservative_headline": "Trump Economy Roars: GDP Surges as Investment Hits Multi-Year High Ahead of Midterms",
+      "liberal_headline": "Reality Check: Inflation Climbs to 3.6% While Americans' Take-Home Pay Shrinks",
+      "poll_question": "Is the economy working for you right now?",
+      "poll_option1_label": "Growth Engine",
+      "poll_option1_desc": "Strong GDP and investment prove Trump's policies are delivering results",
+      "poll_option2_label": "Pay Cut",
+      "poll_option2_desc": "Rising prices and falling real income are squeezing ordinary households",
+      "pexels_search_terms": "grocery store prices shopping receipt"
+    },
+    {
+      "title": "Secrecy or Security? ICE Hides Detainee Locations as Legal Groups Sue",
+      "slug": "ice-detainee-locator-lawsuit-removal-orders",
+      "topic_keywords": [
+        "ICE detention",
+        "detainee locator",
+        "deportation lawsuit",
+        "final removal orders",
+        "immigration attorneys"
+      ],
+      "conservative_headline": "Activist Lawyers Sue to Slow Deportations of Illegal Aliens Already Ordered Removed",
+      "liberal_headline": "Disappeared: Trump Administration Hides Thousands of Detainees From Their Own Lawyers",
+      "poll_question": "Should ICE disclose where detainees are held?",
+      "poll_option1_label": "Enforce Orders",
+      "poll_option1_desc": "Final removal orders mean deportation \u2014 not endless legal delay tactics",
+      "poll_option2_label": "Due Process",
+      "poll_option2_desc": "Hiding detainees from attorneys denies basic constitutional rights",
+      "pexels_search_terms": "detention facility fence corridor"
+    },
+    {
+      "title": "Endless War or Necessary Pressure? Iran Conflict Looms Over the Midterms",
+      "slug": "iran-war-escalation-midterms-strait-hormuz",
+      "topic_keywords": [
+        "Iran war",
+        "Strait of Hormuz",
+        "gas prices",
+        "military escalation",
+        "war powers"
+      ],
+      "conservative_headline": "Trump Holds the Line on Iran as Tehran Attacks Shipping in the Gulf",
+      "liberal_headline": "Trump Admits He's Delaying Iran Strikes Until After Voters Go to the Polls",
+      "poll_question": "How should the US handle the Iran conflict?",
+      "poll_option1_label": "Stay Strong",
+      "poll_option1_desc": "Iranian attacks on shipping require continued American military pressure",
+      "poll_option2_label": "End It",
+      "poll_option2_desc": "An unauthorized war is driving up gas prices and risking escalation",
+      "pexels_search_terms": "naval warship ocean military"
+    },
+    {
+      "title": "Protecting Girls or Punching Down? Trans Athlete Measures Hit 10 State Ballots",
+      "slug": "trans-athlete-school-prayer-ballot-measures-2026",
+      "topic_keywords": [
+        "transgender athletes",
+        "school prayer",
+        "ballot measures",
+        "Title IX",
+        "state constitutions"
+      ],
+      "conservative_headline": "Voters Finally Get Their Say: States Move to Enshrine Girls' Sports and School Prayer",
+      "liberal_headline": "GOP's Closing Argument Targets a Tiny Group of Kids as Backlash Grows",
+      "poll_question": "Should states write these school rules into their constitutions?",
+      "poll_option1_label": "Protect Girls",
+      "poll_option1_desc": "Voters should permanently settle sports, bathrooms and prayer questions",
+      "poll_option2_label": "Stop Scapegoating",
+      "poll_option2_desc": "Targeting under 1% of students is cruel political theater",
+      "pexels_search_terms": "high school sports track students"
+    },
+    {
+      "title": "Accountability or Payback? DOJ Says Ex-FBI Officials Lied About Hunter Biden Probe",
+      "slug": "doj-fbi-officials-hunter-biden-probe-lied-congress",
+      "topic_keywords": [
+        "DOJ",
+        "FBI officials",
+        "Hunter Biden",
+        "congressional testimony",
+        "political prosecution"
+      ],
+      "conservative_headline": "Finally: DOJ Says FBI Brass Lied to Congress to Bury the Hunter Biden Case",
+      "liberal_headline": "Trump's DOJ Targets Former FBI Officials Days Before the Midterm Elections",
+      "poll_question": "Is the DOJ pursuing justice or revenge?",
+      "poll_option1_label": "Accountability",
+      "poll_option1_desc": "Officials who misled Congress must finally face consequences",
+      "poll_option2_label": "Weaponized DOJ",
+      "poll_option2_desc": "Timing reveals a politically motivated hunt for Trump's enemies",
+      "pexels_search_terms": "justice department building washington"
+    },
+    {
+      "title": "Spoiler Scandal or Smear Job? Alaska Senate Race Explodes Days Before Election",
+      "slug": "alaska-senate-spoiler-candidate-controversy-2026",
+      "topic_keywords": [
+        "Alaska Senate",
+        "Mary Peltola",
+        "spoiler candidate",
+        "midterm elections",
+        "campaign ethics"
+      ],
+      "conservative_headline": "Bombshell Report: Democrat's Team Caught in Alaska Spoiler Candidate Scheme",
+      "liberal_headline": "Republicans Seize on Thin Story as Alaska Voters Shrug: 'Both Sides Do It'",
+      "poll_question": "Does the Alaska spoiler story matter?",
+      "poll_option1_label": "Dirty Trick",
+      "poll_option1_desc": "Manipulating the ballot to rig a Senate race is disqualifying",
+      "poll_option2_label": "Manufactured",
+      "poll_option2_desc": "A last-minute distraction from a party losing on the issues",
+      "pexels_search_terms": "voting ballot box election"
+    },
+    {
+      "title": "Press Freedom or Pass Privilege? Media Outlets Sue for Full White House Access",
+      "slug": "media-outlets-lawsuit-white-house-access-2026",
+      "topic_keywords": [
+        "press access",
+        "White House lawsuit",
+        "First Amendment",
+        "press secretary",
+        "media"
+      ],
+      "conservative_headline": "Legacy Media Sues Because They're No Longer Handed Special Treatment",
+      "liberal_headline": "Three Outlets Sue as White House Locks Out Reporters It Doesn't Like",
+      "poll_question": "Can the White House choose which reporters get access?",
+      "poll_option1_label": "No Entitlement",
+      "poll_option1_desc": "No outlet has a constitutional right to a White House pass",
+      "poll_option2_label": "Free Press",
+      "poll_option2_desc": "Punishing critical coverage with access bans is unconstitutional retaliation",
+      "pexels_search_terms": "press briefing room microphones reporters"
+    },
+    {
+      "title": "Drill Baby Drill or Dirty Air? EPA Pushes Methane Rollback as Oil Deal Lands",
+      "slug": "epa-methane-rollback-oil-deal-texas-2026",
+      "topic_keywords": [
+        "EPA methane",
+        "oil deal",
+        "energy policy",
+        "climate regulation",
+        "crude prices"
+      ],
+      "conservative_headline": "Trump Delivers Energy Dominance: First Million Barrels Arrive as EPA Cuts Red Tape",
+      "liberal_headline": "EPA's Own Analysis Admits Methane Rollback Won't Lower Your Gas Prices",
+      "poll_question": "Should methane rules be rolled back?",
+      "poll_option1_label": "Unleash Energy",
+      "poll_option1_desc": "Cutting regulations boosts production and strengthens American energy independence",
+      "poll_option2_label": "Climate Cost",
+      "poll_option2_desc": "More pollution for no consumer savings is a corporate giveaway",
+      "pexels_search_terms": "oil refinery pipeline emissions"
+    },
+    {
+      "title": "Open Records or Executive Privilege? Supreme Court Takes Up DOGE Secrecy Fight",
+      "slug": "supreme-court-doge-foia-records-case",
+      "topic_keywords": [
+        "Supreme Court",
+        "DOGE",
+        "FOIA",
+        "transparency",
+        "separation of powers"
+      ],
+      "conservative_headline": "Supreme Court Steps In to Stop Activist Judge's Fishing Expedition Into the Executive",
+      "liberal_headline": "Justices Could Shield DOGE From Public Records Law Entirely",
+      "poll_question": "Should DOGE records be public under FOIA?",
+      "poll_option1_label": "Executive Power",
+      "poll_option1_desc": "Presidential advisory bodies need confidentiality to function effectively",
+      "poll_option2_label": "Sunlight",
+      "poll_option2_desc": "An entity reshaping government must answer to public records law",
+      "pexels_search_terms": "supreme court building columns"
+    },
+    {
+      "title": "Innovation or Manipulation? Musk-Funded Group Uses AI to Attack Senate Candidate",
+      "slug": "musk-ai-attack-ads-talarico-senate-race",
+      "topic_keywords": [
+        "Elon Musk",
+        "AI political ads",
+        "campaign spending",
+        "Texas Senate",
+        "election disinformation"
+      ],
+      "conservative_headline": "Musk Spends Big to Expose a Radical Democrat's Record in Texas",
+      "liberal_headline": "Billionaire Bankrolls AI-Generated Attack Ads in Final Days of Senate Race",
+      "poll_question": "Should AI-generated political ads be restricted?",
+      "poll_option1_label": "Free Speech",
+      "poll_option1_desc": "Political ads are protected speech regardless of the technology used",
+      "poll_option2_label": "Regulate AI",
+      "poll_option2_desc": "Synthetic ads from billionaires corrupt elections and deceive voters",
+      "pexels_search_terms": "artificial intelligence screen technology politics"
+    }
+  ]
+}
