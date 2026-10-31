@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-31",
+  "email_sent_at": "2026-10-31T02:14:55.468856",
+  "stories": [
+    {
+      "title": "Election Integrity or Election Interference? DOJ Subpoenas and Lawsuits Engulf Alaska Senate Race Days Before Voting",
+      "slug": "alaska-senate-race-doj-investigation-spoiler-candidate",
+      "topic_keywords": [
+        "Alaska Senate race",
+        "DOJ investigation",
+        "Mary Peltola",
+        "spoiler candidate",
+        "ballot certification"
+      ],
+      "conservative_headline": "DOJ Probes Democrat Scheme to Plant Fake 'Dan Sullivan' on Alaska Ballot to Steal Senate Seat",
+      "liberal_headline": "Trump Orders Prosecutors to Target His Opponent Days Before Election as DOJ Sues to Block Certification",
+      "poll_question": "Is the Alaska Senate investigation legitimate or political?",
+      "poll_option1_label": "Real Fraud",
+      "poll_option1_desc": "A spoiler candidate scheme deserves investigation regardless of election timing.",
+      "poll_option2_label": "Political Weapon",
+      "poll_option2_desc": "Trump is using DOJ to attack opponents and preemptively contest results.",
+      "pexels_search_terms": "Alaska ballot box voting election"
+    },
+    {
+      "title": "Squeezed or Steady? Labor Costs Trail Inflation for Second Straight Quarter as Voters Head to Polls",
+      "slug": "wages-trail-inflation-employment-cost-index-midterms",
+      "topic_keywords": [
+        "employment cost index",
+        "inflation",
+        "wages",
+        "cost of living",
+        "midterm economy"
+      ],
+      "conservative_headline": "Economy Grows and Jobs Hold Steady as Trump Tax Cuts Power Through Global Headwinds",
+      "liberal_headline": "Americans' Paychecks Shrink Again: Real Wages Fall for Sixth Straight Month Under Trump",
+      "poll_question": "Who is to blame for your shrinking paycheck?",
+      "poll_option1_label": "Fed and Energy",
+      "poll_option1_desc": "Rate hikes and war-driven oil prices, not Trump policy, are squeezing families.",
+      "poll_option2_label": "Trump's Policies",
+      "poll_option2_desc": "Tariffs and tax cuts for the wealthy fueled inflation outpacing wages.",
+      "pexels_search_terms": "grocery store receipt shopping prices"
+    },
+    {
+      "title": "Law Enforcement or Voter Intimidation? ICE Surge Hits Swing Districts in the Final Week Before Midterms",
+      "slug": "ice-enforcement-surge-before-midterm-elections",
+      "topic_keywords": [
+        "ICE raids",
+        "immigration enforcement",
+        "midterm turnout",
+        "DHS transparency",
+        "sanctuary cities"
+      ],
+      "conservative_headline": "ICE Nets Murderers and Gang Members Nationwide as Sanctuary Politicians Cry Foul",
+      "liberal_headline": "ICE Floods Immigrant Neighborhoods Days Before the Vote as DHS Goes Dark on Operations",
+      "poll_question": "Is the pre-election ICE surge enforcement or intimidation?",
+      "poll_option1_label": "Enforce the Law",
+      "poll_option1_desc": "ICE operates year-round; the calendar shouldn't pause immigration enforcement.",
+      "poll_option2_label": "Scare Tactic",
+      "poll_option2_desc": "Timing and secrecy suggest an effort to chill turnout in immigrant communities.",
+      "pexels_search_terms": "federal agents street city enforcement"
+    },
+    {
+      "title": "Finishing the Job or Starting a New War? Trump Weighs Fresh Iran Strikes the Moment Polls Close",
+      "slug": "trump-iran-strikes-after-midterms-hegseth-general-fired",
+      "topic_keywords": [
+        "Iran war",
+        "Hegseth",
+        "CENTCOM",
+        "Strait of Hormuz",
+        "war powers"
+      ],
+      "conservative_headline": "Trump Ready to Finish the Job in Iran as Tehran Begs for Talks and Hormuz Reopens",
+      "liberal_headline": "Trump Plans Post-Election Escalation in Iran After Purging Pentagon's Top War Planner",
+      "poll_question": "Should the U.S. resume strikes on Iran after the election?",
+      "poll_option1_label": "Finish It",
+      "poll_option1_desc": "Strikes ended Iran's nuclear threat and pressure brings Tehran to the table.",
+      "poll_option2_label": "Stop the War",
+      "poll_option2_desc": "An endless war fought without Congress is driving oil prices and risking blowback.",
+      "pexels_search_terms": "aircraft carrier navy ships deployment"
+    },
+    {
+      "title": "Ratepayers or Robots? Voters in 10 States Vote on Blocking AI Data Centers Next Week",
+      "slug": "ai-data-center-ballot-measures-electricity-bills",
+      "topic_keywords": [
+        "AI data centers",
+        "electricity bills",
+        "ballot measures",
+        "AI regulation",
+        "ratepayers"
+      ],
+      "conservative_headline": "NIMBY Revolt Threatens to Hand the AI Race to China and Kill Thousands of Jobs",
+      "liberal_headline": "Families Pay Higher Power Bills So Tech Billionaires Can Build AI Server Farms",
+      "poll_question": "Should communities be able to block AI data centers?",
+      "poll_option1_label": "Build Baby Build",
+      "poll_option1_desc": "Data centers mean jobs, investment, and winning the AI race against China.",
+      "poll_option2_label": "Make Them Pay",
+      "poll_option2_desc": "Tech giants should fund their own power instead of hiking household bills.",
+      "pexels_search_terms": "data center servers power lines"
+    },
+    {
+      "title": "Guarding the Rolls or Purging Them? Appeals Court Again Blocks DOJ Bid to Segregate 20,000 California Ballots",
+      "slug": "california-noncitizen-ballots-appeals-court-doj",
+      "topic_keywords": [
+        "noncitizen voting",
+        "California ballots",
+        "DOJ lawsuit",
+        "voter rolls",
+        "election law"
+      ],
+      "conservative_headline": "Courts Let California Count Ballots From Thousands of Suspected Noncitizens",
+      "liberal_headline": "Judges Reject Trump DOJ Scheme to Toss 20,000 Ballots, Warn It Would 'Wreak Havoc'",
+      "poll_question": "Should the contested California ballots be set aside?",
+      "poll_option1_label": "Verify First",
+      "poll_option1_desc": "Segregate suspect ballots until citizenship can be confirmed.",
+      "poll_option2_label": "Count Them",
+      "poll_option2_desc": "Mass ballot challenges days before an election disenfranchise lawful voters.",
+      "pexels_search_terms": "mail ballots counting election workers"
+    },
+    {
+      "title": "Protecting Taxpayers or Punishing the Sick? Judge Blocks Medicaid Work Rule Requiring Proof of 'Medical Frailty'",
+      "slug": "medicaid-work-requirements-blocked-judge",
+      "topic_keywords": [
+        "Medicaid",
+        "work requirements",
+        "medical frailty",
+        "healthcare ruling",
+        "safety net"
+      ],
+      "conservative_headline": "Activist Judge Blocks Common-Sense Work Requirements for Able-Bodied Medicaid Recipients",
+      "liberal_headline": "Court Halts Trump Rule Forcing Sick Americans to Prove 'Frailty' to Keep Health Coverage",
+      "poll_question": "Should Medicaid require work and frailty documentation?",
+      "poll_option1_label": "Work Requirements",
+      "poll_option1_desc": "Able-bodied adults should work or train to receive taxpayer-funded coverage.",
+      "poll_option2_label": "Coverage First",
+      "poll_option2_desc": "Paperwork traps strip care from sick people who actually qualify.",
+      "pexels_search_terms": "hospital waiting room patient healthcare"
+    },
+    {
+      "title": "Student ID or Voter Fraud? Supreme Court Lets New Hampshire Bar College IDs at the Polls",
+      "slug": "supreme-court-new-hampshire-student-id-voting",
+      "topic_keywords": [
+        "Supreme Court",
+        "student ID",
+        "voter ID",
+        "New Hampshire",
+        "young voters"
+      ],
+      "conservative_headline": "Supreme Court Upholds New Hampshire's Right to Require Real Voter ID",
+      "liberal_headline": "Supreme Court Greenlights Blocking College Students From Voting Weeks Before Midterms",
+      "poll_question": "Should student IDs count as valid voter ID?",
+      "poll_option1_label": "Stricter ID",
+      "poll_option1_desc": "States may require durable government ID to protect ballot integrity.",
+      "poll_option2_label": "Let Students Vote",
+      "poll_option2_desc": "Rejecting student IDs targets young voters with no evidence of fraud.",
+      "pexels_search_terms": "college students campus voting line"
+    },
+    {
+      "title": "Antisemitism or Anti-War Speech? Michigan Senate Race Explodes Over Israel Aid Ad in Final Days",
+      "slug": "michigan-senate-el-sayed-stevens-israel-ad-fight",
+      "topic_keywords": [
+        "Michigan Senate",
+        "El-Sayed",
+        "Haley Stevens",
+        "Israel aid",
+        "AIPAC"
+      ],
+      "conservative_headline": "Democrats Tear Themselves Apart as Anti-Israel Nominee Splits Michigan Party",
+      "liberal_headline": "Anti-Muslim Attacks Crescendo in Michigan as Democrats Fight Over Israel Aid Ad",
+      "poll_question": "Is linking Israel aid to the cost of living fair criticism?",
+      "poll_option1_label": "Dangerous Rhetoric",
+      "poll_option1_desc": "Blaming Israel aid for grocery prices traffics in ugly old tropes.",
+      "poll_option2_label": "Fair Debate",
+      "poll_option2_desc": "Voters can question foreign aid spending while Americans struggle at home.",
+      "pexels_search_terms": "campaign rally supporters michigan"
+    },
+    {
+      "title": "Merit or Resegregation? Supreme Court Takes Up New Race-and-Admissions Fight Over a Maryland Magnet School",
+      "slug": "supreme-court-maryland-school-admissions-race-case",
+      "topic_keywords": [
+        "school admissions",
+        "affirmative action",
+        "magnet school",
+        "Maryland",
+        "DEI"
+      ],
+      "conservative_headline": "Supreme Court to Decide Whether Schools Can Use Backdoor Racial Quotas on Admissions",
+      "liberal_headline": "Conservative Court Targets Diversity in Public Schools in New Admissions Case",
+      "poll_question": "Can schools design admissions to boost diversity?",
+      "poll_option1_label": "Color-Blind",
+      "poll_option1_desc": "Admissions must be purely merit-based with no racial engineering.",
+      "poll_option2_label": "Diverse Schools",
+      "poll_option2_desc": "Districts may pursue integration through neutral, lawful admissions policies.",
+      "pexels_search_terms": "high school classroom students diverse"
+    }
+  ]
+}
