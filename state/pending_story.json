@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-01",
+  "email_sent_at": "2026-11-01T02:16:41.577366",
+  "stories": [
+    {
+      "title": "Election Integrity or Intimidation? Judge Orders DOJ to Halt Pressure Campaign on Election Officials",
+      "slug": "doj-election-officials-judge-order-midterms",
+      "topic_keywords": [
+        "DOJ election officials",
+        "judge restraining order",
+        "2026 midterms",
+        "voter registration data",
+        "election certification"
+      ],
+      "conservative_headline": "Activist Judge Blocks DOJ From Rooting Out Voter Fraud Days Before Midterms",
+      "liberal_headline": "Judge Halts Trump DOJ's Unprecedented Campaign to Intimidate Election Officials",
+      "poll_question": "Was the DOJ's outreach to election officials legitimate oversight or intimidation?",
+      "poll_option1_label": "Lawful Oversight",
+      "poll_option1_desc": "Federal government has a duty to verify clean voter rolls before Election Day.",
+      "poll_option2_label": "Voter Intimidation",
+      "poll_option2_desc": "Armed federal pressure on local officials is an attack on democracy.",
+      "pexels_search_terms": "ballot box election official polling place"
+    },
+    {
+      "title": "Strong Growth or Squeezed Paychecks? GDP Jumps 3.4% as Inflation Accelerates and Hiring Stalls",
+      "slug": "gdp-growth-inflation-wages-midterm-economy",
+      "topic_keywords": [
+        "GDP growth",
+        "inflation 3.7 percent",
+        "jobs report",
+        "wages lag inflation",
+        "Federal Reserve rates"
+      ],
+      "conservative_headline": "Trump Economy Roars: GDP Surges 3.4%, Jobless Claims Near 1960s Lows",
+      "liberal_headline": "Sixth Straight Month Wages Trail Inflation as Hiring Grinds to a Halt",
+      "poll_question": "Is the American economy working for you right now?",
+      "poll_option1_label": "Booming",
+      "poll_option1_desc": "Record growth and near-record-low layoffs prove the policies are working.",
+      "poll_option2_label": "Falling Behind",
+      "poll_option2_desc": "Prices keep rising faster than paychecks while job growth collapses.",
+      "pexels_search_terms": "grocery store receipt shopping prices"
+    },
+    {
+      "title": "Blocking a Rigged Vote or Rigging One? Trump Suit Seeks to Stop Certification of Midterm Results",
+      "slug": "trump-contest-midterm-certification-lawsuit",
+      "topic_keywords": [
+        "election certification lawsuit",
+        "criminal investigation subpoenas",
+        "midterm results",
+        "contested election",
+        "Trump legal strategy"
+      ],
+      "conservative_headline": "Administration Moves to Ensure Only Legal Votes Decide Control of the Senate",
+      "liberal_headline": "Trump Lays Groundwork to Refuse the Results Before a Single Vote Is Counted",
+      "poll_question": "Should the administration be able to block certification of a contested race?",
+      "poll_option1_label": "Verify First",
+      "poll_option1_desc": "No race should be certified until fraud allegations are fully investigated.",
+      "poll_option2_label": "Count the Votes",
+      "poll_option2_desc": "Pre-emptively contesting results is an attempt to overturn an election.",
+      "pexels_search_terms": "courthouse gavel american flag lawsuit"
+    },
+    {
+      "title": "Deporting Criminals or Terrorizing Families? ICE Crackdown Faces Backlash in Final Campaign Days",
+      "slug": "ice-crackdown-backlash-midterms-enforcement",
+      "topic_keywords": [
+        "ICE arrests",
+        "deportation surge",
+        "detention expansion",
+        "immigration enforcement",
+        "border wall construction"
+      ],
+      "conservative_headline": "Border Crossings at 50-Year Low as ICE Removes Record Numbers of Criminal Aliens",
+      "liberal_headline": "Injuries, Shootings and Broken Families: ICE Tactics Spark Nationwide Backlash",
+      "poll_question": "Has immigration enforcement gone too far or not far enough?",
+      "poll_option1_label": "Keep Going",
+      "poll_option1_desc": "Enforcement delivered the most secure border in half a century.",
+      "poll_option2_label": "Gone Too Far",
+      "poll_option2_desc": "Aggressive raids are harming citizens, families and due process.",
+      "pexels_search_terms": "immigration enforcement vehicle street protest"
+    },
+    {
+      "title": "Deterrence or Another Forever War? Warships Mass as Iran Talks Stall and Strike Fears Grow",
+      "slug": "iran-war-escalation-hormuz-tankers-strike",
+      "topic_keywords": [
+        "Iran war",
+        "Strait of Hormuz",
+        "tanker mines",
+        "US warships",
+        "war costs Pentagon"
+      ],
+      "conservative_headline": "Trump Projects Strength as Iran Mines Tankers in the Strait of Hormuz",
+      "liberal_headline": "$47 Billion and Counting: Iran War Drags On With No Exit Strategy",
+      "poll_question": "Should the U.S. escalate military pressure on Iran?",
+      "poll_option1_label": "Project Strength",
+      "poll_option1_desc": "Only overwhelming force stops Iran from closing global shipping lanes.",
+      "poll_option2_label": "End It",
+      "poll_option2_desc": "Another open-ended war is costing billions with no defined goal.",
+      "pexels_search_terms": "navy warship aircraft carrier ocean"
+    },
+    {
+      "title": "Religious Liberty or Taxpayer-Funded Discrimination? Catholic Preschools Take Colorado to the Supreme Court",
+      "slug": "catholic-preschool-colorado-supreme-court-case",
+      "topic_keywords": [
+        "Catholic preschools",
+        "Colorado universal preschool",
+        "religious liberty",
+        "LGBTQ enrollment rules",
+        "church and state"
+      ],
+      "conservative_headline": "Colorado Punishes Catholic Schools for Teaching Catholic Beliefs, Justices to Decide",
+      "liberal_headline": "Supreme Court Weighs Letting Taxpayer-Funded Preschools Turn Away LGBTQ Families",
+      "poll_question": "Should religious preschools get public funds while setting their own enrollment rules?",
+      "poll_option1_label": "Faith Protected",
+      "poll_option1_desc": "Excluding religious providers from public programs punishes belief itself.",
+      "poll_option2_label": "No Discrimination",
+      "poll_option2_desc": "Public dollars should never fund programs that exclude families.",
+      "pexels_search_terms": "preschool classroom children church"
+    },
+    {
+      "title": "Drill Baby Drill or Climate Surrender? EPA Guts Methane Rules as Big Oil Profits Surge",
+      "slug": "epa-methane-rollback-oil-profits-energy",
+      "topic_keywords": [
+        "EPA methane rollback",
+        "oil refining profits",
+        "energy independence",
+        "data center power mandate",
+        "climate regulation"
+      ],
+      "conservative_headline": "EPA Frees American Energy From Biden-Era Methane Red Tape",
+      "liberal_headline": "EPA Hands Oil Giants a Gift as Refining Profits Soar and Emissions Rise",
+      "poll_question": "Was rolling back the methane rules the right call?",
+      "poll_option1_label": "Unleash Energy",
+      "poll_option1_desc": "Cutting regulations lowers costs and secures American energy independence.",
+      "poll_option2_label": "Polluter Payday",
+      "poll_option2_desc": "Scrapping methane limits enriches oil companies while the planet warms.",
+      "pexels_search_terms": "oil refinery smokestack emissions"
+    },
+    {
+      "title": "Cost-of-Living Relief or Election-Year Bribe? Trump Dangles $5,000 Checks If Republicans Hold Congress",
+      "slug": "trump-5000-payments-promise-midterms",
+      "topic_keywords": [
+        "$5,000 payments",
+        "tariff dividend",
+        "Social Security COLA",
+        "campaign promises",
+        "affordability crisis"
+      ],
+      "conservative_headline": "Trump Promises $5,000 Tariff Dividend to Working Families If GOP Keeps Congress",
+      "liberal_headline": "Trump Offers Voters Cash \u2014 But Only If They Elect His Party First",
+      "poll_question": "Are conditional cash promises to voters legitimate policy?",
+      "poll_option1_label": "Share the Wins",
+      "poll_option1_desc": "Tariff revenue should go straight back to American families.",
+      "poll_option2_label": "Buying Votes",
+      "poll_option2_desc": "Promising money contingent on election outcomes is naked vote-buying.",
+      "pexels_search_terms": "dollar bills stimulus check mailbox"
+    },
+    {
+      "title": "Hoax Dismissed or Justice Denied? Judge Tosses Trump's $10 Billion Epstein Defamation Suit",
+      "slug": "epstein-defamation-suit-dismissed-special-counsel",
+      "topic_keywords": [
+        "Epstein birthday card",
+        "defamation lawsuit dismissed",
+        "special counsel demand",
+        "House Democrats",
+        "press freedom"
+      ],
+      "conservative_headline": "Democrats Revive Epstein Smear as Desperate Midterm Distraction, White House Says",
+      "liberal_headline": "Judge Throws Out Trump's $10 Billion Suit as Democrats Demand Epstein Special Counsel",
+      "poll_question": "Is the Epstein files fight accountability or a political distraction?",
+      "poll_option1_label": "Pure Distraction",
+      "poll_option1_desc": "A recycled smear deployed days before voters go to the polls.",
+      "poll_option2_label": "Real Accountability",
+      "poll_option2_desc": "The public deserves full disclosure and an independent special counsel.",
+      "pexels_search_terms": "federal courthouse documents legal files"
+    },
+    {
+      "title": "National Security or Censorship? Pentagon's Ban on Anthropic Upheld as Trump Orders AI Rebranded",
+      "slug": "pentagon-anthropic-ban-ai-policy-fight",
+      "topic_keywords": [
+        "Pentagon AI ban",
+        "Anthropic contract",
+        "DC Circuit ruling",
+        "superintelligence order",
+        "AI regulation"
+      ],
+      "conservative_headline": "Court Backs Pentagon's Right to Reject AI Firms That Won't Serve the Warfighter",
+      "liberal_headline": "Appeals Court Lets Pentagon Blacklist an AI Company Over Its Safety Rules",
+      "poll_question": "Should the Pentagon be able to blacklist AI firms over usage policies?",
+      "poll_option1_label": "Mission First",
+      "poll_option1_desc": "Contractors who restrict military use shouldn't get taxpayer defense dollars.",
+      "poll_option2_label": "Dangerous Precedent",
+      "poll_option2_desc": "Punishing companies for safety limits lets government dictate private speech.",
+      "pexels_search_terms": "pentagon building artificial intelligence server"
+    }
+  ]
+}
