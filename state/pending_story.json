@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-02",
+  "email_sent_at": "2026-11-02T09:09:33.938884",
+  "stories": [
+    {
+      "title": "Closing Argument or Closing the Deal? Trump Ties Federal Help to GOP Votes on Midterm Eve",
+      "slug": "trump-federal-aid-midterm-eve-closing-argument",
+      "topic_keywords": [
+        "midterm elections",
+        "Trump rally",
+        "federal funding",
+        "Iowa Senate race",
+        "election eve"
+      ],
+      "conservative_headline": "Trump Barnstorms Farm Belt as GOP Surges in Final Hours Before Election Day",
+      "liberal_headline": "Vote Republican, Or Else: Trump Dangles Government Aid as Campaign Leverage",
+      "poll_question": "Is tying federal help to election outcomes normal politics or coercion?",
+      "poll_option1_label": "Normal Politics",
+      "poll_option1_desc": "Presidents always campaign on delivering for allies and their voters",
+      "poll_option2_label": "Abuse of Power",
+      "poll_option2_desc": "Using taxpayer dollars as a threat corrupts a free election",
+      "pexels_search_terms": "campaign rally podium crowd flags"
+    },
+    {
+      "title": "Vindication or Loophole? Judge Tosses Trump's $10 Billion Epstein Defamation Suit",
+      "slug": "judge-dismisses-trump-epstein-defamation-lawsuit",
+      "topic_keywords": [
+        "Epstein files",
+        "defamation lawsuit",
+        "press freedom",
+        "Trump legal",
+        "court ruling"
+      ],
+      "conservative_headline": "Technicality Lets Media Off the Hook After Smearing Trump With Epstein Story",
+      "liberal_headline": "Court Rejects Trump's $10 Billion Attempt to Punish Journalists Over Epstein Reporting",
+      "poll_question": "Was the Epstein birthday card lawsuit a legitimate defamation claim?",
+      "poll_option1_label": "Legitimate Claim",
+      "poll_option1_desc": "Outlets published a damaging story and should face accountability in court",
+      "poll_option2_label": "Press Intimidation",
+      "poll_option2_desc": "Suing reporters for billions is a tool to silence coverage",
+      "pexels_search_terms": "courthouse gavel newspaper justice"
+    },
+    {
+      "title": "Election Integrity or Election Interference? Judge Blocks DOJ From Pressuring State Officials",
+      "slug": "doj-election-officials-alaska-certification-ruling",
+      "topic_keywords": [
+        "Alaska Senate",
+        "certification lawsuit",
+        "Justice Department",
+        "election officials",
+        "federal judge"
+      ],
+      "conservative_headline": "Judge Shields Election Officials From Scrutiny as DOJ Probes Ballot Irregularities",
+      "liberal_headline": "Federal Judge Orders Trump DOJ to Stop Intimidating State Election Officials",
+      "poll_question": "Is DOJ scrutiny of election officials oversight or intimidation?",
+      "poll_option1_label": "Lawful Oversight",
+      "poll_option1_desc": "Federal law requires records preservation and honest ballots in every state",
+      "poll_option2_label": "Intimidation Campaign",
+      "poll_option2_desc": "Threatening jail time for local officials is pressure, not law enforcement",
+      "pexels_search_terms": "ballot box polling place election worker"
+    },
+    {
+      "title": "Safe California or Campaign of Fear? ICE Surge Hits the State on Election Eve",
+      "slug": "operation-safe-california-ice-surge-election-eve",
+      "topic_keywords": [
+        "ICE raids",
+        "Operation Safe California",
+        "sanctuary state",
+        "Newsom",
+        "deportation"
+      ],
+      "conservative_headline": "ICE Targets Worst of the Worst as Sanctuary California Obstructs Federal Law",
+      "liberal_headline": "Newsom Blasts 'Campaign of Fear' as ICE Sweeps California Days Before Voting",
+      "poll_question": "Is the California ICE surge law enforcement or voter intimidation?",
+      "poll_option1_label": "Enforce the Law",
+      "poll_option1_desc": "Illegal presence is illegal regardless of timing or sanctuary politics",
+      "poll_option2_label": "Fear Campaign",
+      "poll_option2_desc": "Timing raids to election week terrorizes communities and suppresses turnout",
+      "pexels_search_terms": "immigration enforcement street protest california"
+    },
+    {
+      "title": "Booming or Breaking? Voters Head to the Polls Buried in Rising Costs",
+      "slug": "affordability-crisis-midterm-economy-voters",
+      "topic_keywords": [
+        "inflation",
+        "cost of living",
+        "affordability",
+        "grocery prices",
+        "midterm economy"
+      ],
+      "conservative_headline": "Democrats Own the Price Spiral They Created With Years of Reckless Spending",
+      "liberal_headline": "Costs Keep Climbing Under Trump as Voters Deliver Their Verdict on the Economy",
+      "poll_question": "Who do you blame for today's cost-of-living squeeze?",
+      "poll_option1_label": "Past Spending",
+      "poll_option1_desc": "Democratic spending binges baked in inflation that still hurts families",
+      "poll_option2_label": "Current Policy",
+      "poll_option2_desc": "Tariffs and chaos under Trump are driving prices higher right now",
+      "pexels_search_terms": "grocery store receipt shopping cart prices"
+    },
+    {
+      "title": "Jobs Engine or Ratepayer Raid? Data Centers Become a Ballot-Box Issue in Texas",
+      "slug": "data-centers-electricity-bills-texas-voters",
+      "topic_keywords": [
+        "data centers",
+        "electricity bills",
+        "Texas grid",
+        "energy policy",
+        "AI power demand"
+      ],
+      "conservative_headline": "Texas Powers the AI Boom While Green Activists Try to Pull the Plug",
+      "liberal_headline": "Families Pay Higher Power Bills So Tech Giants Can Run Data Centers",
+      "poll_question": "Should data center growth be limited to protect electricity ratepayers?",
+      "poll_option1_label": "Build Baby Build",
+      "poll_option1_desc": "Data centers mean jobs, investment and American dominance in AI",
+      "poll_option2_label": "Protect Ratepayers",
+      "poll_option2_desc": "Households shouldn't subsidize corporate power demand with higher monthly bills",
+      "pexels_search_terms": "data center servers power lines"
+    },
+    {
+      "title": "Failed Program or Sabotaged Lifeline? Obamacare Shrinks as 2027 Enrollment Opens",
+      "slug": "obamacare-enrollment-shrinks-2027-premiums",
+      "topic_keywords": [
+        "Obamacare",
+        "ACA premiums",
+        "open enrollment",
+        "health subsidies",
+        "uninsured"
+      ],
+      "conservative_headline": "Obamacare Collapses Under Its Own Weight as Enrollees Flee Overpriced Plans",
+      "liberal_headline": "Millions Priced Out of Coverage After Republicans Let Health Subsidies Die",
+      "poll_question": "Why is Obamacare enrollment falling?",
+      "poll_option1_label": "Broken by Design",
+      "poll_option1_desc": "The law never worked; subsidies just hid its real costs",
+      "poll_option2_label": "Deliberate Sabotage",
+      "poll_option2_desc": "Ending enhanced subsidies doubled premiums and pushed families off coverage",
+      "pexels_search_terms": "hospital bill stethoscope health insurance"
+    },
+    {
+      "title": "Peace Through Strength or Endless Escalation? U.S. Approves New Ukraine Missile Sale",
+      "slug": "us-approves-ukraine-missile-sale-debate",
+      "topic_keywords": [
+        "Ukraine",
+        "missile sale",
+        "arms transfer",
+        "Russia",
+        "foreign aid"
+      ],
+      "conservative_headline": "America Sells, Not Gives: Trump Arms Ukraine While Europe Finally Pays the Bill",
+      "liberal_headline": "Missile Sale Approved as Trump's Ukraine Policy Lurches Without a Clear Strategy",
+      "poll_question": "Should the U.S. keep sending advanced weapons to Ukraine?",
+      "poll_option1_label": "Strength Works",
+      "poll_option1_desc": "Arming Ukraine pressures Russia without risking American troops abroad",
+      "poll_option2_label": "No Blank Check",
+      "poll_option2_desc": "Open-ended weapons flows deepen a war with no exit plan",
+      "pexels_search_terms": "military missile defense system soldiers"
+    },
+    {
+      "title": "Tone Problem or Both Sides? Campaign Rhetoric Turns Ugly in Election's Final Hours",
+      "slug": "political-rhetoric-violence-election-final-hours",
+      "topic_keywords": [
+        "political violence",
+        "campaign rhetoric",
+        "Michigan Senate",
+        "civility",
+        "Shapiro"
+      ],
+      "conservative_headline": "Democrats Lecture on Civility While Their Own Party Tears Itself Apart",
+      "liberal_headline": "Governors Warn GOP Rhetoric Is Pushing the Country Toward Political Violence",
+      "poll_question": "Which side bears more responsibility for toxic political rhetoric?",
+      "poll_option1_label": "Both Sides",
+      "poll_option1_desc": "The left's rhetoric and street protests fuel just as much anger",
+      "poll_option2_label": "GOP Rhetoric",
+      "poll_option2_desc": "Republican leaders normalized threats and must be held accountable",
+      "pexels_search_terms": "protest megaphone political crowd tension"
+    },
+    {
+      "title": "Innovation Shield or Corporate Giveaway? Washington Moves to Override State AI Laws",
+      "slug": "federal-preemption-state-ai-laws-fight",
+      "topic_keywords": [
+        "AI regulation",
+        "federal preemption",
+        "state AI laws",
+        "DOJ litigation task force",
+        "tech policy"
+      ],
+      "conservative_headline": "Trump Frees American AI From a Crushing Patchwork of 50 State Regulators",
+      "liberal_headline": "White House Sues to Gut State AI Safeguards on Behalf of Tech Giants",
+      "poll_question": "Should federal policy override state AI regulations?",
+      "poll_option1_label": "One Standard",
+      "poll_option1_desc": "A single national rulebook keeps America ahead of China on AI",
+      "poll_option2_label": "States' Rights",
+      "poll_option2_desc": "States protecting consumers shouldn't be silenced to please AI companies",
+      "pexels_search_terms": "artificial intelligence circuit capitol technology"
+    }
+  ]
+}
