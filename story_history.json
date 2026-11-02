@@ -2,14 +2,14 @@
   "_description": "Tracks story topics published in the last 7 days. Auto-updated by rws_daily_auto.py.",
   "stories": [
     {
-      "date": "2026-10-15",
-      "slug": "senators-demand-trump-rescind-russia-diesel-deal",
-      "topic": "Russia diesel deal Putin sanctions Senate bipartisan letter energy imports"
-    },
-    {
       "date": "2026-10-22",
       "slug": "federal-budget-deficit-two-trillion-fiscal-2026",
       "topic": "budget deficit national debt spending tax cuts Treasury"
+    },
+    {
+      "date": "2026-11-02",
+      "slug": "affordability-crisis-midterm-economy-voters",
+      "topic": "inflation cost of living affordability grocery prices midterm economy"
     }
   ]
 }
