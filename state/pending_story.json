@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-04",
+  "email_sent_at": "2026-11-04T08:51:31.466415",
+  "stories": [
+    {
+      "title": "Mandate or Mirage? Democrats Seize Full Control of Congress in Midterm Blowout",
+      "slug": "democrats-flip-congress-2026-midterms",
+      "topic_keywords": [
+        "midterm elections",
+        "Democrats",
+        "Congress",
+        "House majority",
+        "Senate flip"
+      ],
+      "conservative_headline": "Trump Wasn't on the Ballot: GOP Insists Blue Wave Is a Candidate Problem, Not a Trump Problem",
+      "liberal_headline": "Voters Deliver Historic Rebuke: Democrats Sweep House and Senate to Check Trump's Final Two Years",
+      "poll_question": "What did the midterm results actually mean?",
+      "poll_option1_label": "Weak Candidates",
+      "poll_option1_desc": "Low-turnout off-year loss, not a rejection of Trump's agenda",
+      "poll_option2_label": "Voter Rebuke",
+      "poll_option2_desc": "Americans voted to put checks on an unpopular presidency",
+      "pexels_search_terms": "capitol building election night voting"
+    },
+    {
+      "title": "Oversight or Vendetta? House Democrats Plan Subpoena Blitz on Trump's Family and Businesses",
+      "slug": "house-democrats-subpoena-investigations-trump",
+      "topic_keywords": [
+        "congressional investigations",
+        "subpoena power",
+        "oversight",
+        "Jeffries",
+        "Trump businesses"
+      ],
+      "conservative_headline": "Payback Begins: Democrats Promise Two Years of Endless Investigations Instead of Governing",
+      "liberal_headline": "Accountability Returns: Democrats Regain Subpoena Power to Probe Corruption and ICE Abuses",
+      "poll_question": "Should Democrats launch aggressive investigations of the Trump administration?",
+      "poll_option1_label": "Political Revenge",
+      "poll_option1_desc": "Partisan fishing expeditions that paralyze government and ignore voters",
+      "poll_option2_label": "Constitutional Duty",
+      "poll_option2_desc": "Congress must expose corruption after years of rubber-stamp Republicans",
+      "pexels_search_terms": "congressional hearing gavel documents"
+    },
+    {
+      "title": "Deterrence or Election-Eve Escalation? US Strikes Iranian Targets in the Strait of Hormuz",
+      "slug": "us-strikes-iran-strait-hormuz",
+      "topic_keywords": [
+        "Iran war",
+        "Strait of Hormuz",
+        "airstrikes",
+        "war powers",
+        "Netanyahu"
+      ],
+      "conservative_headline": "America Holds the Cards: Defensive Strikes Protect Shipping as Tehran Stalls on a Deal",
+      "liberal_headline": "Unannounced Strikes on Election Eve: An Eight-Month War Congress Never Authorized",
+      "poll_question": "Were the latest strikes on Iran justified?",
+      "poll_option1_label": "Necessary Force",
+      "poll_option1_desc": "Strength reopens the strait and forces Iran to the table",
+      "poll_option2_label": "Unchecked War",
+      "poll_option2_desc": "Secret escalation without congressional authorization or an exit plan",
+      "pexels_search_terms": "navy warship ocean military"
+    },
+    {
+      "title": "Law and Order or Cruelty? Judge Blocks Deportation Flights of Detained Afghans",
+      "slug": "judge-blocks-afghan-deportation-flights",
+      "topic_keywords": [
+        "deportation",
+        "Afghan allies",
+        "ICE",
+        "federal judge",
+        "immigration courts"
+      ],
+      "conservative_headline": "Another Activist Judge Grounds Deportation Flights for Aliens With Final Removal Orders",
+      "liberal_headline": "Court Halts Trump Plan to Send Afghan Allies Back Into Taliban Hands",
+      "poll_question": "Should the Afghan deportation flights proceed?",
+      "poll_option1_label": "Enforce Orders",
+      "poll_option1_desc": "Final removal orders must be carried out, not blocked by judges",
+      "poll_option2_label": "Protect Allies",
+      "poll_option2_desc": "Deporting Afghans who helped US forces is a death sentence",
+      "pexels_search_terms": "airport deportation plane tarmac"
+    },
+    {
+      "title": "Religious Liberty or Taxpayer-Funded Discrimination? SCOTUS Weighs Catholic Preschool Funding Case",
+      "slug": "supreme-court-catholic-preschool-lgbtq-funding",
+      "topic_keywords": [
+        "Supreme Court",
+        "religious liberty",
+        "LGBTQ rights",
+        "school funding",
+        "Colorado"
+      ],
+      "conservative_headline": "Justices Appear Ready to Stop Colorado From Punishing Catholic Schools for Their Beliefs",
+      "liberal_headline": "Court Signals Taxpayers May Be Forced to Fund Schools That Turn Away Same-Sex Families",
+      "poll_question": "Can religious schools get public funds while excluding LGBTQ families?",
+      "poll_option1_label": "Faith Protected",
+      "poll_option1_desc": "States can't exclude religious schools for following their doctrine",
+      "poll_option2_label": "No Public Bias",
+      "poll_option2_desc": "Public dollars shouldn't bankroll discrimination against gay parents",
+      "pexels_search_terms": "supreme court building columns protest"
+    },
+    {
+      "title": "Innovation or Exploitation? Data Center Backlash Powers Democratic Wins in Texas and Beyond",
+      "slug": "data-center-backlash-energy-costs-elections",
+      "topic_keywords": [
+        "data centers",
+        "energy costs",
+        "AI buildout",
+        "electricity grid",
+        "Texas"
+      ],
+      "conservative_headline": "Blue Wave Threatens the AI Boom as Democrats Vow New Restrictions on Data Centers",
+      "liberal_headline": "Voters Revolt Against Data Centers Draining the Grid and Driving Up Power Bills",
+      "poll_question": "Should states tighten rules on AI data center construction?",
+      "poll_option1_label": "Build Baby Build",
+      "poll_option1_desc": "Restrictions kill jobs and hand the AI race to China",
+      "poll_option2_label": "Rein Them In",
+      "poll_option2_desc": "Communities shouldn't pay higher bills to subsidize tech giants",
+      "pexels_search_terms": "data center servers power lines"
+    },
+    {
+      "title": "Self-Censorship or Sanity? Faculty Survey Reignites the Campus DEI War",
+      "slug": "faculty-self-censorship-dei-campus-fight",
+      "topic_keywords": [
+        "DEI",
+        "higher education",
+        "academic freedom",
+        "self-censorship",
+        "universities"
+      ],
+      "conservative_headline": "Professors Finally Dropping DEI Dogma as 300+ Campuses Roll Back Ideological Programs",
+      "liberal_headline": "Chilling Effect: Six in Ten Faculty Say They're Afraid to Teach After Years of Political Pressure",
+      "poll_question": "Is the campus DEI rollback a cleanup or a crackdown?",
+      "poll_option1_label": "Overdue Reform",
+      "poll_option1_desc": "Universities are shedding divisive ideology and restoring academic merit",
+      "poll_option2_label": "Speech Crackdown",
+      "poll_option2_desc": "Government pressure is silencing professors and gutting inclusion efforts",
+      "pexels_search_terms": "university lecture hall students campus"
+    },
+    {
+      "title": "Hidden for Safety or Disappeared? Lawsuit Targets ICE Blackout on Detainee Locations",
+      "slug": "ice-detainee-locator-blackout-lawsuit",
+      "topic_keywords": [
+        "ICE detention",
+        "detainee locator",
+        "due process",
+        "DHS",
+        "immigration lawyers"
+      ],
+      "conservative_headline": "Open-Borders Lawyers Sue to Force ICE to Publish Locations of Criminal Aliens Awaiting Removal",
+      "liberal_headline": "Vanished Into the System: ICE Hides 16,000 Detainees From Their Own Attorneys",
+      "poll_question": "Should ICE publicly list where detainees are held?",
+      "poll_option1_label": "Operational Security",
+      "poll_option1_desc": "Publishing locations endangers agents and helps detainees evade removal",
+      "poll_option2_label": "Basic Due Process",
+      "poll_option2_desc": "No one should disappear from public records before being deported",
+      "pexels_search_terms": "detention facility fence corridor"
+    },
+    {
+      "title": "Veto Pen or Gridlock? Trump Vows to Block the New Democratic Congress",
+      "slug": "trump-veto-power-divided-government",
+      "topic_keywords": [
+        "divided government",
+        "veto power",
+        "executive authority",
+        "legislation",
+        "Trump"
+      ],
+      "conservative_headline": "Trump Ready With 'Power of Veto' to Stop Radical Left Agenda From Reaching His Desk",
+      "liberal_headline": "Lame Duck President Threatens 'Tremendous' Executive Power to Override the Voters' Verdict",
+      "poll_question": "How should Trump handle a Democratic Congress?",
+      "poll_option1_label": "Hold the Line",
+      "poll_option1_desc": "Veto far-left bills and keep governing through executive action",
+      "poll_option2_label": "Respect Results",
+      "poll_option2_desc": "Voters demanded compromise, not two more years of stonewalling",
+      "pexels_search_terms": "oval office presidential desk signing"
+    },
+    {
+      "title": "Election Integrity or Vote Suppression? DOJ's Ballot Challenges Collapse in Court",
+      "slug": "doj-ballot-challenges-courts-certification",
+      "topic_keywords": [
+        "election certification",
+        "DOJ lawsuit",
+        "mail ballots",
+        "Alaska Senate",
+        "voting rights"
+      ],
+      "conservative_headline": "DOJ Fights On for Ballot Integrity as Courts Wave Through Questionable Mail Votes",
+      "liberal_headline": "Judges Toss Trump DOJ Bids to Delay Certification and Throw Out 20,000 Mail Ballots",
+      "poll_question": "Were the DOJ's ballot challenges legitimate?",
+      "poll_option1_label": "Verify Votes",
+      "poll_option1_desc": "Checking mail ballots protects the integrity of close federal races",
+      "poll_option2_label": "Overturn Attempt",
+      "poll_option2_desc": "Federal lawyers tried to discard valid votes and stall certification",
+      "pexels_search_terms": "ballot counting election workers courthouse"
+    }
+  ]
+}
