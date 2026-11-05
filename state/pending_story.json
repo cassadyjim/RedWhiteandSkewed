@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-05",
+  "email_sent_at": "2026-11-05T09:14:58.414314",
+  "stories": [
+    {
+      "title": "Mandate or Mirage? Democrats Seize Congress and Both Sides Claim the Voters Agree With Them",
+      "slug": "democrats-seize-congress-mandate-or-mirage",
+      "topic_keywords": [
+        "midterm results",
+        "Democratic sweep",
+        "House Senate control",
+        "Hakeem Jeffries",
+        "Trump veto"
+      ],
+      "conservative_headline": "Trump Shrugs Off Midterm Losses, Vows Veto Pen Against 'Destructive' Democrat Congress",
+      "liberal_headline": "American Tsunami: Voters Deliver Crushing Rebuke to Trump as Democrats Take Both Chambers",
+      "poll_question": "What did the 2026 midterms actually mean?",
+      "poll_option1_label": "Typical Backlash",
+      "poll_option1_desc": "Normal midterm swing; Trump still runs the executive branch and holds veto power.",
+      "poll_option2_label": "Voter Rebuke",
+      "poll_option2_desc": "A historic repudiation of Trump's agenda and Republican governance.",
+      "pexels_search_terms": "capitol building election night congress"
+    },
+    {
+      "title": "Oversight or Witch Hunt? Senate Democrats Fire Off Document Preservation Letters Before Taking Power",
+      "slug": "senate-democrats-investigations-preservation-letters",
+      "topic_keywords": [
+        "congressional investigations",
+        "subpoenas",
+        "document preservation",
+        "Senate Democrats",
+        "White House response"
+      ],
+      "conservative_headline": "Democrats Plot Subpoena Blitz Before Even Being Sworn In \u2014 White House Warns They Still Hold the Powers",
+      "liberal_headline": "Accountability Returns: Democrats Move to Preserve Records on Trump Corruption Before Evidence Disappears",
+      "poll_question": "Are incoming Democratic investigations justified?",
+      "poll_option1_label": "Political Payback",
+      "poll_option1_desc": "Pre-planned subpoena campaign designed to paralyze the administration and destroy lives.",
+      "poll_option2_label": "Overdue Oversight",
+      "poll_option2_desc": "Congress finally restoring checks on an administration that faced none.",
+      "pexels_search_terms": "senate hearing room documents gavel"
+    },
+    {
+      "title": "Hero or Scapegoat? Hegseth's Job Hangs in the Balance as Republicans Hunt for Someone to Blame",
+      "slug": "hegseth-job-blame-game-pentagon",
+      "topic_keywords": [
+        "Pete Hegseth",
+        "Defense Secretary",
+        "Mark Kelly",
+        "Pentagon shakeup",
+        "Iran war"
+      ],
+      "conservative_headline": "Trump Defends Hegseth: Defense Chief Did a 'Very Good Job' as Democrats Demand His Scalp",
+      "liberal_headline": "Even Republicans Want Him Gone: Pressure Builds on Hegseth as Trump Quietly Shops for Replacements",
+      "poll_question": "Should Pete Hegseth stay as Defense Secretary?",
+      "poll_option1_label": "Keep Him",
+      "poll_option1_desc": "He's being scapegoated for an election loss driven by prices, not the Pentagon.",
+      "poll_option2_label": "He Must Go",
+      "poll_option2_desc": "His handling of the Iran war disqualifies him from leading the military.",
+      "pexels_search_terms": "pentagon defense secretary press podium"
+    },
+    {
+      "title": "Peace Deal or Surrender? Iran Demands Sanctions Relief and Hormuz Sovereignty as Trump Weighs New Strikes",
+      "slug": "iran-war-conditions-strikes-negotiations",
+      "topic_keywords": [
+        "Iran war",
+        "Strait of Hormuz",
+        "ceasefire talks",
+        "Doha negotiations",
+        "Qeshm Island strikes"
+      ],
+      "conservative_headline": "Trump Stands Firm: 'You Can't Let Iran Have a Nuclear Weapon' as Tehran Issues New Ultimatums",
+      "liberal_headline": "Voters Said Stop the War \u2014 Trump Says He'd 'Do It Again' as Iran Escalation Risk Returns",
+      "poll_question": "What should the US do next on Iran?",
+      "poll_option1_label": "Finish Job",
+      "poll_option1_desc": "Keep military options open until Iran's nuclear program is permanently dismantled.",
+      "poll_option2_label": "End The War",
+      "poll_option2_desc": "Take the diplomatic opening; voters rejected an open-ended Middle East war.",
+      "pexels_search_terms": "naval warship middle east strait"
+    },
+    {
+      "title": "Ballot Integrity or Election Sabotage? DOJ's Push to Delay Alaska Certification Gets Tossed by a Judge",
+      "slug": "doj-alaska-certification-ballot-fight",
+      "topic_keywords": [
+        "Alaska Senate race",
+        "DOJ election litigation",
+        "ballot certification",
+        "California mail ballots",
+        "Supreme Court"
+      ],
+      "conservative_headline": "DOJ Fights for Clean Count in Razor-Thin Alaska Race as Democrats Scream 'Interference'",
+      "liberal_headline": "Judge Slaps Down Trump DOJ's Bid to Stall Alaska Certification After Court Rejects California Ballot Purge",
+      "poll_question": "Is federal involvement in vote counting appropriate?",
+      "poll_option1_label": "Verify Votes",
+      "poll_option1_desc": "Federal scrutiny protects against fraud in razor-thin, consequential races.",
+      "poll_option2_label": "Hands Off",
+      "poll_option2_desc": "DOJ intervention in state counts is an attack on election results.",
+      "pexels_search_terms": "ballot counting election officials courthouse"
+    },
+    {
+      "title": "Religious Liberty or Taxpayer-Funded Discrimination? SCOTUS Leans Toward Catholic Preschools in Colorado Fight",
+      "slug": "scotus-catholic-preschool-colorado-lgbtq-funding",
+      "topic_keywords": [
+        "Supreme Court",
+        "religious schools",
+        "Colorado preschool program",
+        "LGBTQ families",
+        "public funding"
+      ],
+      "conservative_headline": "Supreme Court Skeptical of Colorado's Attempt to Lock Catholic Schools Out of Public Pre-K Dollars",
+      "liberal_headline": "Court Poised to Force Taxpayers to Fund Schools That Can Turn Away Kids of Same-Sex Parents",
+      "poll_question": "Should religious schools that exclude LGBTQ families get public funds?",
+      "poll_option1_label": "Religious Freedom",
+      "poll_option1_desc": "Faith-based schools shouldn't be barred from neutral public programs over beliefs.",
+      "poll_option2_label": "No Discrimination",
+      "poll_option2_desc": "Public money shouldn't subsidize schools that reject children of same-sex couples.",
+      "pexels_search_terms": "supreme court building columns protest"
+    },
+    {
+      "title": "Transparency or Tipping Off Criminals? ICE Sued for Erasing Detainee Locations From Its Public Tracker",
+      "slug": "ice-detainee-locator-lawsuit-hidden-locations",
+      "topic_keywords": [
+        "ICE detention",
+        "detainee locator",
+        "final removal orders",
+        "immigration lawsuit",
+        "deportation"
+      ],
+      "conservative_headline": "Activist Lawyers Sue to Force ICE to Publish Locations of Illegal Aliens With Final Deportation Orders",
+      "liberal_headline": "Disappeared by Design: ICE Wipes Thousands of Detainees From Tracking System, Cutting Off Lawyers and Families",
+      "poll_question": "Should ICE publicly list where detainees are held?",
+      "poll_option1_label": "Security First",
+      "poll_option1_desc": "Operational secrecy protects agents and prevents interference with lawful removals.",
+      "poll_option2_label": "Due Process",
+      "poll_option2_desc": "Hiding detainees from lawyers and families is government disappearance, not enforcement.",
+      "pexels_search_terms": "detention facility fence immigration"
+    },
+    {
+      "title": "Local Control or Luddite Backlash? Voters in 38 Jurisdictions Slam the Brakes on AI Data Centers",
+      "slug": "data-center-ballot-backlash-ai-moratorium",
+      "topic_keywords": [
+        "data centers",
+        "AI infrastructure",
+        "ballot measures",
+        "Hinojosa moratorium",
+        "tech regulation"
+      ],
+      "conservative_headline": "Anti-AI Hysteria Threatens America's Edge as Democrats Push Data Center Moratoriums in Texas and Georgia",
+      "liberal_headline": "Communities Fight Back: Voters in Dozens of Towns Reject Water-Guzzling Data Centers Draining Their Grids",
+      "poll_question": "Should states pause new AI data center construction?",
+      "poll_option1_label": "Build Baby Build",
+      "poll_option1_desc": "Blocking data centers surrenders the AI race and kills investment and jobs.",
+      "poll_option2_label": "Pause Them",
+      "poll_option2_desc": "Communities deserve a say before their water and power get consumed.",
+      "pexels_search_terms": "data center servers power lines"
+    },
+    {
+      "title": "DEI Is Back or DEI Is Dead? Ro Khanna's Victory Lap Reignites the Culture War Democrats Avoided",
+      "slug": "dei-is-back-khanna-culture-war-fight",
+      "topic_keywords": [
+        "DEI",
+        "Ro Khanna",
+        "culture war",
+        "higher education",
+        "campus policy"
+      ],
+      "conservative_headline": "Mask Off: Democrats Declare 'DEI Is Back' Days After Campaigning on Anything But",
+      "liberal_headline": "Republicans Can't Let Go: Right-Wing Media Resurrects DEI Panic After Culture War Flops at the Polls",
+      "poll_question": "Did voters endorse bringing DEI programs back?",
+      "poll_option1_label": "Bait And Switch",
+      "poll_option1_desc": "Democrats ran on costs, then immediately pivoted back to identity politics.",
+      "poll_option2_label": "Manufactured Panic",
+      "poll_option2_desc": "The anti-DEI crusade lost; the right is inventing a comeback to campaign against.",
+      "pexels_search_terms": "university campus students diversity classroom"
+    },
+    {
+      "title": "Market Verdict or Sugar High? Wall Street Soars on Divided Government While Insurers and Hospitals Rally",
+      "slug": "markets-rally-divided-government-healthcare-stocks",
+      "topic_keywords": [
+        "stock market rally",
+        "divided government",
+        "hospital stocks",
+        "universal healthcare",
+        "health insurers"
+      ],
+      "conservative_headline": "Markets Cheer Gridlock, Not Democrats \u2014 Traders Bet Nothing Radical Gets Past Trump's Veto",
+      "liberal_headline": "Dow Surges 1,500 Points as Investors Bet on Democratic Healthcare Expansion and an Iran War Exit",
+      "poll_question": "Why did markets jump after the Democratic sweep?",
+      "poll_option1_label": "Gridlock Rally",
+      "poll_option1_desc": "Investors like a deadlocked Washington that can't pass anything damaging.",
+      "poll_option2_label": "Policy Shift",
+      "poll_option2_desc": "Markets are pricing in healthcare investment and the end of a costly war.",
+      "pexels_search_terms": "stock exchange trading floor charts"
+    }
+  ]
+}
