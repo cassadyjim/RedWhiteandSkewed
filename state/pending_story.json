@@ -1,196 +1,196 @@
 {
-  "date": "2026-11-06",
-  "email_sent_at": "2026-11-06T09:06:55.935415",
+  "date": "2026-11-07",
+  "email_sent_at": "2026-11-07T08:34:24.593067",
   "stories": [
     {
-      "title": "Mandate or Meltdown? Democrats Sweep Congress and Both Sides Claim the Future",
-      "slug": "democrats-sweep-congress-mandate-or-meltdown",
+      "title": "Doubling Down or Digging In? Trump Names Stephen Miller Chief of Staff After Midterm Wipeout",
+      "slug": "stephen-miller-chief-of-staff-midterm-shakeup",
       "topic_keywords": [
-        "2026 midterms",
-        "Democratic sweep",
-        "House majority",
-        "Senate control",
-        "Mike Johnson"
+        "Stephen Miller",
+        "chief of staff",
+        "Susie Wiles",
+        "White House shakeup",
+        "Trump second term"
       ],
-      "conservative_headline": "Low-Turnout Backlash, Not a Mandate: Democrats Inherit a Majority They Can't Govern With",
-      "liberal_headline": "Voters Deliver Historic Rebuke: Democrats Seize House and Senate in Repudiation of Trump",
-      "poll_question": "What did the midterm results actually mean?",
-      "poll_option1_label": "Typical Backlash",
-      "poll_option1_desc": "Normal midterm swing against the party in power, not a policy mandate",
-      "poll_option2_label": "Clear Repudiation",
-      "poll_option2_desc": "Voters rejected Trump's agenda in deep-red and battleground states alike",
-      "pexels_search_terms": "capitol building election night voters"
+      "conservative_headline": "Trump Goes on Offense: MAGA Warrior Stephen Miller Takes Over West Wing to Finish the Job",
+      "liberal_headline": "Voters Rejected His Agenda \u2014 So Trump Promoted Its Architect",
+      "poll_question": "Was promoting Stephen Miller the right call after the midterms?",
+      "poll_option1_label": "Fight Harder",
+      "poll_option1_desc": "Trump needs a loyal brawler to push his agenda through a hostile Congress",
+      "poll_option2_label": "Tone Deaf",
+      "poll_option2_desc": "Elevating the deportation architect ignores what voters just said",
+      "pexels_search_terms": "white house west wing podium official"
     },
     {
-      "title": "Oversight or Vendetta? Democrats Prepare Sweeping Investigations of Trump's White House",
-      "slug": "democrat-investigations-trump-white-house-oversight-or-vendetta",
+      "title": "Oversight or Witch Hunt? Democrats Take the Gavels and Vow Subpoenas",
+      "slug": "democrats-subpoenas-oversight-trump-investigations",
       "topic_keywords": [
-        "congressional oversight",
-        "subpoenas",
-        "Jamie Raskin",
+        "House Oversight",
         "Robert Garcia",
-        "White House counsel"
+        "subpoenas",
+        "congressional investigations",
+        "Trump administration"
       ],
-      "conservative_headline": "Here We Go Again: Democrats Promise Endless Subpoenas Before They've Even Been Sworn In",
-      "liberal_headline": "Accountability Arrives: House Democrats Ready Probes Into Corruption Trump Buried for Two Years",
-      "poll_question": "Are Democratic investigations of Trump justified?",
-      "poll_option1_label": "Political Theater",
-      "poll_option1_desc": "Partisan harassment designed to paralyze the executive branch",
-      "poll_option2_label": "Overdue Oversight",
-      "poll_option2_desc": "Congress finally restoring checks on an unaccountable administration",
-      "pexels_search_terms": "congressional hearing gavel documents"
+      "conservative_headline": "Here We Go Again: Democrats Win Power and Immediately Promise Two Years of Trump Investigations",
+      "liberal_headline": "Accountability Returns: Democrats Prepare Probes Into 'Tentacles of Corruption'",
+      "poll_question": "Should Democrats launch sweeping investigations of the Trump White House?",
+      "poll_option1_label": "Political Payback",
+      "poll_option1_desc": "Endless subpoenas are revenge theater, not governing for voters",
+      "poll_option2_label": "Checks Restored",
+      "poll_option2_desc": "Congress finally has power to force transparency and oversight",
+      "pexels_search_terms": "congressional hearing gavel committee room"
     },
     {
-      "title": "Justice or Pardon by Paperwork? DOJ Moves to Erase Steve Bannon's Contempt Conviction",
-      "slug": "doj-moves-vacate-bannon-contempt-conviction",
+      "title": "Finishing the Job or Forever War? Trump Launches New Iran Strikes as Advisers Push for More",
+      "slug": "trump-iran-limited-strike-decision",
       "topic_keywords": [
-        "Steve Bannon",
-        "contempt of Congress",
-        "January 6",
-        "Justice Department",
-        "conviction vacated"
-      ],
-      "conservative_headline": "DOJ Corrects a Political Prosecution: Bannon Was Targeted for Defying a Sham Committee",
-      "liberal_headline": "Trump's DOJ Moves to Wipe Out a Jury Verdict for a Loyalist Who Defied Congress",
-      "poll_question": "Should Bannon's contempt conviction be thrown out?",
-      "poll_option1_label": "Right the Wrong",
-      "poll_option1_desc": "The prosecution was politically motivated and should never have happened",
-      "poll_option2_label": "Rule of Law",
-      "poll_option2_desc": "A jury convicted him; DOJ shouldn't erase verdicts for allies",
-      "pexels_search_terms": "justice department courthouse legal documents"
-    },
-    {
-      "title": "Protecting History or Building a Monument to Himself? Judge Blocks Trump's Arch",
-      "slug": "judge-blocks-trump-triumphal-arch-construction",
-      "topic_keywords": [
-        "Triumphal Arch",
-        "National Capital Planning Commission",
-        "federal judge",
-        "Oval Office monument",
-        "East Wing"
-      ],
-      "conservative_headline": "Activist Judge Halts Beautification Project Hours After Lawful Final Approval",
-      "liberal_headline": "Court Slams Brakes on Trump's Self-Glorifying Arch After East Wing Demolition Outrage",
-      "poll_question": "Should Trump's arch project move forward?",
-      "poll_option1_label": "Build It",
-      "poll_option1_desc": "Approved through proper channels; courts shouldn't micromanage architecture",
-      "poll_option2_label": "Stop It",
-      "poll_option2_desc": "A vanity monument reshaping public landmarks without real public input",
-      "pexels_search_terms": "washington dc monument construction crane"
-    },
-    {
-      "title": "Force Multiplier or Deportation Dragnet? Pennsylvania Police Rush to Partner With ICE",
-      "slug": "pennsylvania-police-ice-287g-agreements-surge",
-      "topic_keywords": [
-        "287(g)",
-        "ICE agreements",
-        "local police",
-        "Pennsylvania",
-        "deportation"
-      ],
-      "conservative_headline": "Local Cops Step Up: PA Police Agencies Double ICE Partnerships to Keep Communities Safe",
-      "liberal_headline": "Your Local Police Are Now Deportation Agents: ICE Deals Double Across Pennsylvania",
-      "poll_question": "Should local police enforce federal immigration law?",
-      "poll_option1_label": "Force Multiplier",
-      "poll_option1_desc": "Local partnerships remove dangerous criminals and make neighborhoods safer",
-      "poll_option2_label": "Breaks Trust",
-      "poll_option2_desc": "Turning cops into ICE agents makes immigrant communities afraid to report crime",
-      "pexels_search_terms": "police patrol car neighborhood street"
-    },
-    {
-      "title": "Resign or Stand Firm? Hegseth Defiant as Impeachment Calls Grow After GOP Wipeout",
-      "slug": "hegseth-defiant-impeachment-calls-after-midterms",
-      "topic_keywords": [
+        "Iran strikes",
+        "Qeshm Island",
         "Pete Hegseth",
-        "Pentagon",
-        "Iran war",
-        "impeachment",
-        "defense secretary"
+        "war powers",
+        "Middle East"
       ],
-      "conservative_headline": "Hegseth Won't Be Bullied: Democrats Target Pentagon Chief for Winning the Fight They Fear",
-      "liberal_headline": "Even Trump Is Asking If Hegseth Should Go as Impeachment Calls Mount Over Iran War",
-      "poll_question": "Should Pete Hegseth remain Defense Secretary?",
-      "poll_option1_label": "Keep Him",
-      "poll_option1_desc": "Wartime leadership shouldn't change because of one bad election night",
-      "poll_option2_label": "He Must Go",
-      "poll_option2_desc": "A costly war and repeated failures demand accountability at the Pentagon",
-      "pexels_search_terms": "pentagon military briefing podium"
+      "conservative_headline": "Trump Strikes Iranian Air Defenses, Warns Tehran He Can 'Take Any Option at Any Time'",
+      "liberal_headline": "After Losing Congress Over the War, Trump Bombs Iran Again \u2014 Before Democrats Can Stop Him",
+      "poll_question": "Should Trump escalate military action against Iran?",
+      "poll_option1_label": "Strike Now",
+      "poll_option1_desc": "Finish dismantling Iran's nuclear and military capability while the window is open",
+      "poll_option2_label": "Stand Down",
+      "poll_option2_desc": "Voters rejected this war; pursue the Qatari-brokered deal instead",
+      "pexels_search_terms": "navy aircraft carrier fighter jet deployment"
     },
     {
-      "title": "Election Integrity or Vote Suppression? DOJ's Alaska Certification Fight Collapses in Court",
-      "slug": "doj-alaska-senate-certification-court-fight",
+      "title": "Mandate or Defiance? DHS Says 'Deportations Will Continue' Despite Blue Wave",
+      "slug": "dhs-deportations-continue-after-midterms",
       "topic_keywords": [
-        "Alaska Senate race",
-        "certification",
-        "DOJ election lawsuits",
-        "noncitizen voters",
-        "Supreme Court"
+        "ICE",
+        "Markwayne Mullin",
+        "deportations",
+        "immigration enforcement",
+        "detention funding"
       ],
-      "conservative_headline": "Judges Shrug at Real Questions About Who's Voting in America's Closest Races",
-      "liberal_headline": "Another DOJ Loss: Court Tosses Trump Bid to Delay Certifying Alaska Senate Race",
-      "poll_question": "Were DOJ's election lawsuits legitimate?",
-      "poll_option1_label": "Verify Votes",
-      "poll_option1_desc": "Checking rolls for noncitizens protects the integrity of close races",
-      "poll_option2_label": "Undermining Results",
-      "poll_option2_desc": "Baseless suits aimed at delaying certification of races Republicans lost",
-      "pexels_search_terms": "ballot box election official counting"
+      "conservative_headline": "DHS Chief Mullin: Deportations Will Continue \u2014 Funding Locked In Through 2029",
+      "liberal_headline": "Latino Voters Revolted Over ICE Raids. The Administration's Answer: More Raids.",
+      "poll_question": "Should ICE enforcement continue at current levels after the election?",
+      "poll_option1_label": "Law Is Law",
+      "poll_option1_desc": "Elections don't repeal immigration law; enforcement must continue",
+      "poll_option2_label": "Voters Spoke",
+      "poll_option2_desc": "The raids drove a backlash; Congress must rein in ICE now",
+      "pexels_search_terms": "immigration enforcement officers detention facility"
     },
     {
-      "title": "AI Boom or AI Bubble? $2.5 Trillion Tech Selloff Blamed on Democratic Wins",
-      "slug": "tech-selloff-ai-buildout-democratic-wins",
-      "topic_keywords": [
-        "Nasdaq correction",
-        "AI buildout",
-        "tech selloff",
-        "data centers",
-        "regulation"
-      ],
-      "conservative_headline": "Markets Panic: Investors Dump $2.5 Trillion as Democrats Threaten America's AI Lead",
-      "liberal_headline": "The AI Bubble Finally Wobbles \u2014 and Wall Street Blames Voters Instead of Itself",
-      "poll_question": "Who's to blame for the AI-driven market plunge?",
-      "poll_option1_label": "Democrat Threat",
-      "poll_option1_desc": "New Democratic power threatens the AI investment boom driving growth",
-      "poll_option2_label": "Overbuilt Bubble",
-      "poll_option2_desc": "Unsustainable AI spending was always going to correct, regardless of politics",
-      "pexels_search_terms": "stock market trading screens decline"
-    },
-    {
-      "title": "Religious Freedom or Taxpayer-Funded Discrimination? SCOTUS Ready to Back Faith Preschools",
-      "slug": "scotus-religious-preschools-same-sex-couples-funding",
+      "title": "Religious Liberty or Taxpayer-Funded Discrimination? SCOTUS Weighs Catholic Preschools in Colorado",
+      "slug": "supreme-court-catholic-preschool-colorado-lgbtq",
       "topic_keywords": [
         "Supreme Court",
-        "Colorado preschool",
-        "religious liberty",
-        "same-sex couples",
-        "public funding"
+        "Colorado",
+        "Catholic schools",
+        "LGBTQ",
+        "universal preschool"
       ],
-      "conservative_headline": "Court Poised to End Punishment of Faith-Based Schools for Holding Religious Beliefs",
-      "liberal_headline": "SCOTUS Set to Let Taxpayer-Funded Schools Turn Away Children of Same-Sex Parents",
-      "poll_question": "Can publicly funded religious schools reject same-sex families?",
+      "conservative_headline": "Supreme Court Skeptical of Colorado's Attempt to Lock Faith-Based Preschools Out of Public Program",
+      "liberal_headline": "Court Appears Ready to Force Taxpayers to Fund Schools That Turn Away LGBTQ Families",
+      "poll_question": "Should religious preschools that exclude LGBTQ families get state funds?",
       "poll_option1_label": "Faith Protected",
-      "poll_option1_desc": "Religious schools shouldn't be excluded from public programs over doctrine",
-      "poll_option2_label": "No Public Discrimination",
-      "poll_option2_desc": "Taxpayer dollars shouldn't fund schools that exclude gay parents' kids",
-      "pexels_search_terms": "supreme court building classroom children"
+      "poll_option1_desc": "Excluding religious schools from public programs is viewpoint discrimination",
+      "poll_option2_label": "No Public Funds",
+      "poll_option2_desc": "Taxpayer dollars shouldn't bankroll discrimination against gay parents",
+      "pexels_search_terms": "supreme court building columns steps"
     },
     {
-      "title": "Peace Breakthrough or Photo Op? Melania Hosts Russia and Ukraine at the White House",
-      "slug": "melania-trump-russia-ukraine-white-house-ceasefire",
+      "title": "Energy Dominance or Climate Surrender? EPA Methane Rollback Lands Days Before Power Plant Repeal Takes Effect",
+      "slug": "epa-methane-rollback-power-plant-repeal",
       "topic_keywords": [
-        "Melania Trump",
-        "Oleshky ceasefire",
-        "Ukraine peace talks",
-        "Russia",
-        "White House diplomacy"
+        "EPA",
+        "Lee Zeldin",
+        "methane rules",
+        "greenhouse gas standards",
+        "oil and gas"
       ],
-      "conservative_headline": "While Critics Sneer, the Trump White House Gets Russians and Ukrainians in the Same Room",
-      "liberal_headline": "Staged Diplomacy: First Lady's Summit Delivers Images, Not an End to the War",
-      "poll_question": "Is the White House Ukraine effort real diplomacy?",
-      "poll_option1_label": "Real Progress",
-      "poll_option1_desc": "A ceasefire that saved civilians is more than critics ever achieved",
-      "poll_option2_label": "Pure Spectacle",
-      "poll_option2_desc": "A symbolic event that substitutes optics for a serious peace strategy",
-      "pexels_search_terms": "diplomatic meeting flags negotiation table"
+      "conservative_headline": "EPA Scraps Biden's Costly Methane Mandates: 'Americans Must Be Able to Afford to Heat Their Homes'",
+      "liberal_headline": "Largest Climate Rollback in History Takes Effect as EPA Guts Methane Limits Too",
+      "poll_question": "Is the EPA's deregulation of emissions rules the right move?",
+      "poll_option1_label": "Unleash Energy",
+      "poll_option1_desc": "Cutting red tape lowers energy bills and boosts domestic production",
+      "poll_option2_label": "Climate Betrayal",
+      "poll_option2_desc": "Abandoning emissions limits hands polluters a license during a climate crisis",
+      "pexels_search_terms": "oil gas refinery flare smokestack"
+    },
+    {
+      "title": "Socialized Medicine or Overdue Fix? Midterm Wave Reignites the Medicare for All Fight",
+      "slug": "medicare-for-all-fight-after-midterms",
+      "topic_keywords": [
+        "Medicare for All",
+        "healthcare costs",
+        "Democrats",
+        "health insurance",
+        "single payer"
+      ],
+      "conservative_headline": "Emboldened Left Pushes Government Takeover of Health Care After Midterm Wins",
+      "liberal_headline": "Voters Fed Up With Health Costs Hand Democrats a Mandate \u2014 Will They Use It?",
+      "poll_question": "Should the new Congress pursue Medicare for All?",
+      "poll_option1_label": "Private Choice",
+      "poll_option1_desc": "Single payer means higher taxes, longer waits, and lost coverage options",
+      "poll_option2_label": "Universal Care",
+      "poll_option2_desc": "Health care is a right; voters demanded action on costs",
+      "pexels_search_terms": "hospital doctor stethoscope medical bill"
+    },
+    {
+      "title": "Court Reform or Court Packing? Democrats Dust Off Plans to Reshape the Supreme Court",
+      "slug": "democrats-supreme-court-reform-plans",
+      "topic_keywords": [
+        "court reform",
+        "Supreme Court",
+        "term limits",
+        "judiciary",
+        "Democratic majority"
+      ],
+      "conservative_headline": "Democrats Return to Court-Packing Dreams After Winning Congress",
+      "liberal_headline": "With New Majorities, Democrats Revive Push to Fix a Captured Supreme Court",
+      "poll_question": "Should Congress restructure the Supreme Court?",
+      "poll_option1_label": "Hands Off",
+      "poll_option1_desc": "Reshaping the Court because you lost cases destroys judicial independence",
+      "poll_option2_label": "Reform Now",
+      "poll_option2_desc": "Term limits and ethics rules are overdue for an unaccountable Court",
+      "pexels_search_terms": "justice scales courtroom bench judiciary"
+    },
+    {
+      "title": "Election Integrity or Intimidation? FBI Subpoenaed an Alaska Senate Candidate Days Before the Vote",
+      "slug": "fbi-subpoena-alaska-senate-candidate-spoiler-probe",
+      "topic_keywords": [
+        "FBI subpoena",
+        "DOJ",
+        "Alaska Senate",
+        "spoiler candidates",
+        "election investigation"
+      ],
+      "conservative_headline": "DOJ Probes Whether Democrats Secretly Funded Spoiler Candidates to Rig Senate Races",
+      "liberal_headline": "FBI Served a Candidate With a Subpoena Days Before Election Day. That's the Story.",
+      "poll_question": "Was the DOJ's pre-election probe of spoiler candidates legitimate?",
+      "poll_option1_label": "Follow Evidence",
+      "poll_option1_desc": "Secretly propping up spoiler candidates is fraud and deserves investigation",
+      "poll_option2_label": "Election Meddling",
+      "poll_option2_desc": "Using federal agents against candidates days before voting is intimidation",
+      "pexels_search_terms": "fbi federal agent badge investigation"
+    },
+    {
+      "title": "Build Baby Build or Boondoggle? Hassett Says Blue Wave Won't Slow the AI Data Center Boom",
+      "slug": "ai-data-center-buildout-blue-wave-backlash",
+      "topic_keywords": [
+        "data centers",
+        "artificial intelligence",
+        "Kevin Hassett",
+        "AI selloff",
+        "tech regulation"
+      ],
+      "conservative_headline": "White House: America Won't Cede the AI Race \u2014 Data Center Build-Out Continues Full Speed",
+      "liberal_headline": "Exit Polls Show Voters Hate Data Centers. The Administration Says Too Bad.",
+      "poll_question": "Should the AI data center build-out keep accelerating?",
+      "poll_option1_label": "Win the Race",
+      "poll_option1_desc": "AI infrastructure means jobs, investment, and beating China",
+      "poll_option2_label": "Local Control",
+      "poll_option2_desc": "Communities deserve a say over power bills, water, and land use",
+      "pexels_search_terms": "data center server racks technology infrastructure"
     }
   ]
 }
