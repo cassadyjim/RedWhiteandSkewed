@@ -1,196 +1,196 @@
 {
-  "date": "2026-11-07",
-  "email_sent_at": "2026-11-07T08:34:24.593067",
+  "date": "2026-11-08",
+  "email_sent_at": "2026-11-08T08:47:48.608319",
   "stories": [
     {
-      "title": "Doubling Down or Digging In? Trump Names Stephen Miller Chief of Staff After Midterm Wipeout",
-      "slug": "stephen-miller-chief-of-staff-midterm-shakeup",
+      "title": "Witch Hunt or Watchdog? Trump Orders DOJ Probe of Democrats Over Alleged 'Threatening' Letters",
+      "slug": "trump-doj-probe-democrats-threatening-letters",
+      "topic_keywords": [
+        "Trump DOJ probe",
+        "Democrats investigation",
+        "impeachment threats",
+        "weaponization of justice",
+        "political prosecution"
+      ],
+      "conservative_headline": "Trump Directs DOJ to Investigate Democrat Intimidation Campaign Against Republicans",
+      "liberal_headline": "Trump Orders Criminal Probe of Political Opponents \u2014 With No Evidence Whatsoever",
+      "poll_question": "Should the DOJ investigate Democratic leaders over alleged threatening letters?",
+      "poll_option1_label": "Investigate",
+      "poll_option1_desc": "Threats against officials are crimes and deserve federal scrutiny.",
+      "poll_option2_label": "Abuse of Power",
+      "poll_option2_desc": "Evidence-free probes of opponents are authoritarian retaliation, not law enforcement.",
+      "pexels_search_terms": "justice department building gavel investigation"
+    },
+    {
+      "title": "Fighter or Farce? Trump Offers White House Press Secretary Job to UFC Boss Dana White",
+      "slug": "dana-white-press-secretary-offer",
+      "topic_keywords": [
+        "Dana White",
+        "press secretary",
+        "Trump White House",
+        "UFC",
+        "media access"
+      ],
+      "conservative_headline": "Trump Taps a Winner: UFC's Dana White Offered Press Secretary Job to Take On Hostile Media",
+      "liberal_headline": "Trump Hands the Briefing Room to a Fight Promoter as Press Access Lawsuits Mount",
+      "poll_question": "Is a UFC executive a good choice for White House press secretary?",
+      "poll_option1_label": "Refreshing Pick",
+      "poll_option1_desc": "An outsider who can fight back against a biased press corps.",
+      "poll_option2_label": "Not Serious",
+      "poll_option2_desc": "Turning government communications into entertainment degrades public accountability.",
+      "pexels_search_terms": "press briefing room microphone podium"
+    },
+    {
+      "title": "Hardliner or Hammer? Stephen Miller Named Chief of Staff as Democrats Vow Subpoenas",
+      "slug": "stephen-miller-chief-of-staff-oversight-fight",
       "topic_keywords": [
         "Stephen Miller",
         "chief of staff",
         "Susie Wiles",
-        "White House shakeup",
-        "Trump second term"
-      ],
-      "conservative_headline": "Trump Goes on Offense: MAGA Warrior Stephen Miller Takes Over West Wing to Finish the Job",
-      "liberal_headline": "Voters Rejected His Agenda \u2014 So Trump Promoted Its Architect",
-      "poll_question": "Was promoting Stephen Miller the right call after the midterms?",
-      "poll_option1_label": "Fight Harder",
-      "poll_option1_desc": "Trump needs a loyal brawler to push his agenda through a hostile Congress",
-      "poll_option2_label": "Tone Deaf",
-      "poll_option2_desc": "Elevating the deportation architect ignores what voters just said",
-      "pexels_search_terms": "white house west wing podium official"
-    },
-    {
-      "title": "Oversight or Witch Hunt? Democrats Take the Gavels and Vow Subpoenas",
-      "slug": "democrats-subpoenas-oversight-trump-investigations",
-      "topic_keywords": [
         "House Oversight",
-        "Robert Garcia",
-        "subpoenas",
-        "congressional investigations",
-        "Trump administration"
+        "congressional investigations"
       ],
-      "conservative_headline": "Here We Go Again: Democrats Win Power and Immediately Promise Two Years of Trump Investigations",
-      "liberal_headline": "Accountability Returns: Democrats Prepare Probes Into 'Tentacles of Corruption'",
-      "poll_question": "Should Democrats launch sweeping investigations of the Trump White House?",
-      "poll_option1_label": "Political Payback",
-      "poll_option1_desc": "Endless subpoenas are revenge theater, not governing for voters",
-      "poll_option2_label": "Checks Restored",
-      "poll_option2_desc": "Congress finally has power to force transparency and oversight",
-      "pexels_search_terms": "congressional hearing gavel committee room"
+      "conservative_headline": "Trump Elevates Stephen Miller to Chief of Staff, Signaling No Retreat From America First Agenda",
+      "liberal_headline": "Trump Puts the Architect of Mass Deportation in Charge as Oversight Democrats Tell Miller to 'Lawyer Up'",
+      "poll_question": "Is Stephen Miller the right choice for White House chief of staff?",
+      "poll_option1_label": "Doubling Down",
+      "poll_option1_desc": "A loyal operator who will keep the agenda moving after midterm losses.",
+      "poll_option2_label": "Red Alert",
+      "poll_option2_desc": "Promoting the most extreme adviser invites more abuses and investigations.",
+      "pexels_search_terms": "white house west wing exterior"
     },
     {
-      "title": "Finishing the Job or Forever War? Trump Launches New Iran Strikes as Advisers Push for More",
-      "slug": "trump-iran-limited-strike-decision",
+      "title": "Election Integrity or Election Interference? DOJ Drops Its Own Suit Over California Ballots",
+      "slug": "doj-drops-california-noncitizen-ballot-suit",
       "topic_keywords": [
-        "Iran strikes",
-        "Qeshm Island",
-        "Pete Hegseth",
+        "noncitizen ballots",
+        "California election lawsuit",
+        "DOJ dismissal",
+        "Supreme Court ballots",
+        "election integrity"
+      ],
+      "conservative_headline": "DOJ Retreats on California Ballot Case, but Questions About 20,000 Suspect Votes Remain Unanswered",
+      "liberal_headline": "Justice Department Quietly Abandons Baseless Ballot Lawsuit After Courts Rejected It at Every Level",
+      "poll_question": "Was the DOJ's California ballot lawsuit legitimate?",
+      "poll_option1_label": "Legitimate Check",
+      "poll_option1_desc": "Verifying voter eligibility protects the integrity of every lawful ballot.",
+      "poll_option2_label": "Pure Intimidation",
+      "poll_option2_desc": "A baseless suit designed to cast doubt on a lawful election.",
+      "pexels_search_terms": "mail ballots election workers counting"
+    },
+    {
+      "title": "Alaska Showdown or Power Grab? Judge Tosses DOJ Bid to Delay Senate Race Certification",
+      "slug": "alaska-senate-certification-doj-court-fight",
+      "topic_keywords": [
+        "Alaska Senate race",
+        "certification delay",
+        "Dan Sullivan",
+        "Mary Peltola",
+        "election litigation"
+      ],
+      "conservative_headline": "Courts Brush Aside Legitimate Questions as Alaska's Razor-Thin Senate Race Heads to Certification",
+      "liberal_headline": "Judge Slaps Down Trump DOJ's Attempt to Block Certification of an Alaska Senate Race It's Losing",
+      "poll_question": "Should federal courts allow DOJ challenges to delay certifying close Senate races?",
+      "poll_option1_label": "Count Carefully",
+      "poll_option1_desc": "Razor-thin races deserve full scrutiny before results are locked in.",
+      "poll_option2_label": "Certify Now",
+      "poll_option2_desc": "Federal interference in state certification is a threat to democracy.",
+      "pexels_search_terms": "alaska capitol voting booth flag"
+    },
+    {
+      "title": "Enforcing the Law or Retaliation? Senator Demands Answers on ICE Death and Widow's Deportation",
+      "slug": "ice-detention-death-van-hollen-deportation-retaliation",
+      "topic_keywords": [
+        "ICE detention death",
+        "Van Hollen",
+        "deportation retaliation",
+        "DHS oversight",
+        "immigration enforcement"
+      ],
+      "conservative_headline": "ICE Says Detainee Received Proper Medical Care as Democrats Launch Another Attack on Enforcement",
+      "liberal_headline": "'Clear Case of Retaliation': Senator Demands ICE Explain Detainee's Death and His Widow's Deportation",
+      "poll_question": "Does ICE need stronger independent oversight?",
+      "poll_option1_label": "Back the Agents",
+      "poll_option1_desc": "ICE follows the law; politicized attacks endanger officers doing their jobs.",
+      "poll_option2_label": "Accountability Now",
+      "poll_option2_desc": "Deaths in custody and retaliation demand independent investigation and real consequences.",
+      "pexels_search_terms": "detention facility fence immigration protest"
+    },
+    {
+      "title": "Hemisphere Defense or Endless War? US Expands Naval Blockade to Ground Transport Routes",
+      "slug": "naval-blockade-expansion-counter-cartel-war-powers",
+      "topic_keywords": [
+        "naval blockade",
+        "cartel strikes",
         "war powers",
-        "Middle East"
+        "Hegseth",
+        "Latin America military"
       ],
-      "conservative_headline": "Trump Strikes Iranian Air Defenses, Warns Tehran He Can 'Take Any Option at Any Time'",
-      "liberal_headline": "After Losing Congress Over the War, Trump Bombs Iran Again \u2014 Before Democrats Can Stop Him",
-      "poll_question": "Should Trump escalate military action against Iran?",
-      "poll_option1_label": "Strike Now",
-      "poll_option1_desc": "Finish dismantling Iran's nuclear and military capability while the window is open",
-      "poll_option2_label": "Stand Down",
-      "poll_option2_desc": "Voters rejected this war; pursue the Qatari-brokered deal instead",
-      "pexels_search_terms": "navy aircraft carrier fighter jet deployment"
+      "conservative_headline": "US Expands Counter-Cartel Operations, Choking Off Drug Routes That Poison American Communities",
+      "liberal_headline": "Blockade Grows Into Open-Ended Military Campaign With Congress Still Cut Out of the Decision",
+      "poll_question": "Should Congress have to authorize the expanding counter-cartel military campaign?",
+      "poll_option1_label": "Commander in Chief",
+      "poll_option1_desc": "The president can act decisively against cartels threatening American lives.",
+      "poll_option2_label": "Authorize It",
+      "poll_option2_desc": "Open-ended strikes without a congressional vote violate war powers.",
+      "pexels_search_terms": "navy warship ocean patrol"
     },
     {
-      "title": "Mandate or Defiance? DHS Says 'Deportations Will Continue' Despite Blue Wave",
-      "slug": "dhs-deportations-continue-after-midterms",
+      "title": "Truce or Retreat? MAGA Backs Off the Campus Culture War After Midterm Wipeout",
+      "slug": "campus-culture-war-dei-retreat-after-midterms",
       "topic_keywords": [
-        "ICE",
-        "Markwayne Mullin",
-        "deportations",
-        "immigration enforcement",
-        "detention funding"
+        "campus culture war",
+        "DEI rollback",
+        "higher education politics",
+        "academic freedom",
+        "university funding"
       ],
-      "conservative_headline": "DHS Chief Mullin: Deportations Will Continue \u2014 Funding Locked In Through 2029",
-      "liberal_headline": "Latino Voters Revolted Over ICE Raids. The Administration's Answer: More Raids.",
-      "poll_question": "Should ICE enforcement continue at current levels after the election?",
-      "poll_option1_label": "Law Is Law",
-      "poll_option1_desc": "Elections don't repeal immigration law; enforcement must continue",
-      "poll_option2_label": "Voters Spoke",
-      "poll_option2_desc": "The raids drove a backlash; Congress must rein in ICE now",
-      "pexels_search_terms": "immigration enforcement officers detention facility"
+      "conservative_headline": "DEI Isn't Dead \u2014 The Left Is Already Plotting Its Comeback on America's Campuses",
+      "liberal_headline": "Voters Reject the Campus Culture War as Universities Reckon With Caving to Anti-DEI Threats",
+      "poll_question": "Should the federal government keep pressuring colleges over DEI programs?",
+      "poll_option1_label": "Keep Pushing",
+      "poll_option1_desc": "Taxpayer-funded schools shouldn't run discriminatory race-based programs.",
+      "poll_option2_label": "Hands Off",
+      "poll_option2_desc": "Federal coercion of universities was illegal and chilled academic freedom.",
+      "pexels_search_terms": "university campus students protest lecture hall"
     },
     {
-      "title": "Religious Liberty or Taxpayer-Funded Discrimination? SCOTUS Weighs Catholic Preschools in Colorado",
-      "slug": "supreme-court-catholic-preschool-colorado-lgbtq",
+      "title": "Build Baby Build or Rate Shock? Blue Wave Collides With Trump's AI Data Center Push",
+      "slug": "ai-data-center-buildout-ratepayer-fight",
       "topic_keywords": [
-        "Supreme Court",
-        "Colorado",
-        "Catholic schools",
-        "LGBTQ",
-        "universal preschool"
-      ],
-      "conservative_headline": "Supreme Court Skeptical of Colorado's Attempt to Lock Faith-Based Preschools Out of Public Program",
-      "liberal_headline": "Court Appears Ready to Force Taxpayers to Fund Schools That Turn Away LGBTQ Families",
-      "poll_question": "Should religious preschools that exclude LGBTQ families get state funds?",
-      "poll_option1_label": "Faith Protected",
-      "poll_option1_desc": "Excluding religious schools from public programs is viewpoint discrimination",
-      "poll_option2_label": "No Public Funds",
-      "poll_option2_desc": "Taxpayer dollars shouldn't bankroll discrimination against gay parents",
-      "pexels_search_terms": "supreme court building columns steps"
-    },
-    {
-      "title": "Energy Dominance or Climate Surrender? EPA Methane Rollback Lands Days Before Power Plant Repeal Takes Effect",
-      "slug": "epa-methane-rollback-power-plant-repeal",
-      "topic_keywords": [
-        "EPA",
-        "Lee Zeldin",
-        "methane rules",
-        "greenhouse gas standards",
-        "oil and gas"
-      ],
-      "conservative_headline": "EPA Scraps Biden's Costly Methane Mandates: 'Americans Must Be Able to Afford to Heat Their Homes'",
-      "liberal_headline": "Largest Climate Rollback in History Takes Effect as EPA Guts Methane Limits Too",
-      "poll_question": "Is the EPA's deregulation of emissions rules the right move?",
-      "poll_option1_label": "Unleash Energy",
-      "poll_option1_desc": "Cutting red tape lowers energy bills and boosts domestic production",
-      "poll_option2_label": "Climate Betrayal",
-      "poll_option2_desc": "Abandoning emissions limits hands polluters a license during a climate crisis",
-      "pexels_search_terms": "oil gas refinery flare smokestack"
-    },
-    {
-      "title": "Socialized Medicine or Overdue Fix? Midterm Wave Reignites the Medicare for All Fight",
-      "slug": "medicare-for-all-fight-after-midterms",
-      "topic_keywords": [
-        "Medicare for All",
-        "healthcare costs",
-        "Democrats",
-        "health insurance",
-        "single payer"
-      ],
-      "conservative_headline": "Emboldened Left Pushes Government Takeover of Health Care After Midterm Wins",
-      "liberal_headline": "Voters Fed Up With Health Costs Hand Democrats a Mandate \u2014 Will They Use It?",
-      "poll_question": "Should the new Congress pursue Medicare for All?",
-      "poll_option1_label": "Private Choice",
-      "poll_option1_desc": "Single payer means higher taxes, longer waits, and lost coverage options",
-      "poll_option2_label": "Universal Care",
-      "poll_option2_desc": "Health care is a right; voters demanded action on costs",
-      "pexels_search_terms": "hospital doctor stethoscope medical bill"
-    },
-    {
-      "title": "Court Reform or Court Packing? Democrats Dust Off Plans to Reshape the Supreme Court",
-      "slug": "democrats-supreme-court-reform-plans",
-      "topic_keywords": [
-        "court reform",
-        "Supreme Court",
-        "term limits",
-        "judiciary",
-        "Democratic majority"
-      ],
-      "conservative_headline": "Democrats Return to Court-Packing Dreams After Winning Congress",
-      "liberal_headline": "With New Majorities, Democrats Revive Push to Fix a Captured Supreme Court",
-      "poll_question": "Should Congress restructure the Supreme Court?",
-      "poll_option1_label": "Hands Off",
-      "poll_option1_desc": "Reshaping the Court because you lost cases destroys judicial independence",
-      "poll_option2_label": "Reform Now",
-      "poll_option2_desc": "Term limits and ethics rules are overdue for an unaccountable Court",
-      "pexels_search_terms": "justice scales courtroom bench judiciary"
-    },
-    {
-      "title": "Election Integrity or Intimidation? FBI Subpoenaed an Alaska Senate Candidate Days Before the Vote",
-      "slug": "fbi-subpoena-alaska-senate-candidate-spoiler-probe",
-      "topic_keywords": [
-        "FBI subpoena",
-        "DOJ",
-        "Alaska Senate",
-        "spoiler candidates",
-        "election investigation"
-      ],
-      "conservative_headline": "DOJ Probes Whether Democrats Secretly Funded Spoiler Candidates to Rig Senate Races",
-      "liberal_headline": "FBI Served a Candidate With a Subpoena Days Before Election Day. That's the Story.",
-      "poll_question": "Was the DOJ's pre-election probe of spoiler candidates legitimate?",
-      "poll_option1_label": "Follow Evidence",
-      "poll_option1_desc": "Secretly propping up spoiler candidates is fraud and deserves investigation",
-      "poll_option2_label": "Election Meddling",
-      "poll_option2_desc": "Using federal agents against candidates days before voting is intimidation",
-      "pexels_search_terms": "fbi federal agent badge investigation"
-    },
-    {
-      "title": "Build Baby Build or Boondoggle? Hassett Says Blue Wave Won't Slow the AI Data Center Boom",
-      "slug": "ai-data-center-buildout-blue-wave-backlash",
-      "topic_keywords": [
-        "data centers",
-        "artificial intelligence",
-        "Kevin Hassett",
-        "AI selloff",
+        "AI data centers",
+        "electricity rates",
+        "Hassett",
+        "permitting reform",
         "tech regulation"
       ],
-      "conservative_headline": "White House: America Won't Cede the AI Race \u2014 Data Center Build-Out Continues Full Speed",
-      "liberal_headline": "Exit Polls Show Voters Hate Data Centers. The Administration Says Too Bad.",
-      "poll_question": "Should the AI data center build-out keep accelerating?",
-      "poll_option1_label": "Win the Race",
-      "poll_option1_desc": "AI infrastructure means jobs, investment, and beating China",
-      "poll_option2_label": "Local Control",
-      "poll_option2_desc": "Communities deserve a say over power bills, water, and land use",
-      "pexels_search_terms": "data center server racks technology infrastructure"
+      "conservative_headline": "Hassett: Blue Wave Won't Stop the AI Build-Out That's Keeping America Ahead of China",
+      "liberal_headline": "Democrats Prepare to Rein In Data Center Sprawl as Families Get Stuck With the Power Bill",
+      "poll_question": "Should AI data center construction be fast-tracked or restricted?",
+      "poll_option1_label": "Build It",
+      "poll_option1_desc": "Winning the AI race requires fast permits and abundant power.",
+      "poll_option2_label": "Protect Ratepayers",
+      "poll_option2_desc": "Communities shouldn't subsidize Big Tech's power and water consumption.",
+      "pexels_search_terms": "data center servers power lines"
+    },
+    {
+      "title": "National Security or Scapegoating? Nvidia's Huang Asked to Brief Congress on China Ties",
+      "slug": "nvidia-huang-congress-china-briefing",
+      "topic_keywords": [
+        "Nvidia",
+        "Jensen Huang",
+        "China chips",
+        "export controls",
+        "congressional briefing"
+      ],
+      "conservative_headline": "Lawmakers Demand Nvidia CEO Explain Reported Chinese Intelligence Links Before Selling More Chips",
+      "liberal_headline": "Congress Summons Nvidia's Huang as Trump's Chip Deals With Beijing Face New Scrutiny",
+      "poll_question": "Should advanced AI chip sales to China be banned outright?",
+      "poll_option1_label": "Hard Ban",
+      "poll_option1_desc": "No American chips should strengthen China's military or surveillance state.",
+      "poll_option2_label": "Scrutinize Deals",
+      "poll_option2_desc": "Oversight should target the administration's own quiet approvals, not just companies.",
+      "pexels_search_terms": "semiconductor chip technology circuit board"
     }
   ]
 }
