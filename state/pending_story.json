@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-11",
+  "email_sent_at": "2026-11-11T09:04:27.057846",
+  "stories": [
+    {
+      "title": "Accountability or Theater? House GOP Kills Hegseth Impeachment Push",
+      "slug": "hegseth-impeachment-blocked-house-gop",
+      "topic_keywords": [
+        "Hegseth impeachment",
+        "Thomas Massie",
+        "War Powers Act",
+        "Operation Epic Fury",
+        "House Republicans"
+      ],
+      "conservative_headline": "House Rejects Massie's Impeachment Stunt as Hegseth Blasts 'Farce' Against War Secretary",
+      "liberal_headline": "GOP Shields Hegseth From Accountability Over Unauthorized Wars in Iran, Yemen and Venezuela",
+      "poll_question": "Should Pete Hegseth face impeachment over the Iran war?",
+      "poll_option1_label": "Political Stunt",
+      "poll_option1_desc": "Lawful operations ordered by the commander-in-chief; impeachment is partisan theater.",
+      "poll_option2_label": "Hold Him Accountable",
+      "poll_option2_desc": "256 days of war with no congressional authorization demands impeachment.",
+      "pexels_search_terms": "Pentagon press conference military podium"
+    },
+    {
+      "title": "Tariff Pain or Transition? Hot October Inflation Report Reignites the Price Fight",
+      "slug": "october-cpi-inflation-tariffs-fed-hike",
+      "topic_keywords": [
+        "October CPI",
+        "inflation 0.4 percent",
+        "Federal Reserve rate hike",
+        "tariffs",
+        "cost of living"
+      ],
+      "conservative_headline": "Inflation Cools From September as Economy Booms With 3.4% Growth and Blowout Jobs Report",
+      "liberal_headline": "Sixth Straight Year of Price Pain: Trump's Tariffs and War Keep Crushing American Paychecks",
+      "poll_question": "Who's to blame for stubbornly high inflation?",
+      "poll_option1_label": "Fed and Spending",
+      "poll_option1_desc": "Strong growth and energy shocks, not tariffs; the Fed should act.",
+      "poll_option2_label": "Trump's Tariffs",
+      "poll_option2_desc": "Tariffs and the Iran war drove prices past wages for months.",
+      "pexels_search_terms": "grocery store prices shopping receipt"
+    },
+    {
+      "title": "Law and Order or Scorched Earth? SCOTUS Clears Border Wall Through Big Bend",
+      "slug": "supreme-court-big-bend-border-wall",
+      "topic_keywords": [
+        "Big Bend border wall",
+        "Supreme Court emergency docket",
+        "Rio Grande",
+        "environmental review",
+        "border construction"
+      ],
+      "conservative_headline": "Supreme Court Hands Trump Another Win, Lets Border Wall Construction Resume in Texas",
+      "liberal_headline": "Justices Greenlight Bulldozers in Big Bend as Trump Steamrolls Environmental Law",
+      "poll_question": "Should border wall construction proceed through Big Bend?",
+      "poll_option1_label": "Build It",
+      "poll_option1_desc": "Border security outweighs delays from activist lawsuits and red tape.",
+      "poll_option2_label": "Protect the Land",
+      "poll_option2_desc": "Irreplaceable public land destroyed by waiving environmental protections.",
+      "pexels_search_terms": "desert canyon border fence Texas"
+    },
+    {
+      "title": "Fighting Words or Flop Sweat? Jim Jordan Takes Over a Shellacked House GOP",
+      "slug": "jim-jordan-house-minority-leader",
+      "topic_keywords": [
+        "Jim Jordan",
+        "House minority leader",
+        "Steve Scalise",
+        "midterm wipeout",
+        "John Thune"
+      ],
+      "conservative_headline": "Jordan Beats Scalise: Conservatives Pick a Fighter to Take On the New Democrat Majority",
+      "liberal_headline": "After Blue Wave Drubbing, House GOP Doubles Down on Trump's Most Combative Loyalist",
+      "poll_question": "Was Jim Jordan the right pick for House GOP leader?",
+      "poll_option1_label": "A Fighter",
+      "poll_option1_desc": "Republicans need a brawler, not a caretaker, in the minority.",
+      "poll_option2_label": "Learned Nothing",
+      "poll_option2_desc": "Voters rejected MAGA and the GOP responded by promoting it.",
+      "pexels_search_terms": "Capitol building congress hallway politician"
+    },
+    {
+      "title": "Cover-Up or Closure? House Panel's 136-Page Rebuke of DOJ on Epstein",
+      "slug": "house-report-doj-epstein-handling",
+      "topic_keywords": [
+        "Epstein files",
+        "House Oversight report",
+        "Justice Department",
+        "15-month investigation",
+        "transparency"
+      ],
+      "conservative_headline": "GOP Report Exposes DOJ's Botched Epstein Handling After 15-Month Investigation",
+      "liberal_headline": "Republicans' Epstein Report Dodges the Questions Voters Actually Want Answered",
+      "poll_question": "Does the House Epstein report deliver real accountability?",
+      "poll_option1_label": "Long Overdue",
+      "poll_option1_desc": "Finally exposes how federal prosecutors mishandled the Epstein case.",
+      "poll_option2_label": "Selective Outrage",
+      "poll_option2_desc": "A partisan document that protects allies and buries inconvenient names.",
+      "pexels_search_terms": "justice department documents gavel files"
+    },
+    {
+      "title": "Spy Scandal or Smear? Nvidia's Jensen Huang Faces Congressional Scrutiny Over China",
+      "slug": "nvidia-jensen-huang-china-spy-scrutiny",
+      "topic_keywords": [
+        "Nvidia",
+        "Jensen Huang",
+        "China espionage",
+        "chip export controls",
+        "tech regulation"
+      ],
+      "conservative_headline": "Trump Says Nvidia CEO Claimed He 'Didn't Know' About Alleged Chinese Spy in His Orbit",
+      "liberal_headline": "Congress Demands Answers From Nvidia as China Hawks and Chip Lobby Collide",
+      "poll_question": "Should Washington crack down harder on Big Tech's China ties?",
+      "poll_option1_label": "Crack Down",
+      "poll_option1_desc": "National security first \u2014 chipmakers can't police their own China exposure.",
+      "poll_option2_label": "Due Process",
+      "poll_option2_desc": "Unproven allegations shouldn't trigger a xenophobic political witch hunt.",
+      "pexels_search_terms": "semiconductor chip technology circuit board"
+    },
+    {
+      "title": "Mandate or Overreach? Democrats Plan to Shrink Trump's $1.5 Trillion Defense Budget",
+      "slug": "democrats-ndaa-defense-budget-fight",
+      "topic_keywords": [
+        "NDAA",
+        "defense budget",
+        "December 11 funding deadline",
+        "Pentagon spending",
+        "Democratic majority"
+      ],
+      "conservative_headline": "Democrats Move to Gut Defense Spending While Iran Threatens U.S. Bases in Europe",
+      "liberal_headline": "New Democratic Majority Targets Trump's Bloated $1.5T Pentagon Budget After Voter Rebuke",
+      "poll_question": "Should Congress cut the Pentagon budget below $1 trillion?",
+      "poll_option1_label": "Fund Defense",
+      "poll_option1_desc": "Cutting now invites aggression from Iran, China and Russia.",
+      "poll_option2_label": "Rein It In",
+      "poll_option2_desc": "Voters rejected endless war spending while families struggle to afford groceries.",
+      "pexels_search_terms": "military aircraft defense budget capitol"
+    },
+    {
+      "title": "Religious Liberty or Taxpayer-Funded Discrimination? SCOTUS Weighs Colorado Preschool Case",
+      "slug": "scotus-catholic-preschool-colorado-lgbtq",
+      "topic_keywords": [
+        "Supreme Court",
+        "Catholic preschools",
+        "Colorado universal pre-K",
+        "LGBTQ families",
+        "religious liberty"
+      ],
+      "conservative_headline": "Justices Skeptical of Colorado's Attempt to Force Catholic Preschools to Abandon Their Faith",
+      "liberal_headline": "Supreme Court Appears Ready to Make Taxpayers Fund Schools That Turn Away Same-Sex Parents",
+      "poll_question": "Should faith-based preschools get public funds if they reject LGBTQ families?",
+      "poll_option1_label": "Religious Freedom",
+      "poll_option1_desc": "Faith groups shouldn't be excluded from public programs over their beliefs.",
+      "poll_option2_label": "No Public Funds",
+      "poll_option2_desc": "Taxpayer dollars must not subsidize discrimination against same-sex parents.",
+      "pexels_search_terms": "preschool classroom children church steeple"
+    },
+    {
+      "title": "Election Integrity or Sore Loser? Trump Revives Voting-Machine Claims After Midterm Wipeout",
+      "slug": "trump-questions-midterm-results-voting-machines",
+      "topic_keywords": [
+        "midterm results",
+        "voting machines",
+        "election fraud claims",
+        "California ballots",
+        "DOJ certification"
+      ],
+      "conservative_headline": "Trump Demands Answers on Voting Machines as DOJ Probes California Ballot Irregularities",
+      "liberal_headline": "Trump Refuses to Accept Blue Wave, Resurrects Debunked Voting-Machine Conspiracies",
+      "poll_question": "Are questions about the 2026 midterm results legitimate?",
+      "poll_option1_label": "Verify Results",
+      "poll_option1_desc": "Mail ballots and machines deserve scrutiny before results are certified.",
+      "poll_option2_label": "He Lost",
+      "poll_option2_desc": "Courts rejected every claim; this is a attack on democracy itself.",
+      "pexels_search_terms": "voting machine ballot election polling place"
+    },
+    {
+      "title": "Mercy or Impunity? Trump Promises 'Tremendous Numbers' of Pardons in Term's Second Half",
+      "slug": "trump-tremendous-numbers-pardons-second-half",
+      "topic_keywords": [
+        "presidential pardons",
+        "clemency",
+        "Justice Department",
+        "Blanche",
+        "executive power"
+      ],
+      "conservative_headline": "Trump Vows Mass Clemency to Free Americans Targeted by Weaponized Prosecutions",
+      "liberal_headline": "Trump Signals Pardon Spree for Allies as DOJ Leadership Collapses Around Him",
+      "poll_question": "Is Trump's promised pardon wave justice or corruption?",
+      "poll_option1_label": "Righting Wrongs",
+      "poll_option1_desc": "Clemency corrects politically motivated prosecutions and excessive sentences.",
+      "poll_option2_label": "Pardons for Pals",
+      "poll_option2_desc": "Blanket pardons for loyalists destroy equal justice under law.",
+      "pexels_search_terms": "white house oval office presidential signing"
+    }
+  ]
+}
