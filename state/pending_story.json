@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-13",
+  "email_sent_at": "2026-11-13T09:19:07.229796",
+  "stories": [
+    {
+      "title": "Oversight or Overreach? White House Threatens Prosecution of Democratic Investigators",
+      "slug": "white-house-threatens-democrat-oversight-subpoenas",
+      "topic_keywords": [
+        "Will Scharf",
+        "Robert Garcia",
+        "House Oversight",
+        "congressional subpoenas",
+        "executive privilege"
+      ],
+      "conservative_headline": "White House Puts Democrats on Notice: Partisan Witch Hunts Aren't Legitimate Oversight",
+      "liberal_headline": "Trump White House Threatens to Jail Lawmakers for Doing Their Constitutional Job",
+      "poll_question": "Can the White House criminally threaten lawmakers over subpoenas?",
+      "poll_option1_label": "Stop The Harassment",
+      "poll_option1_desc": "Probes must serve legislative purpose, not punish political enemies",
+      "poll_option2_label": "Article I Power",
+      "poll_option2_desc": "Congress investigates the executive; threats are unconstitutional intimidation",
+      "pexels_search_terms": "capitol building subpoena documents gavel"
+    },
+    {
+      "title": "Boom or Squeeze? Hot Inflation Data Pushes Fed Toward December Rate Hike",
+      "slug": "october-inflation-fed-december-rate-hike",
+      "topic_keywords": [
+        "CPI inflation",
+        "Federal Reserve",
+        "rate hike",
+        "cost of living",
+        "tariffs"
+      ],
+      "conservative_headline": "Economy Roars with 165K Jobs as Fed Finally Gets Serious About Prices",
+      "liberal_headline": "Trump Promised to Crush Inflation \u2014 Prices Are Rising and Families Are Paying",
+      "poll_question": "Who's to blame for stubborn inflation?",
+      "poll_option1_label": "Fed Policy",
+      "poll_option1_desc": "Strong growth is real; the Fed mismanaged rates, not the president",
+      "poll_option2_label": "Tariff Costs",
+      "poll_option2_desc": "Tariffs and trade chaos are passing costs straight to consumers",
+      "pexels_search_terms": "grocery store prices receipt shopping"
+    },
+    {
+      "title": "Invasion or Invention? Trump Threatens to Double Mexico Tariffs Over Migrant Caravans",
+      "slug": "trump-mexico-tariff-threat-migrant-caravans",
+      "topic_keywords": [
+        "migrant caravan",
+        "Sheinbaum",
+        "Mexico tariffs",
+        "border security",
+        "Tapachula"
+      ],
+      "conservative_headline": "Trump Warns Mexico: Stop the Caravans or Face Double Tariffs",
+      "liberal_headline": "Mexico's President Fact-Checks Trump: No Caravan Has Reached the Border Since 2025",
+      "poll_question": "Are the migrant caravans a real threat to the border?",
+      "poll_option1_label": "Hold The Line",
+      "poll_option1_desc": "Thousands marching north demand tough leverage on Mexico now",
+      "poll_option2_label": "Manufactured Panic",
+      "poll_option2_desc": "Caravans dissolve long before the border; tariffs punish US shoppers",
+      "pexels_search_terms": "border crossing mexico highway migrants"
+    },
+    {
+      "title": "Defense or Escalation? New US Strikes Inside Iran Reignite War Powers Fight",
+      "slug": "us-strikes-iran-qeshm-war-powers-fight",
+      "topic_keywords": [
+        "Iran strikes",
+        "Strait of Hormuz",
+        "war powers",
+        "Qeshm Island",
+        "Pentagon"
+      ],
+      "conservative_headline": "US Forces Hit Iranian Missile Sites Threatening American Ships in Hormuz",
+      "liberal_headline": "Secret Strikes, No Vote: Trump Deepens an Unauthorized War With Iran",
+      "poll_question": "Should Congress vote before more strikes on Iran?",
+      "poll_option1_label": "Commander In Chief",
+      "poll_option1_desc": "Defensive strikes protect US forces; delay invites Iranian attacks",
+      "poll_option2_label": "Authorize First",
+      "poll_option2_desc": "Open-ended secret war requires a congressional vote, not press releases",
+      "pexels_search_terms": "navy destroyer warship ocean military"
+    },
+    {
+      "title": "Impeach or Ignore? Hegseth Survives House Vote but Democrats Vow Round Two",
+      "slug": "hegseth-impeachment-vote-democrats-round-two",
+      "topic_keywords": [
+        "Pete Hegseth",
+        "impeachment",
+        "Thomas Massie",
+        "Pentagon",
+        "House vote"
+      ],
+      "conservative_headline": "House Rejects Theatrical Impeachment Stunt Against Defense Secretary Hegseth",
+      "liberal_headline": "Republicans Narrowly Shield Hegseth as Even GOP Members Break Ranks",
+      "poll_question": "Should Pete Hegseth be impeached?",
+      "poll_option1_label": "Political Theater",
+      "poll_option1_desc": "A failed stunt from critics who never accepted his confirmation",
+      "poll_option2_label": "Accountability Now",
+      "poll_option2_desc": "Boat strikes and misconduct demand real consequences for the Pentagon chief",
+      "pexels_search_terms": "pentagon building defense department washington"
+    },
+    {
+      "title": "Spy Scandal or Smear? Nvidia CEO's Exit Triggers Chip-Smuggling Probe",
+      "slug": "nvidia-huang-china-spy-chip-smuggling-probe",
+      "topic_keywords": [
+        "Nvidia",
+        "Jensen Huang",
+        "China chip exports",
+        "espionage probe",
+        "export controls"
+      ],
+      "conservative_headline": "FBI Probes Chip Smuggling to Beijing After Nvidia Chief's Affair With Suspected Spy",
+      "liberal_headline": "Who Signed Off? Democrats Demand Answers on Chip Exports to China",
+      "poll_question": "Is the Nvidia-China scandal an administration failure?",
+      "poll_option1_label": "Prosecute Leaks",
+      "poll_option1_desc": "Focus on the smuggling ring and the executive who compromised himself",
+      "poll_option2_label": "Who Approved It",
+      "poll_option2_desc": "Officials who greenlit chip sales to China must testify under oath",
+      "pexels_search_terms": "computer chip semiconductor technology circuit"
+    },
+    {
+      "title": "Religious Liberty or Public Money? Supreme Court Weighs Catholic Schools in Colorado Pre-K",
+      "slug": "supreme-court-catholic-preschool-colorado-lgbtq",
+      "topic_keywords": [
+        "St. Mary Catholic",
+        "Colorado universal preschool",
+        "religious liberty",
+        "LGBTQ nondiscrimination",
+        "First Amendment"
+      ],
+      "conservative_headline": "Justices Skeptical of Colorado Punishing Catholic Preschools Over Their Faith",
+      "liberal_headline": "Supreme Court Poised to Make Taxpayers Fund Schools That Turn Away LGBTQ Families",
+      "poll_question": "Should faith-based preschools get state funds while setting their own rules?",
+      "poll_option1_label": "No Faith Penalty",
+      "poll_option1_desc": "Excluding religious schools from public programs is viewpoint discrimination",
+      "poll_option2_label": "No Discrimination",
+      "poll_option2_desc": "Public dollars shouldn't fund rejecting kids over who their parents are",
+      "pexels_search_terms": "supreme court building columns exterior"
+    },
+    {
+      "title": "Indoctrination or Inclusion? Democrats Seize Texas Board of Education for First Time in Decades",
+      "slug": "texas-state-board-education-democratic-majority",
+      "topic_keywords": [
+        "Texas State Board of Education",
+        "curriculum standards",
+        "social studies",
+        "school textbooks",
+        "culture war"
+      ],
+      "conservative_headline": "Texas Curriculum Up for Grabs as New Board Majority Targets History Standards",
+      "liberal_headline": "After Decades of Culture-War Textbooks, Texas Schools Get a Fresh Start",
+      "poll_question": "Should Texas rewrite its history and science standards?",
+      "poll_option1_label": "Don't Rewrite",
+      "poll_option1_desc": "New majority will inject ideology into classrooms parents didn't ask for",
+      "poll_option2_label": "Fix The Record",
+      "poll_option2_desc": "Standards downplayed minority history and distorted science for years",
+      "pexels_search_terms": "classroom textbooks students school desks"
+    },
+    {
+      "title": "Fair Maps or Erased Voters? Black House Representation Set to Drop After Voting Rights Ruling",
+      "slug": "voting-rights-act-ruling-black-representation-drop",
+      "topic_keywords": [
+        "Voting Rights Act",
+        "redistricting",
+        "Black representation",
+        "majority-minority districts",
+        "Supreme Court"
+      ],
+      "conservative_headline": "Court Ends Race-Based Mapmaking as Democrats Still Sweep the House",
+      "liberal_headline": "Gutted Voting Rights Act Delivers Record Drop in Black Congressional Representation",
+      "poll_question": "Did the Supreme Court's VRA ruling harm minority representation?",
+      "poll_option1_label": "Race-Neutral Maps",
+      "poll_option1_desc": "Districts shouldn't be drawn by race; voters still elected who they chose",
+      "poll_option2_label": "Rights Rollback",
+      "poll_option2_desc": "The ruling erased districts Black communities fought decades to win",
+      "pexels_search_terms": "voting booth ballot election polling place"
+    },
+    {
+      "title": "Cover-Up or Closure? New Oversight Report Blasts DOJ's Handling of Epstein Files",
+      "slug": "house-oversight-report-doj-epstein-investigation",
+      "topic_keywords": [
+        "Epstein files",
+        "House Oversight",
+        "Justice Department",
+        "Kathy Ruemmler",
+        "transparency"
+      ],
+      "conservative_headline": "Oversight Report Exposes How Justice Department Buried the Epstein Case",
+      "liberal_headline": "Report Rips DOJ Over Epstein Probe as Trump Officials Stonewall Document Requests",
+      "poll_question": "Is the Epstein investigation being handled honestly?",
+      "poll_option1_label": "Release Everything",
+      "poll_option1_desc": "Career DOJ officials protected elites; full files should go public",
+      "poll_option2_label": "Selective Leaks",
+      "poll_option2_desc": "Administration releases only what embarrasses opponents while hiding the rest",
+      "pexels_search_terms": "justice department files folders investigation"
+    }
+  ]
+}
