@@ -1,196 +1,196 @@
 {
-  "date": "2026-11-13",
-  "email_sent_at": "2026-11-13T09:19:07.229796",
+  "date": "2026-11-14",
+  "email_sent_at": "2026-11-14T08:48:23.653017",
   "stories": [
     {
-      "title": "Oversight or Overreach? White House Threatens Prosecution of Democratic Investigators",
-      "slug": "white-house-threatens-democrat-oversight-subpoenas",
+      "title": "Constitutional Oversight or Criminal Harassment? White House Threatens Democrats Over Trump Probes",
+      "slug": "white-house-threatens-democrat-oversight-investigations",
       "topic_keywords": [
-        "Will Scharf",
+        "White House counsel",
         "Robert Garcia",
         "House Oversight",
         "congressional subpoenas",
-        "executive privilege"
+        "Will Scharf"
       ],
-      "conservative_headline": "White House Puts Democrats on Notice: Partisan Witch Hunts Aren't Legitimate Oversight",
-      "liberal_headline": "Trump White House Threatens to Jail Lawmakers for Doing Their Constitutional Job",
-      "poll_question": "Can the White House criminally threaten lawmakers over subpoenas?",
-      "poll_option1_label": "Stop The Harassment",
-      "poll_option1_desc": "Probes must serve legislative purpose, not punish political enemies",
+      "conservative_headline": "White House Puts Democrats on Notice: Partisan Witch Hunts Aren't Legislating",
+      "liberal_headline": "Trump White House Threatens to Criminalize Congressional Oversight Itself",
+      "poll_question": "Can the White House threaten lawmakers over investigations?",
+      "poll_option1_label": "Stop The Witch Hunt",
+      "poll_option1_desc": "Democrat probes are political harassment, not legitimate legislative work",
       "poll_option2_label": "Article I Power",
-      "poll_option2_desc": "Congress investigates the executive; threats are unconstitutional intimidation",
-      "pexels_search_terms": "capitol building subpoena documents gavel"
+      "poll_option2_desc": "Congress has constitutional authority to investigate the executive branch",
+      "pexels_search_terms": "capitol hill hearing room gavel"
     },
     {
-      "title": "Boom or Squeeze? Hot Inflation Data Pushes Fed Toward December Rate Hike",
-      "slug": "october-inflation-fed-december-rate-hike",
+      "title": "Trump Boom or Affordability Bust? Producer Prices Hit Highest Annual Rate Since 2022",
+      "slug": "producer-price-inflation-surge-affordability-crisis",
       "topic_keywords": [
-        "CPI inflation",
-        "Federal Reserve",
-        "rate hike",
-        "cost of living",
-        "tariffs"
+        "producer price index",
+        "inflation",
+        "affordability crisis",
+        "grocery prices",
+        "Federal Reserve"
       ],
-      "conservative_headline": "Economy Roars with 165K Jobs as Fed Finally Gets Serious About Prices",
-      "liberal_headline": "Trump Promised to Crush Inflation \u2014 Prices Are Rising and Families Are Paying",
-      "poll_question": "Who's to blame for stubborn inflation?",
-      "poll_option1_label": "Fed Policy",
-      "poll_option1_desc": "Strong growth is real; the Fed mismanaged rates, not the president",
-      "poll_option2_label": "Tariff Costs",
-      "poll_option2_desc": "Tariffs and trade chaos are passing costs straight to consumers",
-      "pexels_search_terms": "grocery store prices receipt shopping"
+      "conservative_headline": "Wholesale Prices Beat Forecasts as Energy Shock From Iran War Drives Costs",
+      "liberal_headline": "Prices Explode to 6.5% as Trump's Tariffs and War Crush Family Budgets",
+      "poll_question": "Who's to blame for the price surge?",
+      "poll_option1_label": "War & Energy",
+      "poll_option1_desc": "Global energy shock, not Trump policy, is driving price increases",
+      "poll_option2_label": "Tariffs & Trump",
+      "poll_option2_desc": "Tariffs and economic mismanagement are inflating costs for everyone",
+      "pexels_search_terms": "grocery store receipt shopping prices"
     },
     {
-      "title": "Invasion or Invention? Trump Threatens to Double Mexico Tariffs Over Migrant Caravans",
-      "slug": "trump-mexico-tariff-threat-migrant-caravans",
+      "title": "Record Enforcement or Record Cruelty? ICE Says It Deported 483,200 People in One Year",
+      "slug": "ice-record-deportations-fiscal-2026",
       "topic_keywords": [
-        "migrant caravan",
-        "Sheinbaum",
-        "Mexico tariffs",
-        "border security",
-        "Tapachula"
+        "ICE deportations",
+        "immigration enforcement",
+        "DHS record",
+        "TRAC data",
+        "expedited removal"
       ],
-      "conservative_headline": "Trump Warns Mexico: Stop the Caravans or Face Double Tariffs",
-      "liberal_headline": "Mexico's President Fact-Checks Trump: No Caravan Has Reached the Border Since 2025",
-      "poll_question": "Are the migrant caravans a real threat to the border?",
-      "poll_option1_label": "Hold The Line",
-      "poll_option1_desc": "Thousands marching north demand tough leverage on Mexico now",
-      "poll_option2_label": "Manufactured Panic",
-      "poll_option2_desc": "Caravans dissolve long before the border; tariffs punish US shoppers",
-      "pexels_search_terms": "border crossing mexico highway migrants"
+      "conservative_headline": "ICE Shatters All-Time Record: 483,200 Illegal Aliens Removed in Historic Year",
+      "liberal_headline": "ICE Touts Record Numbers as Majority of Arrests Involve No Criminal Record",
+      "poll_question": "Are record deportations a success or a scandal?",
+      "poll_option1_label": "Law Restored",
+      "poll_option1_desc": "Historic removals prove the border and interior are finally enforced",
+      "poll_option2_label": "Indiscriminate Raids",
+      "poll_option2_desc": "Most arrested had no convictions; families are being torn apart",
+      "pexels_search_terms": "immigration detention fence airport deportation"
     },
     {
-      "title": "Defense or Escalation? New US Strikes Inside Iran Reignite War Powers Fight",
-      "slug": "us-strikes-iran-qeshm-war-powers-fight",
-      "topic_keywords": [
-        "Iran strikes",
-        "Strait of Hormuz",
-        "war powers",
-        "Qeshm Island",
-        "Pentagon"
-      ],
-      "conservative_headline": "US Forces Hit Iranian Missile Sites Threatening American Ships in Hormuz",
-      "liberal_headline": "Secret Strikes, No Vote: Trump Deepens an Unauthorized War With Iran",
-      "poll_question": "Should Congress vote before more strikes on Iran?",
-      "poll_option1_label": "Commander In Chief",
-      "poll_option1_desc": "Defensive strikes protect US forces; delay invites Iranian attacks",
-      "poll_option2_label": "Authorize First",
-      "poll_option2_desc": "Open-ended secret war requires a congressional vote, not press releases",
-      "pexels_search_terms": "navy destroyer warship ocean military"
-    },
-    {
-      "title": "Impeach or Ignore? Hegseth Survives House Vote but Democrats Vow Round Two",
-      "slug": "hegseth-impeachment-vote-democrats-round-two",
+      "title": "War Crime or War Fighting? Hegseth Faces Impeachment Push Over Second Boat Strike",
+      "slug": "hegseth-impeachment-boat-strike-survivors",
       "topic_keywords": [
         "Pete Hegseth",
         "impeachment",
-        "Thomas Massie",
-        "Pentagon",
-        "House vote"
+        "boat strike survivors",
+        "Venezuela",
+        "war powers"
       ],
-      "conservative_headline": "House Rejects Theatrical Impeachment Stunt Against Defense Secretary Hegseth",
-      "liberal_headline": "Republicans Narrowly Shield Hegseth as Even GOP Members Break Ranks",
-      "poll_question": "Should Pete Hegseth be impeached?",
-      "poll_option1_label": "Political Theater",
-      "poll_option1_desc": "A failed stunt from critics who never accepted his confirmation",
+      "conservative_headline": "Democrats Target Hegseth With Impeachment Stunt Over Lawful Narco-Terror Strike",
+      "liberal_headline": "Did Hegseth Order the Killing of Shipwreck Survivors? Congress Demands Answers",
+      "poll_question": "Should Hegseth be impeached over the follow-up strike?",
+      "poll_option1_label": "Lawful Mission",
+      "poll_option1_desc": "Strikes on narco-terrorists were legal and kept Americans safe",
       "poll_option2_label": "Accountability Now",
-      "poll_option2_desc": "Boat strikes and misconduct demand real consequences for the Pentagon chief",
-      "pexels_search_terms": "pentagon building defense department washington"
+      "poll_option2_desc": "Killing survivors of a strike is a war crime requiring removal",
+      "pexels_search_terms": "navy warship caribbean military vessel"
     },
     {
-      "title": "Spy Scandal or Smear? Nvidia CEO's Exit Triggers Chip-Smuggling Probe",
-      "slug": "nvidia-huang-china-spy-chip-smuggling-probe",
+      "title": "Parental Rights or Outing Kids? Education Dept. Probes New Mexico Schools Over Trans Policies",
+      "slug": "education-department-new-mexico-trans-student-privacy-probe",
+      "topic_keywords": [
+        "Department of Education",
+        "transgender students",
+        "parental rights",
+        "Albuquerque schools",
+        "FERPA"
+      ],
+      "conservative_headline": "Feds Investigate Schools Hiding Children's Gender Transitions From Their Own Parents",
+      "liberal_headline": "Trump Admin Threatens School Funding to Force Districts to Out Trans Students",
+      "poll_question": "Must schools tell parents about a student's gender identity?",
+      "poll_option1_label": "Parents Decide",
+      "poll_option1_desc": "Schools have no right to keep secrets from a child's parents",
+      "poll_option2_label": "Student Safety",
+      "poll_option2_desc": "Forced outing endangers vulnerable kids in unsupportive homes",
+      "pexels_search_terms": "empty school classroom hallway lockers"
+    },
+    {
+      "title": "Religious Liberty or Taxpayer Discrimination? SCOTUS Leans Toward Catholic Schools in LGBTQ Case",
+      "slug": "supreme-court-religious-preschool-lgbtq-families-colorado",
+      "topic_keywords": [
+        "Supreme Court",
+        "religious schools",
+        "Colorado pre-K",
+        "same-sex couples",
+        "school funding"
+      ],
+      "conservative_headline": "Supreme Court Poised to End Colorado's Exclusion of Faith-Based Preschools",
+      "liberal_headline": "Court Set to Let Taxpayer-Funded Schools Slam the Door on Same-Sex Parents",
+      "poll_question": "Can publicly funded religious schools reject LGBTQ families?",
+      "poll_option1_label": "Free Exercise",
+      "poll_option1_desc": "Excluding religious schools from public programs is anti-faith discrimination",
+      "poll_option2_label": "No Public Bigotry",
+      "poll_option2_desc": "Taxpayer dollars shouldn't fund discrimination against same-sex parents",
+      "pexels_search_terms": "supreme court building columns steps"
+    },
+    {
+      "title": "Generational Change or Reckless Coup? Van Hollen Challenges Schumer for Senate Leader",
+      "slug": "van-hollen-challenges-schumer-senate-majority-leader",
+      "topic_keywords": [
+        "Chris Van Hollen",
+        "Chuck Schumer",
+        "Senate majority leader",
+        "Democratic leadership",
+        "filibuster"
+      ],
+      "conservative_headline": "Democrat Civil War Erupts as Van Hollen Moves to Topple Schumer After Midterms",
+      "liberal_headline": "Van Hollen Bids to Lead a New Senate Majority Hungry for a Sharper Fight",
+      "poll_question": "Should Democrats replace Schumer as Senate leader?",
+      "poll_option1_label": "Chaos Ahead",
+      "poll_option1_desc": "A leadership brawl shows Democrats are divided and unserious about governing",
+      "poll_option2_label": "New Energy",
+      "poll_option2_desc": "The new majority needs a leader willing to confront Trump aggressively",
+      "pexels_search_terms": "us senate chamber podium microphone"
+    },
+    {
+      "title": "Spy Scandal or Political Scapegoating? Lutnick to Testify as Nvidia Fallout Hits Washington",
+      "slug": "lutnick-testify-nvidia-spy-scandal-china-chips",
       "topic_keywords": [
         "Nvidia",
         "Jensen Huang",
+        "Howard Lutnick",
         "China chip exports",
-        "espionage probe",
-        "export controls"
+        "congressional testimony"
       ],
-      "conservative_headline": "FBI Probes Chip Smuggling to Beijing After Nvidia Chief's Affair With Suspected Spy",
-      "liberal_headline": "Who Signed Off? Democrats Demand Answers on Chip Exports to China",
-      "poll_question": "Is the Nvidia-China scandal an administration failure?",
-      "poll_option1_label": "Prosecute Leaks",
-      "poll_option1_desc": "Focus on the smuggling ring and the executive who compromised himself",
-      "poll_option2_label": "Who Approved It",
-      "poll_option2_desc": "Officials who greenlit chip sales to China must testify under oath",
-      "pexels_search_terms": "computer chip semiconductor technology circuit"
+      "conservative_headline": "Lutnick Will Testify and Set the Record Straight on Nvidia's China Security Lapse",
+      "liberal_headline": "Commerce Secretary Forced to Testify as Family's Nvidia Ties Face Scrutiny",
+      "poll_question": "Is the Nvidia scandal about China or about cronyism?",
+      "poll_option1_label": "Blame Beijing",
+      "poll_option1_desc": "Focus belongs on Chinese espionage, not on American officials",
+      "poll_option2_label": "Follow The Money",
+      "poll_option2_desc": "Administration's financial ties to Nvidia demand full investigation",
+      "pexels_search_terms": "semiconductor chip circuit board technology"
     },
     {
-      "title": "Religious Liberty or Public Money? Supreme Court Weighs Catholic Schools in Colorado Pre-K",
-      "slug": "supreme-court-catholic-preschool-colorado-lgbtq",
+      "title": "Border Security or Asylum Shutdown? Supreme Court Takes Up Trump's Suspension of Asylum",
+      "slug": "supreme-court-asylum-suspension-southern-border-case",
       "topic_keywords": [
-        "St. Mary Catholic",
-        "Colorado universal preschool",
-        "religious liberty",
-        "LGBTQ nondiscrimination",
-        "First Amendment"
+        "asylum",
+        "Supreme Court",
+        "southern border",
+        "presidential proclamation",
+        "immigration law"
       ],
-      "conservative_headline": "Justices Skeptical of Colorado Punishing Catholic Preschools Over Their Faith",
-      "liberal_headline": "Supreme Court Poised to Make Taxpayers Fund Schools That Turn Away LGBTQ Families",
-      "poll_question": "Should faith-based preschools get state funds while setting their own rules?",
-      "poll_option1_label": "No Faith Penalty",
-      "poll_option1_desc": "Excluding religious schools from public programs is viewpoint discrimination",
-      "poll_option2_label": "No Discrimination",
-      "poll_option2_desc": "Public dollars shouldn't fund rejecting kids over who their parents are",
-      "pexels_search_terms": "supreme court building columns exterior"
+      "conservative_headline": "SCOTUS to Decide if a President Can Finally Shut Down the Asylum Loophole",
+      "liberal_headline": "Supreme Court Will Weigh Trump's Unilateral Repeal of America's Asylum Law",
+      "poll_question": "Can a president suspend asylum access at the border?",
+      "poll_option1_label": "Executive Power",
+      "poll_option1_desc": "Presidents can bar entry during an invasion-level border crisis",
+      "poll_option2_label": "Congress Wrote It",
+      "poll_option2_desc": "Only Congress can rewrite asylum law; courts already said so",
+      "pexels_search_terms": "border wall desert fence crossing"
     },
     {
-      "title": "Indoctrination or Inclusion? Democrats Seize Texas Board of Education for First Time in Decades",
-      "slug": "texas-state-board-education-democratic-majority",
+      "title": "Aging Infrastructure or Government Failure? FAA Ground Stop Grounds the Nation",
+      "slug": "faa-ground-stop-air-traffic-control-overhaul",
       "topic_keywords": [
-        "Texas State Board of Education",
-        "curriculum standards",
-        "social studies",
-        "school textbooks",
-        "culture war"
+        "FAA ground stop",
+        "air traffic control",
+        "flight delays",
+        "infrastructure funding",
+        "Congress fast-track"
       ],
-      "conservative_headline": "Texas Curriculum Up for Grabs as New Board Majority Targets History Standards",
-      "liberal_headline": "After Decades of Culture-War Textbooks, Texas Schools Get a Fresh Start",
-      "poll_question": "Should Texas rewrite its history and science standards?",
-      "poll_option1_label": "Don't Rewrite",
-      "poll_option1_desc": "New majority will inject ideology into classrooms parents didn't ask for",
-      "poll_option2_label": "Fix The Record",
-      "poll_option2_desc": "Standards downplayed minority history and distorted science for years",
-      "pexels_search_terms": "classroom textbooks students school desks"
-    },
-    {
-      "title": "Fair Maps or Erased Voters? Black House Representation Set to Drop After Voting Rights Ruling",
-      "slug": "voting-rights-act-ruling-black-representation-drop",
-      "topic_keywords": [
-        "Voting Rights Act",
-        "redistricting",
-        "Black representation",
-        "majority-minority districts",
-        "Supreme Court"
-      ],
-      "conservative_headline": "Court Ends Race-Based Mapmaking as Democrats Still Sweep the House",
-      "liberal_headline": "Gutted Voting Rights Act Delivers Record Drop in Black Congressional Representation",
-      "poll_question": "Did the Supreme Court's VRA ruling harm minority representation?",
-      "poll_option1_label": "Race-Neutral Maps",
-      "poll_option1_desc": "Districts shouldn't be drawn by race; voters still elected who they chose",
-      "poll_option2_label": "Rights Rollback",
-      "poll_option2_desc": "The ruling erased districts Black communities fought decades to win",
-      "pexels_search_terms": "voting booth ballot election polling place"
-    },
-    {
-      "title": "Cover-Up or Closure? New Oversight Report Blasts DOJ's Handling of Epstein Files",
-      "slug": "house-oversight-report-doj-epstein-investigation",
-      "topic_keywords": [
-        "Epstein files",
-        "House Oversight",
-        "Justice Department",
-        "Kathy Ruemmler",
-        "transparency"
-      ],
-      "conservative_headline": "Oversight Report Exposes How Justice Department Buried the Epstein Case",
-      "liberal_headline": "Report Rips DOJ Over Epstein Probe as Trump Officials Stonewall Document Requests",
-      "poll_question": "Is the Epstein investigation being handled honestly?",
-      "poll_option1_label": "Release Everything",
-      "poll_option1_desc": "Career DOJ officials protected elites; full files should go public",
-      "poll_option2_label": "Selective Leaks",
-      "poll_option2_desc": "Administration releases only what embarrasses opponents while hiding the rest",
-      "pexels_search_terms": "justice department files folders investigation"
+      "conservative_headline": "Trump Demands Congress Fast-Track ATC Overhaul After Outdated System Fails",
+      "liberal_headline": "Nationwide Ground Stop Exposes an Air Traffic System Gutted on Trump's Watch",
+      "poll_question": "Who should answer for the nationwide flight meltdown?",
+      "poll_option1_label": "Fix It Fast",
+      "poll_option1_desc": "Decades-old technology needs an immediate overhaul Congress has stalled",
+      "poll_option2_label": "Staffing Crisis",
+      "poll_option2_desc": "Cuts and chaos left controllers understaffed and systems unmaintained",
+      "pexels_search_terms": "airport control tower departure board delays"
     }
   ]
 }
