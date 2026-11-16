@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-16",
+  "email_sent_at": "2026-11-16T09:17:54.658193",
+  "stories": [
+    {
+      "title": "Oversight or Obstruction? White House Warns Democrats Their Trump Probes Could Be 'Criminal'",
+      "slug": "white-house-warns-democrats-investigations-criminality",
+      "topic_keywords": [
+        "Will Scharf",
+        "Robert Garcia",
+        "House Oversight",
+        "congressional subpoenas",
+        "executive privilege"
+      ],
+      "conservative_headline": "White House Counsel Vows 'Vigorous Response' to Democrats' Partisan Witch Hunt Against Trump",
+      "liberal_headline": "Trump White House Threatens to Criminalize Congressional Oversight in Stunning Constitutional Power Grab",
+      "poll_question": "Can the White House threaten Democrats over oversight subpoenas?",
+      "poll_option1_label": "Stop The Harassment",
+      "poll_option1_desc": "Subpoenas need legitimate legislative purpose, not political revenge against the president.",
+      "poll_option2_label": "Article I Power",
+      "poll_option2_desc": "Congress investigates the executive; the White House doesn't grant permission.",
+      "pexels_search_terms": "capitol hill hearing room subpoena"
+    },
+    {
+      "title": "Blowout or Broke? Jobs Keep Growing While Inflation Eats Every Paycheck",
+      "slug": "inflation-outpaces-wages-fed-rate-hike-debate",
+      "topic_keywords": [
+        "CPI inflation",
+        "Federal Reserve",
+        "rate hike",
+        "wage growth",
+        "cost of living"
+      ],
+      "conservative_headline": "Economy Adds 165,000 Jobs as Unemployment Falls to 4.1% \u2014 Far Beyond Expectations",
+      "liberal_headline": "Americans Lose Ground for Third Straight Month as Trump's Tariff Inflation Devours Wages",
+      "poll_question": "Is the Trump economy working for ordinary Americans?",
+      "poll_option1_label": "Strong Jobs",
+      "poll_option1_desc": "Hiring beat forecasts and unemployment fell; the fundamentals are solid.",
+      "poll_option2_label": "Wages Losing",
+      "poll_option2_desc": "Prices outpace paychecks; affordability crisis is crushing working families.",
+      "pexels_search_terms": "grocery store prices shopping receipt"
+    },
+    {
+      "title": "Record Enforcement or Record Cruelty? ICE Posts 483,200 Deportations in One Year",
+      "slug": "ice-record-deportations-fiscal-2026-backlash",
+      "topic_keywords": [
+        "ICE deportations",
+        "Markwayne Mullin",
+        "immigration arrests",
+        "expedited removal",
+        "sanctuary cities"
+      ],
+      "conservative_headline": "ICE Shatters All-Time Records: More Arrests in One Year Than Biden's Entire Presidency",
+      "liberal_headline": "ICE Deportation Machine Hits Record as Families Are Torn Apart and Democrats Vow to 'Rip ICE Apart'",
+      "poll_question": "Were ICE's record deportations a success or an overreach?",
+      "poll_option1_label": "Law Enforced",
+      "poll_option1_desc": "Removing illegal aliens saves American lives and restores border integrity.",
+      "poll_option2_label": "Too Far",
+      "poll_option2_desc": "Most arrests target non-criminals; raids terrorize schools, courts and communities.",
+      "pexels_search_terms": "immigration detention fence agents"
+    },
+    {
+      "title": "Peace Through Strength or Endless Quagmire? Trump Settles for 'Status Quo' in Iran War",
+      "slug": "trump-iran-war-stalemate-status-quo-strategy",
+      "topic_keywords": [
+        "Iran war",
+        "Qatar mediation",
+        "Gulf allies",
+        "US base strike",
+        "war powers"
+      ],
+      "conservative_headline": "Trump Keeps Pressure on Tehran as Gulf Allies Back 'Status Quo' Strategy Over Risky Escalation",
+      "liberal_headline": "Trump's Iran War Grinds to a Stalemate as Voters Reject the Conflict He Promised Would Be Quick",
+      "poll_question": "What should Trump do next in the Iran war?",
+      "poll_option1_label": "Hold The Line",
+      "poll_option1_desc": "Economic pressure and deterrence keep Iran boxed in without new ground wars.",
+      "poll_option2_label": "End It Now",
+      "poll_option2_desc": "Congress must force a negotiated exit from an unauthorized, unwinnable war.",
+      "pexels_search_terms": "military aircraft carrier middle east"
+    },
+    {
+      "title": "Religious Liberty or State-Funded Discrimination? SCOTUS Leans Toward Catholic Schools in Colorado Case",
+      "slug": "scotus-catholic-preschool-colorado-lgbtq-case",
+      "topic_keywords": [
+        "Supreme Court",
+        "religious liberty",
+        "Colorado preschool",
+        "LGBTQ parents",
+        "public funding"
+      ],
+      "conservative_headline": "Supreme Court Skeptical of Colorado's Attempt to Shut Catholic Preschools Out of Tuition Program",
+      "liberal_headline": "Supreme Court Poised to Make Taxpayers Fund Schools That Can Turn Away Same-Sex Couples' Kids",
+      "poll_question": "Should publicly funded religious schools be able to reject LGBTQ families?",
+      "poll_option1_label": "Faith Protected",
+      "poll_option1_desc": "Excluding religious schools from public programs is unconstitutional discrimination against believers.",
+      "poll_option2_label": "No Tax Dollars",
+      "poll_option2_desc": "Public money shouldn't fund schools that turn away same-sex couples' children.",
+      "pexels_search_terms": "supreme court building columns protest"
+    },
+    {
+      "title": "Aging Systems or Agency Failure? Nationwide Ground Stop Sparks FAA Funding Fight",
+      "slug": "faa-nationwide-ground-stop-funding-fight",
+      "topic_keywords": [
+        "FAA ground stop",
+        "Sean Duffy",
+        "air traffic control",
+        "infrastructure",
+        "flight cancellations"
+      ],
+      "conservative_headline": "Duffy: Decades of Neglect by Prior Administrations Left Air Traffic Control Dangerously Obsolete",
+      "liberal_headline": "Transportation Secretary Refuses to Apologize After Meltdown Strands Travelers \u2014 Democrats Say FAA Already Has the Money",
+      "poll_question": "Who's to blame for the nationwide air traffic shutdown?",
+      "poll_option1_label": "Old Systems",
+      "poll_option1_desc": "Decades-old equipment needs new funding and modernization Congress keeps delaying.",
+      "poll_option2_label": "This Administration",
+      "poll_option2_desc": "Current leadership mismanaged the agency and won't take responsibility for chaos.",
+      "pexels_search_terms": "air traffic control tower airport"
+    },
+    {
+      "title": "National Security or Scapegoating? Nvidia Spy Scandal Splits Trump's Own Cabinet",
+      "slug": "nvidia-spy-scandal-huang-congress-briefing",
+      "topic_keywords": [
+        "Nvidia",
+        "Jensen Huang",
+        "China espionage",
+        "chip exports",
+        "Bessent Lutnick feud"
+      ],
+      "conservative_headline": "Nvidia's Huang to Face Congress Over China Spy Link as Trump Team Demands Answers on Chip Security",
+      "liberal_headline": "Cabinet Civil War Erupts Over Nvidia Scandal as Lutnick's Family Ties to the Company Draw Scrutiny",
+      "poll_question": "Is the Nvidia-China spy scandal a security failure or a political scapegoat hunt?",
+      "poll_option1_label": "Security Breach",
+      "poll_option1_desc": "Big Tech let China inside; Congress must tighten chip export controls.",
+      "poll_option2_label": "Conflict Of Interest",
+      "poll_option2_desc": "Cabinet officials' financial ties, not national security, are driving this fight.",
+      "pexels_search_terms": "semiconductor chip technology server"
+    },
+    {
+      "title": "Protecting Taxpayers or Killing Culture? Florida City Cancels St. Patrick's Parade Over Anti-DEI Law",
+      "slug": "florida-st-patricks-parade-canceled-anti-dei-law",
+      "topic_keywords": [
+        "anti-DEI law",
+        "Ron DeSantis",
+        "St. Patrick's Day parade",
+        "Florida",
+        "cultural celebrations"
+      ],
+      "conservative_headline": "Officials Hide Behind DeSantis Law to Cancel Parade \u2014 Critics Say It's Deliberate Malicious Compliance",
+      "liberal_headline": "DeSantis's Anti-DEI Crusade Just Canceled St. Patrick's Day, and Irish Americans Are Furious",
+      "poll_question": "Did Florida's anti-DEI law go too far?",
+      "poll_option1_label": "Misreading Law",
+      "poll_option1_desc": "The law bans discrimination, not parades; officials are staging a political stunt.",
+      "poll_option2_label": "Predictable Result",
+      "poll_option2_desc": "Sweeping anti-DEI bans inevitably wipe out ordinary cultural celebrations and heritage events.",
+      "pexels_search_terms": "parade green flags street celebration"
+    },
+    {
+      "title": "Restoring Fairness or Reviving Racial Preferences? Texas Democrats Move to Bring Back Campus DEI",
+      "slug": "texas-democrats-revive-campus-dei-repeal-push",
+      "topic_keywords": [
+        "Texas legislature",
+        "DEI repeal",
+        "higher education",
+        "university offices",
+        "midterm sweep"
+      ],
+      "conservative_headline": "Texas Democrats Rush to Resurrect 'Wasteful' Campus DEI Bureaucracy After Midterm Gains",
+      "liberal_headline": "Texas Democrats Move to Undo GOP Ban That Gutted Hundreds of University Diversity Jobs",
+      "poll_question": "Should Texas universities be allowed to restore DEI offices?",
+      "poll_option1_label": "Keep Ban",
+      "poll_option1_desc": "DEI offices wasted millions and pushed racial preferences on students and faculty.",
+      "poll_option2_label": "Restore Programs",
+      "poll_option2_desc": "The ban eliminated hundreds of jobs and support students actually relied on.",
+      "pexels_search_terms": "university campus students diverse lecture"
+    },
+    {
+      "title": "Mandate or Mutiny? Van Hollen Challenges Schumer as Democrats Fight Over Life After the Blue Wave",
+      "slug": "van-hollen-challenges-schumer-senate-leadership",
+      "topic_keywords": [
+        "Chuck Schumer",
+        "Chris Van Hollen",
+        "Senate majority leader",
+        "Democratic leadership",
+        "midterm wave"
+      ],
+      "conservative_headline": "Democrats Descend Into Civil War as Van Hollen Moves Against Schumer Despite Midterm Wins",
+      "liberal_headline": "Van Hollen Challenges Schumer in Fight Over Whether Democrats Fight Trump or Cut Deals With Him",
+      "poll_question": "What should the new Democratic Senate majority do with its power?",
+      "poll_option1_label": "Work Together",
+      "poll_option1_desc": "Voters want results; Congress should make Trump's final two years productive.",
+      "poll_option2_label": "Fight Trump",
+      "poll_option2_desc": "The mandate was resistance: investigate, subpoena, and reverse the safety-net cuts.",
+      "pexels_search_terms": "senate chamber capitol leadership podium"
+    }
+  ]
+}
