@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-22",
+  "email_sent_at": "2026-11-22T09:33:41.119420",
+  "stories": [
+    {
+      "title": "Executive Privilege or Executive Stonewall? Trump Orders Contractors to Clear Congress Requests With White House",
+      "slug": "trump-contractor-order-congress-oversight",
+      "topic_keywords": [
+        "executive order",
+        "federal contractors",
+        "executive privilege",
+        "congressional oversight",
+        "Jamie Raskin"
+      ],
+      "conservative_headline": "Trump Shields Executive Privilege From Democrats' Coming Oversight Fishing Expedition",
+      "liberal_headline": "Trump Orders Contractors to Hide Information From Congress Weeks Before Democrats Take Over",
+      "poll_question": "Can Trump order contractors to withhold info from Congress?",
+      "poll_option1_label": "Protect Privilege",
+      "poll_option1_desc": "Presidents may shield confidential deliberations from partisan congressional harassment.",
+      "poll_option2_label": "Blatantly Unlawful",
+      "poll_option2_desc": "Contractors owe Congress truthful answers; this gags lawful oversight.",
+      "pexels_search_terms": "white house executive order documents"
+    },
+    {
+      "title": "Record Enforcement or Record Cruelty? ICE Logs 483,200 Deportations in Fiscal 2026",
+      "slug": "ice-record-deportations-fiscal-2026",
+      "topic_keywords": [
+        "ICE",
+        "deportations",
+        "DHS",
+        "Markwayne Mullin",
+        "immigration enforcement"
+      ],
+      "conservative_headline": "ICE Shatters All-Time Records: 491,000 Arrests as Trump Delivers on Mass Deportation Promise",
+      "liberal_headline": "ICE Touts Record Deportations While Hiding How Few Deportees Had Criminal Records",
+      "poll_question": "Are record ICE deportation numbers a success or a scandal?",
+      "poll_option1_label": "Promise Kept",
+      "poll_option1_desc": "Record removals restore the rule of law and public safety.",
+      "poll_option2_label": "Indiscriminate Sweeps",
+      "poll_option2_desc": "Most deportees had no convictions; families terrorized for a statistic.",
+      "pexels_search_terms": "immigration enforcement detention border"
+    },
+    {
+      "title": "Trump Economy or Trump Inflation? Sixth Straight Year of Price Pain as Fed Eyes a Rate Hike",
+      "slug": "inflation-wages-fed-rate-hike-affordability",
+      "topic_keywords": [
+        "inflation",
+        "CPI",
+        "Federal Reserve",
+        "affordability",
+        "wage growth"
+      ],
+      "conservative_headline": "165,000 Jobs Added as Economy Roars \u2014 Fed, Not Trump, Owns the Inflation Fight",
+      "liberal_headline": "Wages Fall Behind Prices for Third Straight Month as Trump's War and Tariffs Bite",
+      "poll_question": "Who's to blame for the affordability crisis?",
+      "poll_option1_label": "Fed & Spending",
+      "poll_option1_desc": "Strong job growth proves policy works; the Fed must finish the job.",
+      "poll_option2_label": "Tariffs & War",
+      "poll_option2_desc": "Trump's tariffs and Iran war pushed oil and grocery prices up.",
+      "pexels_search_terms": "grocery store prices shopping receipt"
+    },
+    {
+      "title": "Religious Liberty or Taxpayer-Funded Discrimination? SCOTUS Weighs Catholic Preschools and LGBTQ Families",
+      "slug": "scotus-catholic-preschool-colorado-lgbtq",
+      "topic_keywords": [
+        "Supreme Court",
+        "religious liberty",
+        "Colorado",
+        "LGBTQ",
+        "school funding"
+      ],
+      "conservative_headline": "Justices Signal Colorado Can't Lock Catholic Schools Out of Pre-K Program Over Faith",
+      "liberal_headline": "Supreme Court Appears Ready to Let Taxpayer-Funded Schools Turn Away LGBTQ+ Parents",
+      "poll_question": "Should faith-based schools get public pre-K funds while rejecting LGBTQ families?",
+      "poll_option1_label": "Free Exercise",
+      "poll_option1_desc": "Excluding religious schools from public programs is unconstitutional discrimination.",
+      "poll_option2_label": "No Public Bigotry",
+      "poll_option2_desc": "Public dollars shouldn't fund schools that reject children's parents.",
+      "pexels_search_terms": "supreme court building classroom children"
+    },
+    {
+      "title": "Local Control or Innovation Killer? DOJ Task Force Escalates War on State AI Laws",
+      "slug": "doj-ai-litigation-task-force-state-preemption",
+      "topic_keywords": [
+        "artificial intelligence",
+        "preemption",
+        "Executive Order 14365",
+        "DOJ",
+        "state AI laws"
+      ],
+      "conservative_headline": "Patchwork of Blue-State AI Rules Strangles American Innovation \u2014 DOJ Fights Back",
+      "liberal_headline": "Trump DOJ Sides With Big Tech to Crush State Laws Protecting Consumers From AI",
+      "poll_question": "Should Washington override state AI regulations?",
+      "poll_option1_label": "One National Rule",
+      "poll_option1_desc": "Fifty conflicting AI regimes cripple competitiveness against China.",
+      "poll_option2_label": "States Protect People",
+      "poll_option2_desc": "States are the only ones actually regulating AI harms right now.",
+      "pexels_search_terms": "artificial intelligence server technology regulation"
+    },
+    {
+      "title": "Energy Abundance or Polluter Giveaway? Senate Passes Bipartisan Permitting Overhaul",
+      "slug": "senate-permitting-reform-energy-bill",
+      "topic_keywords": [
+        "permitting reform",
+        "Senate",
+        "energy projects",
+        "infrastructure",
+        "environment"
+      ],
+      "conservative_headline": "Senate Breaks Logjam: Permitting Reform Unleashes Energy Projects and Cuts Costs",
+      "liberal_headline": "Permitting Deal Fast-Tracks Fossil Fuel Projects Over Community and Climate Objections",
+      "poll_question": "Is permitting reform a win for consumers or a gift to polluters?",
+      "poll_option1_label": "Build Faster",
+      "poll_option1_desc": "Cutting red tape lowers energy bills and speeds grid buildout.",
+      "poll_option2_label": "Sacrifice Zones",
+      "poll_option2_desc": "Weakened review hands polluters a pass on frontline communities.",
+      "pexels_search_terms": "power lines pipeline construction energy"
+    },
+    {
+      "title": "Honoring a Hero or Woke Capitulation? Navy Won't Rename Doris Miller Carrier After Trump",
+      "slug": "navy-doris-miller-carrier-renaming",
+      "topic_keywords": [
+        "Doris Miller",
+        "aircraft carrier",
+        "Navy",
+        "Pearl Harbor",
+        "military honors"
+      ],
+      "conservative_headline": "Navy Caves to Media Pressure After Floating Trump Name for Aircraft Carrier",
+      "liberal_headline": "Navy Backs Down From Stripping Black Pearl Harbor Hero's Name to Honor Trump",
+      "poll_question": "Was considering renaming the Doris Miller carrier appropriate?",
+      "poll_option1_label": "Presidents' Honor",
+      "poll_option1_desc": "Naming warships for sitting leaders is a longstanding national tradition.",
+      "poll_option2_label": "Leave It Alone",
+      "poll_option2_desc": "Erasing a Black war hero for vanity is indefensible.",
+      "pexels_search_terms": "navy aircraft carrier ship ocean"
+    },
+    {
+      "title": "Returning Power to Parents or Gutting Public Schools? Senate GOP Advances Education Department Shutdown",
+      "slug": "senate-republicans-abolish-education-department",
+      "topic_keywords": [
+        "Department of Education",
+        "Senate Republicans",
+        "school choice",
+        "federal funding",
+        "students"
+      ],
+      "conservative_headline": "Senate Republicans Advance Trump Plan to Abolish the Failed Department of Education",
+      "liberal_headline": "GOP Moves to Dismantle Education Department as Democrats Prepare to Take Congress",
+      "poll_question": "Should the federal Department of Education be abolished?",
+      "poll_option1_label": "Send It Back",
+      "poll_option1_desc": "Education belongs to states and parents, not Washington bureaucrats.",
+      "poll_option2_label": "Keep Protections",
+      "poll_option2_desc": "The department guards civil rights, student aid, and disabled students.",
+      "pexels_search_terms": "school classroom students teacher"
+    },
+    {
+      "title": "Populist Breakthrough or Price Control Fantasy? Trump Pitches 10% Credit Card Rate Cap With Democrats",
+      "slug": "trump-credit-card-interest-rate-cap",
+      "topic_keywords": [
+        "credit card interest",
+        "rate cap",
+        "Hakeem Jeffries",
+        "consumer finance",
+        "bipartisan"
+      ],
+      "conservative_headline": "Trump Takes On Wall Street Gouging, Offers Democrats a Deal on Credit Card Rates",
+      "liberal_headline": "Trump Suddenly Discovers Affordability After Voters Crushed Republicans in Midterms",
+      "poll_question": "Should Congress cap credit card interest at 10%?",
+      "poll_option1_label": "Cap The Banks",
+      "poll_option1_desc": "Card companies gouge families with excessive interest and hidden fees.",
+      "poll_option2_label": "Credit Will Vanish",
+      "poll_option2_desc": "Price caps cut off credit access for working-class borrowers.",
+      "pexels_search_terms": "credit card wallet payment money"
+    },
+    {
+      "title": "Endgame or Endless War? Trump Says Iran Decision May Wait Until 2027 as Oil Prices Bite",
+      "slug": "trump-iran-permanent-deal-war-decision",
+      "topic_keywords": [
+        "Iran",
+        "war powers",
+        "Trump",
+        "oil prices",
+        "national security"
+      ],
+      "conservative_headline": "Trump Holds Leverage, Demands 'Permanent' Deal to Keep Iran From the Bomb",
+      "liberal_headline": "Trump Has No Exit Plan for a War Voters Rejected \u2014 and Americans Pay at the Pump",
+      "poll_question": "Is Trump's Iran strategy strength or drift?",
+      "poll_option1_label": "Peace Through Strength",
+      "poll_option1_desc": "Pressure forces a permanent deal; retreat would reward Tehran.",
+      "poll_option2_label": "End It Now",
+      "poll_option2_desc": "An unauthorized war is driving inflation with no defined objective.",
+      "pexels_search_terms": "military jets aircraft carrier middle east"
+    }
+  ]
+}
