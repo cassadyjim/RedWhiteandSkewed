@@ -1491,11 +1491,29 @@ def handle_option_1(state):
     if not publish_story(story_filename):
         log_message("Error: Failed to publish story")
         return False
-    
+
+    # Regenerate SEO files: static story page, sitemap.xml, feed.xml
+    try:
+        log_message("Regenerating SEO files (story page, sitemap, RSS)...")
+        result = subprocess.run(
+            ["python3", "-I", "rws_generate_seo.py"],
+            cwd=str(SCRIPT_DIR),
+            capture_output=True,
+            timeout=120,
+            env={**os.environ},
+        )
+        log_message(f"rws_generate_seo.py: {result.stdout.decode().strip()}")
+        if result.returncode != 0:
+            log_message(f"rws_generate_seo.py warning: {result.stderr.decode().strip()}")
+        else:
+            log_message("SEO files regenerated successfully")
+    except Exception as e:
+        log_message(f"Warning: SEO generation failed (non-fatal): {e}")
+
     topic = " ".join(story_data.get("topic_keywords", []))
     slug = story_data.get("slug", "")
     today = datetime.date.today().isoformat()
-    
+
     add_to_history(today, slug, topic)
     
     # Read the image URL from the published story JSON file — this is the definitive
