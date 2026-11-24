@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-29",
+  "title": "Draining the Swamp or Protecting the Portfolio? Congressional Stock Trading Becomes a Bipartisan Campaign Weapon",
+  "subtitle": "Congressional stock trading has emerged as a potent midterm campaign weapon, with the House-passed ban stalled in the Senate and both parties attacking each other over who's serious about reform.",
+  "image": {
+    "url": "https://images.pexels.com/photos/8788264/pexels-photo-8788264.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Photo: Paula Nardini / Pexels",
+    "alt": "Draining the Swamp or Protecting the Portfolio? Congressional Stock Trading Becomes a Bipartisan Campaign Weapon",
+    "source": "Pexels",
+    "page": "https://www.pexels.com/photo/the-united-states-capitol-building-in-washington-8788264/",
+    "license": "Pexels License"
+  },
+  "poll": {
+    "question": "Should members of Congress be banned from trading stocks?",
+    "options": [
+      {
+        "label": "Ban It All",
+        "description": "Lawmakers with inside access shouldn't be allowed to trade individual stocks."
+      },
+      {
+        "label": "Enforce, Don't Ban",
+        "description": "Disclosure and prosecution work better than blanket bans on lawmakers."
+      }
+    ]
+  },
+  "conservative": {
+    "headline": "Outsider Candidates Run Against a Washington Class That Got Rich Trading on Inside Information",
+    "byline": "As seen on Fox News, Fox Business, CBS News",
+    "paragraphs": [
+      "<strong>While working Americans struggle with inflation and rising costs, members of Congress have been playing the stock market with insider information unavailable to ordinary citizens\u2014and getting rich in the process. Now, Republican reformers and outsider candidates are making this corruption a centerpiece of their midterm campaigns, promising to drain the swamp once and for all.</strong>",
+      "Treasury Secretary Scott Bessent put it bluntly when he announced his push for reform, pointing to <a href=\"https://www.foxbusiness.com/politics/bessent-pushes-congressional-stock-trading-ban-eye-popping-returns-pelosi-wyden\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">eye-popping returns, whether it's Representative Pelosi</a>, Senator Wyden, or others\u2014returns that every hedge fund would envy. The numbers don't lie: Nancy Pelosi's family turned $30 million into $278 million through suspiciously timed trades, posting returns that routinely doubled the S&P 500.",
+      "Senator Josh Hawley of Missouri has been leading the charge with his aptly-named PELOSI Act, arguing that <a href=\"https://www.foxbusiness.com/politics/sen-hawley-says-trump-should-back-congressional-stock-trading-ban-i-wish-he-would-support-it\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Americans have watched politicians earn a fortune using information not available</a> to the general public while the average family struggles to get by. His bill would force complete divestiture within 180 days\u2014no loopholes, no exceptions.",
+      "House Republicans delivered results this summer, passing the Stop Insider Trading Act with near-unanimous GOP support. Bill author Bryan Steil emphasized that <a href=\"https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">the American people deserve to know their Member of Congress is not profiting off insider information</a>. The bill bans members from buying new stocks and requires advance notice for sales\u2014a common-sense reform that Democrats mostly opposed.",
+      "Florida Representative Aaron Bean captured the frustration perfectly, declaring that Congress cannot allow Crazy Town to <a href=\"https://www.foxnews.com/politics/house-gop-bill-banning-lawmakers-buying-stocks-advances-committee\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">prioritize its stock portfolios over the future of our nation</a>. Tennessee's Tim Burchett was even more direct, saying <a href=\"https://newrepublic.com/post/190788/republican-bill-stock-trading-congress-insult\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">Congress knows what the hell's going on</a> and it needs to stop\u2014period.",
+      "Nebraska Senator Pete Ricketts tied the issue to Congress's broader credibility crisis, noting that trust in the institution remains at an all-time low and lawmakers need to <a href=\"https://abcnews.go.com/Politics/house-set-vote-stock-trading-ban-gop-led/story?id=112324212\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-red-700 underline hover:text-red-900\">prove we are playing by the same rules</a> as everyone else. Republican-aligned groups have poured $9 million into ads across 20 competitive districts, highlighting which candidates voted to end the grift.",
+      "The contrast is stark: Republicans passed reform through the House, while Senate Democrats let it die without a floor vote. Democrats' excuse? They claim the bill doesn't go far enough\u2014a convenient position that allows them to keep trading while pretending to support reform. The American people aren't buying it.",
+      "<strong>After decades of insider trading scandals and get-rich-quick schemes, Republicans are finally forcing a reckoning. The swamp creatures can run, but they can't hide from their trading records\u2014and voters are taking notes this November.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "Fox Business \u2014 Bessent pushes congressional stock trading ban citing eye-popping returns from Pelosi, Wyden",
+        "url": "https://www.foxbusiness.com/politics/bessent-pushes-congressional-stock-trading-ban-eye-popping-returns-pelosi-wyden"
+      },
+      {
+        "text": "Fox Business \u2014 Sen. Hawley says Trump should back congressional stock trading ban",
+        "url": "https://www.foxbusiness.com/politics/sen-hawley-says-trump-should-back-congressional-stock-trading-ban-i-wish-he-would-support-it"
+      },
+      {
+        "text": "Fox News \u2014 House GOP bill banning lawmakers from buying stocks advances in committee",
+        "url": "https://www.foxnews.com/politics/house-gop-bill-banning-lawmakers-buying-stocks-advances-committee"
+      },
+      {
+        "text": "CBS News \u2014 Congressional stock trading ban passes House vote",
+        "url": "https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/"
+      },
+      {
+        "text": "ABC News \u2014 House set to vote on stock trading ban with GOP-led bill",
+        "url": "https://abcnews.go.com/Politics/house-set-vote-stock-trading-ban-gop-led/story?id=112324212"
+      }
+    ]
+  },
+  "liberal": {
+    "headline": "Both Parties Campaign on Banning Stock Trades \u2014 While GOP Leadership Keeps the Bill Buried",
+    "byline": "As seen on HuffPost, ABC News, The New Republic",
+    "paragraphs": [
+      "<strong>Republicans are running campaign ads touting their vote for a stock trading ban\u2014but the bill they passed is a carefully designed loophole that protects the wealthiest members of Congress while pretending to deliver reform. Meanwhile, the stronger bipartisan bill that would actually ban stock ownership sits buried in committee, and GOP Senate leadership refuses to schedule a vote on any version.</strong>",
+      "Representative Alexandria Ocasio-Cortez warned the public not to fall for the scam, explaining that the Republican bill is <a href=\"https://www.huffpost.com/entry/house-republicans-stock-trading-bill_n_678d4e5ce4b0c8593f12a3b5\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">a set of new vehicles and loopholes</a> written by and for the wealthiest members to evade tracking of their trades, allowing them to continue owning, trading, and selling stock with less transparency. She urged Americans to <a href=\"https://www.huffpost.com/entry/house-republicans-stock-trading-bill_n_678d4e5ce4b0c8593f12a3b5\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">not buy this scam bill</a> being put forward by Congress's richest members.",
+      "Rhode Island Democrat Seth Magaziner captured the absurdity perfectly, calling it <a href=\"https://abcnews.go.com/Politics/house-set-vote-stock-trading-ban-gop-led/story?id=112324212\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">a stock trading ban that still allows stock trading</a>\u2014a weak bill that fails to deliver what the American people demand. Representative Joe Morelle, the ranking Democrat on the House Administration Committee, explained that under the GOP proposal, <a href=\"https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">the wealthiest members of Congress can keep every single share</a> of stock they currently own and use dividends to buy even more.",
+      "The Republican strategy is transparent: pass a toothless bill in the House to generate campaign talking points, then let it die in the Senate where they control the calendar. Real reform would require divestiture\u2014forcing members to actually sell their stocks, not just promise not to buy new ones while their existing portfolios continue generating returns based on classified briefings.",
+      "Colorado Representative Joe Neguse articulated the core principle that Republicans are ignoring: members are <a href=\"https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">elected to serve the people, not stock portfolios</a>. The bipartisan bills that progressive Democrats support would actually accomplish this goal\u2014but House GOP leadership refused to bring them to the floor, instead forcing a vote on their watered-down alternative.",
+      "Even Nancy Pelosi\u2014who Republicans love to attack on this issue\u2014reversed her previous position and now supports genuine reform, stating she would proudly back any serious effort to <a href=\"https://newrepublic.com/post/190788/republican-bill-stock-trading-congress-insult\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-blue-700 underline hover:text-blue-900\">help restore trust in government</a> and hold those in power to the highest ethical standards, no matter what Republicans decide to name it. Her evolution on the issue shows more integrity than GOP leaders who passed a fake ban to protect their donors.",
+      "The timing reveals everything: Republicans scheduled the House vote right before the midterms to manufacture a campaign issue, then ensured the Senate would never act on it. They're spending $9 million on ads claiming they voted to stop insider trading, while the bill they passed explicitly allows members to keep trading their existing holdings\u2014which is where the real money is made.",
+      "<strong>Voters should ask themselves: if Republicans were serious about reform, why did they block the stronger bipartisan bills? Why did only 13 Democrats vote for the GOP version? And why hasn't the Senate scheduled a vote three months after the House acted? The answer is simple\u2014this was never about reform. It was always about campaign ads.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "HuffPost \u2014 House Republicans' stock trading bill criticized as insufficient by progressive Democrats",
+        "url": "https://www.huffpost.com/entry/house-republicans-stock-trading-bill_n_678d4e5ce4b0c8593f12a3b5"
+      },
+      {
+        "text": "ABC News \u2014 House set to vote on stock trading ban with GOP-led bill",
+        "url": "https://abcnews.go.com/Politics/house-set-vote-stock-trading-ban-gop-led/story?id=112324212"
+      },
+      {
+        "text": "CBS News \u2014 Congressional stock trading ban passes House vote",
+        "url": "https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/"
+      },
+      {
+        "text": "The New Republic \u2014 Republican bill on stock trading in Congress is an insult",
+        "url": "https://newrepublic.com/post/190788/republican-bill-stock-trading-congress-insult"
+      }
+    ]
+  },
+  "factcheck": {
+    "headline": "Separating Fact from Spin",
+    "paragraphs": [
+      "<strong>Both parties are framing the same legislative fight in wildly different ways\u2014Republicans as reformers draining the swamp, Democrats as defenders of genuine reform against a fake GOP bill. The reality is more complicated: there is genuine bipartisan support for reform, but deep disagreement over what real reform looks like.</strong>",
+      "<p class=\"text-xl font-bold text-purple-900\">THE UNDISPUTED FACTS:</p>",
+      "\u2713 <strong>The House passed the Stop Insider Trading Act on July 22, 2026:</strong> The bill <a href=\"https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">passed 232-198, with only 13 Democrats voting yes</a> and 198 Democrats voting no. Nearly all Republicans supported it.",
+      "\u2713 <strong>Public support is overwhelming:</strong> A 2023 University of Maryland study found that <a href=\"https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">86% of Americans support banning congressional stock trading</a>, with Republicans, Democrats, and independents all showing over 80% support.",
+      "\u2713 <strong>Congressional trading involves serious conflicts:</strong> Research shows that <a href=\"https://www.cnbc.com/2024/09/28/members-of-congress-traded-these-stocks-the-most.html\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-purple-700 underline hover:text-purple-900\">25% of disclosed trades were made by a member sitting on a committee</a> with direct jurisdiction over the company's industry\u2014a clear conflict of interest.",
+      "\u2713 <strong>The Senate has taken no action:</strong> Three months after the House vote, the Senate has not scheduled floor debate or a vote on any stock trading ban, despite multiple competing bills being introduced.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">CONSERVATIVE SPIN VS. REALITY:</p>",
+      "\u26a0\ufe0f <strong>Claim: Democrats opposed reform to protect their own trading.</strong> Reality: Democrats voted against the GOP bill because it allows members to keep existing holdings and continue selling them\u2014meaning wealthy members can maintain portfolios worth millions. Progressive Democrats like Ocasio-Cortez, Jayapal, and Magaziner consistently supported stronger bills that would require full divestiture.",
+      "\u2713 <strong>Fair Point: Republicans did pass something through the House.</strong> This is the first time either chamber has ever passed any stock trading restriction to a floor vote, which represents movement on an issue that has languished for years. The GOP deserves credit for forcing action, even if the bill's substance is disputed.",
+      "\u26a0\ufe0f <strong>Claim: Nancy Pelosi is the poster child for corruption.</strong> Partial truth: Pelosi's family has made extraordinary returns through stock trading, and she did initially oppose restrictions. However, she reversed her position and now supports reform. Republicans also have prolific traders in their ranks, but the conservative media ecosystem focuses almost exclusively on Pelosi.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">LIBERAL SPIN VS. REALITY:</p>",
+      "\u26a0\ufe0f <strong>Claim: The GOP bill is a complete scam with no value.</strong> Exaggeration: While the bill does allow keeping existing holdings, it does ban purchasing new stocks and requires 7-14 day advance notice for sales\u2014both represent new restrictions. Calling it entirely worthless overstates the case, even if it falls short of comprehensive reform.",
+      "\u2713 <strong>Fair Point: The bill protects wealthy incumbents' existing portfolios.</strong> This is accurate. A member who entered Congress with a $10 million stock portfolio can keep every share, continue collecting dividends, and sell strategically with advance notice. The real money for most wealthy members is in their existing holdings, not new purchases.",
+      "\u26a0\ufe0f <strong>Claim: Republicans are deliberately blocking reform in the Senate.</strong> Unclear: While it's true the Senate hasn't acted, multiple competing bills exist, and it's not certain which version could pass. Democrats control messaging but Republicans control the calendar, creating a stalemate where both sides can blame the other for inaction.",
+      "<p class=\"text-xl font-bold text-purple-900 mt-6\">THE BIGGER PICTURE:</p>",
+      "The fundamental disagreement is genuine: should reform focus on preventing new conflicts (the GOP approach) or eliminating all conflicts by forcing divestiture (the progressive approach)? Both positions have merit. Requiring divestiture is stronger but raises questions about forcing candidates to liquidate retirement savings to run for office. Allowing existing holdings is weaker but more practical for middle-class members whose wealth is in diversified index funds.",
+      "What's most telling is what both parties agree on but haven't delivered: the Senate has had months to negotiate a compromise that could actually pass with 60 votes, but neither party has prioritized it. Instead, both prefer to campaign on the issue rather than solve it.",
+      "<strong>The Bottom Line: There is genuine momentum for reform, but both parties are more interested in using the issue as a political weapon than in passing legislation that could actually become law. With 86% public support, this should be solvable\u2014but only if politicians care more about restoring public trust than scoring campaign points.</strong>"
+    ],
+    "sources": [
+      {
+        "text": "CBS News \u2014 Congressional stock trading ban passes House vote",
+        "url": "https://www.cbsnews.com/news/congressional-stock-trading-ban-house-vote/"
+      },
+      {
+        "text": "CNBC \u2014 Members of Congress traded these stocks the most",
+        "url": "https://www.cnbc.com/2024/09/28/members-of-congress-traded-these-stocks-the-most.html"
+      },
+      {
+        "text": "ABC News \u2014 House set to vote on stock trading ban with GOP-led bill",
+        "url": "https://abcnews.go.com/Politics/house-set-vote-stock-trading-ban-gop-led/story?id=112324212"
+      }
+    ]
+  }
+}
