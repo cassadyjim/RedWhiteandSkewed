@@ -1515,7 +1515,19 @@ def handle_option_1(state):
     today = datetime.date.today().isoformat()
 
     add_to_history(today, slug, topic)
-    
+
+    # Cross-post to Reddit (non-fatal; dry-run unless REDDIT_POST_LIVE=1)
+    try:
+        subprocess.run(
+            ["python3", "rws_post_reddit.py", str(story_filename)],
+            cwd=str(SCRIPT_DIR),
+            capture_output=True,
+            timeout=3600,  # allows spacing between subreddit posts
+            env={**os.environ},
+        )
+    except Exception as e:
+        log_message(f"Warning: Reddit posting failed (non-fatal): {e}")
+
     # Read the image URL from the published story JSON file — this is the definitive
     # source and guaranteed to match exactly what is displayed on the site.
     pub_image_url = ""
