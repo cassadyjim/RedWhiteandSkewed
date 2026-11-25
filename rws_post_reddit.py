@@ -6,7 +6,12 @@ Usage:
     python3 rws_post_reddit.py 2026-11-24-jobs-report-inflation-paychecks-divide.json
     python3 rws_post_reddit.py            # newest 2026-*.json in this folder
 
-SAFETY: DRY RUN by default. Nothing is posted unless REDDIT_POST_LIVE=1.
+MODES (chosen automatically):
+  1. API post   - REDDIT_POST_LIVE=1 and all REDDIT_* credentials set.
+  2. Email      - SMTP_PASSWORD set (as in the GitHub workflow): emails Jim the
+                  ready-to-paste post for each subreddit. Jim submits by hand.
+                  Nothing is ever posted to Reddit in this mode.
+  3. Dry run    - otherwise: prints the post only.
 Posts are text (self) posts: both opposing headlines as the hook, the story
 body, sources, and a link back to the full story. One post per subreddit per
 story; already-posted pairs are recorded in state/reddit_posted.json.
@@ -24,8 +29,13 @@ import html
 import json
 import os
 import re
+import smtplib
+import ssl
 import sys
 import time
+import urllib.parse
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 from pathlib import Path
 
 import requests
@@ -135,6 +145,38 @@ def submit(token, user, sub, title, body, flair_id=None):
     return j["data"]["url"]
 
 
+def send_email(path, title, body, subs):
+    """Email the ready-to-paste post to Jim (no Reddit API needed)."""
+    pw = os.environ["SMTP_PASSWORD"]
+    frm = os.environ.get("SMTP_FROM", "info@redwhiteandskewed.com")
+    to = os.environ.get("REDDIT_EMAIL_TO", "jim@redwhiteandskewed.com")
+    esc_title, esc_body = html.escape(title), html.escape(body)
+    links = "".join(
+        f'<li><a href="https://www.reddit.com/r/{s}/submit?selftext=true&title='
+        f'{urllib.parse.quote(title)}">Open r/{s} submit page (title prefilled)</a></li>'
+        for s in subs
+    )
+    html_body = f"""<html><body style="font-family:Arial,sans-serif;max-width:700px;margin:0 auto;padding:16px">
+<h2>Reddit post ready: {html.escape(path.stem)}</h2>
+<p>1. Click a subreddit below (title is prefilled; check its rules/flair first).<br>
+2. Paste the body from the box below and submit.<br>
+3. Reply to comments yourself.</p>
+<ul>{links}</ul>
+<h3>Title</h3><pre style="white-space:pre-wrap;background:#f4f4f4;padding:10px">{esc_title}</pre>
+<h3>Body (Markdown, paste into the Markdown editor)</h3>
+<pre style="white-space:pre-wrap;background:#f4f4f4;padding:10px">{esc_body}</pre>
+</body></html>"""
+    plain = f"TITLE:\n{title}\n\nSUBREDDITS: {', '.join(subs)}\n\nBODY (Markdown):\n\n{body}"
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = f"Reddit post ready: {title[:80]}"
+    msg["From"], msg["To"] = frm, to
+    msg.attach(MIMEText(plain, "plain", "utf-8"))
+    msg.attach(MIMEText(html_body, "html", "utf-8"))
+    with smtplib.SMTP_SSL("send.one.com", 465, context=ssl.create_default_context()) as srv:
+        srv.login(frm, pw)
+        srv.sendmail(frm, [to], msg.as_string())
+
+
 def main():
     if len(sys.argv) > 1:
         path = Path(sys.argv[1])
@@ -152,6 +194,23 @@ def main():
     live = os.environ.get("REDDIT_POST_LIVE") == "1"
     flairs = json.loads(os.environ.get("REDDIT_FLAIRS", "{}") or "{}")
     delay = int(os.environ.get("REDDIT_POST_DELAY", "600"))
+
+    creds = all(os.environ.get(k) for k in ("REDDIT_CLIENT_ID", "REDDIT_CLIENT_SECRET",
+                                            "REDDIT_USERNAME", "REDDIT_PASSWORD"))
+    if not (live and creds) and os.environ.get("SMTP_PASSWORD"):
+        posted = load_posted()
+        emailed = posted.setdefault("_emailed", {})
+        if path.stem in emailed:
+            log(f"Already emailed {path.stem}, skipping")
+            return 0
+        try:
+            send_email(path, title, body, subs)
+            emailed[path.stem] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+            save_posted(posted)
+            log(f"Emailed ready-to-paste post for {path.name}")
+        except Exception as e:
+            log(f"Email failed: {e}")
+        return 0
 
     if not live:
         log(f"DRY RUN (set REDDIT_POST_LIVE=1 to post). Story: {path.name}")
