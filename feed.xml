@@ -5,13 +5,21 @@
     <link>https://www.redwhiteandskewed.com/</link>
     <description>The same news story. Conservative framing. Liberal framing. Fact-checked. You decide.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:56:38 +0000</lastBuildDate>
     <atom:link href="https://www.redwhiteandskewed.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://www.redwhiteandskewed.com/rws-social-share.png</url>
       <title>Red, White, and Skewed</title>
       <link>https://www.redwhiteandskewed.com/</link>
     </image>
+  <item>
+    <title>Peace Through Strength or Endless Quagmire? The $48 Billion Iran War Hits Congress's Wallet</title>
+    <link>https://www.redwhiteandskewed.com/stories/2026-11-25-iran-war-funding-fight-december-deadline.html</link>
+    <guid isPermaLink="true">https://www.redwhiteandskewed.com/stories/2026-11-25-iran-war-funding-fight-december-deadline.html</guid>
+    <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+    <description>Pentagon officials tell Congress the Iran conflict has cost $48.3 billion as Senate Democrats threaten to block war funding in the December 11 spending bill. | Right: Democrats Threaten to Defund Troops Mid-War to Score Political Points | Left: An Unauthorized $48 Billion War Americans Never Voted For — And Congress Can't Stop It</description>
+    <enclosure url="https://images.pexels.com/photos/8175122/pexels-photo-8175122.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200" length="0" type="image/jpeg"/>
+  </item>
   <item>
     <title>Blowout or Bust? Jobs Keep Coming But Inflation Keeps Eating Paychecks</title>
     <link>https://www.redwhiteandskewed.com/stories/2026-11-24-jobs-report-inflation-paychecks-divide.html</link>
@@ -403,14 +411,6 @@
     <pubDate>Sun, 15 Mar 2026 12:00:00 +0000</pubDate>
     <description>Department of Homeland Security requested access to a massive federal database containing employment and child support information on millions of Americans, raising concerns about privacy and immigrat | Right: DHS Requests Critical Database Access to Track Down Illegal Immigrants, Secure Borders | Left: Trump's DHS Demands Invasive Access to Private Child Support Data of Millions of Americans</description>
     <enclosure url="https://images.pexels.com/photos/8369648/pexels-photo-8369648.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1200" length="0" type="image/jpeg"/>
-  </item>
-  <item>
-    <title>Judicial Overreach or Independence Protected? Judge Blocks Trump DOJ's Powell Investigation</title>
-    <link>https://www.redwhiteandskewed.com/stories/2026-03-14-judge-blocks-trump-doj-powell-federal-reserve-investigation.html</link>
-    <guid isPermaLink="true">https://www.redwhiteandskewed.com/stories/2026-03-14-judge-blocks-trump-doj-powell-federal-reserve-investigation.html</guid>
-    <pubDate>Sat, 14 Mar 2026 12:00:00 +0000</pubDate>
-    <description> | Right: Activist Obama Judge Shields Fed Chair From Criminal Probe, DOJ Vows Appeal | Left: Federal Judge Protects Fed Independence, Blocks Trump's 'Politically Motivated' Powell Probe</description>
-    
   </item>
   </channel>
 </rss>

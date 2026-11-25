@@ -2,33 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.redwhiteandskewed.com/</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.redwhiteandskewed.com/archive.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.redwhiteandskewed.com/about.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.redwhiteandskewed.com/faq.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.redwhiteandskewed.com/how-we-fact-check.html</loc>
-    <lastmod>2026-11-24</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.redwhiteandskewed.com/stories/2026-11-25-iran-war-funding-fight-december-deadline.html</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.redwhiteandskewed.com/stories/2026-11-24-jobs-report-inflation-paychecks-divide.html</loc>
