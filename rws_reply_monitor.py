@@ -1488,11 +1488,7 @@ def handle_option_1(state):
         except Exception as e:
             log_message(f"Warning: Could not update existing story file: {e}")
 
-    if not publish_story(story_filename):
-        log_message("Error: Failed to publish story")
-        return False
-
-    # Regenerate SEO files: static story page, sitemap.xml, feed.xml
+    # Regenerate SEO files BEFORE upload so the static story page, sitemap.xml, feed.xml get uploaded
     try:
         log_message("Regenerating SEO files (story page, sitemap, RSS)...")
         result = subprocess.run(
@@ -1509,6 +1505,10 @@ def handle_option_1(state):
             log_message("SEO files regenerated successfully")
     except Exception as e:
         log_message(f"Warning: SEO generation failed (non-fatal): {e}")
+
+    if not publish_story(story_filename):
+        log_message("Error: Failed to publish story")
+        return False
 
     topic = " ".join(story_data.get("topic_keywords", []))
     slug = story_data.get("slug", "")
