@@ -257,14 +257,9 @@
                 storiesGrid.innerHTML = stories.map((story, index) => {
                     const isLatest = index === 0 && !story.archived;
                     
-                    // Determine link URL
-                    let storyUrl;
-                    if (story.type === 'html') {
-                        storyUrl = (story.path || '/') + story.filename;
-                    } else {
-                        // JSON story - use query param without .json
-                        storyUrl = `/?story=${story.filename.replace('.json', '')}`;
-                    }
+                    // Link to static HTML story page for SEO indexability
+                    const slug = story.filename.replace('.json', '').replace('.html', '');
+                    const storyUrl = `/stories/${slug}.html`;
                     
                     return `
                         <article class="story-card bg-white border border-gray-200 rounded-lg overflow-hidden shadow-md">
