@@ -13,7 +13,7 @@
 # SFTP Credentials (already configured)
 export RWS_SFTP_HOST="ssh.c2hdl62rf.service.one"
 export RWS_SFTP_USERNAME="c2hdl62rf_ssh"
-export RWS_SFTP_PASSWORD="4AFeB76RBuZe"
+# RWS_SFTP_PASSWORD comes from the environment or .env (loaded by rws_upload.py)
 
 # Get script directory
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"

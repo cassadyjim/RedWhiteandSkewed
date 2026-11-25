@@ -27,6 +27,15 @@ except ImportError:
     print("Error: paramiko not installed. Run: pip3 install paramiko")
     sys.exit(1)
 
+# Load local .env (if present) without overriding variables already in the environment
+_env_file = Path(__file__).resolve().parent / '.env'
+if _env_file.exists():
+    for _line in _env_file.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith('#') and '=' in _line:
+            _k, _v = _line.split('=', 1)
+            os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
+
 # ============================================
 # CONFIGURATION
 # ============================================
@@ -36,7 +45,7 @@ SFTP_CONFIG = {
     'host': os.environ.get('RWS_SFTP_HOST', 'ssh.c2hdl62rf.service.one'),
     'port': int(os.environ.get('RWS_SFTP_PORT', 22)),
     'username': os.environ.get('RWS_SFTP_USERNAME', 'c2hdl62rf_ssh'),
-    'password': os.environ.get('RWS_SFTP_PASSWORD', '4AFeB76RBuZe'),
+    'password': os.environ.get('RWS_SFTP_PASSWORD', ''),  # set via env var or .env (never hard-code)
 }
 
 # Remote paths on one.com (relative to connection root - which IS the web root)
