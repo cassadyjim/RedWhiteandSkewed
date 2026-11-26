@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-26",
+  "email_sent_at": "2026-11-26T10:40:08.247521",
+  "stories": [
+    {
+      "title": "Press Freedom Win or Judicial Overreach? Judge Blocks FCC Review of ABC Station Licenses",
+      "slug": "fcc-abc-broadcast-license-ruling",
+      "topic_keywords": [
+        "FCC",
+        "ABC licenses",
+        "First Amendment",
+        "broadcast regulation",
+        "press freedom"
+      ],
+      "conservative_headline": "Activist Judge Shields ABC From Routine License Review, Blocks FCC's Legal Authority",
+      "liberal_headline": "Court Rules FCC Violated ABC's Free Speech Rights in Trump Retaliation Scheme",
+      "poll_question": "Was the FCC's review of ABC's licenses legitimate oversight or political retaliation?",
+      "poll_option1_label": "Lawful Oversight",
+      "poll_option1_desc": "FCC has authority to review licenses; judge overstepped into agency business.",
+      "poll_option2_label": "Press Intimidation",
+      "poll_option2_desc": "Using licenses to punish critical coverage is unconstitutional government retaliation.",
+      "pexels_search_terms": "television broadcast studio antenna"
+    },
+    {
+      "title": "Corruption or Common Sense? Trump's Push to Reinstate Nvidia CEO Jensen Huang Rocks Washington",
+      "slug": "nvidia-jensen-huang-trump-reinstatement",
+      "topic_keywords": [
+        "Nvidia",
+        "Jensen Huang",
+        "Trump",
+        "DOJ",
+        "corporate influence"
+      ],
+      "conservative_headline": "Trump Backs American Chip Champion as Democrats Manufacture Yet Another Fake Scandal",
+      "liberal_headline": "Trump's Strong-Arming of Nvidia's Board Is Textbook Corruption, Lawmakers Say",
+      "poll_question": "Should a president intervene in who runs a private company?",
+      "poll_option1_label": "National Interest",
+      "poll_option1_desc": "Protecting a strategic chipmaker's leadership serves American tech dominance.",
+      "poll_option2_label": "Abuse of Power",
+      "poll_option2_desc": "Presidents picking CEOs is cronyism that demands congressional investigation.",
+      "pexels_search_terms": "semiconductor chip technology boardroom"
+    },
+    {
+      "title": "Oversight or Obstruction? White House Warns Democrats That Investigating It May Be a Crime",
+      "slug": "white-house-warns-democrats-investigations",
+      "topic_keywords": [
+        "House Oversight",
+        "Robert Garcia",
+        "Will Scharf",
+        "congressional subpoena",
+        "executive privilege"
+      ],
+      "conservative_headline": "White House Puts Democrats on Notice Over 'Abusive' Partisan Witch Hunt Threats",
+      "liberal_headline": "Trump Lawyers Threaten Congress With Prosecution for Doing Its Constitutional Job",
+      "poll_question": "Are Democrats' planned probes legitimate oversight or harassment?",
+      "poll_option1_label": "Partisan Fishing",
+      "poll_option1_desc": "Endless subpoenas are political theater designed to paralyze the administration.",
+      "poll_option2_label": "Article I Duty",
+      "poll_option2_desc": "Congress has constitutional authority to investigate; threats are intimidation.",
+      "pexels_search_terms": "capitol hearing room gavel documents"
+    },
+    {
+      "title": "Mistake Corrected or Injustice Completed? Kilmar Abrego Garcia Lands in Spain After Self-Deporting",
+      "slug": "abrego-garcia-self-deports-spain",
+      "topic_keywords": [
+        "Abrego Garcia",
+        "deportation",
+        "ICE",
+        "Judge Xinis",
+        "immigration courts"
+      ],
+      "conservative_headline": "Abrego Garcia Finally Leaves America \u2014 Democrats' Poster Child Flees the Country",
+      "liberal_headline": "Wrongly Deported Man Forced Out of US After Two Years of Government Abuse",
+      "poll_question": "Does Abrego Garcia's departure vindicate or indict the administration?",
+      "poll_option1_label": "Case Closed",
+      "poll_option1_desc": "He left voluntarily; the system worked and enforcement was justified.",
+      "poll_option2_label": "Driven Out",
+      "poll_option2_desc": "Relentless government pressure forced out a man it illegally deported.",
+      "pexels_search_terms": "airport departure gate passport traveler"
+    },
+    {
+      "title": "Affordable Energy or Climate Surrender? EPA's Power Plant Carbon Rollback Faces Court Fight",
+      "slug": "epa-power-plant-carbon-rollback-lawsuits",
+      "topic_keywords": [
+        "EPA",
+        "greenhouse gas",
+        "power plants",
+        "Zeldin",
+        "emissions standards"
+      ],
+      "conservative_headline": "EPA Delivers Largest Deregulation in History, Saving Americans Hundreds of Billions",
+      "liberal_headline": "Trump EPA Guts Climate Rules and Delays Pollution Reporting as States Sue",
+      "poll_question": "Should EPA regulate carbon emissions from power plants?",
+      "poll_option1_label": "Energy Freedom",
+      "poll_option1_desc": "EPA lacks authority; rules raise bills and threaten grid reliability.",
+      "poll_option2_label": "Clean Air Duty",
+      "poll_option2_desc": "Rolling back limits ignores evidence and hands polluters a free pass.",
+      "pexels_search_terms": "power plant smokestacks emissions"
+    },
+    {
+      "title": "Trumpcare or Socialism? Trump Agrees to Meet El-Sayed on Universal Health Coverage",
+      "slug": "trump-el-sayed-universal-healthcare-meeting",
+      "topic_keywords": [
+        "Abdul El-Sayed",
+        "Medicare for All",
+        "Trumpcare",
+        "ACA subsidies",
+        "health coverage"
+      ],
+      "conservative_headline": "White House Blasts 'Medicare for None' as Socialist Takeover \u2014 But Trump Will Listen",
+      "liberal_headline": "Trump Admits Obamacare Isn't Working as Democrats Push Universal Coverage Deal",
+      "poll_question": "Should the US move to a single government health insurance program?",
+      "poll_option1_label": "Government Takeover",
+      "poll_option1_desc": "A single federal plan means rationing, higher taxes, and fewer choices.",
+      "poll_option2_label": "Cradle to Grave",
+      "poll_option2_desc": "Universal coverage is cheaper and guarantees care for every American.",
+      "pexels_search_terms": "doctor patient hospital insurance card"
+    },
+    {
+      "title": "Tariff Leverage or Tax Hike? US Proposes New Duties on 14 Trading Partners Including China and EU",
+      "slug": "new-tariffs-14-trading-partners",
+      "topic_keywords": [
+        "tariffs",
+        "trade war",
+        "China",
+        "European Union",
+        "overproduction duties"
+      ],
+      "conservative_headline": "Trump Hits Back at Global Overproduction With Tariffs to Defend American Industry",
+      "liberal_headline": "New Tariff Blitz Risks Retaliation and Higher Prices for Already Squeezed Families",
+      "poll_question": "Do new tariffs on major trading partners help or hurt Americans?",
+      "poll_option1_label": "Fight Back",
+      "poll_option1_desc": "Tariffs punish foreign dumping and bring manufacturing jobs home.",
+      "poll_option2_label": "Hidden Tax",
+      "poll_option2_desc": "Consumers pay the cost while allies retaliate against US exporters.",
+      "pexels_search_terms": "cargo shipping containers port trade"
+    },
+    {
+      "title": "Deterrence or Disaster? Officials Debate Targeting Iran's Leadership to End the War",
+      "slug": "targeting-iran-leaders-debate",
+      "topic_keywords": [
+        "Iran",
+        "decapitation strike",
+        "national security",
+        "escalation",
+        "Pentagon"
+      ],
+      "conservative_headline": "Trump Weighs Decisive Strike to Finish the Job and End the Iran Conflict",
+      "liberal_headline": "Inside the Reckless Plan to Assassinate Iran's Leaders and Blow Up the Region",
+      "poll_question": "Should the US target Iran's top leadership?",
+      "poll_option1_label": "End It Now",
+      "poll_option1_desc": "Removing the regime's leadership is the fastest path to ending the war.",
+      "poll_option2_label": "Catastrophic Risk",
+      "poll_option2_desc": "Decapitation invites endless escalation and traps America in another war.",
+      "pexels_search_terms": "military situation room map strategy"
+    },
+    {
+      "title": "Space Breakthrough or Musk Giveaway? FCC Clears SpaceX for 1 Million Orbital Data-Center Satellites",
+      "slug": "fcc-spacex-million-satellites-data-centers",
+      "topic_keywords": [
+        "SpaceX",
+        "FCC",
+        "satellites",
+        "data centers",
+        "Elon Musk"
+      ],
+      "conservative_headline": "America Wins the Orbital AI Race as FCC Unleashes SpaceX Innovation",
+      "liberal_headline": "Regulators Hand Musk the Sky \u2014 Scientists Warn of Junk, Glare and Giveaways",
+      "poll_question": "Is approving 1 million SpaceX satellites visionary or reckless?",
+      "poll_option1_label": "Innovate First",
+      "poll_option1_desc": "Orbital data centers keep America ahead in AI and space.",
+      "poll_option2_label": "Crony Approval",
+      "poll_option2_desc": "Rubber-stamping an ally's megaproject ignores science and orbital safety.",
+      "pexels_search_terms": "satellite orbit earth space launch"
+    },
+    {
+      "title": "Merit or Erasure? Ohio Moves to Ban DEI in K-12 as Texas Democrats Push to Revive It",
+      "slug": "ohio-k12-dei-ban-texas-repeal-push",
+      "topic_keywords": [
+        "DEI",
+        "Ohio Senate Bill 113",
+        "Texas universities",
+        "public schools",
+        "culture war"
+      ],
+      "conservative_headline": "Ohio Republicans Move to Get Politics Out of Classrooms as Texas Democrats Revive DEI",
+      "liberal_headline": "GOP Escalates War on Inclusive Schools While Texas Democrats Fight to Undo Bans",
+      "poll_question": "Should DEI programs be banned in public schools?",
+      "poll_option1_label": "Ban DEI",
+      "poll_option1_desc": "Schools should teach academics, not identity politics or racial preferences.",
+      "poll_option2_label": "Keep Inclusion",
+      "poll_option2_desc": "Bans erase support programs and make students from all backgrounds unwelcome.",
+      "pexels_search_terms": "classroom students teacher diverse school"
+    }
+  ]
+}
