@@ -1,196 +1,196 @@
 {
-  "date": "2026-11-27",
-  "email_sent_at": "2026-11-27T10:42:06.543095",
+  "date": "2026-11-28",
+  "email_sent_at": "2026-11-28T10:01:09.901726",
   "stories": [
     {
-      "title": "Oversight or Obstruction? Trump's Executive Order Bars Contractors From Answering Congress",
-      "slug": "trump-executive-order-contractors-congress-oversight",
+      "title": "Constitutional Right or Weapon of War? Supreme Court Takes On AR-15 Bans",
+      "slug": "supreme-court-ar15-ban-second-amendment-case",
       "topic_keywords": [
-        "executive privilege",
-        "congressional oversight",
-        "federal contractors",
-        "Robert Garcia",
-        "Will Scharf"
-      ],
-      "conservative_headline": "Trump Shields Executive Branch From Democrat Fishing Expeditions Before They Even Start",
-      "liberal_headline": "Trump Orders Contractors to Stonewall Congress in Unprecedented Attack on Oversight",
-      "poll_question": "Can the White House order contractors to withhold info from Congress?",
-      "poll_option1_label": "Protect Privilege",
-      "poll_option1_desc": "Executive privilege shields the presidency from partisan congressional harassment",
-      "poll_option2_label": "Article I Power",
-      "poll_option2_desc": "Congress has constitutional authority to investigate without White House permission",
-      "pexels_search_terms": "capitol building subpoena documents government"
-    },
-    {
-      "title": "Fair Trade or Family Tax? Trump Unveils Sweeping New Tariffs on China and the EU",
-      "slug": "trump-new-tariffs-china-eu-subsidies-probe",
-      "topic_keywords": [
-        "tariffs",
-        "China trade",
-        "European Union",
-        "manufacturing subsidies",
-        "consumer prices"
-      ],
-      "conservative_headline": "Trump Strikes Back at Foreign Subsidy Cheats With Tough New Tariffs on China, EU",
-      "liberal_headline": "Trump Doubles Down on Failed Tariff Playbook as Families Brace for Higher Prices",
-      "poll_question": "Are new tariffs on China and the EU the right move?",
-      "poll_option1_label": "Level Playing Field",
-      "poll_option1_desc": "Tariffs punish subsidized foreign production and rebuild American manufacturing",
-      "poll_option2_label": "Hidden Tax",
-      "poll_option2_desc": "Tariffs raise consumer costs and invite retaliation against US exporters",
-      "pexels_search_terms": "shipping containers port cargo trade"
-    },
-    {
-      "title": "Record Enforcement or Mass Cruelty? ICE Hits All-Time Deportation Numbers",
-      "slug": "ice-record-deportations-arrests-fiscal-2026",
-      "topic_keywords": [
-        "ICE deportations",
-        "immigration enforcement",
-        "DHS",
-        "sanctuary cities",
-        "detention"
-      ],
-      "conservative_headline": "ICE Shatters Records: Nearly 500,000 Criminal Illegal Aliens Removed in One Year",
-      "liberal_headline": "ICE Deportation Machine Hits Record as Most Detainees Have No Criminal Conviction",
-      "poll_question": "Has immigration enforcement gone too far or not far enough?",
-      "poll_option1_label": "Law Restored",
-      "poll_option1_desc": "Record removals finally enforce laws ignored for decades",
-      "poll_option2_label": "Gone Too Far",
-      "poll_option2_desc": "Dragnet arrests sweep up families and people with no convictions",
-      "pexels_search_terms": "immigration detention fence border officers"
-    },
-    {
-      "title": "Due Process or Open Borders? Supreme Court Takes Up Trump's Asylum Shutdown",
-      "slug": "supreme-court-asylum-ban-due-process-case",
-      "topic_keywords": [
-        "asylum ban",
         "Supreme Court",
-        "immigration courts",
-        "due process",
-        "third country removal"
+        "AR-15 ban",
+        "Second Amendment",
+        "gun rights",
+        "Connecticut Cook County"
       ],
-      "conservative_headline": "SCOTUS Set to Bless Trump's Asylum Crackdown That Ended the Border Free-for-All",
-      "liberal_headline": "Trump Has Effectively Abolished Asylum. The Supreme Court May Let Him Keep It Closed.",
-      "poll_question": "Should the Supreme Court uphold Trump's asylum restrictions?",
-      "poll_option1_label": "Uphold Ban",
-      "poll_option1_desc": "Presidents control entry; asylum was a loophole exploited by millions",
-      "poll_option2_label": "Restore Asylum",
-      "poll_option2_desc": "Canceling claims and firing judges strips refugees of legal due process",
-      "pexels_search_terms": "supreme court building gavel justice"
+      "conservative_headline": "Court Poised to End Blue-State War on America's Most Popular Rifle",
+      "liberal_headline": "Supreme Court May Strip States of Power to Ban Weapons of Mass Shootings",
+      "poll_question": "Should states be allowed to ban AR-15-style rifles?",
+      "poll_option1_label": "Protected Arms",
+      "poll_option1_desc": "Millions own AR-15s lawfully; bans violate the Second Amendment outright.",
+      "poll_option2_label": "States Decide",
+      "poll_option2_desc": "Communities should restrict uniquely dangerous weapons used in mass shootings.",
+      "pexels_search_terms": "supreme court building columns justice"
     },
     {
-      "title": "Partnership or Puppet State? US Signs Military Pact With Post-Maduro Venezuela",
-      "slug": "us-venezuela-military-cooperation-agreement-hegseth",
-      "topic_keywords": [
-        "Venezuela",
-        "Pete Hegseth",
-        "military cooperation",
-        "Maduro capture",
-        "Delcy Rodriguez"
-      ],
-      "conservative_headline": "Historic Win: Hegseth Seals Military Alliance With Liberated Venezuela After Maduro's Fall",
-      "liberal_headline": "After Toppling a Government, US Signs Military Deal With the Regime It Installed",
-      "poll_question": "Was the US military pact with Venezuela the right call?",
-      "poll_option1_label": "Strategic Win",
-      "poll_option1_desc": "Alliance secures the hemisphere and cuts off drug and Russian influence",
-      "poll_option2_label": "Imperial Overreach",
-      "poll_option2_desc": "Regime change by force then a military pact shreds international law",
-      "pexels_search_terms": "military officials signing ceremony flags"
-    },
-    {
-      "title": "Corruption or Common Sense? Trump's Push to Reinstate Nvidia's Jensen Huang",
-      "slug": "trump-nvidia-jensen-huang-reinstatement-scandal",
+      "title": "Corporate Pardon or Clearing an Innocent Man? Trump's Nvidia Intervention Explodes",
+      "slug": "trump-nvidia-jensen-huang-pardon-scandal",
       "topic_keywords": [
         "Nvidia",
         "Jensen Huang",
-        "Jamie Raskin",
-        "chip export controls",
-        "DOJ investigation"
+        "Trump pardon",
+        "AI chips China",
+        "export controls"
       ],
-      "conservative_headline": "Vance: Huang Doesn't Need a Pardon \u2014 Democrats Manufacture Another Fake Scandal",
-      "liberal_headline": "Trump Strong-Armed Nvidia to Reinstate Huang \u2014 and DOJ Won't Say Why It Backed Off",
-      "poll_question": "Is Trump's intervention at Nvidia a scandal?",
+      "conservative_headline": "Trump Saves American AI Champion as Witch Hunt Against Huang Collapses",
+      "liberal_headline": "Trump Dangles Pardon for CEO in Chinese Spy Scandal as GOP Senators Revolt",
+      "poll_question": "Was Trump's intervention to reinstate Nvidia's CEO corrupt?",
       "poll_option1_label": "No Crime Here",
-      "poll_option1_desc": "President backed a key American company against bureaucratic overreach",
-      "poll_option2_label": "Blatant Corruption",
-      "poll_option2_desc": "White House meddling in a private firm demands full congressional investigation",
-      "pexels_search_terms": "semiconductor chip technology computer"
+      "poll_option1_desc": "No investigation exists; Trump protected a key US tech company from hysteria.",
+      "poll_option2_label": "Raw Corruption",
+      "poll_option2_desc": "President short-circuited a national security probe for a billionaire ally.",
+      "pexels_search_terms": "computer chip semiconductor technology circuit"
     },
     {
-      "title": "Fraud Crackdown or Coverage Purge? Democrats Probe 760,000 Canceled ACA Plans",
-      "slug": "democrats-probe-aca-coverage-cancellations-obamacare",
+      "title": "Weaponized Justice or Rogue Judge? Faruqui's Scathing Order Rips DOJ Prosecutions",
+      "slug": "judge-faruqui-doj-weaponization-order",
       "topic_keywords": [
-        "Affordable Care Act",
-        "premium subsidies",
-        "coverage cancellations",
+        "Zia Faruqui",
+        "DOJ weaponization",
+        "Kash Patel",
+        "Hunter Biden probe",
+        "Todd Blanche"
+      ],
+      "conservative_headline": "Activist Judge Lectures DOJ While Shielding FBI Officials Who Misled Congress",
+      "liberal_headline": "Federal Judge: 'The Call Is Coming From Inside the House' as DOJ Cases Collapse",
+      "poll_question": "Is the Justice Department being used to punish Trump's enemies?",
+      "poll_option1_label": "Judicial Overreach",
+      "poll_option1_desc": "A magistrate is substituting politics for law to protect Biden-era officials.",
+      "poll_option2_label": "Political Prosecutions",
+      "poll_option2_desc": "Botched, rushed cases prove DOJ independence has been destroyed.",
+      "pexels_search_terms": "courtroom gavel justice department"
+    },
+    {
+      "title": "Record Enforcement or Cruel Spectacle? ICE Detains Lottery Winner Amid Record Deportations",
+      "slug": "ice-lottery-winner-record-deportations-backlash",
+      "topic_keywords": [
+        "ICE",
+        "deportations record",
+        "lottery winner detained",
+        "Operation Patriot",
+        "sanctuary cities"
+      ],
+      "conservative_headline": "ICE Delivers Historic Year: Record Removals of Criminal Illegal Aliens",
+      "liberal_headline": "ICE Mocks Detained Lottery Winner as Mass Deportation Blowback Grows",
+      "poll_question": "Has ICE enforcement gone too far?",
+      "poll_option1_label": "Law Is Law",
+      "poll_option1_desc": "Removal orders must be enforced regardless of sympathetic circumstances.",
+      "poll_option2_label": "Gone Too Far",
+      "poll_option2_desc": "Taunting detainees online shows an agency drunk on its own power.",
+      "pexels_search_terms": "immigration enforcement officer detention"
+    },
+    {
+      "title": "Tariff Rethink or Democrat Opening? GOP Splinters Over Trump's New Trade Blitz",
+      "slug": "republicans-rethink-tariffs-china-eu-trade",
+      "topic_keywords": [
+        "tariffs",
+        "China EU trade",
+        "Republicans split",
+        "trade policy",
+        "consumer prices"
+      ],
+      "conservative_headline": "Trump's Tariffs Force Trading Partners to the Table as GOP Jitters Overblown",
+      "liberal_headline": "Republicans Scramble From Tariffs After Voters Punish Them at the Polls",
+      "poll_question": "Are Trump's new tariffs good policy?",
+      "poll_option1_label": "Leverage Works",
+      "poll_option1_desc": "Tariffs rebuild American industry and force fairer deals abroad.",
+      "poll_option2_label": "Hidden Tax",
+      "poll_option2_desc": "Tariffs raise prices on families while failing to bring jobs back.",
+      "pexels_search_terms": "shipping containers port cargo trade"
+    },
+    {
+      "title": "Pressure Putin or Pursue Peace? Zelenskyy Balks at Trump's 'My Friend' Remark",
+      "slug": "zelenskyy-trump-putin-my-friend-ukraine-pressure",
+      "topic_keywords": [
+        "Ukraine",
+        "Zelenskyy",
+        "Putin",
+        "Trump diplomacy",
+        "peace negotiations"
+      ],
+      "conservative_headline": "Trump Works Both Sides to End Ukraine War While Zelenskyy Complains",
+      "liberal_headline": "Zelenskyy Calls Trump's Putin Flattery 'Strange' as Russia Keeps Attacking",
+      "poll_question": "Is Trump's approach to Putin helping end the war?",
+      "poll_option1_label": "Dealmaker",
+      "poll_option1_desc": "Only direct engagement with Putin can stop the killing.",
+      "poll_option2_label": "Appeasement",
+      "poll_option2_desc": "Friendly talk rewards an aggressor and abandons an ally.",
+      "pexels_search_terms": "ukraine flag diplomacy summit"
+    },
+    {
+      "title": "Protecting Girls or Trolling Kids? Education Dept Uses GTA 6 Meme in Trans Sports Fight",
+      "slug": "education-department-gta6-trans-athletes-title-ix",
+      "topic_keywords": [
+        "Title IX",
+        "transgender athletes",
+        "Education Department",
+        "school sports",
+        "civil rights office"
+      ],
+      "conservative_headline": "Education Dept Goes Viral Defending Girls' Sports From Biological Males",
+      "liberal_headline": "Federal Education Officials Post Video Game Memes to Mock Trans Students",
+      "poll_question": "Should trans girls be barred from girls' school sports?",
+      "poll_option1_label": "Protect Girls",
+      "poll_option1_desc": "Title IX exists to guarantee fair competition for female athletes.",
+      "poll_option2_label": "Let Kids Play",
+      "poll_option2_desc": "Washington is bullying a tiny number of children for political points.",
+      "pexels_search_terms": "high school students running track"
+    },
+    {
+      "title": "Affordable Power or Climate Surrender? EPA's Power Plant Rollback Takes Effect",
+      "slug": "epa-power-plant-emissions-rollback-takes-effect",
+      "topic_keywords": [
+        "EPA rollback",
+        "power plant emissions",
+        "Lee Zeldin",
+        "coal plants",
+        "greenhouse gas rules"
+      ],
+      "conservative_headline": "Zeldin Delivers Largest Power Sector Deregulation Ever to Keep Lights Affordable",
+      "liberal_headline": "EPA Frees Coal Plants to Emit Billions of Tons of Carbon Pollution",
+      "poll_question": "Was repealing power plant carbon rules the right call?",
+      "poll_option1_label": "Energy First",
+      "poll_option1_desc": "Scrapping costly mandates lowers bills and secures the grid.",
+      "poll_option2_label": "Climate Betrayal",
+      "poll_option2_desc": "Rollback unleashes a billion tons of emissions and harms public health.",
+      "pexels_search_terms": "coal power plant smokestacks emissions"
+    },
+    {
+      "title": "Medicare for More or Government Takeover? Democrats Plot Expansion Before Taking Power",
+      "slug": "democrats-medicare-expansion-push-2027-congress",
+      "topic_keywords": [
+        "Medicare expansion",
         "healthcare costs",
-        "congressional probe"
+        "Democrats agenda",
+        "120th Congress",
+        "health insurance"
       ],
-      "conservative_headline": "Democrats Attack Trump for Kicking Fraudsters and Double-Dippers Off Obamacare Rolls",
-      "liberal_headline": "760,000 Americans Lost Coverage Overnight. Democrats Are About to Find Out Why.",
-      "poll_question": "Were the ACA coverage cancellations fraud control or sabotage?",
-      "poll_option1_label": "Stopping Fraud",
-      "poll_option1_desc": "Removing ineligible enrollees is basic stewardship of taxpayer dollars",
-      "poll_option2_label": "Coverage Sabotage",
-      "poll_option2_desc": "Mass cancellations stripped insurance from legitimately enrolled families",
-      "pexels_search_terms": "hospital insurance paperwork stethoscope"
+      "conservative_headline": "Democrats Revive Single-Payer Dreams With Trillion-Dollar Medicare Expansion",
+      "liberal_headline": "Democrats Move to Expand Medicare as Americans Drown in Health Costs",
+      "poll_question": "Should Medicare be expanded to cover more Americans?",
+      "poll_option1_label": "Too Costly",
+      "poll_option1_desc": "Expansion explodes the debt and pushes seniors into longer waits.",
+      "poll_option2_label": "Expand It",
+      "poll_option2_desc": "Millions need coverage; Medicare is popular and more efficient.",
+      "pexels_search_terms": "doctor patient hospital healthcare"
     },
     {
-      "title": "Space Race or Sky Giveaway? FCC Clears SpaceX for a Million Orbital Data Satellites",
-      "slug": "fcc-spacex-million-satellites-data-centers-space",
+      "title": "Lame-Duck Showdown or Constitutional Crisis? Trump Battles Congress Before Democrats Take Over",
+      "slug": "trump-congress-showdown-before-democrats-take-power",
       "topic_keywords": [
-        "SpaceX",
-        "FCC approval",
-        "satellites",
-        "Elon Musk",
-        "space data centers"
+        "Congress showdown",
+        "120th Congress",
+        "Democratic majority",
+        "executive power",
+        "lame duck"
       ],
-      "conservative_headline": "America Wins the Orbital AI Race as FCC Greenlights SpaceX's Space Data Centers",
-      "liberal_headline": "FCC Hands Musk the Night Sky: 1 Million Satellites Approved Over Scientists' Objections",
-      "poll_question": "Should SpaceX be allowed to deploy a million satellites?",
-      "poll_option1_label": "Innovate Fast",
-      "poll_option1_desc": "Orbital computing keeps America ahead of China on AI infrastructure",
-      "poll_option2_label": "Reckless Giveaway",
-      "poll_option2_desc": "Crony approval ignores astronomers, debris risk, and basic environmental review",
-      "pexels_search_terms": "satellite orbit space night sky"
-    },
-    {
-      "title": "Global Stalemate or American Vindication? COP31 Collapses With US Seat Empty",
-      "slug": "cop31-climate-talks-collapse-us-absent",
-      "topic_keywords": [
-        "COP31",
-        "climate talks",
-        "fossil fuels",
-        "Paris Agreement",
-        "energy policy"
-      ],
-      "conservative_headline": "COP31 Implodes Over Fossil Fuels \u2014 Proof Trump Was Right to Skip the Climate Circus",
-      "liberal_headline": "Climate Talks Collapse as America Sits Out and the Planet Nears a Fatal Threshold",
-      "poll_question": "Was skipping COP31 the right call for the US?",
-      "poll_option1_label": "Stay Home",
-      "poll_option1_desc": "Global climate summits cost jobs and deliver nothing but paperwork",
-      "poll_option2_label": "Lead Again",
-      "poll_option2_desc": "US absence wrecked talks and ceded clean-energy leadership to rivals",
-      "pexels_search_terms": "climate conference smokestack solar panels"
-    },
-    {
-      "title": "Diversity Returns or Divisive Relapse? Texas Democrats Move to Revive Campus DEI",
-      "slug": "texas-democrats-revive-dei-higher-education",
-      "topic_keywords": [
-        "DEI",
-        "Texas legislature",
-        "higher education",
-        "midterm majority",
-        "campus policy"
-      ],
-      "conservative_headline": "Texas Democrats Rush to Resurrect Racial Preference Bureaucracy Voters Already Rejected",
-      "liberal_headline": "After Historic Texas Wins, Democrats Move to Undo the GOP's Campus Censorship Law",
-      "poll_question": "Should states restore DEI offices at public universities?",
-      "poll_option1_label": "Keep Ban",
-      "poll_option1_desc": "DEI bureaucracies divide students by race and waste tuition dollars",
-      "poll_option2_label": "Restore DEI",
-      "poll_option2_desc": "Repeal ends a chilling campaign against inclusion and academic freedom",
-      "pexels_search_terms": "university campus students lecture hall"
+      "conservative_headline": "Trump Refuses to Be a Lame Duck as Democrats Prepare Endless Investigations",
+      "liberal_headline": "Trump's Showdown With Congress Escalates Weeks Before Democrats Seize Power",
+      "poll_question": "Is Trump overstepping his authority against Congress?",
+      "poll_option1_label": "Executive Action",
+      "poll_option1_desc": "The president is using lawful powers voters elected him to wield.",
+      "poll_option2_label": "Power Grab",
+      "poll_option2_desc": "Bypassing Congress shreds checks and balances before the new majority arrives.",
+      "pexels_search_terms": "us capitol building congress dome"
     }
   ]
 }
